@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/admin",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/admin/(.*)",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/((?!assets/|src/|public/|products/|favicon.ico).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
-    "build": "vite build",
+    "build": "vite build && node -e \"const fs = require('fs'); if (!fs.existsSync('dist/src/assets/images')) fs.mkdirSync('dist/src/assets/images', { recursive: true }); fs.cpSync('src/assets/images', 'dist/src/assets/images', { recursive: true });\"",
     "preview": "vite preview",
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit"
