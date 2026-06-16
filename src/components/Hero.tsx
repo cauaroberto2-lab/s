@@ -107,7 +107,7 @@ export default function Hero({ onExploreCatalog, onContactSeller }: HeroProps) {
               
               <img
                 id="hero-banner-image"
-                src=src={jordanChicago}
+                src={jordanChicago}
                 
                 alt="Pais Store Sneakers"
                 className="animate-float z-10 w-[110%] h-[110%] object-contain rotate-[-15deg] transition-transform duration-500 hover:rotate-0 drop-shadow-[0_20px_20px_rgba(255,59,48,0.25)] filter contrast-115"
