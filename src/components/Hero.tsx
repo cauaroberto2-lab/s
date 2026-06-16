@@ -6,6 +6,7 @@
 import React from 'react';
 import { ArrowRight, MessageCircle, ShieldCheck, Sparkles, AlertCircle } from 'lucide-react';
 import { INSTAGRAM_LINK, WHATSAPP_PHONE } from '../data';
+import jordanChicago from "../assets/images/jordan_1_chicago_1781632853059.jpg";
 
 interface HeroProps {
   onExploreCatalog: () => void;
@@ -106,7 +107,8 @@ export default function Hero({ onExploreCatalog, onContactSeller }: HeroProps) {
               
               <img
                 id="hero-banner-image"
-                src="/src/assets/images/jordan_1_chicago_1781632853059.jpg"
+                src=src={jordanChicago}
+                
                 alt="Pais Store Sneakers"
                 className="animate-float z-10 w-[110%] h-[110%] object-contain rotate-[-15deg] transition-transform duration-500 hover:rotate-0 drop-shadow-[0_20px_20px_rgba(255,59,48,0.25)] filter contrast-115"
                 referrerPolicy="no-referrer"
