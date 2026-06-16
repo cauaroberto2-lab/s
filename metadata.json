@@ -1,0 +1,6 @@
+{
+  "name": "Pais Store Oficial",
+  "description": "Catálogo premium de tênis, roupas e acessórios streetwear por encomenda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
