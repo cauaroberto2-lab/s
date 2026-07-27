@@ -8,7 +8,7 @@ import {
   readJsonBody,
   sendJson,
   type ApiRequest,
-} from '../server/admin-auth';
+} from './admin-auth';
 
 export const FEATURED_PRODUCT_KEY = 'pais-store:featured-product:v1';
 

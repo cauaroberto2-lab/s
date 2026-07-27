@@ -1,3 +1,4 @@
+// Shared by the Vercel API routes; it stays inside /api for function tracing.
 import { createHmac, timingSafeEqual } from 'node:crypto';
 import type { IncomingMessage, ServerResponse } from 'node:http';
 
