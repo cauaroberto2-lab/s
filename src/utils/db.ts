@@ -32,6 +32,7 @@ export interface StoreConfig {
   whatsappPhone: string;
   instagramLink: string;
   assistantWelcomeMsg: string;
+  featuredProductId?: string;
 }
 
 // Default dynamic categories

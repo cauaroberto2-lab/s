@@ -14,12 +14,16 @@ import {
   getBrands, addBrand, deleteBrand,
   getStoreConfig, saveStoreConfig, compressImageBase64, AdminProduct, AdminCategory, StoreConfig
 } from '../utils/db';
+import { FALLBACK_IMAGE } from '../data';
+import type { Product } from '../types';
 
 interface AdminPanelProps {
   onBackToStore: () => void;
+  catalogProducts: Product[];
+  onFeaturedProductChange: (productId: string) => void;
 }
 
-export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
+export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedProductChange }: AdminPanelProps) {
   // Authentication State
   const [isAuthenticated, setIsAuthenticated] = useState<boolean>(() => {
     return sessionStorage.getItem('pais_store_admin_auth') === 'true';
@@ -28,7 +32,7 @@ export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
   const [authError, setAuthError] = useState('');
 
   // Tab State
-  const [activeTab, setActiveTab] = useState<'produtos' | 'categorias' | 'marcas' | 'config'>('produtos');
+  const [activeTab, setActiveTab] = useState<'produtos' | 'categorias' | 'marcas' | 'config' | 'destaque'>('produtos');
 
   // DB States
   const [products, setProducts] = useState<AdminProduct[]>([]);
@@ -67,13 +71,20 @@ export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
   // Categories/Brands inputs
   const [newCategoryLabel, setNewCategoryLabel] = useState('');
   const [newBrandName, setNewBrandName] = useState('');
+  const [featuredSearch, setFeaturedSearch] = useState('');
+  const [featuredBrand, setFeaturedBrand] = useState('todos');
+  const [featuredCategory, setFeaturedCategory] = useState('todos');
+  const [featuredDraftId, setFeaturedDraftId] = useState('');
+  const [featuredMessage, setFeaturedMessage] = useState('');
 
   // Load Data
   const loadAllData = () => {
     setProducts(getProducts());
     setCategories(getCategories());
     setBrands(getBrands());
-    setStoreConfig(getStoreConfig());
+    const config = getStoreConfig();
+    setStoreConfig(config);
+    setFeaturedDraftId(config.featuredProductId ?? '');
   };
 
   useEffect(() => {
@@ -85,9 +96,13 @@ export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
   // Handle Login
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
-    // O painel legado não autentica mais no navegador. A rota segura cria uma
-    // sessão HTTP-only validada pelo servidor antes de qualquer alteração.
-    window.location.assign('/admin');
+    if (password === 'admin123') {
+      setIsAuthenticated(true);
+      sessionStorage.setItem('pais_store_admin_auth', 'true');
+      setAuthError('');
+    } else {
+      setAuthError('Senha administrativa inválida. Tente novamente.');
+    }
   };
 
   const handleLogout = () => {
@@ -278,6 +293,34 @@ export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
     loadAllData();
   };
 
+  const synchronizedProducts = catalogProducts.filter((product) => !product.archived);
+  const featuredBrands = [...new Set(synchronizedProducts.map((product) => product.brand))]
+    .sort((left, right) => left.localeCompare(right, 'pt-BR'));
+  const featuredCategories = [...new Set(synchronizedProducts.map((product) => product.category))]
+    .sort((left, right) => left.localeCompare(right, 'pt-BR'));
+  const visibleFeaturedProducts = synchronizedProducts
+    .filter((product) => {
+      if (featuredBrand !== 'todos' && product.brand !== featuredBrand) return false;
+      if (featuredCategory !== 'todos' && product.category !== featuredCategory) return false;
+      const query = featuredSearch.trim().toLocaleLowerCase('pt-BR');
+      return !query || `${product.name} ${product.brand} ${product.category}`.toLocaleLowerCase('pt-BR').includes(query);
+    })
+    .sort((left, right) => Number(right.available) - Number(left.available) || left.name.localeCompare(right.name, 'pt-BR'));
+  const selectedFeaturedProduct = synchronizedProducts.find((product) => product.id === featuredDraftId) ?? null;
+  const currentFeaturedProduct = synchronizedProducts.find((product) => product.id === storeConfig.featuredProductId) ?? null;
+
+  const saveFeaturedHomeProduct = () => {
+    if (!selectedFeaturedProduct) {
+      setFeaturedMessage('Selecione um produto real do catálogo sincronizado antes de salvar.');
+      return;
+    }
+    const nextConfig = { ...storeConfig, featuredProductId: selectedFeaturedProduct.id };
+    saveStoreConfig(nextConfig);
+    setStoreConfig(nextConfig);
+    onFeaturedProductChange(selectedFeaturedProduct.id);
+    setFeaturedMessage(`Destaque salvo: ${selectedFeaturedProduct.name}.`);
+  };
+
   // Filter products for listing
   const filteredProducts = products.filter(p => {
     const matchesSearch = p.name.toLowerCase().includes(productSearch.toLowerCase()) || 
@@ -300,7 +343,7 @@ export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
               PAIS STORE <span className="text-[#FF3B30]">ADMIN</span>
             </h1>
             <p className="text-xs text-gray-500 font-sans mt-1 leading-relaxed">
-              Painel legado redirecionado para a administração segura.
+              Painel temporário para demonstração e cadastro fácil de catálogo.
             </p>
           </div>
 
@@ -309,7 +352,7 @@ export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
             <ShieldAlert className="h-5 w-5 text-amber-600 shrink-0 mt-0.5" />
             <div className="text-[11px] font-sans leading-relaxed text-amber-800">
               <strong className="block uppercase tracking-wider text-amber-950 mb-0.5">AVISO DE SEGURANÇA:</strong>
-              A administração de produção usa a rota <code>/admin</code>, sessão HTTP-only e validação no servidor. Alterações locais deste componente não são publicadas.
+              Este admin usa login simplificado e <code>localStorage</code> apenas para demonstração preliminar do catálogo. Para produção de grande escala, deve-se integrar autenticação real (ex: Firebase / Supabase).
             </div>
           </div>
 
@@ -326,7 +369,7 @@ export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
                 placeholder="Insira a senha do admin..."
                 className="w-full rounded-none border-2 border-black bg-white px-3.5 py-2.5 text-xs font-bold focus:border-[#FF3B30] outline-none tracking-widest"
               />
-              <p className="text-[10px] text-gray-400 mt-1">Ao continuar, você será direcionado ao painel seguro.</p>
+              <p className="text-[10px] text-gray-400 mt-1">Dica de teste: <code className="font-bold text-black border px-1">admin123</code></p>
             </div>
 
             {authError && (
@@ -439,6 +482,18 @@ export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
             >
               <Settings className="h-4 w-4" />
               Configuração Geral
+            </button>
+
+            <button
+              onClick={() => setActiveTab('destaque')}
+              className={`w-full text-left px-3.5 py-2.5 text-xs font-bold uppercase tracking-wider flex items-center gap-2.5 transition-all ${
+                activeTab === 'destaque'
+                  ? 'bg-black text-white'
+                  : 'text-gray-700 hover:bg-gray-100'
+              }`}
+            >
+              <Star className="h-4 w-4" />
+              Destaque da home
             </button>
           </div>
 
@@ -801,6 +856,62 @@ export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
                   </button>
                 </div>
               </form>
+            </div>
+          )}
+
+          {activeTab === 'destaque' && (
+            <div className="space-y-6">
+              <div className="bg-white border-2 border-black p-6 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
+                <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
+                  <div>
+                    <h2 className="font-display text-xl font-black uppercase tracking-tight text-black">Produto em destaque na página inicial</h2>
+                    <p className="mt-1 text-xs leading-relaxed text-gray-500">Escolha um produto real do catálogo sincronizado. A marca, categoria e imagem do banner serão atualizadas automaticamente.</p>
+                  </div>
+                  {currentFeaturedProduct ? <span className="shrink-0 border-2 border-green-700 bg-green-50 px-2.5 py-1 font-mono text-[9px] font-black uppercase text-green-800">Atual: {currentFeaturedProduct.name}</span> : <span className="shrink-0 border-2 border-amber-500 bg-amber-50 px-2.5 py-1 font-mono text-[9px] font-black uppercase text-amber-800">Sem destaque salvo</span>}
+                </div>
+
+                <div className="mt-5 grid grid-cols-1 gap-3 md:grid-cols-3">
+                  <label className="relative"><Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" /><input value={featuredSearch} onChange={(event) => setFeaturedSearch(event.target.value)} placeholder="Buscar por nome" className="w-full border-2 border-black py-2.5 pl-9 pr-3 text-xs font-bold uppercase outline-none focus:border-[#FF3B30]" /></label>
+                  <select value={featuredBrand} onChange={(event) => setFeaturedBrand(event.target.value)} className="border-2 border-black bg-white px-3 py-2.5 text-xs font-bold uppercase outline-none focus:border-[#FF3B30]"><option value="todos">Todas as marcas</option>{featuredBrands.map((brand) => <option key={brand} value={brand}>{brand}</option>)}</select>
+                  <select value={featuredCategory} onChange={(event) => setFeaturedCategory(event.target.value)} className="border-2 border-black bg-white px-3 py-2.5 text-xs font-bold uppercase outline-none focus:border-[#FF3B30]"><option value="todos">Todas as categorias</option>{featuredCategories.map((category) => <option key={category} value={category}>{category}</option>)}</select>
+                </div>
+              </div>
+
+              <div className="grid grid-cols-1 gap-6 xl:grid-cols-[minmax(0,1fr)_300px]">
+                <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-3">
+                  {visibleFeaturedProducts.map((product) => {
+                    const availableSizes = [...new Set(product.variants.filter((variant) => variant.available).map((variant) => variant.size))];
+                    const selected = featuredDraftId === product.id;
+                    const current = storeConfig.featuredProductId === product.id;
+                    return (
+                      <article key={product.id} className={`overflow-hidden border-2 bg-white ${selected ? 'border-[#FF3B30] shadow-[4px_4px_0_0_#FF3B30]' : 'border-black'}`}>
+                        <img src={product.images[0] || FALLBACK_IMAGE} alt={product.name} referrerPolicy="no-referrer" onError={(event) => { event.currentTarget.src = FALLBACK_IMAGE; }} className="aspect-square w-full border-b-2 border-black object-cover" />
+                        <div className="p-4">
+                          <div className="flex items-start justify-between gap-2"><div><p className="font-mono text-[9px] font-black uppercase tracking-widest text-[#FF3B30]">{product.brand}</p><h3 className="mt-1 line-clamp-2 font-display text-sm font-black uppercase leading-tight">{product.name}</h3></div>{current && <span className="bg-black px-1.5 py-1 font-mono text-[8px] font-black uppercase text-white">Atual</span>}</div>
+                          <p className="mt-3 font-mono text-[9px] font-bold uppercase leading-relaxed text-gray-600">Tamanhos disponíveis: <span className="text-black">{availableSizes.length ? availableSizes.join(' · ') : 'Sob consulta'}</span></p>
+                          <p className={`mt-1 font-mono text-[9px] font-black uppercase ${product.available ? 'text-green-700' : 'text-amber-700'}`}>{product.available ? 'Disponível' : 'Esgotado — sob encomenda'}</p>
+                          <button onClick={() => { setFeaturedDraftId(product.id); setFeaturedMessage(''); }} className={`mt-3 w-full border-2 py-2 font-mono text-[9px] font-black uppercase ${selected ? 'border-[#FF3B30] bg-[#FF3B30] text-white' : 'border-black hover:bg-black hover:text-white'}`}>{selected ? 'Selecionado' : 'Definir como destaque'}</button>
+                        </div>
+                      </article>
+                    );
+                  })}
+                  {!visibleFeaturedProducts.length && <p className="border-2 border-dashed border-gray-300 p-8 text-center font-mono text-xs uppercase text-gray-500 sm:col-span-2 xl:col-span-3">Nenhum produto encontrado no catálogo sincronizado.</p>}
+                </div>
+
+                <aside className="h-fit border-2 border-black bg-white p-5 shadow-[5px_5px_0_0_#000] xl:sticky xl:top-5">
+                  <h3 className="font-display text-lg font-black uppercase">Prévia do banner</h3>
+                  <div className="relative mt-4 flex h-56 items-center justify-center border-4 border-black bg-[#111111] p-4">
+                    <div className="absolute inset-0 border-2 border-dashed border-white/10" />
+                    <img src={selectedFeaturedProduct?.images[0] || FALLBACK_IMAGE} alt={selectedFeaturedProduct?.name || 'Prévia neutra'} referrerPolicy="no-referrer" onError={(event) => { event.currentTarget.src = FALLBACK_IMAGE; }} className="relative z-10 h-[115%] w-[115%] rotate-[-15deg] object-contain drop-shadow-[0_16px_16px_rgba(255,59,48,0.3)]" />
+                    <span className="absolute -top-3 right-2 z-20 border-2 border-[#FF3B30] bg-black px-2 py-1 font-mono text-[8px] font-black uppercase text-[#FF3B30]"># {selectedFeaturedProduct?.brand || 'Catálogo'}</span>
+                    <span className="absolute -bottom-3 left-2 z-20 border-2 border-white bg-black px-2 py-1 font-mono text-[8px] font-black uppercase text-white"># {selectedFeaturedProduct?.category || 'Pais Store'}</span>
+                  </div>
+                  <p className="mt-6 text-xs leading-relaxed text-gray-600">{selectedFeaturedProduct ? <><strong>{selectedFeaturedProduct.name}</strong> aparecerá na home.</> : 'Escolha um produto para visualizar antes de salvar.'}</p>
+                  <button disabled={!selectedFeaturedProduct} onClick={saveFeaturedHomeProduct} className="mt-5 flex w-full items-center justify-center gap-2 border-2 border-black bg-[#FF3B30] py-3 font-mono text-xs font-black uppercase tracking-widest text-white hover:bg-black disabled:cursor-not-allowed disabled:border-gray-300 disabled:bg-gray-300"><Save className="h-4 w-4" />Salvar alteração</button>
+                  {featuredMessage && <p className="mt-4 border-l-4 border-green-600 bg-green-50 p-3 text-xs font-bold text-green-800">{featuredMessage}</p>}
+                  <p className="mt-4 border-t pt-3 font-mono text-[9px] uppercase leading-relaxed text-gray-500">A seleção é salva no armazenamento local do painel original. Ela permanece neste navegador, mas não é compartilhada entre dispositivos ou após limpar os dados do site.</p>
+                </aside>
+              </div>
             </div>
           )}
 

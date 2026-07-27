@@ -10,8 +10,7 @@
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit",
     "sync:catalog": "tsx scripts/sync-dx-store.ts",
-    "sync:catalog:test": "tsx scripts/sync-dx-store.ts --dry-run --max-pages=2 --limit=8",
-    "test:featured": "tsx scripts/test-featured-product-api.ts"
+    "sync:catalog:test": "tsx scripts/sync-dx-store.ts --dry-run --max-pages=2 --limit=8"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
