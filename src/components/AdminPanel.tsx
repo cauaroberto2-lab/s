@@ -3,10 +3,10 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useState, useEffect } from 'react';
+import React, { useCallback, useEffect, useState } from 'react';
 import { 
   Plus, Edit2, Trash2, Eye, EyeOff, Star, Settings, Folder, Tag, Upload, 
-  ArrowLeft, Check, Lock, Search, RefreshCw, X, ShieldAlert, Image, Save, HelpCircle
+  ArrowLeft, Check, Lock, Search, RefreshCw, X, ShieldAlert, Image, Save, HelpCircle, LoaderCircle
 } from 'lucide-react';
 import { 
   getProducts, saveProducts, addProduct, updateProduct, deleteProduct,
@@ -23,13 +23,20 @@ interface AdminPanelProps {
   onFeaturedProductChange: (productId: string) => void;
 }
 
+type AuthState = 'checking' | 'anonymous' | 'authenticated' | 'unavailable';
+type FeaturedSaveState = 'idle' | 'saving' | 'success' | 'error';
+
+interface FeaturedConfiguration {
+  featuredProductId: string | null;
+  updatedAt: string | null;
+}
+
 export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedProductChange }: AdminPanelProps) {
   // Authentication State
-  const [isAuthenticated, setIsAuthenticated] = useState<boolean>(() => {
-    return sessionStorage.getItem('pais_store_admin_auth') === 'true';
-  });
+  const [authState, setAuthState] = useState<AuthState>('checking');
   const [password, setPassword] = useState('');
   const [authError, setAuthError] = useState('');
+  const [isAuthenticating, setIsAuthenticating] = useState(false);
 
   // Tab State
   const [activeTab, setActiveTab] = useState<'produtos' | 'categorias' | 'marcas' | 'config' | 'destaque'>('produtos');
@@ -76,6 +83,12 @@ export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedP
   const [featuredCategory, setFeaturedCategory] = useState('todos');
   const [featuredDraftId, setFeaturedDraftId] = useState('');
   const [featuredMessage, setFeaturedMessage] = useState('');
+  const [featuredSaveState, setFeaturedSaveState] = useState<FeaturedSaveState>('idle');
+  const [featuredConfiguration, setFeaturedConfiguration] = useState<FeaturedConfiguration | null>(null);
+  const [featuredConfigurationError, setFeaturedConfigurationError] = useState('');
+  const [isFeaturedConfigurationLoading, setIsFeaturedConfigurationLoading] = useState(false);
+  const [legacyFeaturedSuggestion] = useState(() => getStoreConfig().featuredProductId ?? '');
+  const isAuthenticated = authState === 'authenticated';
 
   // Load Data
   const loadAllData = () => {
@@ -84,34 +97,87 @@ export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedP
     setBrands(getBrands());
     const config = getStoreConfig();
     setStoreConfig(config);
-    setFeaturedDraftId(config.featuredProductId ?? '');
   };
+
+  const loadFeaturedConfiguration = useCallback(async () => {
+    setIsFeaturedConfigurationLoading(true);
+    try {
+      const response = await fetch('/api/featured-product', { cache: 'no-store', credentials: 'same-origin' });
+      const payload = await response.json() as FeaturedConfiguration & { message?: string };
+      if (!response.ok) throw new Error(payload.message ?? 'Não foi possível carregar o destaque salvo no servidor.');
+      const configuration = {
+        featuredProductId: typeof payload.featuredProductId === 'string' ? payload.featuredProductId : null,
+        updatedAt: typeof payload.updatedAt === 'string' ? payload.updatedAt : null,
+      };
+      setFeaturedConfiguration(configuration);
+      setFeaturedDraftId((current) => current || configuration.featuredProductId || legacyFeaturedSuggestion);
+      setFeaturedConfigurationError('');
+      return configuration;
+    } catch (error) {
+      const message = error instanceof Error ? error.message : 'Não foi possível carregar o destaque salvo no servidor.';
+      setFeaturedConfigurationError(message);
+      throw error;
+    } finally {
+      setIsFeaturedConfigurationLoading(false);
+    }
+  }, [legacyFeaturedSuggestion]);
+
+  const checkAdminSession = useCallback(async () => {
+    try {
+      const response = await fetch('/api/admin-session', { cache: 'no-store', credentials: 'same-origin' });
+      const payload = await response.json() as { authenticated?: boolean; message?: string };
+      if (!response.ok) {
+        setAuthState('unavailable');
+        setAuthError(payload.message ?? 'Não foi possível verificar a autenticação administrativa.');
+        return;
+      }
+      setAuthState(payload.authenticated ? 'authenticated' : 'anonymous');
+    } catch {
+      setAuthState('unavailable');
+      setAuthError('Não foi possível verificar a autenticação administrativa.');
+    }
+  }, []);
+
+  useEffect(() => { void checkAdminSession(); }, [checkAdminSession]);
 
   useEffect(() => {
     if (isAuthenticated) {
       loadAllData();
+      void loadFeaturedConfiguration().catch(() => undefined);
     }
-  }, [isAuthenticated]);
+  }, [isAuthenticated, loadFeaturedConfiguration]);
 
-  // Handle Login
-  const handleLogin = (e: React.FormEvent) => {
+  // Authentication handlers
+  const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (password === 'admin123') {
-      setIsAuthenticated(true);
-      sessionStorage.setItem('pais_store_admin_auth', 'true');
-      setAuthError('');
-    } else {
-      setAuthError('Senha administrativa inválida. Tente novamente.');
+    setIsAuthenticating(true);
+    setAuthError('');
+    try {
+      const response = await fetch('/api/admin-session', {
+        method: 'POST',
+        cache: 'no-store',
+        credentials: 'same-origin',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ token: password }),
+      });
+      const payload = await response.json() as { message?: string };
+      if (!response.ok) throw new Error(payload.message ?? 'Não foi possível autenticar.');
+      setAuthState('authenticated');
+      setPassword('');
+    } catch (error) {
+      setAuthState('anonymous');
+      setAuthError(error instanceof Error ? error.message : 'Não foi possível autenticar.');
+    } finally {
+      setIsAuthenticating(false);
     }
   };
 
-  const handleLogout = () => {
-    setIsAuthenticated(false);
-    sessionStorage.removeItem('pais_store_admin_auth');
+  const handleLogout = async () => {
+    await fetch('/api/admin-session', { method: 'DELETE', credentials: 'same-origin' }).catch(() => undefined);
+    setAuthState('anonymous');
     setPassword('');
   };
 
-  // Product Actions
   const handleToggleActive = (id: string, currentStatus: boolean) => {
     updateProduct(id, { isActive: !currentStatus });
     loadAllData();
@@ -307,18 +373,44 @@ export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedP
     })
     .sort((left, right) => Number(right.available) - Number(left.available) || left.name.localeCompare(right.name, 'pt-BR'));
   const selectedFeaturedProduct = synchronizedProducts.find((product) => product.id === featuredDraftId) ?? null;
-  const currentFeaturedProduct = synchronizedProducts.find((product) => product.id === storeConfig.featuredProductId) ?? null;
+  const currentFeaturedProduct = synchronizedProducts.find((product) => product.id === featuredConfiguration?.featuredProductId) ?? null;
 
-  const saveFeaturedHomeProduct = () => {
+  const saveFeaturedHomeProduct = async () => {
     if (!selectedFeaturedProduct) {
       setFeaturedMessage('Selecione um produto real do catálogo sincronizado antes de salvar.');
+      setFeaturedSaveState('error');
       return;
     }
-    const nextConfig = { ...storeConfig, featuredProductId: selectedFeaturedProduct.id };
-    saveStoreConfig(nextConfig);
-    setStoreConfig(nextConfig);
-    onFeaturedProductChange(selectedFeaturedProduct.id);
-    setFeaturedMessage(`Destaque salvo: ${selectedFeaturedProduct.name}.`);
+    setFeaturedSaveState('saving');
+    setFeaturedMessage('');
+    try {
+      const response = await fetch('/api/featured-product', {
+        method: 'PUT',
+        cache: 'no-store',
+        credentials: 'same-origin',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ featuredProductId: selectedFeaturedProduct.id }),
+      });
+      const payload = await response.json() as FeaturedConfiguration & { message?: string };
+      if (response.status === 401) setAuthState('anonymous');
+      if (!response.ok) throw new Error(payload.message ?? 'Não foi possível salvar o destaque no servidor.');
+
+      const confirmed = await loadFeaturedConfiguration();
+      if (confirmed.featuredProductId !== selectedFeaturedProduct.id) throw new Error('O servidor não confirmou o produto salvo. Tente novamente.');
+
+      const { featuredProductId: legacyFeaturedProductId, ...configWithoutLegacyFeatured } = storeConfig;
+      if (legacyFeaturedProductId) {
+        saveStoreConfig(configWithoutLegacyFeatured);
+        setStoreConfig(configWithoutLegacyFeatured);
+      }
+      setFeaturedDraftId(confirmed.featuredProductId ?? '');
+      onFeaturedProductChange(selectedFeaturedProduct.id);
+      setFeaturedSaveState('success');
+      setFeaturedMessage(`Destaque salvo no servidor: ${selectedFeaturedProduct.name}.`);
+    } catch (error) {
+      setFeaturedSaveState('error');
+      setFeaturedMessage(error instanceof Error ? error.message : 'Não foi possível salvar o destaque no servidor.');
+    }
   };
 
   // Filter products for listing
@@ -330,6 +422,10 @@ export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedP
   });
 
   // Render Login view if not logged in
+  if (authState === 'checking') {
+    return <div className="grid min-h-screen place-items-center bg-[#fafafa]"><LoaderCircle className="h-7 w-7 animate-spin text-[#FF3B30]" aria-label="Verificando acesso administrativo" /></div>;
+  }
+
   if (!isAuthenticated) {
     return (
       <div className="min-h-screen bg-[#fafafa] flex items-center justify-center p-4 select-none">
@@ -343,7 +439,7 @@ export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedP
               PAIS STORE <span className="text-[#FF3B30]">ADMIN</span>
             </h1>
             <p className="text-xs text-gray-500 font-sans mt-1 leading-relaxed">
-              Painel temporário para demonstração e cadastro fácil de catálogo.
+              Acesso administrativo para controlar o catálogo e o destaque da página inicial.
             </p>
           </div>
 
@@ -352,7 +448,7 @@ export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedP
             <ShieldAlert className="h-5 w-5 text-amber-600 shrink-0 mt-0.5" />
             <div className="text-[11px] font-sans leading-relaxed text-amber-800">
               <strong className="block uppercase tracking-wider text-amber-950 mb-0.5">AVISO DE SEGURANÇA:</strong>
-              Este admin usa login simplificado e <code>localStorage</code> apenas para demonstração preliminar do catálogo. Para produção de grande escala, deve-se integrar autenticação real (ex: Firebase / Supabase).
+              A sessão é protegida por cookie HTTP-only. A credencial administrativa nunca é armazenada ou exposta no navegador.
             </div>
           </div>
 
@@ -369,7 +465,6 @@ export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedP
                 placeholder="Insira a senha do admin..."
                 className="w-full rounded-none border-2 border-black bg-white px-3.5 py-2.5 text-xs font-bold focus:border-[#FF3B30] outline-none tracking-widest"
               />
-              <p className="text-[10px] text-gray-400 mt-1">Dica de teste: <code className="font-bold text-black border px-1">admin123</code></p>
             </div>
 
             {authError && (
@@ -380,9 +475,10 @@ export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedP
 
             <button
               type="submit"
+              disabled={isAuthenticating || authState === 'unavailable'}
               className="w-full bg-black hover:bg-red-650 text-white font-black uppercase tracking-widest text-[11px] px-4 py-3 border-2 border-black hover:bg-[#FF3B30] transition-all cursor-pointer shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] active:translate-y-0.5 active:shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]"
             >
-              ENTRAR NO PAINEL
+              {isAuthenticating ? <span className="inline-flex items-center gap-2"><LoaderCircle className="h-4 w-4 animate-spin" /> ENTRANDO…</span> : 'ENTRAR NO PAINEL'}
             </button>
           </form>
 
@@ -870,6 +966,9 @@ export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedP
                   {currentFeaturedProduct ? <span className="shrink-0 border-2 border-green-700 bg-green-50 px-2.5 py-1 font-mono text-[9px] font-black uppercase text-green-800">Atual: {currentFeaturedProduct.name}</span> : <span className="shrink-0 border-2 border-amber-500 bg-amber-50 px-2.5 py-1 font-mono text-[9px] font-black uppercase text-amber-800">Sem destaque salvo</span>}
                 </div>
 
+                {featuredConfigurationError && <div className="mt-4 flex items-center justify-between gap-3 border-2 border-amber-500 bg-amber-50 p-3 text-xs font-bold text-amber-900"><span>{featuredConfigurationError}</span><button onClick={() => void loadFeaturedConfiguration().catch(() => undefined)} className="shrink-0 border border-amber-700 px-2 py-1 font-mono text-[9px] font-black uppercase">Tentar novamente</button></div>}
+                {!featuredConfiguration?.featuredProductId && legacyFeaturedSuggestion && <p className="mt-4 border-l-4 border-blue-600 bg-blue-50 p-3 text-xs text-blue-900">Uma seleção local anterior foi carregada apenas como sugestão. Salve para torná-la global.</p>}
+
                 <div className="mt-5 grid grid-cols-1 gap-3 md:grid-cols-3">
                   <label className="relative"><Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" /><input value={featuredSearch} onChange={(event) => setFeaturedSearch(event.target.value)} placeholder="Buscar por nome" className="w-full border-2 border-black py-2.5 pl-9 pr-3 text-xs font-bold uppercase outline-none focus:border-[#FF3B30]" /></label>
                   <select value={featuredBrand} onChange={(event) => setFeaturedBrand(event.target.value)} className="border-2 border-black bg-white px-3 py-2.5 text-xs font-bold uppercase outline-none focus:border-[#FF3B30]"><option value="todos">Todas as marcas</option>{featuredBrands.map((brand) => <option key={brand} value={brand}>{brand}</option>)}</select>
@@ -882,7 +981,7 @@ export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedP
                   {visibleFeaturedProducts.map((product) => {
                     const availableSizes = [...new Set(product.variants.filter((variant) => variant.available).map((variant) => variant.size))];
                     const selected = featuredDraftId === product.id;
-                    const current = storeConfig.featuredProductId === product.id;
+                    const current = featuredConfiguration?.featuredProductId === product.id;
                     return (
                       <article key={product.id} className={`overflow-hidden border-2 bg-white ${selected ? 'border-[#FF3B30] shadow-[4px_4px_0_0_#FF3B30]' : 'border-black'}`}>
                         <img src={product.images[0] || FALLBACK_IMAGE} alt={product.name} referrerPolicy="no-referrer" onError={(event) => { event.currentTarget.src = FALLBACK_IMAGE; }} className="aspect-square w-full border-b-2 border-black object-cover" />
@@ -890,7 +989,7 @@ export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedP
                           <div className="flex items-start justify-between gap-2"><div><p className="font-mono text-[9px] font-black uppercase tracking-widest text-[#FF3B30]">{product.brand}</p><h3 className="mt-1 line-clamp-2 font-display text-sm font-black uppercase leading-tight">{product.name}</h3></div>{current && <span className="bg-black px-1.5 py-1 font-mono text-[8px] font-black uppercase text-white">Atual</span>}</div>
                           <p className="mt-3 font-mono text-[9px] font-bold uppercase leading-relaxed text-gray-600">Tamanhos disponíveis: <span className="text-black">{availableSizes.length ? availableSizes.join(' · ') : 'Sob consulta'}</span></p>
                           <p className={`mt-1 font-mono text-[9px] font-black uppercase ${product.available ? 'text-green-700' : 'text-amber-700'}`}>{product.available ? 'Disponível' : 'Esgotado — sob encomenda'}</p>
-                          <button onClick={() => { setFeaturedDraftId(product.id); setFeaturedMessage(''); }} className={`mt-3 w-full border-2 py-2 font-mono text-[9px] font-black uppercase ${selected ? 'border-[#FF3B30] bg-[#FF3B30] text-white' : 'border-black hover:bg-black hover:text-white'}`}>{selected ? 'Selecionado' : 'Definir como destaque'}</button>
+                          <button onClick={() => { setFeaturedDraftId(product.id); setFeaturedMessage(''); setFeaturedSaveState('idle'); }} className={`mt-3 w-full border-2 py-2 font-mono text-[9px] font-black uppercase ${selected ? 'border-[#FF3B30] bg-[#FF3B30] text-white' : 'border-black hover:bg-black hover:text-white'}`}>{selected ? 'Selecionado' : 'Definir como destaque'}</button>
                         </div>
                       </article>
                     );
@@ -907,9 +1006,9 @@ export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedP
                     <span className="absolute -bottom-3 left-2 z-20 border-2 border-white bg-black px-2 py-1 font-mono text-[8px] font-black uppercase text-white"># {selectedFeaturedProduct?.category || 'Pais Store'}</span>
                   </div>
                   <p className="mt-6 text-xs leading-relaxed text-gray-600">{selectedFeaturedProduct ? <><strong>{selectedFeaturedProduct.name}</strong> aparecerá na home.</> : 'Escolha um produto para visualizar antes de salvar.'}</p>
-                  <button disabled={!selectedFeaturedProduct} onClick={saveFeaturedHomeProduct} className="mt-5 flex w-full items-center justify-center gap-2 border-2 border-black bg-[#FF3B30] py-3 font-mono text-xs font-black uppercase tracking-widest text-white hover:bg-black disabled:cursor-not-allowed disabled:border-gray-300 disabled:bg-gray-300"><Save className="h-4 w-4" />Salvar alteração</button>
-                  {featuredMessage && <p className="mt-4 border-l-4 border-green-600 bg-green-50 p-3 text-xs font-bold text-green-800">{featuredMessage}</p>}
-                  <p className="mt-4 border-t pt-3 font-mono text-[9px] uppercase leading-relaxed text-gray-500">A seleção é salva no armazenamento local do painel original. Ela permanece neste navegador, mas não é compartilhada entre dispositivos ou após limpar os dados do site.</p>
+                  <button disabled={!selectedFeaturedProduct || featuredSaveState === 'saving' || isFeaturedConfigurationLoading} onClick={() => void saveFeaturedHomeProduct()} className="mt-5 flex w-full items-center justify-center gap-2 border-2 border-black bg-[#FF3B30] py-3 font-mono text-xs font-black uppercase tracking-widest text-white hover:bg-black disabled:cursor-not-allowed disabled:border-gray-300 disabled:bg-gray-300"><Save className="h-4 w-4" />{featuredSaveState === 'saving' ? 'Salvando…' : 'Salvar alteração'}</button>
+                  {featuredMessage && <p className={`mt-4 border-l-4 p-3 text-xs font-bold ${featuredSaveState === 'success' ? 'border-green-600 bg-green-50 text-green-800' : 'border-[#FF3B30] bg-red-50 text-red-800'}`}>{featuredMessage}</p>}
+                  <p className="mt-4 border-t pt-3 font-mono text-[9px] uppercase leading-relaxed text-gray-500">A seleção oficial é salva no servidor e compartilhada entre todos os visitantes. O armazenamento local só pode sugerir uma escolha antiga antes da primeira gravação no servidor.</p>
                 </aside>
               </div>
             </div>
@@ -921,7 +1020,7 @@ export default function AdminPanel({ onBackToStore, catalogProducts, onFeaturedP
       {/* FOOTER NOTIFY */}
       <footer className="bg-neutral-100 border-t border-neutral-300 py-4 text-center mt-12 select-none">
         <p className="text-[10px] uppercase font-mono font-bold text-neutral-500">
-          PAIS STORE OFICIAL — AMBIENTE DE CONTROLE INTEGRADO LOCALSTORE
+          PAIS STORE OFICIAL — AMBIENTE DE CONTROLE ADMINISTRATIVO
         </p>
       </footer>
 

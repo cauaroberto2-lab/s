@@ -1,8 +1,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { AlertCircle, Compass, MessageCircle, RefreshCw, Search } from 'lucide-react';
+import { AlertCircle, Compass, LoaderCircle, MessageCircle, RefreshCw, Search } from 'lucide-react';
 import { FALLBACK_IMAGE, WHATSAPP_PHONE } from './data';
 import type { CatalogData, FilterState, InterestItem, Product } from './types';
-import { getStoreConfig } from './utils/db';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import HowItWorks from './components/HowItWorks';
@@ -14,6 +13,7 @@ import Footer from './components/Footer';
 import AdminPanel from './components/AdminPanel';
 
 type CatalogStatus = 'loading' | 'ready' | 'error';
+type FeaturedStatus = 'loading' | 'ready' | 'unavailable';
 
 function isAdminHash() {
   return window.location.hash === '#admin' || window.location.hash === '#/admin';
@@ -42,12 +42,24 @@ function isCatalog(data: unknown): data is CatalogData {
   return Boolean(data && typeof data === 'object' && (data as CatalogData).schemaVersion === 1 && Array.isArray((data as CatalogData).products));
 }
 
+function HeroLoading() {
+  return (
+    <section id="inicio" className="relative grid min-h-[470px] place-items-center overflow-hidden border-b-4 border-black bg-[#111111] px-4 text-center text-white sm:min-h-[560px]">
+      <div className="flex flex-col items-center gap-4">
+        <LoaderCircle className="h-7 w-7 animate-spin text-[#FF3B30]" aria-label="Carregando produto em destaque" />
+        <p className="font-mono text-[11px] font-black uppercase tracking-[0.18em] text-gray-300">Carregando produto em destaque…</p>
+      </div>
+    </section>
+  );
+}
+
 export default function App() {
   const [catalogStatus, setCatalogStatus] = useState<CatalogStatus>('loading');
   const [catalogError, setCatalogError] = useState('');
   const [products, setProducts] = useState<Product[]>([]);
   const [isAdminView, setIsAdminView] = useState(isAdminHash);
-  const [featuredProductId, setFeaturedProductId] = useState(() => getStoreConfig().featuredProductId ?? '');
+  const [featuredProductId, setFeaturedProductId] = useState<string | null>(null);
+  const [featuredStatus, setFeaturedStatus] = useState<FeaturedStatus>('loading');
   const [activeSection, setActiveSection] = useState('inicio');
   const [bagOpen, setBagOpen] = useState(false);
   const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
@@ -75,9 +87,34 @@ export default function App() {
         if (controller.signal.aborted) return;
         setCatalogError(error instanceof Error ? error.message : 'Falha ao carregar o catálogo');
         setCatalogStatus('error');
+        setFeaturedStatus('unavailable');
       });
     return () => controller.abort();
   }, []);
+
+  useEffect(() => {
+    if (catalogStatus !== 'ready') return;
+
+    const controller = new AbortController();
+    fetch('/api/featured-product', { cache: 'no-store', signal: controller.signal })
+      .then(async (response) => {
+        const payload = await response.json() as { featuredProductId?: unknown };
+        if (!response.ok) throw new Error(`Destaque indisponível (${response.status})`);
+        return typeof payload.featuredProductId === 'string' ? payload.featuredProductId : null;
+      })
+      .then((savedProductId) => {
+        setFeaturedProductId(savedProductId);
+        setFeaturedStatus('ready');
+      })
+      .catch((error: unknown) => {
+        if (controller.signal.aborted) return;
+        console.error('Não foi possível carregar o produto em destaque salvo no servidor.', error);
+        setFeaturedProductId(null);
+        setFeaturedStatus('unavailable');
+      });
+
+    return () => controller.abort();
+  }, [catalogStatus]);
 
   useEffect(() => {
     const handleLocationChange = () => {
@@ -118,6 +155,7 @@ export default function App() {
     ?? products.find((product) => hasValidImage(product));
   const configuredHighlight = featuredProductId ? products.find((product) => product.id === featuredProductId && hasValidImage(product)) : undefined;
   const highlightProduct = configuredHighlight ?? automaticHighlight;
+  const isHighlightLoading = catalogStatus === 'loading' || featuredStatus === 'loading';
 
   const navigate = (sectionId: string) => {
     setActiveSection(sectionId);
@@ -174,7 +212,9 @@ export default function App() {
     <div className="flex min-h-screen flex-col justify-between bg-[#fafafa] font-sans text-gray-900 antialiased selection:bg-red-500 selection:text-white">
       <Header activeSection={activeSection} onNavigate={navigate} bagCount={bagItems.length} onOpenBag={() => setBagOpen(true)} searchQuery={filters.search} onSearchChange={(search) => setFilters((previous) => ({ ...previous, search }))} />
       <main className="flex-1">
-        <Hero onExploreCatalog={() => navigate('catalogo')} onContactSeller={contactSupport} onOpenHighlight={openProduct} highlightProduct={highlightProduct} />
+        {isHighlightLoading
+          ? <HeroLoading />
+          : <Hero onExploreCatalog={() => navigate('catalogo')} onContactSeller={contactSupport} onOpenHighlight={openProduct} highlightProduct={highlightProduct} />}
         <HowItWorks />
         <section id="catalogo" className="mx-auto max-w-7xl scroll-mt-20 border-b border-gray-150 px-4 py-16 sm:px-6 lg:px-8">
           <div className="mb-10 flex flex-col justify-between gap-4 md:flex-row md:items-end"><div><span className="font-mono text-xs font-bold uppercase tracking-widest text-red-500">Catálogo sincronizado</span><h2 className="mt-1 font-display text-3xl font-extrabold tracking-tight text-black sm:text-4xl">Catálogo Premium</h2><p className="mt-2 text-sm text-gray-500">Fotos, tamanhos e disponibilidade atualizados. Preço sempre sob consulta.</p></div><div className="flex items-center gap-1.5 self-start rounded-full bg-gray-100 px-3.5 py-1.5 font-mono text-xs font-bold text-gray-500"><Compass className="h-4 w-4" /><span>{catalogStatus === 'ready' ? `${filteredProducts.length} itens encontrados` : 'Sincronizando catálogo'}</span></div></div>

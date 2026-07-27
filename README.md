@@ -55,26 +55,48 @@ for necessária uma atualização imediata.
 
 ## Destaque da página inicial
 
-O painel oficial é acessado exclusivamente em `/#admin`. Depois do login já
-existente, a seção **Destaque da home** permite buscar e filtrar produtos reais
-do catálogo sincronizado, pré-visualizar a imagem e salvar o
-`featuredProductId`. A home sempre lê marca, categoria, disponibilidade e fotos
-do produto atual no `catalog.json`.
+O painel oficial é acessado exclusivamente em `/#admin`. Depois do login, a
+seção **Destaque da home** permite buscar e filtrar produtos reais do catálogo
+sincronizado, pré-visualizar a imagem e salvar o `featuredProductId`.
 
-Para manter o comportamento do painel original, a escolha é gravada junto às
-demais configurações em `localStorage` (`pais_store_catalog_config_v1`). Ela
-permanece ao atualizar a página no mesmo navegador, mas não é compartilhada
-entre dispositivos e pode ser perdida ao limpar os dados do site. Não há Redis,
-variáveis extras ou configuração de Vercel necessária para essa função.
+A fonte oficial é o Upstash Redis, na chave `pais-store:featured-product:v1`.
+O registro guarda `featuredProductId`, `updatedAt` e `updatedBy`. A API pública
+`GET /api/featured-product` devolve apenas o ID e a data; a escrita exige uma
+sessão administrativa HTTP-only e valida o ID contra o `catalog.json` atual.
+Assim, todos os navegadores e dispositivos recebem o mesmo destaque. A home
+aguarda o catálogo e a API antes de renderizar o banner, evitando mostrar uma
+foto padrão antes da troca.
 
-Sem um produto escolhido, ou se a seleção não existir mais no catálogo, a home
-usa automaticamente o primeiro produto disponível com imagem válida. O
-placeholder neutro só é usado quando não houver nenhuma foto válida.
+Uma seleção antiga em `localStorage` é usada só como sugestão no painel quando
+ainda não houver valor no servidor. Ao salvar, ela é removida da configuração
+local e não volta a ser fonte oficial. Se o Redis falhar, o erro é registrado e
+a home usa um produto com imagem válida sem sobrescrever o valor já salvo.
+
+Sem um produto salvo, ou se a seleção não existir mais no catálogo, a home usa
+automaticamente o primeiro produto disponível com imagem válida. O placeholder
+neutro só é usado quando não houver nenhuma foto válida.
+
+### Configuração na Vercel
+
+Crie ou use um banco **Upstash Redis** e, em **Vercel → Project → Settings →
+Environment Variables**, cadastre para Production (e Preview se desejar testar):
+
+- `UPSTASH_REDIS_REST_URL`
+- `UPSTASH_REDIS_REST_TOKEN`
+- `ADMIN_FEATURED_WRITE_TOKEN` — credencial digitada no painel; use ao menos 32 caracteres aleatórios.
+- `ADMIN_FEATURED_SESSION_SECRET` — valor aleatório diferente, com ao menos 32 caracteres.
+- `ADMIN_FEATURED_ADMIN_ID` — opcional, usado para auditoria.
+
+Os dois valores do Upstash e os segredos administrativos não devem usar o
+prefixo `VITE_`; eles só são lidos pelas funções serverless. Após cadastrá-los,
+faça um novo deployment. O arquivo `.env.example` contém os mesmos nomes sem
+valores reais.
 
 ## Desenvolvimento e validação
 
 ```bash
 npm run lint
+npm run test:featured
 npm run build
 npm run dev
 ```
@@ -83,4 +105,6 @@ O site é uma SPA compatível com a Vercel. As URLs internas
 `/produto/:slug` carregam o modal de detalhe e são incluídas nas mensagens do
 WhatsApp; a URL da DX Store nunca é renderizada para clientes.
 
-Não há variáveis de ambiente adicionais nem segredos para configurar.
+O teste `test:featured` usa Redis simulado e duas sessões HTTP independentes
+para validar gravação global, acesso de visitante bloqueado, validação de
+produto, cookie HTTP-only e falha temporária do Redis.

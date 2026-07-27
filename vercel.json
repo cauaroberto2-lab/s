@@ -1,7 +1,13 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "api/featured-product.ts": {
+      "includeFiles": "public/catalog.json"
+    }
+  },
   "rewrites": [
     {
-      "source": "/((?!assets/|catalog\\.json$|fallback-product\\.svg$|favicon\\.ico$).*)",
+      "source": "/((?!api/|assets/|catalog\\.json$|fallback-product\\.svg$|favicon\\.ico$).*)",
       "destination": "/index.html"
     }
   ]
