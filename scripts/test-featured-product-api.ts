@@ -4,7 +4,7 @@ import { readFile } from 'node:fs/promises';
 import { once } from 'node:events';
 import adminSessionHandler from '../api/admin-session';
 import featuredProductHandler from '../api/featured-product';
-import type { ApiRequest } from '../api/admin-auth';
+import type { ApiRequest } from '../api/admin-auth.js';
 
 async function readBody(request: IncomingMessage) {
   const chunks: Buffer[] = [];

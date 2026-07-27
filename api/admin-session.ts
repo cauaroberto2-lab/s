@@ -8,7 +8,7 @@ import {
   sendJson,
   type ApiRequest,
   verifyAdminToken,
-} from './admin-auth';
+} from './admin-auth.js';
 
 export default async function handler(request: ApiRequest, response: ServerResponse) {
   const configurationError = getAdminConfigurationError();
