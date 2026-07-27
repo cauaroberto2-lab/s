@@ -12,6 +12,8 @@ interface ProductCardProps {
 }
 
 export default function ProductCard({ product, onSelect, onAddToBagQuick, isInBag }: ProductCardProps) {
+  const availableSizes = [...new Set(product.variants.filter((variant) => variant.available).map((variant) => variant.size))]
+    .sort((left, right) => left.localeCompare(right, 'pt-BR', { numeric: true }));
   const availabilityLabel = product.available
     ? `${product.totalStock} unidade${product.totalStock === 1 ? '' : 's'} disponível${product.totalStock === 1 ? '' : 'eis'}`
     : 'Produto esgotado';
@@ -26,7 +28,7 @@ export default function ProductCard({ product, onSelect, onAddToBagQuick, isInBa
       <span className={`absolute left-3 top-3 z-10 border px-3 py-1 font-mono text-[9px] font-black uppercase tracking-widest text-white shadow-xs ${
         product.available ? 'border-black bg-[#FF3B30]' : 'border-gray-500 bg-gray-600'
       }`}>
-        {product.available ? 'Por encomenda' : 'Esgotado'}
+        {product.available ? 'Disponível' : 'Esgotado'}
       </span>
 
       <div className="relative aspect-square overflow-hidden border-b-2 border-black bg-gray-50">
@@ -79,6 +81,11 @@ export default function ProductCard({ product, onSelect, onAddToBagQuick, isInBa
         <div className={`mt-3 border-l-4 p-3 text-left ${product.available ? 'border-[#FF3B30] bg-[#F8F8F8]' : 'border-gray-500 bg-gray-100'}`}>
           <span className="block font-mono text-[9px] font-black uppercase tracking-wider text-gray-400">Disponibilidade</span>
           <p className="font-sans text-[11px] font-extrabold uppercase text-gray-700">{availabilityLabel}</p>
+          {availableSizes.length > 0 && (
+            <p className="mt-1.5 font-mono text-[9px] font-bold uppercase leading-relaxed text-gray-600">
+              Tamanhos disponíveis: <span className="text-[#FF3B30]">{availableSizes.join(' · ')}</span>
+            </p>
+          )}
         </div>
 
         <div className="mt-auto pt-4">

@@ -34,12 +34,23 @@ export default function ProductModal({ product, onClose, onAddToBag, isInBag, wh
     return () => window.removeEventListener('keydown', handleEscape);
   }, [onClose]);
 
-  const sizes = useMemo(() => product ? [...new Set(product.sizes)] : [], [product]);
+  const sizeOptions = useMemo(() => {
+    if (!product) return [];
+
+    const sizes = [...new Set([...product.sizes, ...product.variants.map((variant) => variant.size)])];
+    return sizes
+      .map((size) => {
+        const variants = product.variants.filter((variant) => variant.size === size);
+        const stock = variants.reduce((total, variant) => total + variant.stock, 0);
+        return { size, stock, available: variants.some((variant) => variant.available) };
+      })
+      .sort((left, right) => left.size.localeCompare(right.size, 'pt-BR', { numeric: true }));
+  }, [product]);
   const colors = useMemo(() => product ? [...new Set(product.colors)] : [], [product]);
 
   if (!product) return null;
 
-  const sizeIsAvailable = (size: string) => product.variants.some((variant) => variant.size === size && variant.available);
+  const sizeIsAvailable = (size: string) => sizeOptions.some((option) => option.size === size && option.available);
   const colorIsAvailable = (color: string) => product.variants.some((variant) => (
     variant.available
     && variant.color === color
@@ -53,9 +64,18 @@ export default function ProductModal({ product, onClose, onAddToBag, isInBag, wh
     setSelectedColor(matchingColor ?? 'A confirmar');
   };
 
+  const selectedSizeOption = sizeOptions.find((option) => option.size === selectedSize);
+  const availableSizes = sizeOptions.filter((option) => option.available);
+  const selectedSizeAvailability = selectedSizeOption?.available
+    ? selectedSizeOption.stock === 1
+      ? 'Última unidade disponível'
+      : `${selectedSizeOption.stock} unidades disponíveis`
+    : 'Selecione uma numeração disponível';
+
   const productPageUrl = `${window.location.origin}/produto/${product.slug}`;
   const whatsappMessage = [
-    `Olá! Tenho interesse no produto ${product.name}, tamanho ${selectedSize || 'a confirmar'}.`,
+    `Olá! Tenho interesse no produto ${product.name}.`,
+    `Numeração selecionada: ${selectedSize || 'a confirmar'}.`,
     'Poderia me informar o preço e a disponibilidade?',
     `Link do produto na Pais Store: ${productPageUrl}`,
   ].join('\n');
@@ -134,6 +154,11 @@ export default function ProductModal({ product, onClose, onAddToBag, isInBag, wh
               <p className="mt-1 font-mono text-[10px] font-bold uppercase text-gray-500">
                 {product.available ? `${product.totalStock} unidade${product.totalStock === 1 ? '' : 's'} em estoque` : 'Sem disponibilidade no momento'}
               </p>
+              {availableSizes.length > 0 && (
+                <p className="mt-2 font-mono text-[10px] font-bold uppercase leading-relaxed text-gray-700">
+                  Numerações disponíveis: <span className="text-[#FF3B30]">{availableSizes.map((option) => option.size).join(' · ')}</span>
+                </p>
+              )}
             </div>
 
             {product.description && <p className="mt-5 text-xs font-medium uppercase leading-relaxed text-gray-600">{product.description}</p>}
@@ -141,17 +166,43 @@ export default function ProductModal({ product, onClose, onAddToBag, isInBag, wh
             <div className="mt-6 space-y-5">
               <div>
                 <div className="mb-2.5 flex items-center justify-between gap-4 font-mono text-[10px] font-black uppercase tracking-widest text-black">
-                  <label>Tamanho</label>
-                  <span className="text-[9px] text-gray-400">Indisponíveis não podem ser selecionados</span>
+                  <label>Tamanho{selectedSize ? `: ${selectedSize}` : ''}</label>
+                  <span className="text-[9px] text-gray-400">{availableSizes.length} disponível{availableSizes.length === 1 ? '' : 'eis'}</span>
                 </div>
-                {sizes.length ? (
+                {sizeOptions.length ? (
                   <div className="flex flex-wrap gap-2">
-                    {sizes.map((size) => {
-                      const available = sizeIsAvailable(size);
-                      return <button key={size} id={`size-option-${size}`} disabled={!available} onClick={() => chooseSize(size)} className={`min-w-11 border-2 px-3 py-2 text-xs font-mono font-black transition-all disabled:cursor-not-allowed disabled:border-gray-200 disabled:bg-gray-100 disabled:text-gray-400 ${selectedSize === size ? 'border-black bg-black text-white' : 'border-black bg-white text-gray-700 hover:border-[#FF3B30] hover:text-[#FF3B30]'}`}>{size}</button>;
+                    {sizeOptions.map((option) => {
+                      const selected = selectedSize === option.size;
+                      return (
+                        <button
+                          key={option.size}
+                          id={`size-option-${option.size}`}
+                          type="button"
+                          disabled={!option.available}
+                          aria-pressed={selected}
+                          aria-label={`Tamanho ${option.size}: ${option.available ? `${option.stock} unidade${option.stock === 1 ? '' : 's'} disponível${option.stock === 1 ? '' : 'eis'}` : 'indisponível'}`}
+                          title={option.available ? `${option.stock} unidade${option.stock === 1 ? '' : 's'} disponível${option.stock === 1 ? '' : 'eis'}` : 'Indisponível'}
+                          onClick={() => chooseSize(option.size)}
+                          className={`relative min-w-11 border-2 px-3 py-2 text-xs font-mono font-black transition-all disabled:cursor-not-allowed ${
+                            !option.available
+                              ? 'border-gray-200 bg-gray-100 text-gray-400 line-through decoration-gray-400'
+                              : selected
+                                ? 'border-[#FF3B30] bg-[#FF3B30] text-white shadow-[2px_2px_0_0_#000]'
+                                : 'border-black bg-white text-gray-700 hover:border-[#FF3B30] hover:text-[#FF3B30]'
+                          }`}
+                        >
+                          {option.size}
+                          {option.available && option.stock === 1 && <span className="absolute -right-1.5 -top-1.5 flex h-4 min-w-4 items-center justify-center rounded-full border border-black bg-amber-300 px-1 text-[8px] text-black no-underline">1</span>}
+                        </button>
+                      );
                     })}
                   </div>
                 ) : <p className="text-xs text-gray-500">Tamanho não informado; confirme pelo WhatsApp.</p>}
+                {sizeOptions.length > 0 && (
+                  <p className={`mt-3 font-mono text-[10px] font-bold uppercase ${selectedSizeOption?.available ? 'text-green-700' : 'text-gray-500'}`}>
+                    {selectedSizeAvailability}
+                  </p>
+                )}
               </div>
 
               {colors.length > 0 && (
