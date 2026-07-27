@@ -85,15 +85,9 @@ export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
   // Handle Login
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
-    // AVISO DE SEGURANÇA: Este admin usa senha simples hardcoded apenas para demonstração preliminar.
-    // Para produção, esta autenticação deve ser substituída por sistemas robustos como Firebase Auth or Supabase.
-    if (password === 'admin123') {
-      setIsAuthenticated(true);
-      sessionStorage.setItem('pais_store_admin_auth', 'true');
-      setAuthError('');
-    } else {
-      setAuthError('Senha administrativa inválida. Tente novamente.');
-    }
+    // O painel legado não autentica mais no navegador. A rota segura cria uma
+    // sessão HTTP-only validada pelo servidor antes de qualquer alteração.
+    window.location.assign('/admin');
   };
 
   const handleLogout = () => {
@@ -306,7 +300,7 @@ export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
               PAIS STORE <span className="text-[#FF3B30]">ADMIN</span>
             </h1>
             <p className="text-xs text-gray-500 font-sans mt-1 leading-relaxed">
-              Painel temporário para demonstração e cadastro fácil de catálogo.
+              Painel legado redirecionado para a administração segura.
             </p>
           </div>
 
@@ -315,7 +309,7 @@ export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
             <ShieldAlert className="h-5 w-5 text-amber-600 shrink-0 mt-0.5" />
             <div className="text-[11px] font-sans leading-relaxed text-amber-800">
               <strong className="block uppercase tracking-wider text-amber-950 mb-0.5">AVISO DE SEGURANÇA:</strong>
-              Este admin usa login simplificado e <code>localStorage</code> apenas para demonstração preliminar do catálogo. Para produção de grande escala, deve-se integrar autenticação real (ex: Firebase / Supabase).
+              A administração de produção usa a rota <code>/admin</code>, sessão HTTP-only e validação no servidor. Alterações locais deste componente não são publicadas.
             </div>
           </div>
 
@@ -332,7 +326,7 @@ export default function AdminPanel({ onBackToStore }: AdminPanelProps) {
                 placeholder="Insira a senha do admin..."
                 className="w-full rounded-none border-2 border-black bg-white px-3.5 py-2.5 text-xs font-bold focus:border-[#FF3B30] outline-none tracking-widest"
               />
-              <p className="text-[10px] text-gray-400 mt-1">Dica de teste: <code className="font-bold text-black border px-1">admin123</code></p>
+              <p className="text-[10px] text-gray-400 mt-1">Ao continuar, você será direcionado ao painel seguro.</p>
             </div>
 
             {authError && (

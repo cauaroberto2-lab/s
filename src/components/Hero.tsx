@@ -3,18 +3,31 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { ArrowRight, MessageCircle, ShieldCheck, Sparkles, AlertCircle } from 'lucide-react';
 import { FALLBACK_IMAGE } from '../data';
 import type { Product } from '../types';
 
 interface HeroProps {
   onExploreCatalog: () => void;
-  onContactSeller: () => void;
+  onContactSeller: (product?: Product) => void;
+  onOpenHighlight: (product: Product) => void;
   highlightProduct?: Product;
+  highlightMissing?: boolean;
 }
 
-export default function Hero({ onExploreCatalog, onContactSeller, highlightProduct }: HeroProps) {
+export default function Hero({ onExploreCatalog, onContactSeller, onOpenHighlight, highlightProduct, highlightMissing = false }: HeroProps) {
+  const [imageIndex, setImageIndex] = useState(0);
+  const image = highlightProduct?.images[imageIndex] || FALLBACK_IMAGE;
+
+  useEffect(() => setImageIndex(0), [highlightProduct?.id]);
+
+  const useNextProductImage = () => {
+    if (highlightProduct && imageIndex < highlightProduct.images.length - 1) {
+      setImageIndex((current) => current + 1);
+    }
+  };
+
   return (
     <section id="inicio" className="relative overflow-hidden bg-[#111111] py-16 sm:py-24 md:py-32 select-none border-b-4 border-black">
       
@@ -74,7 +87,7 @@ export default function Hero({ onExploreCatalog, onContactSeller, highlightProdu
 
               <button
                 id="hero-whatsapp-button"
-                onClick={onContactSeller}
+                onClick={() => onContactSeller(highlightProduct)}
                 className="inline-flex items-center justify-center gap-2 rounded-none border-2 border-white/40 bg-transparent px-6 py-4 font-sans text-xs font-black uppercase tracking-wider text-white transition-all hover:bg-white hover:text-black hover:border-white active:scale-95"
               >
                 <MessageCircle className="h-5 w-5 text-green-500" />
@@ -106,22 +119,44 @@ export default function Hero({ onExploreCatalog, onContactSeller, highlightProdu
               <div className="absolute inset-0 border-2 border-dashed border-white/10 animate-[spin_60s_linear_infinite]" />
               <div className="absolute inset-4 border border-white/5 animate-[spin_40s_linear_infinite_reverse]" />
               
-              <img
-                id="hero-banner-image"
-                src={highlightProduct?.images[0] || FALLBACK_IMAGE}
-                alt={highlightProduct ? highlightProduct.name : 'Produto em destaque da Pais Store'}
-                className="animate-float z-10 w-[110%] h-[110%] object-contain rotate-[-15deg] transition-transform duration-500 hover:rotate-0 drop-shadow-[0_20px_20px_rgba(255,59,48,0.25)] filter contrast-115"
-                referrerPolicy="no-referrer"
-                onError={(event) => { event.currentTarget.src = FALLBACK_IMAGE; }}
-              />
+              {highlightProduct ? (
+                <button
+                  id="hero-highlight-product-link"
+                  type="button"
+                  onClick={() => onOpenHighlight(highlightProduct)}
+                  className="z-10 h-[110%] w-[110%] cursor-pointer transition-transform focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#FF3B30]"
+                  aria-label={`Ver ${highlightProduct.name} no catálogo`}
+                >
+                  <img
+                    id="hero-banner-image"
+                    src={image}
+                    alt={highlightProduct.name}
+                    className="animate-float h-full w-full object-contain rotate-[-15deg] transition-transform duration-500 hover:rotate-0 drop-shadow-[0_20px_20px_rgba(255,59,48,0.25)] filter contrast-115"
+                    referrerPolicy="no-referrer"
+                    onError={useNextProductImage}
+                  />
+                </button>
+              ) : (
+                <img
+                  id="hero-banner-image"
+                  src={FALLBACK_IMAGE}
+                  alt="Destaque da Pais Store indisponível temporariamente"
+                  className="animate-float z-10 h-[110%] w-[110%] object-contain rotate-[-15deg] drop-shadow-[0_20px_20px_rgba(255,59,48,0.25)] filter contrast-115"
+                />
+              )}
 
               {/* Float floating badges tags */}
               <div className="absolute -top-4 right-8 bg-black border-2 border-[#FF3B30] px-3 py-1.5 rounded-none font-mono text-[9px] font-bold text-[#FF3B30] uppercase tracking-widest shadow-xs">
                 {highlightProduct ? `# ${highlightProduct.brand}` : '# Catálogo'}
               </div>
               <div className="absolute bottom-4 left-4 bg-black border-2 border-white px-3 py-1.5 rounded-none font-mono text-[9px] font-bold text-white uppercase tracking-widest shadow-xs">
-                {highlightProduct ? `# ${highlightProduct.category}` : '# Pais Store'}
+                {highlightProduct ? `# ${highlightProduct.category}` : highlightMissing ? '# Atualize o destaque' : '# Pais Store'}
               </div>
+              {highlightProduct && !highlightProduct.available && (
+                <div className="absolute -bottom-4 right-4 border-2 border-amber-300 bg-amber-300 px-2.5 py-1 font-mono text-[9px] font-black uppercase tracking-widest text-black shadow-xs">
+                  Sob encomenda
+                </div>
+              )}
             </div>
           </div>
 

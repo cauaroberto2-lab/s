@@ -53,10 +53,48 @@ Agendamentos do GitHub Actions são “best effort”: planos, filas e períodos
 alta carga podem atrasar a execução. A opção manual continua disponível quando
 for necessária uma atualização imediata.
 
+## Destaque da página inicial
+
+O banner principal usa um produto real do catálogo sincronizado. A seleção é
+feita em `/admin`, por busca, marca ou categoria, e grava somente o
+`featuredProductId`, a data da alteração e o identificador administrativo no
+Redis. A home carrega o ID salvo e lê imagem, nome, marca, categoria e estoque
+do `catalog.json` atual; assim, os dados não ficam desatualizados depois de uma
+nova sincronização.
+
+O painel não usa `localStorage` para essa seleção. A credencial é enviada uma
+única vez ao endpoint de sessão, que devolve um cookie HTTP-only, assinado e
+com expiração. A alteração é validada no servidor contra o catálogo atual antes
+de ser gravada. Se o produto salvo deixar de existir, a home exibe o fallback
+neutro e o painel alerta o administrador para escolher outro.
+
+### Variáveis da Vercel
+
+Crie uma base Redis no Upstash e configure as variáveis abaixo em **Project
+Settings → Environment Variables** da Vercel, para Production, Preview e
+Development conforme necessário:
+
+- `UPSTASH_REDIS_REST_URL`: endpoint HTTPS da base Redis.
+- `UPSTASH_REDIS_REST_TOKEN`: token Standard da base, usado somente pela função
+  no servidor.
+- `ADMIN_FEATURED_WRITE_TOKEN`: segredo aleatório de no mínimo 32 caracteres,
+  informado pelo administrador na página `/admin`.
+- `ADMIN_FEATURED_SESSION_SECRET`: outro segredo aleatório, diferente do
+  anterior, com no mínimo 32 caracteres, usado para assinar a sessão.
+- `ADMIN_FEATURED_ADMIN_ID` (opcional): identificador gravado para auditoria.
+- `APP_URL` (recomendado): URL pública canônica, por exemplo
+  `https://seu-projeto.vercel.app`; restringe ações de gravação à origem do
+  próprio site.
+
+Nunca use o prefixo `VITE_` para essas variáveis e não as inclua no código ou
+no Git. O `vercel.json` inclui `public/catalog.json` na função para que a
+validação da escolha também funcione no ambiente serverless.
+
 ## Desenvolvimento e validação
 
 ```bash
 npm run lint
+npm run test:featured
 npm run build
 npm run dev
 ```
@@ -65,4 +103,5 @@ O site é uma SPA compatível com a Vercel. As URLs internas
 `/produto/:slug` carregam o modal de detalhe e são incluídas nas mensagens do
 WhatsApp; a URL da DX Store nunca é renderizada para clientes.
 
-Não há variáveis de ambiente adicionais nem segredos para configurar.
+O catálogo público funciona sem segredos. A alteração persistente do destaque
+exige as variáveis de servidor documentadas acima.

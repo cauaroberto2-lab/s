@@ -10,8 +10,15 @@ import ProductModal from './components/ProductModal';
 import InterestBag from './components/InterestBag';
 import ContactForm from './components/ContactForm';
 import Footer from './components/Footer';
+import AdminFeaturedPanel from './components/AdminFeaturedPanel';
 
 type CatalogStatus = 'loading' | 'ready' | 'error';
+type FeaturedConfigurationStatus = 'loading' | 'ready' | 'error';
+
+interface FeaturedConfiguration {
+  featuredProductId: string | null;
+  updatedAt: string | null;
+}
 
 function getProductFromLocation(products: Product[]) {
   const match = window.location.pathname.match(/^\/produto\/([^/]+)\/?$/);
@@ -40,6 +47,8 @@ export default function App() {
   const [catalogStatus, setCatalogStatus] = useState<CatalogStatus>('loading');
   const [catalogError, setCatalogError] = useState('');
   const [products, setProducts] = useState<Product[]>([]);
+  const [featuredConfigurationStatus, setFeaturedConfigurationStatus] = useState<FeaturedConfigurationStatus>('loading');
+  const [featuredConfiguration, setFeaturedConfiguration] = useState<FeaturedConfiguration | null>(null);
   const [activeSection, setActiveSection] = useState('inicio');
   const [bagOpen, setBagOpen] = useState(false);
   const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
@@ -67,6 +76,23 @@ export default function App() {
         if (controller.signal.aborted) return;
         setCatalogError(error instanceof Error ? error.message : 'Falha ao carregar o catálogo');
         setCatalogStatus('error');
+      });
+    return () => controller.abort();
+  }, []);
+
+  useEffect(() => {
+    const controller = new AbortController();
+    fetch('/api/featured-product', { signal: controller.signal, cache: 'no-store' })
+      .then(async (response) => {
+        if (!response.ok) throw new Error(`Destaque indisponível (${response.status})`);
+        return await response.json() as FeaturedConfiguration;
+      })
+      .then((configuration) => {
+        setFeaturedConfiguration({ featuredProductId: configuration.featuredProductId ?? null, updatedAt: configuration.updatedAt ?? null });
+        setFeaturedConfigurationStatus('ready');
+      })
+      .catch(() => {
+        if (!controller.signal.aborted) setFeaturedConfigurationStatus('error');
       });
     return () => controller.abort();
   }, []);
@@ -100,6 +126,15 @@ export default function App() {
     })
     .sort((left, right) => Number(right.available) - Number(left.available) || left.name.localeCompare(right.name, 'pt-BR')), [products, filters]);
   const featuredProducts = filteredProducts.filter((product) => product.available).slice(0, 4);
+  const configuredHighlight = featuredConfiguration?.featuredProductId
+    ? products.find((product) => product.id === featuredConfiguration.featuredProductId) ?? null
+    : null;
+  const highlightProduct = featuredConfiguration?.featuredProductId
+    ? configuredHighlight ?? undefined
+    : featuredConfigurationStatus === 'ready'
+      ? products.find((product) => product.available)
+      : undefined;
+  const highlightMissing = Boolean(featuredConfiguration?.featuredProductId && !configuredHighlight);
 
   const navigate = (sectionId: string) => {
     setActiveSection(sectionId);
@@ -129,16 +164,25 @@ export default function App() {
     setBagOpen(true);
   };
   const resetFilters = () => setFilters({ category: 'todos', brand: 'todos', size: 'todos', search: '' });
-  const contactSupport = () => window.open(`https://wa.me/${WHATSAPP_PHONE}?text=${encodeURIComponent('Olá! Acessei o catálogo da Pais Store e gostaria de tirar uma dúvida sobre disponibilidade.')}`, '_blank', 'noopener,noreferrer');
+  const contactSupport = (product?: Product) => {
+    const message = product
+      ? `Olá! Acessei o produto em destaque ${product.name} na Pais Store e gostaria de consultar disponibilidade e preço.`
+      : 'Olá! Acessei o catálogo da Pais Store e gostaria de tirar uma dúvida sobre disponibilidade.';
+    window.open(`https://wa.me/${WHATSAPP_PHONE}?text=${encodeURIComponent(message)}`, '_blank', 'noopener,noreferrer');
+  };
 
   const hasFilters = Object.values(filters).some((value) => value !== 'todos' && value !== '');
   const catalogMessage = catalogStatus === 'loading' ? 'Carregando produtos atualizados…' : catalogStatus === 'error' ? `Não foi possível carregar o catálogo. ${catalogError}` : '';
+
+  if (window.location.pathname === '/admin' || window.location.pathname === '/admin/') {
+    return <AdminFeaturedPanel products={products} catalogStatus={catalogStatus} onBackToStore={() => { window.location.assign('/'); }} />;
+  }
 
   return (
     <div className="flex min-h-screen flex-col justify-between bg-[#fafafa] font-sans text-gray-900 antialiased selection:bg-red-500 selection:text-white">
       <Header activeSection={activeSection} onNavigate={navigate} bagCount={bagItems.length} onOpenBag={() => setBagOpen(true)} searchQuery={filters.search} onSearchChange={(search) => setFilters((previous) => ({ ...previous, search }))} />
       <main className="flex-1">
-        <Hero onExploreCatalog={() => navigate('catalogo')} onContactSeller={contactSupport} highlightProduct={featuredProducts[0] ?? products.find((product) => product.available)} />
+        <Hero onExploreCatalog={() => navigate('catalogo')} onContactSeller={contactSupport} onOpenHighlight={openProduct} highlightProduct={highlightProduct} highlightMissing={highlightMissing} />
         <HowItWorks />
         <section id="catalogo" className="mx-auto max-w-7xl scroll-mt-20 border-b border-gray-150 px-4 py-16 sm:px-6 lg:px-8">
           <div className="mb-10 flex flex-col justify-between gap-4 md:flex-row md:items-end"><div><span className="font-mono text-xs font-bold uppercase tracking-widest text-red-500">Catálogo sincronizado</span><h2 className="mt-1 font-display text-3xl font-extrabold tracking-tight text-black sm:text-4xl">Catálogo Premium</h2><p className="mt-2 text-sm text-gray-500">Fotos, tamanhos e disponibilidade atualizados. Preço sempre sob consulta.</p></div><div className="flex items-center gap-1.5 self-start rounded-full bg-gray-100 px-3.5 py-1.5 font-mono text-xs font-bold text-gray-500"><Compass className="h-4 w-4" /><span>{catalogStatus === 'ready' ? `${filteredProducts.length} itens encontrados` : 'Sincronizando catálogo'}</span></div></div>
