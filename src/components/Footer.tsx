@@ -31,11 +31,11 @@ export default function Footer({ onNavigate }: FooterProps) {
           </div>
 
           <div className="flex flex-wrap justify-center gap-4 text-[10px] font-mono tracking-widest font-black uppercase">
-            <span className="text-[#FF3B30]">🔥 #JordanCHICAGO</span>
+            <span className="text-[#FF3B30]">CATÁLOGO ATUALIZADO</span>
             <span className="text-gray-500">•</span>
-            <span className="text-[#FF3B30]">👟 #DunkPANDA</span>
+            <span className="text-[#FF3B30]">PREÇO SOB CONSULTA</span>
             <span className="text-gray-500">•</span>
-            <span className="text-[#FF3B30]">👕 #EssentialsOversized</span>
+            <span className="text-[#FF3B30]">ATENDIMENTO WHATSAPP</span>
           </div>
 
         </div>
@@ -125,19 +125,6 @@ export default function Footer({ onNavigate }: FooterProps) {
                   className="hover:text-[#FF3B30] transition-colors"
                 >
                   Fale Conosco
-                </button>
-              </li>
-              <li>
-                <button
-                  id="foot-nav-admin"
-                  onClick={() => {
-                    window.location.hash = 'admin';
-                    // Trigger custom hash change dispatch for SPA
-                    window.dispatchEvent(new HashChangeEvent('hashchange'));
-                  }}
-                  className="hover:text-[#FF3B30] text-[#FF3B30] transition-colors"
-                >
-                  Painel Administrativo
                 </button>
               </li>
             </ul>

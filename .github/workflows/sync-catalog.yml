@@ -1,0 +1,62 @@
+name: Sincronizar catálogo DX Store
+
+on:
+  schedule:
+    # Melhor esforço: o GitHub Actions pode atrasar execuções agendadas.
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pais-store-catalog-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter código
+        uses: actions/checkout@v4
+
+      - name: Preparar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Coletar catálogo
+        shell: bash
+        run: |
+          set -o pipefail
+          npm run sync:catalog 2>&1 | tee "$RUNNER_TEMP/dx-store-sync.json"
+
+      - name: Registrar resumo da coleta
+        if: always()
+        shell: bash
+        run: |
+          echo '## Sincronização do catálogo' >> "$GITHUB_STEP_SUMMARY"
+          if [ -f "$RUNNER_TEMP/dx-store-sync.json" ]; then
+            echo '```json' >> "$GITHUB_STEP_SUMMARY"
+            cat "$RUNNER_TEMP/dx-store-sync.json" >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo 'A coleta não chegou a produzir um relatório. O catálogo anterior foi preservado.' >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Publicar alteração real do catálogo
+        shell: bash
+        run: |
+          if git diff --quiet -- public/catalog.json; then
+            echo "Nenhuma mudança real no catálogo; nenhum commit criado."
+            exit 0
+          fi
+          git config user.name "pais-store-sync[bot]"
+          git config user.email "pais-store-sync[bot]@users.noreply.github.com"
+          git add public/catalog.json
+          git commit -m "chore: sincroniza catálogo"
+          git push

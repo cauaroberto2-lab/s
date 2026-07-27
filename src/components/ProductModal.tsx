@@ -1,296 +1,190 @@
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
- */
-
-import React, { useState, useEffect } from 'react';
-import { X, MessageCircle, ShoppingBag, Truck, Calendar, Sparkles, Check, AlertTriangle } from 'lucide-react';
-import { Product, InterestItem } from '../types';
-import { WHATSAPP_PHONE } from '../data';
+import React, { useEffect, useMemo, useState } from 'react';
+import { AlertTriangle, Check, MessageCircle, ShoppingBag, X } from 'lucide-react';
+import { FALLBACK_IMAGE } from '../data';
+import type { InterestItem, Product } from '../types';
 
 interface ProductModalProps {
   product: Product | null;
   onClose: () => void;
   onAddToBag: (item: InterestItem) => void;
   isInBag: boolean;
+  whatsappPhone: string;
 }
 
-export default function ProductModal({
-  product,
-  onClose,
-  onAddToBag,
-  isInBag,
-}: ProductModalProps) {
-  if (!product) return null;
-
-  const [selectedSize, setSelectedSize] = useState<string>('');
-  const [selectedColor, setSelectedColor] = useState<string>('');
-  const [activeImage, setActiveImage] = useState<string>('');
+export default function ProductModal({ product, onClose, onAddToBag, isInBag, whatsappPhone }: ProductModalProps) {
+  const [selectedSize, setSelectedSize] = useState('');
+  const [selectedColor, setSelectedColor] = useState('A confirmar');
+  const [activeImage, setActiveImage] = useState(FALLBACK_IMAGE);
   const [addedSuccess, setAddedSuccess] = useState(false);
 
-  // Set default configurations on open
   useEffect(() => {
-    setActiveImage(product.images[0]);
-    setSelectedSize(product.sizes[0] || '');
-    setSelectedColor(product.colors[0] || '');
+    if (!product) return;
+    const firstAvailable = product.variants.find((variant) => variant.available);
+    setSelectedSize(firstAvailable?.size ?? product.sizes[0] ?? '');
+    setSelectedColor(firstAvailable?.color && firstAvailable.color !== 'Padrão' ? firstAvailable.color : 'A confirmar');
+    setActiveImage(product.images[0] || FALLBACK_IMAGE);
     setAddedSuccess(false);
   }, [product]);
 
-  // Handle ESC close key
   useEffect(() => {
-    const handleKeyDown = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') onClose();
+    const handleEscape = (event: KeyboardEvent) => {
+      if (event.key === 'Escape') onClose();
     };
-    window.addEventListener('keydown', handleKeyDown);
-    return () => window.removeEventListener('keydown', handleKeyDown);
+    window.addEventListener('keydown', handleEscape);
+    return () => window.removeEventListener('keydown', handleEscape);
   }, [onClose]);
 
-  // Build direct WhatsApp message for this product
-  const getDirectWhatsAppLink = () => {
-    const message = `Olá, tenho interesse neste produto: ${product.name}. Gostaria de consultar disponibilidade, tamanho, cor, prazo e valor.`;
-    
-    return `https://wa.me/5551985758791?text=${encodeURIComponent(message)}`;
+  const sizes = useMemo(() => product ? [...new Set(product.sizes)] : [], [product]);
+  const colors = useMemo(() => product ? [...new Set(product.colors)] : [], [product]);
+
+  if (!product) return null;
+
+  const sizeIsAvailable = (size: string) => product.variants.some((variant) => variant.size === size && variant.available);
+  const colorIsAvailable = (color: string) => product.variants.some((variant) => (
+    variant.available
+    && variant.color === color
+    && (!selectedSize || variant.size === selectedSize)
+  ));
+
+  const chooseSize = (size: string) => {
+    if (!sizeIsAvailable(size)) return;
+    setSelectedSize(size);
+    const matchingColor = product.variants.find((variant) => variant.size === size && variant.available && variant.color !== 'Padrão')?.color;
+    setSelectedColor(matchingColor ?? 'A confirmar');
   };
 
-  const handleAddClick = () => {
-    onAddToBag({
-      product,
-      selectedSize,
-      selectedColor,
-      quantity: 1,
-    });
+  const productPageUrl = `${window.location.origin}/produto/${product.slug}`;
+  const whatsappMessage = [
+    `Olá! Tenho interesse no produto ${product.name}, tamanho ${selectedSize || 'a confirmar'}.`,
+    'Poderia me informar o preço e a disponibilidade?',
+    `Link do produto na Pais Store: ${productPageUrl}`,
+  ].join('\n');
+  const whatsappUrl = `https://wa.me/${whatsappPhone}?text=${encodeURIComponent(whatsappMessage)}`;
+
+  const handleAdd = () => {
+    if (product.available && selectedSize && !sizeIsAvailable(selectedSize)) return;
+    onAddToBag({ product, selectedSize: selectedSize || 'A confirmar', selectedColor, quantity: 1 });
     setAddedSuccess(true);
-    setTimeout(() => {
-      setAddedSuccess(false);
-    }, 2500);
+    window.setTimeout(() => setAddedSuccess(false), 2_500);
   };
 
   return (
-    <div id="product-detail-overlay" className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/70 backdrop-blur-xs transition-opacity duration-300">
-      <div 
+    <div id="product-detail-overlay" className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 p-4 backdrop-blur-xs" onMouseDown={onClose}>
+      <div
         id="product-detail-modal"
-        className="relative w-full max-w-4xl max-h-[90vh] overflow-y-auto rounded-none border-4 border-black bg-white shadow-2xl animate-in fade-in zoom-in duration-200 flex flex-col md:flex-row pointer-events-auto"
-        onClick={(e) => e.stopPropagation()}
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="product-detail-title"
+        className="relative flex max-h-[90vh] w-full max-w-4xl flex-col overflow-y-auto border-4 border-black bg-white shadow-2xl md:flex-row"
+        onMouseDown={(event) => event.stopPropagation()}
       >
-        {/* Close Button top-right */}
         <button
           id="close-modal-x"
           onClick={onClose}
-          className="absolute right-4 top-4 z-10 p-2.5 rounded-none border-2 border-black bg-white text-gray-800 hover:bg-black hover:text-white transition-colors cursor-pointer"
-          title="Fechar"
+          className="absolute right-4 top-4 z-10 border-2 border-black bg-white p-2.5 text-gray-800 transition-colors hover:bg-black hover:text-white"
+          aria-label="Fechar detalhes do produto"
         >
           <X className="h-5 w-5" />
         </button>
 
-        {/* Left Side: Images Section */}
-        <div className="md:w-1/2 p-6 md:p-8 bg-gray-50 flex flex-col justify-between border-b md:border-b-0 md:border-r-2 md:border-black">
-          <div className="flex-1 flex items-center justify-center min-h-[250px] md:min-h-[350px]">            <img
+        <section className="flex flex-col justify-between border-b-2 border-black bg-gray-50 p-6 md:w-1/2 md:border-b-0 md:border-r-2 md:p-8">
+          <div className="flex min-h-[250px] flex-1 items-center justify-center md:min-h-[350px]">
+            <img
               id="selected-modal-image"
-              src={activeImage || null}
+              src={activeImage}
               alt={product.name}
-              className="max-h-[300px] md:max-h-[380px] w-auto object-contain transition-transform duration-300 rounded-none"
+              className="max-h-[380px] w-auto object-contain"
               referrerPolicy="no-referrer"
-              onError={(e) => {
-                const fallbackMap: {[key: string]: string} = {
-                  tenis: 'https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&auto=format&fit=crop&q=80',
-                  roupas: 'https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&auto=format&fit=crop&q=80',
-                  acessorios: 'https://images.unsplash.com/photo-1588850561405-ed78c282e89b?w=800&auto=format&fit=crop&q=80'
-                };
-                e.currentTarget.src = fallbackMap[product.category] || fallbackMap.tenis;
-              }}
+              onError={(event) => { event.currentTarget.src = FALLBACK_IMAGE; }}
             />
           </div>
-
-          {/* Thumbnail slides if multiple images */}
           {product.images.length > 1 && (
-            <div className="mt-4 flex gap-2 justify-center">
-              {product.images.map((img, i) => (
+            <div className="mt-4 flex max-w-full gap-2 overflow-x-auto pb-1">
+              {product.images.map((image, index) => (
                 <button
-                  key={i}
-                  id={`thumbnail-${i}`}
-                  onClick={() => setActiveImage(img)}
-                  className={`h-16 w-16 overflow-hidden rounded-none border-2 transition-all ${
-                    activeImage === img ? 'border-[#FF3B30] scale-105' : 'border-black opacity-60 hover:opacity-100'
-                  }`}
+                  key={image}
+                  id={`thumbnail-${index}`}
+                  onClick={() => setActiveImage(image)}
+                  className={`h-16 w-16 shrink-0 overflow-hidden border-2 transition-all ${activeImage === image ? 'scale-105 border-[#FF3B30]' : 'border-black opacity-60 hover:opacity-100'}`}
+                  aria-label={`Mostrar imagem ${index + 1} de ${product.name}`}
                 >
-                  <img 
-                    src={img || null} 
-                    alt=""  
-                    className="h-full w-full object-cover" 
-                    onError={(e) => {
-                      const fallbackMap: {[key: string]: string} = {
-                        tenis: 'https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&auto=format&fit=crop&q=80',
-                        roupas: 'https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&auto=format&fit=crop&q=80',
-                        acessorios: 'https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=800&auto=format&fit=crop&q=80'
-                      };
-                      e.currentTarget.src = fallbackMap[product.category] || fallbackMap.tenis;
-                    }}
-                  />
+                  <img src={image} alt="" loading="lazy" className="h-full w-full object-cover" onError={(event) => { event.currentTarget.src = FALLBACK_IMAGE; }} />
                 </button>
               ))}
             </div>
           )}
-        </div>
+        </section>
 
-        {/* Right Side: Content and Interaction Options */}
-        <div className="md:w-1/2 p-6 md:p-8 flex flex-col justify-between text-left">
-          
+        <section className="flex flex-col justify-between p-6 text-left md:w-1/2 md:p-8">
           <div>
-            {/* Brand and Badge */}
-            <div className="flex items-center gap-3">
-              <span className="font-mono text-xs font-black uppercase tracking-widest text-[#FF3B30]">
-                {product.brand}
-              </span>
-              <span className="rounded-none border border-black bg-black px-2.5 py-0.5 font-mono text-[9px] font-black text-white uppercase tracking-widest leading-none">
-                {product.badge || 'Por Encomenda'}
-              </span>
+            <div className="flex flex-wrap items-center gap-3">
+              <span className="font-mono text-xs font-black uppercase tracking-widest text-[#FF3B30]">{product.brand}</span>
+              <span className="border border-black bg-black px-2.5 py-0.5 font-mono text-[9px] font-black uppercase tracking-widest text-white">{product.category}</span>
             </div>
+            <h1 id="product-detail-title" className="mt-3 font-display text-2xl font-black uppercase leading-tight tracking-tighter text-black">{product.name}</h1>
 
-            {/* Product Title */}
-            <h2 className="mt-3 font-display text-2xl font-black text-black uppercase tracking-tighter leading-tight">
-              {product.name}
-            </h2>
-
-            {/* Price section with Sob Consulta emphasis */}
-            <div className="mt-4 rounded-none bg-[#F8F8F8] border-2 border-black p-4">
-              <div className="flex items-center justify-between text-xs text-gray-500 font-mono uppercase font-bold">
-                <span>Disponibilidade de Estoque</span>
-                <span className="font-black text-white bg-[#FF3B30] rounded-none px-1.5 py-0.5 font-mono text-[9px] border border-black uppercase tracking-wider">
-                  SOB ENCOMENDA
+            <div className={`mt-4 border-2 border-black p-4 ${product.available ? 'bg-[#F8F8F8]' : 'bg-gray-100'}`}>
+              <div className="flex items-center justify-between gap-3 text-xs font-mono font-bold uppercase text-gray-500">
+                <span>Disponibilidade</span>
+                <span className={`border px-1.5 py-0.5 text-[9px] font-black uppercase tracking-wider text-white ${product.available ? 'border-black bg-[#FF3B30]' : 'border-gray-500 bg-gray-600'}`}>
+                  {product.available ? 'Disponível' : 'Esgotado'}
                 </span>
               </div>
-              <div className="mt-1.5 flex items-baseline gap-1.5">
-                <span className="font-sans text-2xl font-black text-black">
-                  SOB CONSULTA
-                </span>
-                <span className="text-xs text-gray-400 font-mono font-bold uppercase">
-                  Sem Pronta Entrega
-                </span>
-              </div>
-            </div>
-
-            {/* Short description */}
-            <p className="mt-5 font-sans text-xs text-gray-600 leading-relaxed uppercase font-medium">
-              {product.description}
-            </p>
-
-            {/* Option pickers (Sizes & Colors) */}
-            <div className="mt-6 space-y-5">
-              
-              {/* Sizes Available Picker */}
-              <div>
-                <label className="flex items-center justify-between font-mono text-[10px] font-black text-black tracking-widest uppercase mb-2.5">
-                  <span>TAMANHO (SELECIONE PARA CONSULTAR)</span>
-                  <span className="text-[9px] text-gray-400 font-bold uppercase tracking-wider">Consulte tamanhos adicionais</span>
-                </label>
-                <div className="flex flex-wrap gap-2">
-                  {product.sizes.map((size) => (
-                    <button
-                      key={size}
-                      id={`size-option-${size}`}
-                      onClick={() => setSelectedSize(size)}
-                      className={`min-w-11 px-3 py-2 text-xs font-mono font-black rounded-none border-2 transition-all ${
-                        selectedSize === size
-                          ? 'border-black bg-black text-white'
-                          : 'border-black text-gray-700 hover:border-[#FF3B30] hover:text-[#FF3B30] bg-white'
-                      }`}
-                    >
-                      {size}
-                    </button>
-                  ))}
-                </div>
-              </div>
-
-              {/* Colors Available Picker */}
-              <div>
-                <label className="flex items-center justify-between font-mono text-[10px] font-black text-black tracking-widest uppercase mb-2.5">
-                  <span>OPÇÕES DE CORES</span>
-                  <span className="text-[9px] text-gray-400 font-bold uppercase tracking-wider">Sob verificação do estoque</span>
-                </label>
-                <div className="flex flex-wrap gap-2">
-                  {product.colors.map((color) => (
-                    <button
-                      key={color}
-                      id={`color-option-${color}`}
-                      onClick={() => setSelectedColor(color)}
-                      className={`px-3.5 py-2 text-xs font-mono font-bold rounded-none border-2 transition-all ${
-                        selectedColor === color
-                          ? 'border-[#FF3B30] bg-[#FF3B30] text-white'
-                          : 'border-black text-gray-700 hover:bg-black hover:text-white bg-white'
-                      }`}
-                    >
-                      {color}
-                    </button>
-                  ))}
-                </div>
-              </div>
-
-            </div>
-
-            {/* Estimated time layout */}
-            <div className="mt-6 border-t-2 border-black pt-5 space-y-3 font-mono text-[10px] font-bold uppercase tracking-wider text-gray-500">
-              <div className="flex items-center gap-2">
-                <Truck className="h-4 w-4 text-[#FF3B30]" />
-                <span>Prazo de Envio estimado: <strong className="text-black font-black">Confirmado pelo vendedor</strong></span>
-              </div>
-              <div className="flex items-center gap-2">
-                <Calendar className="h-4 w-4 text-[#FF3B30]" />
-                <span>Trabalhamos sob encomenda com parceiros internacionais verificados</span>
-              </div>
-            </div>
-
-          </div>
-
-          {/* Core Action Callouts */}
-          <div className="mt-8 pt-5 border-t-2 border-black space-y-3">
-            
-            {/* Primary Option: Consult via direct WhatsApp link */}
-            <a
-              id="direct-whatsapp-button"
-              href={getDirectWhatsAppLink()}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex w-full items-center justify-center gap-2 rounded-none border-2 border-black bg-[#FF3B30] hover:bg-black py-4 font-mono text-xs font-black tracking-widest uppercase text-white transition-all shadow-xs"
-            >
-              <MessageCircle className="h-5 w-5 fill-current text-white" />
-              Perguntar no WhatsApp
-            </a>
-
-            {/* Secondary Option: Add to the collective interest bag */}
-            <button
-              id="add-to-bag-modal-button"
-              onClick={handleAddClick}
-              className={`flex w-full items-center justify-center gap-2 rounded-none py-3.5 font-mono text-xs font-black tracking-widest uppercase transition-all border-2 border-black ${
-                addedSuccess
-                  ? 'bg-green-100 border-green-600 text-green-800'
-                  : 'bg-black text-white hover:bg-white hover:text-black hover:border-black'
-              }`}
-            >
-              {addedSuccess ? (
-                <>
-                  <Check className="h-5 w-5" />
-                  Item Adicionado com Sucesso!
-                </>
-              ) : (
-                <>
-                  <ShoppingBag className="h-4 w-4" />
-                  Adicionar à Lista de Interesse
-                </>
-              )}
-            </button>
-
-            {/* Anti-purchase clear text disclaimer */}
-            <div className="flex gap-2 p-3 rounded-none bg-amber-50 border-2 border-[#FF3B30]">
-              <AlertTriangle className="h-4 w-4 text-[#FF3B30] shrink-0 mt-0.5" />
-              <p className="font-sans text-[10px] text-amber-900 leading-relaxed uppercase font-semibold">
-                Este site é um **Catálogo por Encomenda**. Não coletamos informações de pagamento. 
-                Sua lista serve apenas para facilitar o contato e validação de estoque com nosso vendedor parceiro no WhatsApp.
+              <p className="mt-2 font-sans text-xl font-black uppercase text-black">Preço sob consulta</p>
+              <p className="mt-1 font-mono text-[10px] font-bold uppercase text-gray-500">
+                {product.available ? `${product.totalStock} unidade${product.totalStock === 1 ? '' : 's'} em estoque` : 'Sem disponibilidade no momento'}
               </p>
             </div>
 
+            {product.description && <p className="mt-5 text-xs font-medium uppercase leading-relaxed text-gray-600">{product.description}</p>}
+
+            <div className="mt-6 space-y-5">
+              <div>
+                <div className="mb-2.5 flex items-center justify-between gap-4 font-mono text-[10px] font-black uppercase tracking-widest text-black">
+                  <label>Tamanho</label>
+                  <span className="text-[9px] text-gray-400">Indisponíveis não podem ser selecionados</span>
+                </div>
+                {sizes.length ? (
+                  <div className="flex flex-wrap gap-2">
+                    {sizes.map((size) => {
+                      const available = sizeIsAvailable(size);
+                      return <button key={size} id={`size-option-${size}`} disabled={!available} onClick={() => chooseSize(size)} className={`min-w-11 border-2 px-3 py-2 text-xs font-mono font-black transition-all disabled:cursor-not-allowed disabled:border-gray-200 disabled:bg-gray-100 disabled:text-gray-400 ${selectedSize === size ? 'border-black bg-black text-white' : 'border-black bg-white text-gray-700 hover:border-[#FF3B30] hover:text-[#FF3B30]'}`}>{size}</button>;
+                    })}
+                  </div>
+                ) : <p className="text-xs text-gray-500">Tamanho não informado; confirme pelo WhatsApp.</p>}
+              </div>
+
+              {colors.length > 0 && (
+                <div>
+                  <div className="mb-2.5 flex items-center justify-between gap-4 font-mono text-[10px] font-black uppercase tracking-widest text-black">
+                    <label>Cor</label>
+                    <span className="text-[9px] text-gray-400">Conforme o tamanho selecionado</span>
+                  </div>
+                  <div className="flex flex-wrap gap-2">
+                    {colors.map((color) => {
+                      const available = colorIsAvailable(color);
+                      return <button key={color} disabled={!available} onClick={() => setSelectedColor(color)} className={`border-2 px-3.5 py-2 text-xs font-mono font-bold transition-all disabled:cursor-not-allowed disabled:border-gray-200 disabled:bg-gray-100 disabled:text-gray-400 ${selectedColor === color ? 'border-[#FF3B30] bg-[#FF3B30] text-white' : 'border-black bg-white text-gray-700 hover:bg-black hover:text-white'}`}>{color}</button>;
+                    })}
+                  </div>
+                </div>
+              )}
+            </div>
           </div>
 
-        </div>
+          <div className="mt-8 space-y-3 border-t-2 border-black pt-5">
+            <a id="direct-whatsapp-button" href={whatsappUrl} target="_blank" rel="noopener noreferrer" className="flex w-full items-center justify-center gap-2 border-2 border-black bg-[#FF3B30] py-4 font-mono text-xs font-black uppercase tracking-widest text-white shadow-xs transition-all hover:bg-black">
+              <MessageCircle className="h-5 w-5 fill-current" />
+              Consultar pelo WhatsApp
+            </a>
+            <button id="add-to-bag-modal-button" onClick={handleAdd} disabled={product.available && Boolean(selectedSize) && !sizeIsAvailable(selectedSize)} className={`flex w-full items-center justify-center gap-2 border-2 border-black py-3.5 font-mono text-xs font-black uppercase tracking-widest transition-all disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 ${addedSuccess ? 'border-green-600 bg-green-100 text-green-800' : 'bg-black text-white hover:bg-white hover:text-black'}`}>
+              {addedSuccess ? <><Check className="h-5 w-5" />Item adicionado</> : <><ShoppingBag className="h-4 w-4" />{isInBag ? 'Adicionar outra opção' : 'Adicionar à lista'}</>}
+            </button>
+            <div className="flex gap-2 border-2 border-[#FF3B30] bg-amber-50 p-3">
+              <AlertTriangle className="mt-0.5 h-4 w-4 shrink-0 text-[#FF3B30]" />
+              <p className="text-[10px] font-semibold uppercase leading-relaxed text-amber-900">Este é um catálogo de consulta: não há carrinho, checkout ou cobrança nesta página.</p>
+            </div>
+          </div>
+        </section>
       </div>
     </div>
   );

@@ -5,15 +5,16 @@
 
 import React from 'react';
 import { ArrowRight, MessageCircle, ShieldCheck, Sparkles, AlertCircle } from 'lucide-react';
-import { INSTAGRAM_LINK, WHATSAPP_PHONE } from '../data';
-import jordanChicago from "../assets/images/jordan_1_chicago_1781632853059.jpg";
+import { FALLBACK_IMAGE } from '../data';
+import type { Product } from '../types';
 
 interface HeroProps {
   onExploreCatalog: () => void;
   onContactSeller: () => void;
+  highlightProduct?: Product;
 }
 
-export default function Hero({ onExploreCatalog, onContactSeller }: HeroProps) {
+export default function Hero({ onExploreCatalog, onContactSeller, highlightProduct }: HeroProps) {
   return (
     <section id="inicio" className="relative overflow-hidden bg-[#111111] py-16 sm:py-24 md:py-32 select-none border-b-4 border-black">
       
@@ -107,19 +108,19 @@ export default function Hero({ onExploreCatalog, onContactSeller }: HeroProps) {
               
               <img
                 id="hero-banner-image"
-                src={jordanChicago}
-                
-                alt="Pais Store Sneakers"
+                src={highlightProduct?.images[0] || FALLBACK_IMAGE}
+                alt={highlightProduct ? highlightProduct.name : 'Produto em destaque da Pais Store'}
                 className="animate-float z-10 w-[110%] h-[110%] object-contain rotate-[-15deg] transition-transform duration-500 hover:rotate-0 drop-shadow-[0_20px_20px_rgba(255,59,48,0.25)] filter contrast-115"
                 referrerPolicy="no-referrer"
+                onError={(event) => { event.currentTarget.src = FALLBACK_IMAGE; }}
               />
 
               {/* Float floating badges tags */}
               <div className="absolute -top-4 right-8 bg-black border-2 border-[#FF3B30] px-3 py-1.5 rounded-none font-mono text-[9px] font-bold text-[#FF3B30] uppercase tracking-widest shadow-xs">
-                # Jordan Chicago
+                {highlightProduct ? `# ${highlightProduct.brand}` : '# Catálogo'}
               </div>
               <div className="absolute bottom-4 left-4 bg-black border-2 border-white px-3 py-1.5 rounded-none font-mono text-[9px] font-bold text-white uppercase tracking-widest shadow-xs">
-                # Dunk Panda
+                {highlightProduct ? `# ${highlightProduct.category}` : '# Pais Store'}
               </div>
             </div>
           </div>

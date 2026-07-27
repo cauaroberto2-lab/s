@@ -1,15 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/admin",
-      "destination": "/index.html"
-    },
-    {
-      "source": "/admin/(.*)",
-      "destination": "/index.html"
-    },
-    {
-      "source": "/((?!assets/|src/|public/|products/|favicon.ico).*)",
+      "source": "/((?!assets/|catalog\\.json$|fallback-product\\.svg$|favicon\\.ico$).*)",
       "destination": "/index.html"
     }
   ]

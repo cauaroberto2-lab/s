@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { Product } from '../types';
+import { Product, ProductVariant } from '../types';
 import { SAMPLE_PRODUCTS, BRANDS, CATEGORIES } from '../data';
 
 const PRODUCTS_KEY = 'pais_store_catalog_products_v1';
@@ -11,7 +11,14 @@ const BRANDS_KEY = 'pais_store_catalog_brands_v1';
 const CATEGORIES_KEY = 'pais_store_catalog_categories_v1';
 const CONFIG_KEY = 'pais_store_catalog_config_v1';
 
-export interface AdminProduct extends Product {
+export interface AdminProduct extends Omit<Product, 'sourceId' | 'slug' | 'variants' | 'totalStock' | 'available' | 'sourceUrl' | 'lastSyncedAt'> {
+  sourceId?: string;
+  slug?: string;
+  variants?: ProductVariant[];
+  totalStock?: number;
+  available?: boolean;
+  sourceUrl?: string;
+  lastSyncedAt?: string;
   isActive: boolean; // Ativo / Inativo
   catalogueTab?: string; // e.g. 'lançamentos', 'mais-pedidos', 'sob-encomenda'
 }

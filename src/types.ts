@@ -1,20 +1,42 @@
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
- */
+/** A variante é a menor unidade de disponibilidade mostrada no catálogo. */
+export interface ProductVariant {
+  id: string;
+  size: string;
+  color: string;
+  stock: number;
+  available: boolean;
+}
 
+/**
+ * Dados públicos normalizados pela sincronização. Não existe campo de preço
+ * nesta estrutura: a Pais Store atende valores exclusivamente pelo WhatsApp.
+ */
 export interface Product {
   id: string;
+  sourceId: string;
+  slug: string;
   name: string;
   brand: string;
-  category: 'tenis' | 'roupas' | 'acessorios';
-  subCategory: 'Masculino' | 'Feminino' | 'Unissex' | 'Infantil';
-  images: string[]; // List of links
+  category: string;
+  subCategory: string;
   description: string;
-  sizes: string[]; // e.g., ['38', '39', '40', '41', '42']
-  colors: string[]; // e.g., ['Preto', 'Branco/Preto', 'Cinzento']
+  images: string[];
+  variants: ProductVariant[];
+  sizes: string[];
+  colors: string[];
+  totalStock: number;
+  available: boolean;
+  archived?: boolean;
+  sourceUrl: string;
+  lastSyncedAt: string;
+  sku?: string;
   badge?: 'Lançamento' | 'Mais Pedido' | 'Coleção Premium' | 'Por Encomenda';
   isFeatured?: boolean;
+}
+
+export interface CatalogData {
+  schemaVersion: 1;
+  products: Product[];
 }
 
 export interface InterestItem {
@@ -25,8 +47,8 @@ export interface InterestItem {
 }
 
 export interface FilterState {
-  category: string; // 'todos' | 'tenis' | 'roupas' | 'acessorios'
-  subCategory: string; // 'todos' | 'Masculino' | 'Feminino' | 'Infantil'
-  brand: string; // 'todos' or brand name
+  category: string;
+  brand: string;
+  size: string;
   search: string;
 }

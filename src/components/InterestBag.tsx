@@ -48,7 +48,8 @@ export default function InterestBag({
     items.forEach((item, index) => {
       message += `- *Item #${index + 1}:* ${item.product.name}\n` +
                  `  Tamanho desejado: ${item.selectedSize}\n` +
-                 `  Opção de Cor: ${item.selectedColor}\n\n`;
+                 `  Opção de Cor: ${item.selectedColor}\n` +
+                 `  Link Pais Store: ${window.location.origin}/produto/${item.product.slug}\n\n`;
     });
 
     if (extraNotes.trim()) {
