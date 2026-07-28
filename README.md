@@ -79,15 +79,25 @@ neutro só é usado quando não houver nenhuma foto válida.
 ### Configuração na Vercel
 
 Crie ou use um banco **Upstash Redis** e, em **Vercel → Project → Settings →
-Environment Variables**, cadastre para Production (e Preview se desejar testar):
+Environment Variables**, use um dos pares abaixo para Production (e Preview se
+desejar testar):
 
-- `UPSTASH_REDIS_REST_URL`
-- `UPSTASH_REDIS_REST_TOKEN`
+- `UPSTASH_REDIS_REST_URL` e `UPSTASH_REDIS_REST_TOKEN`; ou
+- `KV_REST_API_URL` e `KV_REST_API_TOKEN` — criados automaticamente pela integração oficial **Upstash for Redis** da Vercel.
+
+Quando os dois padrões existirem, o código prioriza `UPSTASH_REDIS_REST_URL` e
+`UPSTASH_REDIS_REST_TOKEN`. `KV_REST_API_READ_ONLY_TOKEN`, `KV_URL` e
+`REDIS_URL` não são usados para gravar o destaque. Não copie tokens para o
+frontend ou para o código: a função serverless os lê diretamente do ambiente
+da Vercel.
+
+Além do par Redis, a autenticação do administrador usa:
+
 - `ADMIN_FEATURED_WRITE_TOKEN` — credencial digitada no painel; use ao menos 32 caracteres aleatórios.
 - `ADMIN_FEATURED_SESSION_SECRET` — valor aleatório diferente, com ao menos 32 caracteres.
 - `ADMIN_FEATURED_ADMIN_ID` — opcional, usado para auditoria.
 
-Os dois valores do Upstash e os segredos administrativos não devem usar o
+Os valores do Redis e os segredos administrativos não devem usar o
 prefixo `VITE_`; eles só são lidos pelas funções serverless. Após cadastrá-los,
 faça um novo deployment. O arquivo `.env.example` contém os mesmos nomes sem
 valores reais.

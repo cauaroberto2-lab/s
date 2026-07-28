@@ -25,6 +25,7 @@ async function startServer(listener: (request: IncomingMessage, response: Server
 async function run() {
   const redisData = new Map<string, string>();
   let redisAvailable = true;
+  let expectedRedisToken = 'test-kv-rest-token';
   const redis = await startServer(async (request, response) => {
     if (!redisAvailable) {
       response.statusCode = 503;
@@ -32,7 +33,7 @@ async function run() {
       response.end(JSON.stringify({ error: 'temporary_unavailable' }));
       return;
     }
-    if (request.headers.authorization !== 'Bearer test-redis-token') {
+    if (request.headers.authorization !== `Bearer ${expectedRedisToken}`) {
       response.statusCode = 401;
       response.end(JSON.stringify({ error: 'unauthorized' }));
       return;
@@ -53,8 +54,11 @@ async function run() {
     response.end(JSON.stringify({ error: 'unsupported command' }));
   });
 
-  process.env.UPSTASH_REDIS_REST_URL = redis.origin;
-  process.env.UPSTASH_REDIS_REST_TOKEN = 'test-redis-token';
+  delete process.env.UPSTASH_REDIS_REST_URL;
+  delete process.env.UPSTASH_REDIS_REST_TOKEN;
+  process.env.KV_REST_API_URL = redis.origin;
+  process.env.KV_REST_API_TOKEN = expectedRedisToken;
+  process.env.KV_REST_API_READ_ONLY_TOKEN = 'read-only-token-must-not-be-used';
   process.env.ADMIN_FEATURED_WRITE_TOKEN = 'test-write-token-that-is-long-enough-123456';
   process.env.ADMIN_FEATURED_SESSION_SECRET = 'test-session-secret-that-is-long-enough-123456';
   process.env.ADMIN_FEATURED_ADMIN_ID = 'test-admin';
@@ -120,6 +124,13 @@ async function run() {
     assert.equal(independentSession.status, 200);
     assert.equal((await independentSession.json() as { featuredProductId: string }).featuredProductId, product.id, 'Uma sessão sem cookie deve receber o mesmo destaque global.');
 
+    expectedRedisToken = 'test-upstash-rest-token';
+    process.env.UPSTASH_REDIS_REST_URL = redis.origin;
+    process.env.UPSTASH_REDIS_REST_TOKEN = expectedRedisToken;
+    const prioritizedRead = await fetch(`${api.origin}/api/featured-product`);
+    assert.equal(prioritizedRead.status, 200, 'As variáveis UPSTASH devem ter prioridade quando ambas existirem.');
+    assert.equal((await prioritizedRead.json() as { featuredProductId: string }).featuredProductId, product.id);
+
     const invalidProduct = await fetch(`${api.origin}/api/featured-product`, {
       method: 'PUT',
       headers: { 'Content-Type': 'application/json', Cookie: sessionCookie, Origin: api.origin },
@@ -135,7 +146,7 @@ async function run() {
     const valueAfterFailure = await fetch(`${api.origin}/api/featured-product`);
     assert.equal((await valueAfterFailure.json() as { featuredProductId: string }).featuredProductId, product.id, 'Uma falha não pode sobrescrever o destaque salvo.');
 
-    console.log('Featured product API: autenticação, Redis, falha temporária e persistência entre sessões passaram.');
+    console.log('Featured product API: fallback KV, prioridade Upstash, autenticação, Redis, falha temporária e persistência entre sessões passaram.');
   } finally {
     api.server.close();
     redis.server.close();

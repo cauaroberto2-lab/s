@@ -25,14 +25,14 @@ interface FeaturedProductRecord {
 }
 
 function redisConfiguration() {
-  const url = process.env.UPSTASH_REDIS_REST_URL?.replace(/\/$/, '');
-  const token = process.env.UPSTASH_REDIS_REST_TOKEN;
+  const url = (process.env.UPSTASH_REDIS_REST_URL?.trim() || process.env.KV_REST_API_URL?.trim())?.replace(/\/$/, '');
+  const token = process.env.UPSTASH_REDIS_REST_TOKEN?.trim() || process.env.KV_REST_API_TOKEN?.trim();
   return url && token ? { url, token } : null;
 }
 
 async function redis(command: Array<string>) {
   const configuration = redisConfiguration();
-  if (!configuration) throw new Error('Configure UPSTASH_REDIS_REST_URL e UPSTASH_REDIS_REST_TOKEN na Vercel.');
+  if (!configuration) throw new Error('Configure UPSTASH_REDIS_REST_URL ou KV_REST_API_URL e UPSTASH_REDIS_REST_TOKEN ou KV_REST_API_TOKEN na Vercel.');
 
   const response = await fetch(configuration.url, {
     method: 'POST',
