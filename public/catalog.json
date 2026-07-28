@@ -968,7 +968,7 @@
           "id": "1562885970",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -1009,11 +1009,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-nude-pink-1ylm3/",
-      "lastSyncedAt": "2026-07-28T01:05:53.320Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "950"
     },
     {
@@ -1827,15 +1827,15 @@
           "id": "1564413981",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564413982",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1564413985",
@@ -1858,7 +1858,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-drop-step-preto-grafite-qd4ab/",
-      "lastSyncedAt": "2026-07-28T15:19:51.190Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "969"
     },
     {
@@ -2144,7 +2144,7 @@
           "id": "1548990652",
           "size": "38",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -2164,11 +2164,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-creme-branco-1d0ii/",
-      "lastSyncedAt": "2026-07-28T15:19:51.190Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "869"
     },
     {
@@ -12149,42 +12149,42 @@
           "id": "1510151094",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1510151095",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1510151096",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1510151097",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1510151098",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1510151099",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         }
       ],
@@ -12197,11 +12197,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 24,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-all-black-ijaav/",
-      "lastSyncedAt": "2026-07-28T18:19:19.869Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "477"
     },
     {
@@ -15399,7 +15399,7 @@
           "id": "1565180794",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -15441,11 +15441,11 @@
         "44"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/fleck-3-all-black-metjp/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "979"
     },
     {
@@ -16825,7 +16825,7 @@
           "id": "1405149500",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -16884,11 +16884,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-07-28T15:19:51.190Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "74"
     },
     {
@@ -18256,6 +18256,82 @@
       "sku": "736"
     },
     {
+      "id": "dx-358092311",
+      "sourceId": "358092311",
+      "slug": "forum-black-white-nobuk-358092311",
+      "name": "FORUM BLACK/WHITE NOBUK",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "FORÚM",
+      "description": "FORUM BLACK/WHITE NOBUK – Estilo Urbano com Conforto e Durabilidade Conheça o FORUM BLACK/WHITE NOBUK, o tênis ideal para quem busca um visual moderno e versátil, aliado a conforto e resistência para o dia a dia. Seu design em grafite com detalhes em látex traz um toque contemporâneo que combina com diversos estilos, do casual ao esportivo. Por que escolher o FORUM BLACK/WHITE NOBUK? Design moderno e sofisticado: acabamento em grafite com textura latex, perfeito para quem quer se destacar com elegância sem abrir mão do estilo. Conforto prolongado: palmilha macia e solado emborrachado proporcionam suporte e absorção de impactos para você caminhar com leveza o dia todo. Durabilidade garantida: materiais selecionados e costuras reforçadas asseguram resistência para acompanhar seu ritmo, mantendo a qualidade longa após o uso contínuo. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-15-48-26-fd594ed0c4db19f49e17852668807596-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-15-48-28-80c81dcc2530c5afec17852668806122-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-15-48-27-634f439f1b8e70784417852668806150-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-15-48-29-b91571f8251bada31517852668807893-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-15-48-30-147ec8324c542c447c17852668806518-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1566956711",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1566956712",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1566956714",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1566956715",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1566956716",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1566956717",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-black-white-nobuk-1gz2a/",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
+      "sku": "987"
+    },
+    {
       "id": "dx-322581821",
       "sourceId": "322581821",
       "slug": "forum-branco-cinza-322581821",
@@ -19475,7 +19551,7 @@
           "id": "1438069893",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -19555,11 +19631,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-branco-off-oxovh/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "562"
     },
     {
@@ -19746,6 +19822,117 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-natural-cafe-4rax4/",
       "lastSyncedAt": "2026-07-27T21:06:00.994Z",
       "sku": "422"
+    },
+    {
+      "id": "dx-358079271",
+      "sourceId": "358079271",
+      "slug": "hylane-off-coffe-358079271",
+      "name": "HYLANE OFF/COFFE",
+      "brand": "Vans",
+      "category": "Tênis",
+      "subCategory": "HYLANE",
+      "description": "HYLANE OFF/COFFE – Conforto e Estilo para Todos os Momentos Conheça o HYLANE OFF/COFFE, um tênis que combina design moderno com conforto excepcional, ideal para quem valoriza qualidade e versatilidade no dia a dia. Seu visual clean em tom branco off-white traz um toque de sofisticação discreta, perfeito para diversas ocasiões, do casual ao esportivo. Por que escolher o HYLANE OFF/COFFE? Design Elegante e Atemporal: O tom branco off confere um estilo neutro e fácil de combinar com diferentes looks, garantindo um visual sempre atual. Conforto Imbatível: Fabricado com materiais de alta qualidade e palmilha macia, o HYLANE proporciona conforto prolongado, ideal para acompanhar você em qualquer atividade. Durabilidade e Resistência: Com acabamento cuidadoso e solado resistente, este tênis garante longa vida útil e ótima aderência a cada passo. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-15-20-06-32dac2a365c49a726517852639564341-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-15-20-09-dc4cacbae84512541317852639563851-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-15-20-03-3de3a836cf22432c7b17852639566138-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-15-20-04-3333468b18a706ff3f17852639562451-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-15-20-07-507a7cb0385c209dc817852639564393-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-15-20-12-5a77f1dd57c7766e4217852639563422-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-15-20-13-e0139f18d8dcf2f55617852639562518-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-15-20-15-bfef4125ce81f04f7a17852639562427-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1566916414",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1566916415",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1566916417",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1566916418",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1566916419",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1566916420",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1566916421",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1566916422",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1566916424",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1566916425",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 24,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-off-coffe-132z6/",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
+      "sku": "986"
     },
     {
       "id": "dx-357512772",
@@ -23016,7 +23203,7 @@
           "id": "1409296767",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -23075,11 +23262,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 39,
+      "totalStock": 38,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/knu-skool-preto-branco-4p3cp/",
-      "lastSyncedAt": "2026-07-28T18:19:19.869Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "195"
     },
     {
@@ -24915,7 +25102,7 @@
           "id": "1414822660",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -24935,11 +25122,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-1ib5e/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "421"
     },
     {
@@ -26177,7 +26364,7 @@
           "id": "1565211868",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -26197,11 +26384,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-grafite-off-white-158m2/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "982"
     },
     {
@@ -26348,8 +26535,8 @@
           "id": "1559563108",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559563109",
@@ -26374,11 +26561,11 @@
         "40"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-530-branco-marinho-17269/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "926"
     },
     {
@@ -28040,7 +28227,7 @@
           "id": "1560166325",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -28067,11 +28254,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-zoom-invincible-run-3-lilas-10tok/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "943"
     },
     {
@@ -29546,7 +29733,7 @@
           "id": "1009089418",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -29580,11 +29767,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-preto-pink-xe683/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "29"
     },
     {
@@ -32071,6 +32258,84 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sambae-branco-verde-ztpf6/",
       "lastSyncedAt": "2026-07-27T21:06:00.994Z",
       "sku": "883"
+    },
+    {
+      "id": "dx-358096611",
+      "sourceId": "358096611",
+      "slug": "sb-malor-preto-branco-358096611",
+      "name": "SB MALOR PRETO BRANCO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "NIKE",
+      "description": "SB MALOR PRETO BRANCO – Estilo Urbano com Conforto e Durabilidade Conheça o SB MALOR PRETO BRANCO , o tênis ideal para quem busca um visual moderno e versátil, aliado a conforto e resistência para o dia a dia. Seu design em grafite com detalhes em látex traz um toque contemporâneo que combina com diversos estilos, do casual ao esportivo. Por que escolher o SB MALOR PRETO BRANCO ? Design moderno e sofisticado: acabamento em grafite com textura latex, perfeito para quem quer se destacar com elegância sem abrir mão do estilo. Conforto prolongado: palmilha macia e solado emborrachado proporcionam suporte e absorção de impactos para você caminhar com leveza o dia todo. Durabilidade garantida: materiais selecionados e costuras reforçadas asseguram resistência para acompanhar seu ritmo, mantendo a qualidade longa após o uso contínuo. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-16-23-44-85a04fee67b0f2343a17852676339079-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-16-23-45-8690a1ef4261bc4c9417852676339604-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-16-23-43-097cac9c228b65c0c117852676339773-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-16-23-42-297c300c30fe38f32517852676339169-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-16-23-41-d57ab62e885eb638ae17852676338675-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-16-23-40-036d209faeb64a5ef017852676340065-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-16-23-38-2c70089cc995f9a65c17852676340302-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1566970500",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1566970501",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1566970502",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1566970504",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1566970506",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1566970507",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/sb-malor-preto-branco-1c7yg/",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
+      "sku": "988"
     },
     {
       "id": "dx-317834710",
@@ -34728,8 +34993,8 @@
           "id": "1410589497",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410589499",
@@ -34752,11 +35017,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-verde-off-jilr9/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
       "sku": "217"
     },
     {
