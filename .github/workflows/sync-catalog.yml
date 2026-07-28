@@ -3,14 +3,14 @@ name: Sincronizar catálogo DX Store
 on:
   schedule:
     # Melhor esforço: o GitHub Actions pode atrasar execuções agendadas.
-    - cron: '*/15 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: pais-store-catalog-sync
+  group: sync-catalog
   cancel-in-progress: false
 
 jobs:
@@ -19,6 +19,9 @@ jobs:
     steps:
       - name: Obter código
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Preparar Node.js
         uses: actions/setup-node@v4
@@ -51,12 +54,72 @@ jobs:
       - name: Publicar alteração real do catálogo
         shell: bash
         run: |
-          if git diff --quiet -- public/catalog.json; then
+          set -euo pipefail
+
+          catalog_path="public/catalog.json"
+          generated_catalog="$RUNNER_TEMP/catalog.generated.json"
+          cp "$catalog_path" "$generated_catalog"
+
+          # O scraper pode terminar enquanto outros commits entram na main.
+          # Salva o JSON gerado, atualiza tudo o mais a partir do remoto e só
+          # então reaplica a versão recém-validada do catálogo.
+          git fetch origin main
+          git reset --hard origin/main
+          git checkout -B main origin/main
+          cp "$generated_catalog" "$catalog_path"
+
+          if git diff --quiet -- "$catalog_path"; then
             echo "Nenhuma mudança real no catálogo; nenhum commit criado."
             exit 0
           fi
+
           git config user.name "pais-store-sync[bot]"
           git config user.email "pais-store-sync[bot]@users.noreply.github.com"
-          git add public/catalog.json
+          git add "$catalog_path"
           git commit -m "chore: sincroniza catálogo"
-          git push
+
+          for attempt in 1 2; do
+            if git push origin HEAD:main; then
+              echo "Catálogo publicado com sucesso na tentativa $attempt."
+              exit 0
+            fi
+
+            if [ "$attempt" -eq 2 ]; then
+              echo "Não foi possível publicar o catálogo após duas tentativas, sem usar push --force." >&2
+              exit 1
+            fi
+
+            echo "A main mudou durante o push; reaplicando o catálogo gerado sobre origin/main."
+            git fetch origin main
+            if ! git rebase origin/main; then
+              mapfile -t conflict_files < <(git diff --name-only --diff-filter=U)
+              if [ "${#conflict_files[@]}" -ne 1 ] || [ "${conflict_files[0]}" != "$catalog_path" ]; then
+                echo "Conflito fora de $catalog_path; a publicação foi interrompida para preservar a branch remota." >&2
+                git rebase --abort
+                exit 1
+              fi
+              cp "$generated_catalog" "$catalog_path"
+              git add "$catalog_path"
+              if ! GIT_EDITOR=true git rebase --continue; then
+                if git diff --quiet && git diff --cached --quiet; then
+                  git rebase --skip
+                else
+                  echo "Não foi possível concluir o conflito de $catalog_path sem alterar outros arquivos." >&2
+                  exit 1
+                fi
+              fi
+            fi
+
+            # Mesmo sem conflito textual, a versão validada pelo scraper é a
+            # fonte de verdade para este único arquivo; os demais arquivos
+            # permanecem exatamente como vieram de origin/main.
+            cp "$generated_catalog" "$catalog_path"
+            git add "$catalog_path"
+            if ! git diff --cached --quiet; then
+              if [ "$(git log -1 --format=%s)" = "chore: sincroniza catálogo" ] && [ "$(git log -1 --format=%ae)" = "pais-store-sync[bot]@users.noreply.github.com" ]; then
+                git commit --amend --no-edit
+              else
+                git commit -m "chore: sincroniza catálogo"
+              fi
+            fi
+          done
