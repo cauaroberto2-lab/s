@@ -13016,8 +13016,8 @@
           "id": "1557376325",
           "size": "29",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1557376326",
@@ -13059,11 +13059,11 @@
         "33"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-kids-1ogor/",
-      "lastSyncedAt": "2026-07-28T22:56:39.417Z",
+      "lastSyncedAt": "2026-07-28T23:58:59.149Z",
       "sku": "917"
     },
     {
@@ -34657,7 +34657,7 @@
           "id": "1558994067",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -34698,11 +34698,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-old-skool-preto-off-rosa-1nz59/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-28T23:58:59.149Z",
       "sku": "920"
     },
     {
