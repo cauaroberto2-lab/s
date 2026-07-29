@@ -1385,8 +1385,8 @@
           "id": "1567414047",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -1398,11 +1398,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-marrom-1d9ct/",
-      "lastSyncedAt": "2026-07-29T17:47:12.482Z",
+      "lastSyncedAt": "2026-07-29T22:31:19.081Z",
       "sku": "991"
     },
     {
@@ -1517,14 +1517,14 @@
           "id": "1464323001",
           "size": "41",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1464323002",
           "size": "40",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -1551,11 +1551,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-preto-1ovpe/",
-      "lastSyncedAt": "2026-07-29T16:00:38.321Z",
+      "lastSyncedAt": "2026-07-29T22:31:19.081Z",
       "sku": "797"
     },
     {
@@ -3801,8 +3801,8 @@
           "id": "1549273849",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -3814,11 +3814,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-boston-11-preto-branco-1j5gp/",
-      "lastSyncedAt": "2026-07-29T19:13:25.738Z",
+      "lastSyncedAt": "2026-07-29T22:31:19.081Z",
       "sku": "870"
     },
     {
@@ -10069,7 +10069,7 @@
           "id": "1397511584",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -10142,11 +10142,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-bege-4qee6/",
-      "lastSyncedAt": "2026-07-29T19:13:25.738Z",
+      "lastSyncedAt": "2026-07-29T22:31:19.081Z",
       "sku": "116"
     },
     {
@@ -11644,8 +11644,8 @@
           "id": "1562336524",
           "size": "M",
           "color": "Azul",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1562336527",
@@ -11736,11 +11736,11 @@
         "Verde",
         "Preto"
       ],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/conjunto-tommy-hilfinger-bx5ow/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-29T22:31:19.081Z",
       "sku": "874"
     },
     {
@@ -16683,7 +16683,7 @@
           "id": "1553647458",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -16703,11 +16703,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-cinza-branco-latex-16moz/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-29T22:31:19.081Z",
       "sku": "134"
     },
     {
@@ -18072,7 +18072,7 @@
           "id": "1563353563",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -18096,11 +18096,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-preto-off-xl1j0/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-29T22:31:19.081Z",
       "sku": "127"
     },
     {
@@ -22103,6 +22103,116 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/low-edition-chicago-bulls-white-6b94q/",
       "lastSyncedAt": "2026-07-27T21:06:00.994Z",
       "sku": "845"
+    },
+    {
+      "id": "dx-358338595",
+      "sourceId": "358338595",
+      "slug": "jordan-low-panda-reverse-358338595",
+      "name": "JORDAN LOW PANDA REVERSE",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "JORDAN",
+      "description": "Tênis JORDAN LOW PANDA REVERSE – Linha Luxo de Alta Qualidade Apresentamos o JORDAN LOW PANDA REVERSE, um calçado que une o melhor do estilo contemporâneo com o conforto e a durabilidade que você procura. Parte da exclusiva Linha Luxo, este tênis é a escolha ideal para quem valoriza qualidade superior e design sofisticado. Por que escolher o JORDAN LOW PANDA REVERSE? Design Moderno e Versátil Combinando o clássico preto e branco, o Tênis 180 oferece um visual impactante e elegante que se adapta facilmente a diferentes ocasiões, do dia a dia casual a eventos mais despojados. Conforto e Ajuste Perfeitos Fabricado com materiais de alta qualidade, este tênis possui palmilha acolchoada que garante maciez e suporte ideal para seus pés, proporcionando conforto durante todo o uso, seja em passeios ou atividades intensas. Durabilidade e Acabamento Premium Com atenção aos mínimos detalhes, o Tênis JORDAN LOW PANDA REVERSEmantém sua forma, cor e resistência mesmo após uso frequente. A Linha Luxo assegura um acabamento refinado e alta qualidade para acompanhar seu ritmo com estilo. Tamanhos Disponíveis Escolha o tamanho ideal para você, conforme o comprimento do seu pé (de 38 a 43 cm): | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Basta enviar um vídeo original do tênis, sem sinais de uso, para garantir a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-17-41-06-053563adc406ba741f17853615301763-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-17-50-06-fee9c779a1a0866a3217853615302673-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-17-43-14-6edfaa7f55ace7596217853615302052-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-17-43-18-894322a7d67d0c0b0017853615302842-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-17-44-11-66be3d02cfedcac05717853615305454-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-17-44-46-89f21e82d4d663334317853615303165-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-17-56-30-4bef731b7d23873aa217853615302594-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-28-at-17-56-33-b5680ebb4f2f69c38517853615302605-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1567748517",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1567748518",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1567748520",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1567748521",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1567748522",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1567748523",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 5,
+          "available": true
+        },
+        {
+          "id": "1567748524",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1567748527",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 6,
+          "available": true
+        },
+        {
+          "id": "1567748528",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1567748529",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 31,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-panda-reverse-gauzm/",
+      "lastSyncedAt": "2026-07-29T22:31:19.081Z"
     },
     {
       "id": "dx-321040599",
@@ -26829,8 +26939,8 @@
           "id": "1565211868",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1565211869",
@@ -26849,11 +26959,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-grafite-off-white-158m2/",
-      "lastSyncedAt": "2026-07-28T20:00:43.985Z",
+      "lastSyncedAt": "2026-07-29T22:31:19.081Z",
       "sku": "982"
     },
     {
