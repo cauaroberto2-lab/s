@@ -12331,7 +12331,7 @@
           "id": "1555931378",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -12351,11 +12351,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-ligth-smoke-gray-9rgf1/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-29T14:06:24.649Z",
       "sku": "903"
     },
     {
@@ -12965,42 +12965,42 @@
           "id": "1401232948",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1401232953",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1401232957",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 7,
           "available": true
         },
         {
           "id": "1401232962",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1401232968",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1401232972",
           "size": "39",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 7,
           "available": true
         },
         {
@@ -13045,11 +13045,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 42,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-29T14:06:24.649Z",
       "sku": "166"
     },
     {
@@ -19969,8 +19969,8 @@
           "id": "1472795320",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1472795321",
@@ -20049,11 +20049,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-natural-cafe-4rax4/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-29T14:06:24.649Z",
       "sku": "422"
     },
     {
@@ -25935,8 +25935,8 @@
           "id": "1527850793",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527850794",
@@ -25955,11 +25955,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-marrom-off-14ab4/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-29T14:06:24.649Z",
       "sku": "781"
     },
     {
@@ -26073,8 +26073,8 @@
           "id": "1404734486",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1404734489",
@@ -26087,8 +26087,8 @@
           "id": "1404734491",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1404734493",
@@ -26139,11 +26139,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-branco-0qo43/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-29T14:06:24.649Z",
       "sku": "67"
     },
     {
@@ -31159,8 +31159,8 @@
           "id": "1493937920",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -31172,11 +31172,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-suede-xl-creme-preto-1wnwq/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-29T14:06:24.649Z",
       "sku": "376"
     },
     {
