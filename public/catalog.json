@@ -159,8 +159,8 @@
           "id": "1504176792",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1504176795",
@@ -211,11 +211,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-07-29T19:13:25.738Z",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
       "sku": "715"
     },
     {
@@ -642,7 +642,7 @@
           "id": "1544191174",
           "size": "37",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -701,11 +701,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-1qzac/",
-      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
       "sku": "840"
     },
     {
@@ -3929,8 +3929,8 @@
           "id": "1559647185",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559647186",
@@ -3970,11 +3970,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-preto-rosa-1muc3/",
-      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
       "sku": "932"
     },
     {
@@ -12904,6 +12904,84 @@
       "sku": "930"
     },
     {
+      "id": "dx-358528718",
+      "sourceId": "358528718",
+      "slug": "dunk-low-bege-preto-358528718",
+      "name": "DUNK LOW BEGE PRETO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "DUNK LOW",
+      "description": "DUNK LOW BEGE PRETO – Linha Luxo de Alta Qualidade Descubra o DUNK LOW BEGE PRETO, um calçado que une estilo sofisticado, conforto superior e alta durabilidade. Parte da nossa exclusiva Linha Luxo, este modelo é perfeito para quem valoriza qualidade premium e deseja um visual moderno e elegante. Por que escolher o DUNK LOW BEGE PRETO? Design Elegante e Atemporal: O tom marinho confere um ar clássico e versátil, ideal para compor looks casuais e também mais refinados. Conforto Impecável: Fabricado com materiais de alta qualidade, possui palmilha acolchoada que garante maciez e suporte para seus pés durante todo o dia. Durabilidade e Resistência: Com acabamento primoroso e solado robusto, oferece excelente aderência e longa vida útil. Disponível do 38 ao 43: Encontre o tamanho perfeito para seu pé e tenha o melhor ajuste possível. Tabela de Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25,0 | | 39 | 26,0 | | 40 | 27,0 | | 41 | 27,5 | | 42 | 29,0 | | 43 | 29,5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-53-59-2cba1c98a022953b2f17854433837556-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-54-02-7efedbc93b428eb47617854433837388-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-54-00-ee4a92f32c4c4150e017854433836982-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-54-01-ef640a400ec22b512817854433836801-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-54-03-1728761af9769983bb17854433836987-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-54-04-f924c91de03bea7eb417854433839560-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-54-05-7ecd88312560ef962917854433837466-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1568328181",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1568328182",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568328183",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1568328185",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1568328186",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568328187",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-bege-preto-1yonz/",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
+      "sku": "999"
+    },
+    {
       "id": "dx-320550278",
       "sourceId": "320550278",
       "slug": "dunk-low-bordo-branco-320550278",
@@ -13087,8 +13165,8 @@
           "id": "1403805232",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1403805243",
@@ -13111,11 +13189,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-088mg/",
-      "lastSyncedAt": "2026-07-29T17:47:12.482Z",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
       "sku": "175"
     },
     {
@@ -13353,14 +13431,14 @@
           "id": "1401232948",
           "size": "34",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 7,
           "available": true
         },
         {
           "id": "1401232953",
           "size": "35",
           "color": "Padrão",
-          "stock": 8,
+          "stock": 10,
           "available": true
         },
         {
@@ -13433,11 +13511,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 77,
+      "totalStock": 80,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-07-29T20:29:53.065Z",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
       "sku": "166"
     },
     {
@@ -20447,6 +20525,84 @@
       "sku": "823"
     },
     {
+      "id": "dx-358539676",
+      "sourceId": "358539676",
+      "slug": "hylane-canela-rose-off-358539676",
+      "name": "HYLANE CANELA ROSE OFF",
+      "brand": "Vans",
+      "category": "Tênis",
+      "subCategory": "HYLANE",
+      "description": "Tênis HYLANE CANELA ROSE OFF – Linha Luxo de Alta Qualidade Descubra o HYLANE CANELA ROSE OFF, um calçado que une estilo sofisticado, conforto superior e alta durabilidade. Parte da nossa exclusiva Linha Luxo, este modelo é perfeito para quem valoriza qualidade premium e deseja um visual moderno e elegante. Por que escolher o HYLANE CANELA ROSE OFF? Design Elegante e Atemporal: O tom marinho confere um ar clássico e versátil, ideal para compor looks casuais e também mais refinados. Conforto Impecável: Fabricado com materiais de alta qualidade, possui palmilha acolchoada que garante maciez e suporte para seus pés durante todo o dia. Durabilidade e Resistência: Com acabamento primoroso e solado robusto, oferece excelente aderência e longa vida útil. Disponível do 38 ao 43: Encontre o tamanho perfeito para seu pé e tenha o melhor ajuste possível. Tabela de Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25,0 | | 39 | 26,0 | | 40 | 27,0 | | 41 | 27,5 | | 42 | 29,0 | | 43 | 29,5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-16-06-49-3cc6c24645a7ee941a17854453145062-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-16-06-55-96aa7250a2b5cf1ae217854453144797-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-16-06-51-db75231fc3a84170e617854453143868-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-16-06-50-8c24868b1835ac5e1617854453145123-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-16-06-51-1-2b943db9f4353ff67617854453144066-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-16-06-52-4792160265a9d6afd417854453144314-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-16-06-56-5fe4e25d79d268715417854453144309-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1568358433",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1568358434",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568358435",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1568358436",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1568358437",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568358438",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-canela-rose-off-b0wxr/",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
+      "sku": "1000"
+    },
+    {
       "id": "dx-330960467",
       "sourceId": "330960467",
       "slug": "hylane-natural-cafe-330960467",
@@ -27396,42 +27552,42 @@
           "id": "1407307685",
           "size": "34",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1407307692",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1407307700",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1407307704",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1407307710",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1407307717",
           "size": "39",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 6,
           "available": true
         },
         {
@@ -27476,11 +27632,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 33,
+      "totalStock": 46,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-07-29T20:29:53.065Z",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
       "sku": "205"
     },
     {
@@ -29658,7 +29814,7 @@
           "id": "1413219685",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -29685,11 +29841,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/cloudeclipse-marrom-rpiqj/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
       "sku": "509"
     },
     {
@@ -32495,6 +32651,84 @@
       "sku": "404"
     },
     {
+      "id": "dx-358543543",
+      "sourceId": "358543543",
+      "slug": "samba-camurca-cinza-358543543",
+      "name": "SAMBA CAMURÇA CINZA",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "SAMBA",
+      "description": "Tênis SAMBA CAMURÇA CINZA – Linha Luxo de Alta Qualidade Descubra o SAMBA CAMURÇA CINZA, um calçado que une estilo sofisticado, conforto superior e alta durabilidade. Parte da nossa exclusiva Linha Luxo, este modelo é perfeito para quem valoriza qualidade premium e deseja um visual moderno e elegante. Por que escolher o SAMBA CAMURÇA CINZA? Design Elegante e Atemporal: O tom marinho confere um ar clássico e versátil, ideal para compor looks casuais e também mais refinados. Conforto Impecável: Fabricado com materiais de alta qualidade, possui palmilha acolchoada que garante maciez e suporte para seus pés durante todo o dia. Durabilidade e Resistência: Com acabamento primoroso e solado robusto, oferece excelente aderência e longa vida útil. Disponível do 38 ao 43: Encontre o tamanho perfeito para seu pé e tenha o melhor ajuste possível. Tabela de Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25,0 | | 39 | 26,0 | | 40 | 27,0 | | 41 | 27,5 | | 42 | 29,0 | | 43 | 29,5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-55-13-86307b56f13300126717854461285336-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-55-16-97a172187451b6de4517854461285675-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-55-14-aa3f515435c6bfcc2a17854461281488-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-55-15-3ee9a2cd67b29b7aa317854461282423-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-55-17-e65e2e73271b25a22417854461281837-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-55-18-5666642abdc95e32a517854461282367-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-55-19-58c38cfc8f0e7428cb17854461282298-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1568370055",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1568370059",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568370061",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1568370063",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568370064",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1568370065",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-camurca-cinza-7lqdg/",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
+      "sku": "1001"
+    },
+    {
       "id": "dx-316268712",
       "sourceId": "316268712",
       "slug": "samba-classico-branco-preto-316268712",
@@ -33325,7 +33559,7 @@
           "id": "1567065593",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -33345,11 +33579,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sb-malor-coffe-black-fjefx/",
-      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
       "sku": "989"
     },
     {
@@ -33615,6 +33849,84 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-cinza-storm-dzidh/",
       "lastSyncedAt": "2026-07-28T15:19:51.190Z",
       "sku": "911"
+    },
+    {
+      "id": "dx-358524805",
+      "sourceId": "358524805",
+      "slug": "sl-gafite-off-white-pro-358524805",
+      "name": "SL GAFITE OFF WHITE PRO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "ADIDAS",
+      "description": "Tênis SL GAFITE OFF WHITE PRO – Linha Luxo de Alta Qualidade Descubra o Tênis SL GAFITE OFF WHITE PRO, um calçado que une estilo sofisticado, conforto superior e alta durabilidade. Parte da nossa exclusiva Linha Luxo, este modelo é perfeito para quem valoriza qualidade premium e deseja um visual moderno e elegante. Por que escolher o SL GAFITE OFF WHITE PRO? Design Elegante e Atemporal: O tom marinho confere um ar clássico e versátil, ideal para compor looks casuais e também mais refinados. Conforto Impecável: Fabricado com materiais de alta qualidade, possui palmilha acolchoada que garante maciez e suporte para seus pés durante todo o dia. Durabilidade e Resistência: Com acabamento primoroso e solado robusto, oferece excelente aderência e longa vida útil. Disponível do 38 ao 43: Encontre o tamanho perfeito para seu pé e tenha o melhor ajuste possível. Tabela de Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25,0 | | 39 | 26,0 | | 40 | 27,0 | | 41 | 27,5 | | 42 | 29,0 | | 43 | 29,5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-09-25-192cfdaef9e99cf73017854424599613-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-09-28-206f8de73318cf560d17854424601003-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-09-26-6d5265aa2faa3c689017854424600720-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-09-27-7e9854c03728ecf8a517854424601215-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-09-28-1-093b9306fb310ab2e317854424600979-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-09-29-f74ad7fa22a09e174617854424599728-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-09-30-ac979b6287de7cc9d917854424600191-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1568313350",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1568313351",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568313352",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1568313353",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1568313354",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568313355",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-gafite-off-white-pro-hhh6e/",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
+      "sku": "998"
     },
     {
       "id": "dx-358520784",
@@ -34142,7 +34454,7 @@
           "id": "1555665372",
           "size": "40/41",
           "color": "Bege",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -34192,11 +34504,11 @@
         "Preto",
         "Cinza"
       ],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/slide-mind-preto-d2p85/",
-      "lastSyncedAt": "2026-07-28T21:37:57.278Z",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
       "sku": "897"
     },
     {
@@ -35037,6 +35349,83 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-hylane-caramelo-castor-w5pie/",
       "lastSyncedAt": "2026-07-30T17:25:18.672Z",
       "sku": "971"
+    },
+    {
+      "id": "dx-343867402",
+      "sourceId": "343867402",
+      "slug": "vans-hylane-kinit-bege-343867402",
+      "name": "VANS HYLANE KINIT BEGE",
+      "brand": "Vans",
+      "category": "Tênis",
+      "subCategory": "HYLANE",
+      "description": "TÊNIS VANS HYLANE KINIT BEGE – Linha Luxo de Alta Qualidade Apresentamos o Tênis Vans Hylane Kinit Bege, um calçado sofisticado que une conforto, estilo e durabilidade para você que valoriza produtos premium da nossa exclusiva Linha Luxo. Por que escolher o Vans Hylane Kinit Bege? Design Moderno e Versátil Com um tom bege elegante e acabamento refinado, o Vans Hylane Kinit se encaixa perfeitamente em diferentes estilos, do casual ao urbano, oferecendo um visual discreto e ao mesmo tempo marcante. Conforto e Ajuste Perfeito Produzido com materiais de alta qualidade, este tênis conta com palmilha macia e sola flexível que proporcionam conforto prolongado durante todo o uso — ideal para o dia a dia ou momentos de lazer. Durabilidade e Acabamento Premium Fabricado com atenção especial aos detalhes, o Vans Hylane Kinit mantém sua estrutura e aparência mesmo após uso constante, garantindo um excelente custo-benefício para quem busca qualidade. Tamanhos Disponíveis (Brasil) | Tamanho (BR) | Comprimento Aproximado do Pé (cm) | |--------------|----------------------------------| | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho ideal, garantindo conforto e segurança a cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, pedimos que envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-13-at-17-09-31-a2c39b0f329eb236d017787031278364-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-13-at-17-09-33-9cd3df9cae09335e8117787031278306-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-13-at-17-09-24-1-39e0877049e33e0d1b17787031278437-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-13-at-17-09-30-11b05d5a7497a333d917787031278725-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-13-at-17-09-28-3f345cf5424f1b39ec17787031278478-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-13-at-17-09-34-c8f817c9167a36741d17787031278282-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1523892020",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1523892022",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1523892024",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1523892025",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1523892027",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1523892028",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 2,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-hylane-kinit-bege-1ejvy/",
+      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
+      "sku": "758"
     },
     {
       "id": "dx-357316198",
