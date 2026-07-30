@@ -635,8 +635,8 @@
           "id": "1544191173",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1544191174",
@@ -701,12 +701,90 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-1qzac/",
-      "lastSyncedAt": "2026-07-30T17:25:18.672Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "840"
+    },
+    {
+      "id": "dx-349587354",
+      "sourceId": "349587354",
+      "slug": "9060-branco-cinza-refletivo-349587354",
+      "name": "9060 BRANCO CINZA REFLETIVO",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "Tênis 9060 Branco Cinza Refletivo – Linha Luxo de Alta Qualidade Apresentamos o Tênis 9060 Branco Cinza Refletivo, um calçado que une design moderno, conforto máximo e resistência superior, ideal para quem busca o melhor da nossa exclusiva Linha Luxo. Por que escolher o Tênis 9060 Branco Cinza Refletivo? Design Sofisticado e Atual Com detalhes em cinza refletivo que garantem estilo e segurança, este tênis apresenta uma combinação elegante entre o branco clássico e o cinza moderno, perfeito para compor looks urbanos e casuais com personalidade. Conforto e Ajuste Perfeito Produzido com materiais de alta qualidade e palmilha acolchoada, o 9060 oferece maciez e suporte para seus pés durante todo o dia. Sua construção garante um encaixe confortável, ideal para quem está sempre em movimento. Durabilidade e Acabamento Premium A fabricação cuidadosa e os acabamentos refinados da Linha Luxo asseguram que seu tênis mantenha a forma e a beleza mesmo após uso frequente, acompanhando seu ritmo sem perder o estilo. Tamanhos Disponíveis Escolha o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-09-at-17-42-01-8590d6aa005cec3ece17810978613512-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-09-at-17-34-01-518ecdd1f69813d23617810978611084-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-09-at-17-42-01-1-2e6fd9dc467ba7dd4b17810978612280-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-09-at-17-33-40-51250d3f8bb3e6751a17810978610448-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-09-at-17-33-40-1-2db49243f1ade6a6d517810978611240-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-09-at-17-33-41-7a79e69840d662cab917810978610842-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-09-at-17-42-02-44a96faf239c6ed86217810978610938-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1540896502",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1540896503",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1540896504",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1540896505",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1540896506",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1540896507",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-refletivo-vjgt2/",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
+      "sku": "820"
     },
     {
       "id": "dx-357100201",
@@ -885,42 +963,42 @@
           "id": "1567125079",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1567125081",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1567125083",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1567125087",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1567125089",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1567125091",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         }
       ],
@@ -933,11 +1011,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-creme-off-prata-a0wib/",
-      "lastSyncedAt": "2026-07-30T15:30:49.322Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "990"
     },
     {
@@ -2380,8 +2458,8 @@
           "id": "1528491066",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -2393,11 +2471,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-otelo-verde-militar-1s54d/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "71"
     },
     {
@@ -3380,8 +3458,8 @@
           "id": "1529059499",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1529059501",
@@ -3428,11 +3506,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-urban-two-pro-preto-branco-yhf2y/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "795"
     },
     {
@@ -3851,8 +3929,8 @@
           "id": "1559647185",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1559647186",
@@ -3892,11 +3970,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-preto-rosa-1muc3/",
-      "lastSyncedAt": "2026-07-30T17:25:18.672Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "932"
     },
     {
@@ -10258,6 +10336,84 @@
       "sku": "727"
     },
     {
+      "id": "dx-358484876",
+      "sourceId": "358484876",
+      "slug": "campus-cacau-gold-358484876",
+      "name": "CAMPUS CACAU GOLD",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "CAMPUS",
+      "description": "CAMPUS CACAU GOLD – Linha Luxo de Alta Qualidade Descubra o CAMPUS CACAU GOLD, um calçado que une estilo sofisticado, conforto superior e alta durabilidade. Parte da nossa exclusiva Linha Luxo, este modelo é perfeito para quem valoriza qualidade premium e deseja um visual moderno e elegante. Por que escolher o CAMPUS CACAU GOLD? Design Elegante e Atemporal: O tom marinho confere um ar clássico e versátil, ideal para compor looks casuais e também mais refinados. Conforto Impecável: Fabricado com materiais de alta qualidade, possui palmilha acolchoada que garante maciez e suporte para seus pés durante todo o dia. Durabilidade e Resistência: Com acabamento primoroso e solado robusto, oferece excelente aderência e longa vida útil. Disponível do 38 ao 43: Encontre o tamanho perfeito para seu pé e tenha o melhor ajuste possível. Tabela de Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25,0 | | 39 | 26,0 | | 40 | 27,0 | | 41 | 27,5 | | 42 | 29,0 | | 43 | 29,5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-01-49-31e8b49fbf0d4e504b17854352896680-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-01-52-abc7bfbaed0ee1ef8717854352895743-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-01-51-1cd72931bbdbb8295617854352894418-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-01-50-1a82e6e526eb9da62c17854352894177-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-01-53-24ccac57517384a04c17854352897890-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-01-54-5886f391283237021817854352893774-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-15-01-55-5f21b2a54682c473be17854352895674-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1568200231",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1568200232",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568200233",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1568200234",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568200235",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568200236",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-cacau-gold-12ur3/",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
+      "sku": "995"
+    },
+    {
       "id": "dx-315396645",
       "sourceId": "315396645",
       "slug": "campus-caramelo-315396645",
@@ -16561,7 +16717,7 @@
           "id": "1505644030",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -16627,11 +16783,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-cinza-branco-1yci2/",
-      "lastSyncedAt": "2026-07-28T22:56:39.417Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "721"
     },
     {
@@ -16902,7 +17058,7 @@
           "id": "1564511765",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -16936,11 +17092,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-air-force-natural-cinza-1ul70/",
-      "lastSyncedAt": "2026-07-30T17:25:18.672Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "963"
     },
     {
@@ -20375,8 +20531,8 @@
           "id": "1566916425",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -20392,11 +20548,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-off-coffe-132z6/",
-      "lastSyncedAt": "2026-07-30T17:25:18.672Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "986"
     },
     {
@@ -22149,14 +22305,14 @@
           "id": "1567748521",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1567748522",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -22208,11 +22364,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 30,
+      "totalStock": 28,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-panda-reverse-gauzm/",
-      "lastSyncedAt": "2026-07-30T15:30:49.322Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "993"
     },
     {
@@ -22741,7 +22897,7 @@
           "id": "1556493830",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -22782,11 +22938,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-sesame-m3nmh/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "914"
     },
     {
@@ -26174,8 +26330,8 @@
           "id": "1492877356",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1492877357",
@@ -26222,11 +26378,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-creme-bordo-a58fz/",
-      "lastSyncedAt": "2026-07-30T17:25:18.672Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "705"
     },
     {
@@ -26279,15 +26435,43 @@
           "id": "1529158737",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1529158739",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1568170583",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568170584",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568170585",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1568170586",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -26296,14 +26480,18 @@
         "36",
         "37",
         "38",
-        "39"
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-grafitte-off-3ijvt/",
-      "lastSyncedAt": "2026-07-30T15:30:49.322Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "782"
     },
     {
@@ -31327,8 +31515,8 @@
           "id": "1545052047",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1545052048",
@@ -31407,11 +31595,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-park-niquel-creme-off-kmign/",
-      "lastSyncedAt": "2026-07-30T15:30:49.322Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "849"
     },
     {
@@ -32974,7 +33162,7 @@
           "id": "1567065590",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -33015,11 +33203,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sb-malor-coffe-black-fjefx/",
-      "lastSyncedAt": "2026-07-29T06:14:27.137Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "989"
     },
     {
@@ -34514,7 +34702,7 @@
           "id": "1484372222",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -34545,11 +34733,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ultraranger-3d-preto-branco-uqeje/",
-      "lastSyncedAt": "2026-07-29T19:13:25.738Z",
+      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
       "sku": "680"
     },
     {
