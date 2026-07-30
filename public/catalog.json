@@ -18672,8 +18672,8 @@
           "id": "1515361725",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1515361726",
@@ -18713,11 +18713,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-verde-dunas-na1wd/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-30T03:14:52.300Z",
       "sku": "736"
     },
     {
@@ -31284,8 +31284,8 @@
           "id": "1545052052",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1545052054",
@@ -31329,11 +31329,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-park-niquel-creme-off-kmign/",
-      "lastSyncedAt": "2026-07-29T19:13:25.738Z",
+      "lastSyncedAt": "2026-07-30T03:14:52.300Z",
       "sku": "849"
     },
     {
