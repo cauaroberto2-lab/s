@@ -26821,8 +26821,8 @@
           "id": "1527850789",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527850790",
@@ -26862,11 +26862,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-marrom-off-14ab4/",
-      "lastSyncedAt": "2026-07-29T14:06:24.649Z",
+      "lastSyncedAt": "2026-07-30T23:05:05.013Z",
       "sku": "781"
     },
     {
@@ -29925,7 +29925,7 @@
           "id": "1413227431",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -29949,11 +29949,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/cloudeclipse-preto-branco-9i4zz/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-30T23:05:05.013Z",
       "sku": "507"
     },
     {
@@ -35386,29 +35386,29 @@
           "id": "1523892024",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1523892025",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1523892027",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1523892028",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -35420,11 +35420,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-hylane-kinit-bege-1ejvy/",
-      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
+      "lastSyncedAt": "2026-07-30T23:05:05.013Z",
       "sku": "758"
     },
     {
