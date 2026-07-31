@@ -1762,7 +1762,7 @@
           "id": "1496804724",
           "size": "42",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -1782,11 +1782,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-2000-all-black-tyfvz/",
-      "lastSyncedAt": "2026-07-30T17:25:18.672Z",
+      "lastSyncedAt": "2026-07-31T04:58:04.451Z",
       "sku": "456"
     },
     {
@@ -14769,7 +14769,7 @@
           "id": "1478117478",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -14789,11 +14789,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-storm-off-latex-gb9j1/",
-      "lastSyncedAt": "2026-07-28T22:56:39.417Z",
+      "lastSyncedAt": "2026-07-31T04:58:04.451Z",
       "sku": "676"
     },
     {
@@ -15370,7 +15370,7 @@
           "id": "1494987718",
           "size": "42",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -15390,11 +15390,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-sb-pro-cromo-cinza-verde-7fxc8/",
-      "lastSyncedAt": "2026-07-30T17:25:18.672Z",
+      "lastSyncedAt": "2026-07-31T04:58:04.451Z",
       "sku": "709"
     },
     {
@@ -17695,8 +17695,8 @@
           "id": "1402199071",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1402199075",
@@ -17736,11 +17736,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-lakers-spzlt/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-31T04:58:04.451Z",
       "sku": "303"
     },
     {
@@ -20790,8 +20790,8 @@
           "id": "1566916424",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1566916425",
@@ -20814,11 +20814,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-off-coffe-132z6/",
-      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
+      "lastSyncedAt": "2026-07-31T04:58:04.451Z",
       "sku": "986"
     },
     {
@@ -27314,8 +27314,8 @@
           "id": "1418905559",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1418905560",
@@ -27338,11 +27338,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-bege-cafe-wxs1u/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-31T04:58:04.451Z",
       "sku": "207"
     },
     {
@@ -31422,7 +31422,7 @@
           "id": "1564291682",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -31442,11 +31442,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-180-ice-cinza-amdzc/",
-      "lastSyncedAt": "2026-07-29T20:29:53.065Z",
+      "lastSyncedAt": "2026-07-31T04:58:04.451Z",
       "sku": "966"
     },
     {
@@ -33809,8 +33809,8 @@
           "id": "1556318419",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1556318420",
@@ -33843,11 +33843,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-cinza-storm-dzidh/",
-      "lastSyncedAt": "2026-07-28T15:19:51.190Z",
+      "lastSyncedAt": "2026-07-31T04:58:04.451Z",
       "sku": "911"
     },
     {
@@ -35213,8 +35213,8 @@
           "id": "1484372218",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1484372219",
@@ -35265,11 +35265,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ultraranger-3d-preto-branco-uqeje/",
-      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
+      "lastSyncedAt": "2026-07-31T04:58:04.451Z",
       "sku": "680"
     },
     {
