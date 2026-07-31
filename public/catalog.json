@@ -752,8 +752,8 @@
           "id": "1540896505",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1540896506",
@@ -779,11 +779,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-refletivo-vjgt2/",
-      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
+      "lastSyncedAt": "2026-07-31T21:37:29.142Z",
       "sku": "820"
     },
     {
@@ -998,7 +998,7 @@
           "id": "1567125091",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -1011,11 +1011,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-creme-off-prata-a0wib/",
-      "lastSyncedAt": "2026-07-30T18:55:25.073Z",
+      "lastSyncedAt": "2026-07-31T21:37:29.142Z",
       "sku": "990"
     },
     {
@@ -9399,8 +9399,8 @@
           "id": "1453033881",
           "size": "M",
           "color": "Preto",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1453033882",
@@ -9478,11 +9478,11 @@
         "Branco",
         "Preto"
       ],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-porshe-x-bos-ntf0g/",
-      "lastSyncedAt": "2026-07-30T15:30:49.322Z",
+      "lastSyncedAt": "2026-07-31T21:37:29.142Z",
       "sku": "605"
     },
     {
@@ -11601,8 +11601,8 @@
           "id": "1561911915",
           "size": "M",
           "color": "Cinza",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1561911916",
@@ -11687,11 +11687,11 @@
         "Cinza",
         "Azul"
       ],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/conjunto-nike-importado-1ac8y/",
-      "lastSyncedAt": "2026-07-30T15:30:49.322Z",
+      "lastSyncedAt": "2026-07-31T21:37:29.142Z",
       "sku": "919"
     },
     {
@@ -13133,7 +13133,7 @@
           "id": "1420765206",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -13192,11 +13192,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-bordo-branco-1ndho/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-31T21:37:29.142Z",
       "sku": "546"
     },
     {
@@ -17648,8 +17648,8 @@
           "id": "1405149516",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1405149520",
@@ -17693,11 +17693,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-07-30T15:30:49.322Z",
+      "lastSyncedAt": "2026-07-31T21:37:29.142Z",
       "sku": "74"
     },
     {
@@ -22884,8 +22884,8 @@
           "id": "1568034190",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1568034191",
@@ -22925,11 +22925,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-snow-preto-cb2ic/",
-      "lastSyncedAt": "2026-07-31T15:18:32.457Z",
+      "lastSyncedAt": "2026-07-31T21:37:29.142Z",
       "sku": "994"
     },
     {
@@ -32095,8 +32095,8 @@
           "id": "1555417493",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -32112,11 +32112,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-suede-xl-all-black-nvopb/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-31T21:37:29.142Z",
       "sku": "46"
     },
     {
@@ -34075,7 +34075,7 @@
           "id": "1568313352",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -34109,11 +34109,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-gafite-off-white-pro-hhh6e/",
-      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
+      "lastSyncedAt": "2026-07-31T21:37:29.142Z",
       "sku": "998"
     },
     {
@@ -35666,8 +35666,8 @@
           "id": "1564501515",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564501516",
@@ -35686,11 +35686,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-hylane-musgo-militar-u1gxi/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-07-31T21:37:29.142Z",
       "sku": "972"
     },
     {
