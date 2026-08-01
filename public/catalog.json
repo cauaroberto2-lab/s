@@ -1216,8 +1216,8 @@
           "id": "1555846249",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555846250",
@@ -1243,11 +1243,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-snow-18m9e/",
-      "lastSyncedAt": "2026-07-31T18:53:03.792Z",
+      "lastSyncedAt": "2026-08-01T04:00:20.261Z",
       "sku": "901"
     },
     {
@@ -20470,7 +20470,7 @@
           "id": "1438069893",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -20550,11 +20550,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-branco-off-oxovh/",
-      "lastSyncedAt": "2026-07-29T20:29:53.065Z",
+      "lastSyncedAt": "2026-08-01T04:00:20.261Z",
       "sku": "562"
     },
     {
@@ -30944,9 +30944,9 @@
       "colors": [],
       "totalStock": 0,
       "available": false,
-      "archived": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-branco-pink-idvd6/",
-      "lastSyncedAt": "2026-08-01T00:06:11.433Z",
+      "lastSyncedAt": "2026-08-01T04:00:20.261Z",
       "sku": "26"
     },
     {
