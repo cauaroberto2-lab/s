@@ -1046,8 +1046,8 @@
           "id": "1563928596",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1563928597",
@@ -1087,11 +1087,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-gelo-grafite-9k30g/",
-      "lastSyncedAt": "2026-07-31T17:04:12.353Z",
+      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
       "sku": "956"
     },
     {
@@ -2095,7 +2095,7 @@
           "id": "1405209764",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -2122,11 +2122,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-cinza-branco-od34a/",
-      "lastSyncedAt": "2026-07-31T22:58:23.170Z",
+      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
       "sku": "524"
     },
     {
@@ -2332,7 +2332,7 @@
           "id": "1396798304",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -2352,11 +2352,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-preto-branco-60xu0/",
-      "lastSyncedAt": "2026-07-28T22:56:39.417Z",
+      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
       "sku": "89"
     },
     {
@@ -4557,8 +4557,8 @@
           "id": "1554152719",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -4570,11 +4570,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-tn-plus-degrade-1l9bs/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
       "sku": "887"
     },
     {
@@ -13548,7 +13548,7 @@
           "id": "1401232953",
           "size": "35",
           "color": "Padrão",
-          "stock": 9,
+          "stock": 8,
           "available": true
         },
         {
@@ -13621,11 +13621,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 73,
+      "totalStock": 72,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-08-01T19:43:00.876Z",
+      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
       "sku": "166"
     },
     {
@@ -13820,7 +13820,7 @@
           "id": "1401125495",
           "size": "34",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -13900,11 +13900,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 31,
+      "totalStock": 30,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-branco-beeo6/",
-      "lastSyncedAt": "2026-07-31T12:54:37.955Z",
+      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
       "sku": "177"
     },
     {
@@ -16838,8 +16838,8 @@
           "id": "1564197153",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564197154",
@@ -16862,11 +16862,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-air-force-caramelo-4am9b/",
-      "lastSyncedAt": "2026-08-01T19:43:00.876Z",
+      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
       "sku": "961"
     },
     {
@@ -19099,7 +19099,7 @@
           "id": "1566956714",
           "size": "40",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 6,
           "available": true
         },
         {
@@ -19113,7 +19113,7 @@
           "id": "1566956716",
           "size": "42",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -19137,7 +19137,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-black-white-nobuk-1gz2a/",
-      "lastSyncedAt": "2026-07-29T19:13:25.738Z",
+      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
       "sku": "987"
     },
     {
@@ -22523,7 +22523,7 @@
           "id": "1536788269",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -22550,11 +22550,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-dunas-grafite-1g5o0/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
       "sku": "802"
     },
     {
@@ -27139,7 +27139,7 @@
           "id": "1404734504",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -27156,11 +27156,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-branco-0qo43/",
-      "lastSyncedAt": "2026-07-30T15:30:49.322Z",
+      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
       "sku": "67"
     },
     {
@@ -27697,7 +27697,7 @@
           "id": "1407307717",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -27742,11 +27742,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-08-01T14:06:27.753Z",
+      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
       "sku": "205"
     },
     {
@@ -28164,8 +28164,8 @@
           "id": "1564111589",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564111590",
@@ -28198,11 +28198,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-off-castanha-pxn16/",
-      "lastSyncedAt": "2026-07-29T20:29:53.065Z",
+      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
       "sku": "957"
     },
     {
@@ -33503,8 +33503,8 @@
           "id": "1541165081",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1541165082",
@@ -33537,11 +33537,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-verde-camurca-1oo40/",
-      "lastSyncedAt": "2026-07-29T19:13:25.738Z",
+      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
       "sku": "826"
     },
     {
