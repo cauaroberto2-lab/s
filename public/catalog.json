@@ -628,7 +628,7 @@
           "id": "1544191172",
           "size": "36",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -701,11 +701,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-1qzac/",
-      "lastSyncedAt": "2026-08-01T15:36:16.946Z",
+      "lastSyncedAt": "2026-08-01T18:03:01.116Z",
       "sku": "840"
     },
     {
@@ -3884,8 +3884,8 @@
           "id": "1559589162",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559589164",
@@ -3925,11 +3925,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-branco-rosa-limao-hy3nc/",
-      "lastSyncedAt": "2026-07-28T21:37:57.278Z",
+      "lastSyncedAt": "2026-08-01T18:03:01.116Z",
       "sku": "929"
     },
     {
@@ -19720,7 +19720,7 @@
           "id": "1430916637",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -19761,11 +19761,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-grafite-latex-1pi5x/",
-      "lastSyncedAt": "2026-07-31T18:53:03.792Z",
+      "lastSyncedAt": "2026-08-01T18:03:01.116Z",
       "sku": "261"
     },
     {
