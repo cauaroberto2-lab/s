@@ -1867,7 +1867,7 @@
           "id": "1568807187",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -1894,11 +1894,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/add-classic-branco-preto-cinza-g6v62/",
-      "lastSyncedAt": "2026-07-31T18:53:03.792Z",
+      "lastSyncedAt": "2026-08-01T14:06:27.753Z",
       "sku": "1003"
     },
     {
@@ -4060,7 +4060,7 @@
           "id": "1559647188",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -4080,11 +4080,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-preto-rosa-1muc3/",
-      "lastSyncedAt": "2026-07-30T21:41:59.076Z",
+      "lastSyncedAt": "2026-08-01T14:06:27.753Z",
       "sku": "932"
     },
     {
@@ -4759,8 +4759,8 @@
           "id": "1554163131",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1554163132",
@@ -4807,11 +4807,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-tn-plus-jaguar-meget/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-01T14:06:27.753Z",
       "sku": "890"
     },
     {
@@ -14886,8 +14886,8 @@
           "id": "1478117479",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -14899,11 +14899,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-storm-off-latex-gb9j1/",
-      "lastSyncedAt": "2026-07-31T04:58:04.451Z",
+      "lastSyncedAt": "2026-08-01T14:06:27.753Z",
       "sku": "676"
     },
     {
@@ -27690,8 +27690,8 @@
           "id": "1407307710",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1407307717",
@@ -27742,11 +27742,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-07-31T20:18:55.059Z",
+      "lastSyncedAt": "2026-08-01T14:06:27.753Z",
       "sku": "205"
     },
     {
@@ -32504,8 +32504,8 @@
           "id": "1465465533",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1465465534",
@@ -32524,11 +32524,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-areia-coffe-9kqq9/",
-      "lastSyncedAt": "2026-07-31T20:18:55.059Z",
+      "lastSyncedAt": "2026-08-01T14:06:27.753Z",
       "sku": "644"
     },
     {
