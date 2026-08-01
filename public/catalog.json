@@ -30922,8 +30922,8 @@
           "id": "1009974030",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1009974034",
@@ -30942,11 +30942,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
+      "totalStock": 0,
+      "available": false,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-branco-pink-idvd6/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-01T00:06:11.433Z",
       "sku": "26"
     },
     {
