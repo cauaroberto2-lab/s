@@ -34096,8 +34096,8 @@
           "id": "1568313355",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -34109,11 +34109,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-gafite-off-white-pro-hhh6e/",
-      "lastSyncedAt": "2026-07-31T21:37:29.142Z",
+      "lastSyncedAt": "2026-08-02T02:46:39.311Z",
       "sku": "998"
     },
     {
