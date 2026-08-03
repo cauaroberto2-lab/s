@@ -22905,8 +22905,8 @@
           "id": "1568034193",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1568034194",
@@ -22925,11 +22925,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-snow-preto-cb2ic/",
-      "lastSyncedAt": "2026-08-01T19:43:00.876Z",
+      "lastSyncedAt": "2026-08-03T03:27:42.649Z",
       "sku": "994"
     },
     {
@@ -32639,8 +32639,8 @@
           "id": "1565140707",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1565140708",
@@ -32680,11 +32680,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-cromado-181k3/",
-      "lastSyncedAt": "2026-07-28T12:52:24.552Z",
+      "lastSyncedAt": "2026-08-03T03:27:42.649Z",
       "sku": "977"
     },
     {
@@ -33217,8 +33217,8 @@
           "id": "1428234851",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1428234852",
@@ -33244,11 +33244,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-preto-latex-yo39o/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-03T03:27:42.649Z",
       "sku": "27"
     },
     {
@@ -34004,8 +34004,8 @@
           "id": "1556318420",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1556318421",
@@ -34031,11 +34031,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-cinza-storm-dzidh/",
-      "lastSyncedAt": "2026-07-31T04:58:04.451Z",
+      "lastSyncedAt": "2026-08-03T03:27:42.649Z",
       "sku": "911"
     },
     {
