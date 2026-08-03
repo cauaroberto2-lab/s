@@ -5964,7 +5964,7 @@
           "id": "1438003693",
           "size": "39/40",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -5991,11 +5991,11 @@
         "43/44"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asuna-preto-branco-1iru8/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-03T10:41:49.499Z",
       "sku": "481"
     },
     {
@@ -27697,8 +27697,8 @@
           "id": "1407307717",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1407307720",
@@ -27742,11 +27742,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
+      "lastSyncedAt": "2026-08-03T10:41:49.499Z",
       "sku": "205"
     },
     {
@@ -35822,8 +35822,8 @@
           "id": "1564373343",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564373344",
@@ -35842,11 +35842,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-cacau-off-white-hhrac/",
-      "lastSyncedAt": "2026-08-01T15:36:16.946Z",
+      "lastSyncedAt": "2026-08-03T10:41:49.499Z",
       "sku": "968"
     },
     {
