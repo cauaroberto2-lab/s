@@ -12957,21 +12957,21 @@
           "id": "1510151094",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1510151095",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1510151096",
           "size": "40",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -13005,11 +13005,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-all-black-ijaav/",
-      "lastSyncedAt": "2026-08-02T21:54:31.440Z",
+      "lastSyncedAt": "2026-08-03T22:58:15.545Z",
       "sku": "477"
     },
     {
@@ -13410,21 +13410,21 @@
           "id": "1401025247",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401025250",
           "size": "36",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1401025253",
           "size": "37",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 3,
           "available": true
         },
         {
@@ -13452,8 +13452,8 @@
           "id": "1401025272",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1401025277",
@@ -13483,11 +13483,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-cinza-verde-pnm9e/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-03T22:58:15.545Z",
       "sku": "190"
     },
     {
@@ -13939,8 +13939,8 @@
           "id": "1401125522",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401125526",
@@ -13977,11 +13977,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-branco-beeo6/",
-      "lastSyncedAt": "2026-08-03T18:16:07.872Z",
+      "lastSyncedAt": "2026-08-03T22:58:15.545Z",
       "sku": "177"
     },
     {
@@ -14587,7 +14587,7 @@
           "id": "1401101215",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 6,
           "available": true
         },
         {
@@ -14653,11 +14653,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 34,
+      "totalStock": 35,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-03T21:39:27.004Z",
+      "lastSyncedAt": "2026-08-03T22:58:15.545Z",
       "sku": "105"
     },
     {
@@ -15704,8 +15704,8 @@
           "id": "1508801073",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1508801075",
@@ -15725,8 +15725,8 @@
           "id": "1508801078",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1508801080",
@@ -15763,11 +15763,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-twist-branco-1izfj/",
-      "lastSyncedAt": "2026-07-31T18:53:03.792Z",
+      "lastSyncedAt": "2026-08-03T22:58:15.545Z",
       "sku": "641"
     },
     {
@@ -15854,8 +15854,8 @@
           "id": "1559037426",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -15871,11 +15871,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-twist-preto-nobuck-2cue3/",
-      "lastSyncedAt": "2026-08-03T18:16:07.872Z",
+      "lastSyncedAt": "2026-08-03T22:58:15.545Z",
       "sku": "536"
     },
     {
@@ -16066,7 +16066,7 @@
           "id": "1555947374",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -16090,11 +16090,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-vintage-navy-10s3k/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-03T22:58:15.545Z",
       "sku": "904"
     },
     {
@@ -17491,7 +17491,7 @@
           "id": "1564157064",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -17511,11 +17511,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-air-force-off-branco-cacau-1le57/",
-      "lastSyncedAt": "2026-08-03T21:39:27.004Z",
+      "lastSyncedAt": "2026-08-03T22:58:15.545Z",
       "sku": "959"
     },
     {
@@ -21450,7 +21450,7 @@
           "id": "1425806634",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -21509,11 +21509,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/invincible-run-3-preto-branco-qj9mj/",
-      "lastSyncedAt": "2026-08-03T20:10:53.233Z",
+      "lastSyncedAt": "2026-08-03T22:58:15.545Z",
       "sku": "263"
     },
     {
