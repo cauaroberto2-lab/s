@@ -1902,6 +1902,83 @@
       "sku": "1003"
     },
     {
+      "id": "dx-359014436",
+      "sourceId": "359014436",
+      "slug": "add-classic-grafite-359014436",
+      "name": "ADD CLASSIC GRAFITE",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "ADIDAS",
+      "description": "ADD CLASSIC GRAFITE – Tênis Linha Luxo de Alta Qualidade Apresentamos o ADD CLASSIC GRAFITE, um tênis que une design sofisticado, conforto superior e durabilidade excepcional. Parte da exclusiva Linha Luxo do Brasil, este modelo é ideal para quem busca um calçado premium, que acompanha seu estilo e ritmo do dia a dia com elegância. Por que escolher o ADD CLASSIC GRAFITE? Visual Moderno e Atemporal Com acabamento em grafite, o ADD CLASSIC GRAFITE apresenta um design clean e versátil, perfeito para combinar com diversas produções, do casual ao urbano. Seu tom neutro garante uma presença discreta, porém marcante, para quem gosta de estilo sem exageros. Conforto e Ajuste Perfeito Confeccionado com materiais de alta qualidade e palmilha macia, este tênis oferece conforto duradouro para seus pés. Seu formato ergonômico proporciona um ajuste seguro, ideal para quem passa o dia em movimento, sem abrir mão do bem-estar. Durabilidade e Acabamento Premium O acabamento refinado e a atenção aos detalhes garantem resistência e longevidade ao ADD CLASSIC GRAFITE, mantendo sua beleza mesmo após uso frequente. A qualidade da Linha Luxo assegura um produto confiável e sofisticado para o seu guarda-roupa. Tamanhos Disponíveis (do 38 ao 43) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, para garantir a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-36-43-e3df191dcbe06cab2b17857628301140-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-36-46-a602d9085dbe28bc8b17857628300308-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-36-47-abdc8b730aa70ef17217857628386089-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-36-44-1-b7713690841880c42a17857628299464-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-36-45-4b17ff5dab576ff30d17857628301575-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-36-48-2658dc5d499f51343c17857628300251-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1569860191",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1569860192",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1569860193",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1569860195",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1569860196",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1569860197",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 7,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/add-classic-grafite-3e08d/",
+      "lastSyncedAt": "2026-08-03T13:39:51.940Z",
+      "sku": "1004"
+    },
+    {
       "id": "dx-336627727",
       "sourceId": "336627727",
       "slug": "adi-2000-all-black-336627727",
@@ -2235,8 +2312,8 @@
           "id": "1504862355",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504862356",
@@ -2276,11 +2353,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-grafite-latex-1ymnd/",
-      "lastSyncedAt": "2026-07-28T21:37:57.278Z",
+      "lastSyncedAt": "2026-08-03T13:39:51.940Z",
       "sku": "717"
     },
     {
