@@ -2033,8 +2033,8 @@
           "id": "1396546083",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -2046,11 +2046,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-bege-hxcij/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-02T23:57:45.665Z",
       "sku": "348"
     },
     {
@@ -2109,7 +2109,7 @@
           "id": "1405209770",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -2122,11 +2122,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-cinza-branco-od34a/",
-      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
+      "lastSyncedAt": "2026-08-02T23:57:45.665Z",
       "sku": "524"
     },
     {
@@ -14212,7 +14212,7 @@
           "id": "1537385105",
           "size": "43",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         }
       ],
@@ -14225,11 +14225,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 34,
+      "totalStock": 33,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-jumbo-panda-14fpt/",
-      "lastSyncedAt": "2026-08-01T22:53:35.771Z",
+      "lastSyncedAt": "2026-08-02T23:57:45.665Z",
       "sku": "842"
     },
     {
