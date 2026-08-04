@@ -35906,8 +35906,8 @@
           "id": "1564373344",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -35919,11 +35919,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-cacau-off-white-hhrac/",
-      "lastSyncedAt": "2026-08-04T06:26:10.984Z",
+      "lastSyncedAt": "2026-08-04T09:21:10.139Z",
       "sku": "968"
     },
     {
