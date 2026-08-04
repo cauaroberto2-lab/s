@@ -984,7 +984,7 @@
           "id": "1567125087",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -1011,11 +1011,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-creme-off-prata-a0wib/",
-      "lastSyncedAt": "2026-08-01T21:53:51.691Z",
+      "lastSyncedAt": "2026-08-04T03:47:57.930Z",
       "sku": "990"
     },
     {
@@ -21094,8 +21094,8 @@
           "id": "1565067529",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -21111,11 +21111,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-preto-musgo-1ylnz/",
-      "lastSyncedAt": "2026-07-31T18:53:03.792Z",
+      "lastSyncedAt": "2026-08-04T03:47:57.930Z",
       "sku": "921"
     },
     {
@@ -34013,8 +34013,8 @@
           "id": "1559847309",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -34030,11 +34030,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sk8-bota-preto-branco-mbk33/",
-      "lastSyncedAt": "2026-07-31T22:58:23.170Z",
+      "lastSyncedAt": "2026-08-04T03:47:57.930Z",
       "sku": "350"
     },
     {
