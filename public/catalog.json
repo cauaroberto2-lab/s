@@ -159,8 +159,8 @@
           "id": "1504176792",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504176795",
@@ -211,11 +211,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-08-05T14:54:04.853Z",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
       "sku": "715"
     },
     {
@@ -861,6 +861,84 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-pto-1n12f/",
       "lastSyncedAt": "2026-08-05T00:54:00.415Z",
       "sku": "653"
+    },
+    {
+      "id": "dx-359454322",
+      "sourceId": "359454322",
+      "slug": "9060-branco-gelo-off-359454322",
+      "name": "9060 BRANCO GELO OFF",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "Tênis 9060 Branco Gelo Off – Linha Premium de Alta Qualidade Apresentamos o Tênis 9060 Branco Gelo Off, um calçado que une alta qualidade, conforto superior e design moderno, perfeito para o seu dia a dia. Desenvolvido para quem busca estilo aliado a conforto, este modelo é destaque na nossa linha premium. Por que escolher o Tênis 9060 Branco Gelo Off? Estilo e Versatilidade Seu visual clean e sofisticado em tom branco gelo off proporciona um look elegante e fácil de combinar com diversas peças do seu guarda-roupa. Ideal para usar em qualquer ocasião, seja no trabalho, passeio ou lazer. Conforto Incomparável Fabricado com materiais selecionados e palmilha acolchoada, o 9060 oferece conforto absoluto para que você possa usar o dia todo sem desconfortos. Seu design ergonômico é pensado para garantir suporte e leveza em cada passo. Qualidade Premium Com acabamento refinado e atenção aos detalhes, este tênis mantém a durabilidade e a estética mesmo após uso frequente. A linha premium é sinônimo de resistência e excelência para consumidores exigentes. Tamanhos Disponíveis e Medidas (BR) Para garantir o ajuste perfeito, confira a tabela abaixo com o tamanho do calçado e o comprimento do pé em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e compare com a tabela para escolher o tamanho ideal que proporcionará o máximo de conforto. Política de Troca Sua satisfação é prioridade para nós! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento do produto. Para isso, envie um vídeo original do tênis, sem sinais de uso, assegurando a autenticidade e qualidade do calçado.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-13-06-00-ab0533c62a912ac80f17859510237988-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-13-06-04-f6df63a536ef27a4bf17859510237872-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-13-06-01-6b2213dd039a111f5f17859510238379-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-13-06-02-b2315d42bd789529fd17859510237887-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-13-06-03-f2274a18bc5813cf3817859510238424-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-13-05-59-6e5b22818f7dd7433317859510238052-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-13-06-05-d169468dd5c624dba017859510241628-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1571524807",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1571524808",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1571524809",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1571524810",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1571524812",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1571524813",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-gelo-off-qj3wq/",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
+      "sku": "1008"
     },
     {
       "id": "dx-348759483",
@@ -2360,6 +2438,81 @@
       "sku": "828"
     },
     {
+      "id": "dx-346827925",
+      "sourceId": "346827925",
+      "slug": "adi-2000-gelo-cinza-346827925",
+      "name": "ADI 2000 GELO/CINZA",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "2000",
+      "description": "2000 GELO/CINZA – Tênis de Alta Qualidade da Linha Luxo Descubra o 2000 GELO/CINZA , um tênis que une estilo sofisticado, conforto excepcional e durabilidade incomparável, tudo isso com a elegância e exclusividade da Linha Luxo. Ideal para quem valoriza um calçado versátil e refinado, perfeito para diversas ocasiões, do dia a dia a eventos especiais. Por que escolher o 2000 GELO/CINZA? Visual moderno e sofisticado Com acabamento em grafite preto, este modelo apresenta um design contemporâneo e discreto, que combina facilmente com diferentes estilos e looks, valorizando sua presença com um toque de exclusividade. Conforto e resistência para seus passos Equipado com sola emborrachada de alta qualidade, o 2000 GELO/CINZA oferece excelente aderência e estabilidade em múltiplas superfícies. Seu design ergonômico proporciona leveza e conforto para acompanhar você o dia todo. Qualidade premium da Linha Luxo Fabricado com materiais selecionados e acabamento impecável, este tênis mantém sua beleza e performance mesmo após uso contínuo. A Linha Luxo é sinônimo de produtos para consumidores exigentes que valorizam cada detalhe. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-27-at-11-25-20-2-9966b8a0cb398a1b9717798921731102-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-27-at-11-25-22-2-c9b929978a90bc167217798921735867-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-27-at-11-25-22-332022cb6609297a1a17798921730760-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-27-at-11-25-22-1-0161ceef109806368317798921730782-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1532306709",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1532306710",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1532306711",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1532306713",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1532306715",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1532306717",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 13,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-gelo-cinza-1hkax/",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
+      "sku": "841"
+    },
+    {
       "id": "dx-338596740",
       "sourceId": "338596740",
       "slug": "adi-2000-grafite-latex-338596740",
@@ -2402,7 +2555,7 @@
           "id": "1504862357",
           "size": "41",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -2429,11 +2582,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-grafite-latex-1ymnd/",
-      "lastSyncedAt": "2026-08-05T00:54:00.415Z",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
       "sku": "717"
     },
     {
@@ -2591,18 +2744,18 @@
     {
       "id": "dx-359437831",
       "sourceId": "359437831",
-      "slug": "adidas-adizero-prame-x3-aqua-359437831",
-      "name": "ADIDAS ADIZERO PRAME X3 AQUA",
+      "slug": "adidas-adizero-prime-x3-aqua-359437831",
+      "name": "ADIDAS ADIZERO PRIME X3 AQUA",
       "brand": "Adidas",
       "category": "Tênis",
       "subCategory": "SPORT",
-      "description": "Tênis ADIDAS ADIZERO PRAME X3 AQUA– Linha Premium de Alta Qualidade Conheça o Tênis ADIZERO Verde Água, um calçado que une estilo moderno, conforto excepcional e qualidade superior, ideal para o seu dia a dia. Perfeito para quem busca um tênis premium que oferece durabilidade e estilo em cada passo. Por que escolher o ADIDAS ADIZERO PRAME X3 AQUA? Design Super Estiloso e Versátil Com sua cor verde água vibrante, o ADIZERO traz um visual único e contemporâneo que combina facilmente com diversos looks, do casual à rotina urbana. Seu design leve e moderno é perfeito para quem quer se destacar com elegância. Conforto Premium para Uso Diário Fabricado com materiais de alta qualidade e palmilha anatômica, este tênis proporciona um conforto superior para os seus pés durante todo o dia. Ideal para quem precisa de um calçado que suporte longas horas com maciez e ajuste perfeito. Durabilidade e Acabamento de Linha Premium O ADIZERO é produzido com atenção especial aos detalhes, garantindo resistência e acabamento impecável, mantendo sua forma e beleza mesmo após uso frequente. Tamanhos Disponíveis Confira a tabela para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé cuidadosamente e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
+      "description": "Tênis ADIDAS ADIZERO PRIME X3 AQUA– Linha Premium de Alta Qualidade Conheça o Tênis ADIZERO Verde Água, um calçado que une estilo moderno, conforto excepcional e qualidade superior, ideal para o seu dia a dia. Perfeito para quem busca um tênis premium que oferece durabilidade e estilo em cada passo. Por que escolher o ADIDAS ADIZERO PRIME X3 AQUA? Design Super Estiloso e Versátil Com sua cor verde água vibrante, o ADIZERO traz um visual único e contemporâneo que combina facilmente com diversos looks, do casual à rotina urbana. Seu design leve e moderno é perfeito para quem quer se destacar com elegância. Conforto Premium para Uso Diário Fabricado com materiais de alta qualidade e palmilha anatômica, este tênis proporciona um conforto superior para os seus pés durante todo o dia. Ideal para quem precisa de um calçado que suporte longas horas com maciez e ajuste perfeito. Durabilidade e Acabamento de Linha Premium O ADIZERO é produzido com atenção especial aos detalhes, garantindo resistência e acabamento impecável, mantendo sua forma e beleza mesmo após uso frequente. Tamanhos Disponíveis Confira a tabela para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé cuidadosamente e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
       "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-04-at-12-59-35-1-164a019a912d50478a17859469316384-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-04-at-12-59-37-1-331d9b122bf27db4dd17859469318304-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-04-at-12-59-39-1-6d83ae0342988f8fd717859469316292-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-04-at-12-59-38-1-258ae17b585d59c8ca17859469318424-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-04-at-12-59-35-1-164a019a912d50478a17859469316384-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-04-at-12-59-36-1-1b31131bdec76bd28e17859469318278-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-04-at-12-59-37-1-331d9b122bf27db4dd17859469318304-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-04-at-12-59-40-1-ec5b55040b901b443017859469318375-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-04-at-12-59-41-1-9b2d2209efafba89a217859469316210-1024-1024.webp"
       ],
@@ -2662,8 +2815,8 @@
       "totalStock": 12,
       "available": true,
       "archived": false,
-      "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-prame-x3-aqua-e8vn2/",
-      "lastSyncedAt": "2026-08-05T16:40:55.325Z",
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-prime-x3-aqua-e8vn2/",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
       "sku": "1007"
     },
     {
@@ -4030,42 +4183,42 @@
           "id": "1494038805",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1494038806",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1494038807",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1494038808",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1494038809",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1494038810",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         }
       ],
@@ -4078,11 +4231,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-azul-celeste-16jok/",
-      "lastSyncedAt": "2026-08-04T20:08:49.763Z",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
       "sku": "120"
     },
     {
@@ -10803,8 +10956,8 @@
           "id": "1568200235",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1568200236",
@@ -10823,11 +10976,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-cacau-gold-12ur3/",
-      "lastSyncedAt": "2026-08-05T14:54:04.853Z",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
       "sku": "995"
     },
     {
@@ -12541,8 +12694,8 @@
           "id": "1413584582",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1413584585",
@@ -12600,11 +12753,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/court-vision-branco-zx9hy/",
-      "lastSyncedAt": "2026-08-04T14:07:05.161Z",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
       "sku": "36"
     },
     {
@@ -18808,8 +18961,8 @@
           "id": "1563353565",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -18825,11 +18978,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-preto-off-xl1j0/",
-      "lastSyncedAt": "2026-08-04T21:48:14.673Z",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
       "sku": "127"
     },
     {
@@ -21939,8 +22092,8 @@
           "id": "1425806639",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1425806640",
@@ -21970,11 +22123,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/invincible-run-3-preto-branco-qj9mj/",
-      "lastSyncedAt": "2026-08-03T22:58:15.545Z",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
       "sku": "263"
     },
     {
@@ -25691,6 +25844,82 @@
       "sku": "745"
     },
     {
+      "id": "dx-318631949",
+      "sourceId": "318631949",
+      "slug": "nb-1080-cinza-laranja-318631949",
+      "name": "NB 1080 CINZA LARANJA",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "NEW BALACE",
+      "description": "1080 CINZA LARANJA – Tênis de Alta Qualidade da Linha Luxo Descubra o 1080 CINZA LARANJA, um tênis que une estilo sofisticado, conforto excepcional e durabilidade incomparável, tudo isso com a elegância e exclusividade da Linha Luxo. Ideal para quem valoriza um calçado versátil e refinado, perfeito para diversas ocasiões, do dia a dia a eventos especiais. Por que escolher o 1080 CINZA LARANJA? Visual moderno e sofisticado Com acabamento em grafite preto, este modelo apresenta um design contemporâneo e discreto, que combina facilmente com diferentes estilos e looks, valorizando sua presença com um toque de exclusividade. Conforto e resistência para seus passos Equipado com sola emborrachada de alta qualidade, o 1080 CINZA LARANJA oferece excelente aderência e estabilidade em múltiplas superfícies. Seu design ergonômico proporciona leveza e conforto para acompanhar você o dia todo. Qualidade premium da Linha Luxo Fabricado com materiais selecionados e acabamento impecável, este tênis mantém sua beleza e performance mesmo após uso contínuo. A Linha Luxo é sinônimo de produtos para consumidores exigentes que valorizam cada detalhe. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-15-at-10-43-58-f8835eea1948ca4c8c17684856093896-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-15-at-10-43-59-3bad4d711572c8f6d717684856079299-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-15-at-10-43-57-a859428aab82a2403817684856133244-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-15-at-10-43-59-1-19f80c95c7ba92902f17684856064756-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-15-at-10-43-57-1-7bf3547cabfac95b0517684856110194-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1412192973",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1412192974",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1412192975",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1412192976",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1412192977",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1412192979",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/1080-cinza-laranja-1ndku/",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
+      "sku": "525"
+    },
+    {
       "id": "dx-315394616",
       "sourceId": "315394616",
       "slug": "nb-1080-preto-branco-315394616",
@@ -26232,7 +26461,7 @@
           "id": "1527843559",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -26284,11 +26513,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-08-05T14:54:04.853Z",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
       "sku": "787"
     },
     {
@@ -27944,8 +28173,8 @@
           "id": "1418807788",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1418807789",
@@ -27989,11 +28218,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-azul-navy-1vcek/",
-      "lastSyncedAt": "2026-08-04T16:27:10.553Z",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
       "sku": "222"
     },
     {
@@ -31725,7 +31954,7 @@
           "id": "1408054892",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
@@ -31777,11 +32006,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 31,
+      "totalStock": 29,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-preto-branco-7q01e/",
-      "lastSyncedAt": "2026-08-05T16:40:55.325Z",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
       "sku": "28"
     },
     {
@@ -36339,8 +36568,8 @@
           "id": "1564486510",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564486511",
@@ -36366,11 +36595,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-hylane-caramelo-castor-w5pie/",
-      "lastSyncedAt": "2026-07-31T15:18:32.457Z",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
       "sku": "971"
     },
     {
@@ -37562,7 +37791,7 @@
           "id": "1410589492",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -37600,11 +37829,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-verde-off-jilr9/",
-      "lastSyncedAt": "2026-08-04T20:08:49.763Z",
+      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
       "sku": "217"
     },
     {
