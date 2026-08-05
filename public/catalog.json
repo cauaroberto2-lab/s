@@ -1686,14 +1686,14 @@
           "id": "1555750421",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1555750422",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         }
       ],
@@ -1706,11 +1706,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 32,
+      "totalStock": 30,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-pto-bco-pto-1lib1/",
-      "lastSyncedAt": "2026-08-04T20:08:49.763Z",
+      "lastSyncedAt": "2026-08-05T04:06:51.945Z",
       "sku": "899"
     },
     {
@@ -15962,8 +15962,8 @@
           "id": "1508801080",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1508801081",
@@ -15993,11 +15993,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-twist-branco-1izfj/",
-      "lastSyncedAt": "2026-08-04T21:48:14.673Z",
+      "lastSyncedAt": "2026-08-05T04:06:51.945Z",
       "sku": "641"
     },
     {
@@ -28171,7 +28171,7 @@
           "id": "1407307727",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -28202,11 +28202,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-08-04T16:27:10.553Z",
+      "lastSyncedAt": "2026-08-05T04:06:51.945Z",
       "sku": "205"
     },
     {
@@ -30121,8 +30121,8 @@
           "id": "1410669493",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410669494",
@@ -30142,8 +30142,8 @@
           "id": "1410669498",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410669499",
@@ -30180,11 +30180,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/old-skool-preto-branco-xkzxj/",
-      "lastSyncedAt": "2026-08-04T16:27:10.553Z",
+      "lastSyncedAt": "2026-08-05T04:06:51.945Z",
       "sku": "279"
     },
     {
@@ -35397,8 +35397,8 @@
           "id": "1397242251",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1397242252",
@@ -35456,11 +35456,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/suede-xl-c5p43/",
-      "lastSyncedAt": "2026-07-31T18:53:03.792Z",
+      "lastSyncedAt": "2026-08-05T04:06:51.945Z",
       "sku": "45"
     },
     {
