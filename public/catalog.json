@@ -36486,8 +36486,8 @@
           "id": "1484372222",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1484372223",
@@ -36517,11 +36517,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ultraranger-3d-preto-branco-uqeje/",
-      "lastSyncedAt": "2026-08-06T00:01:03.141Z",
+      "lastSyncedAt": "2026-08-06T09:24:52.212Z",
       "sku": "680"
     },
     {
