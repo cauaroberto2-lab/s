@@ -12331,8 +12331,8 @@
           "id": "1561911921",
           "size": "GG",
           "color": "Cinza",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1561911922",
@@ -12375,11 +12375,11 @@
         "Cinza",
         "Azul"
       ],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/conjunto-nike-importado-1ac8y/",
-      "lastSyncedAt": "2026-08-03T20:10:53.233Z",
+      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
       "sku": "919"
     },
     {
@@ -16059,7 +16059,7 @@
           "id": "1541266275",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -16111,11 +16111,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-sb-colab-parra-1r1yt/",
-      "lastSyncedAt": "2026-08-03T21:39:27.004Z",
+      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
       "sku": "829"
     },
     {
@@ -16670,8 +16670,8 @@
           "id": "1540187140",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1540187141",
@@ -16701,11 +16701,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-verde-michigah-6pb2b/",
-      "lastSyncedAt": "2026-08-03T20:10:53.233Z",
+      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
       "sku": "816"
     },
     {
@@ -17966,7 +17966,7 @@
           "id": "1450111552",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -18000,11 +18000,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-cinza-xadrez-137rx/",
-      "lastSyncedAt": "2026-08-04T20:08:49.763Z",
+      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
       "sku": "587"
     },
     {
@@ -18467,8 +18467,8 @@
           "id": "1405149527",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1405149531",
@@ -18491,11 +18491,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 39,
+      "totalStock": 38,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-07T15:25:04.722Z",
+      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
       "sku": "74"
     },
     {
@@ -23828,7 +23828,7 @@
           "id": "1567748522",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -23880,11 +23880,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-panda-reverse-gauzm/",
-      "lastSyncedAt": "2026-08-04T18:11:38.613Z",
+      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
       "sku": "993"
     },
     {
@@ -23956,7 +23956,7 @@
           "id": "1422955100",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -23987,11 +23987,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-preto-branco-hk4pe/",
-      "lastSyncedAt": "2026-08-04T18:11:38.613Z",
+      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
       "sku": "234"
     },
     {
@@ -26593,7 +26593,7 @@
           "id": "1527827787",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -26620,11 +26620,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-cinza-ox1b1/",
-      "lastSyncedAt": "2026-08-05T14:54:04.853Z",
+      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
       "sku": "777"
     },
     {
@@ -34009,7 +34009,7 @@
           "id": "1419558188",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -34036,11 +34036,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/racing-eva-preto-cinza-1q6ph/",
-      "lastSyncedAt": "2026-08-02T21:54:31.440Z",
+      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
       "sku": "542"
     },
     {
@@ -34544,8 +34544,8 @@
           "id": "1401140099",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401140103",
@@ -34603,11 +34603,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
       "sku": "117"
     },
     {
@@ -36305,8 +36305,8 @@
           "id": "1555665372",
           "size": "40/41",
           "color": "Bege",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555665375",
@@ -36355,11 +36355,11 @@
         "Preto",
         "Cinza"
       ],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/slide-mind-preto-d2p85/",
-      "lastSyncedAt": "2026-08-03T16:23:09.980Z",
+      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
       "sku": "897"
     },
     {
@@ -36966,8 +36966,8 @@
           "id": "1412283844",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1412283845",
@@ -37007,11 +37007,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-all-black-69fj7/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
       "sku": "254"
     },
     {
