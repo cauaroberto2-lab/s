@@ -950,12 +950,12 @@
       "subCategory": "9060",
       "description": "Tênis 9060 CINZA OFF – Linha Luxo de Alta Qualidade Apresentamos o Tênis 9060 CINZA OFF, um calçado que une sofisticação, conforto e durabilidade, ideal para quem busca um produto premium da nossa exclusiva Linha Luxo. Perfeito para quem quer destacar-se com estilo e segurança em qualquer ocasião. Por que escolher o Tênis 9060 CINZA OFF? Design Moderno e Versátil Com um tom cinza off elegante e discreto, este tênis combina facilmente com diversos looks, do casual ao urbano, oferecendo uma aparência sofisticada e atemporal. Conforto e Ajuste Perfeitos Produzido com materiais de alta qualidade e palmilha acolchoada, o 9060 CINZA OFF proporciona maciez e suporte ideais para os seus pés, garantindo conforto prolongado durante todo o dia. Durabilidade e Acabamento Premium Cada detalhe do tênis é cuidadosamente elaborado para assegurar resistência e manter a beleza do calçado mesmo após uso frequente, acompanhando seu ritmo com estilo e qualidade. Tamanhos Disponíveis Escolha o tamanho ideal para você, de acordo com o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
       "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-03-at-11-57-09-2-7cd85ecb18dcbea23317806784764324-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-03-at-11-57-08-218c50fbe610cea61b17806784766677-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-03-at-11-57-09-2ca58a9c28e0f6ba5117806784762943-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-03-at-11-57-08-2-816b10a9100303d4b317806784767148-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-03-at-11-57-09-1-c56196bf46197d5cf717806784766918-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-03-at-11-57-08-1-f15026a7e73056c51f17806784762263-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-03-at-11-57-09-2-7cd85ecb18dcbea23317806784764324-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-03-at-11-57-10-e658beb5f730417e5a17806784763974-1024-1024.webp"
       ],
       "variants": [
@@ -1015,7 +1015,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-cinza-off-zyb0q/",
-      "lastSyncedAt": "2026-08-05T16:40:55.325Z",
+      "lastSyncedAt": "2026-08-07T05:15:54.641Z",
       "sku": "810"
     },
     {
@@ -19652,43 +19652,43 @@
           "id": "1566754046",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1566754047",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1566754048",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1566754049",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1566754050",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1566754051",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -19700,11 +19700,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-rosaverniz-o2mkg/",
-      "lastSyncedAt": "2026-08-05T22:56:30.673Z",
+      "lastSyncedAt": "2026-08-07T05:15:54.641Z",
       "sku": "985"
     },
     {
@@ -21551,8 +21551,8 @@
           "id": "1540961730",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1540961731",
@@ -21578,11 +21578,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-branco-preto-fyx7j/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-07T05:15:54.641Z",
       "sku": "823"
     },
     {
@@ -25687,8 +25687,8 @@
           "id": "1447725536",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1447725537",
@@ -25728,11 +25728,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/lv-black-white-oxi1i/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-07T05:15:54.641Z",
       "sku": "418"
     },
     {
@@ -30538,11 +30538,11 @@
       "subCategory": "Nike",
       "description": "Tênis PEGASUS AREIA/PRETO – Linha Premium de Alta Qualidade Apresentamos o Tênis PEGASUS AREIA/PRETO, um calçado pensado para quem busca conforto excepcional, qualidade superior e estilo moderno para o dia a dia. Produzido com materiais de alta performance, este tênis é perfeito para acompanhar sua rotina com muita praticidade e elegância. Por que escolher o Tênis PEGASUS AREIA/PRETO? Design Super Estiloso e Versátil Com um visual contemporâneo em tons de areia e preto, o PEGASUS combina facilmente com diferentes looks, seja para o trabalho, passeio ou lazer. Seu estilo moderno é ideal para quem não abre mão de estar sempre bem vestido. Conforto Premium para o Seu Dia a Dia Equipado com palmilha acolchoada e solado que absorve impactos, o PEGASUS oferece um ajuste perfeito e suporte para seus pés durante horas, garantindo conforto mesmo nas jornadas mais longas. Durabilidade e Acabamento de Alta Qualidade Fabricado com atenção aos detalhes e materiais selecionados, este tênis mantém sua forma e aparência mesmo após uso frequente, fazendo parte da nossa exclusiva linha premium. Tamanhos Disponíveis Confira a tabela abaixo para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.5 | | 39 | 26.0 | Dica: Meça seu pé com atenção e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade. Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para facilitar o processo e garantir a qualidade do produto, envie um vídeo original do tênis, sem sinais de uso, comprovando sua autenticidade.",
       "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-10-59-01-b5c6ef0f08fc81556317859453901466-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-10-59-02-8494d269184cdfd1a917859453901423-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-10-59-04-93aadbbd13aa98b11d17859453901239-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-10-59-03-d5e01cfe275925286917859453905234-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-10-59-05-1-9175b2c1418c913e0417859453729404-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-10-59-01-b5c6ef0f08fc81556317859453901466-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-10-59-06-1-735e17896af33b281417859453728442-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-05-at-10-59-05-7aeca8d72c58d33f7617859453901262-1024-1024.webp"
       ],
@@ -30603,7 +30603,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-areiapreto-4nanr/",
-      "lastSyncedAt": "2026-08-07T03:27:32.915Z",
+      "lastSyncedAt": "2026-08-07T05:15:54.641Z",
       "sku": "1006"
     },
     {
@@ -35708,7 +35708,7 @@
       "name": "SL GAFITE OFF WHITE PRO",
       "brand": "Adidas",
       "category": "Tênis",
-      "subCategory": "ADIDAS",
+      "subCategory": "SL 72",
       "description": "Tênis SL GAFITE OFF WHITE PRO – Linha Luxo de Alta Qualidade Descubra o Tênis SL GAFITE OFF WHITE PRO, um calçado que une estilo sofisticado, conforto superior e alta durabilidade. Parte da nossa exclusiva Linha Luxo, este modelo é perfeito para quem valoriza qualidade premium e deseja um visual moderno e elegante. Por que escolher o SL GAFITE OFF WHITE PRO? Design Elegante e Atemporal: O tom marinho confere um ar clássico e versátil, ideal para compor looks casuais e também mais refinados. Conforto Impecável: Fabricado com materiais de alta qualidade, possui palmilha acolchoada que garante maciez e suporte para seus pés durante todo o dia. Durabilidade e Resistência: Com acabamento primoroso e solado robusto, oferece excelente aderência e longa vida útil. Disponível do 38 ao 43: Encontre o tamanho perfeito para seu pé e tenha o melhor ajuste possível. Tabela de Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25,0 | | 39 | 26,0 | | 40 | 27,0 | | 41 | 27,5 | | 42 | 29,0 | | 43 | 29,5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-30-at-17-09-25-192cfdaef9e99cf73017854424599613-1024-1024.webp",
@@ -35776,7 +35776,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-gafite-off-white-pro-hhh6e/",
-      "lastSyncedAt": "2026-08-05T16:40:55.325Z",
+      "lastSyncedAt": "2026-08-07T05:15:54.641Z",
       "sku": "998"
     },
     {
