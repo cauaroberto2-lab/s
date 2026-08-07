@@ -475,8 +475,8 @@
           "id": "1563717347",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1563717350",
@@ -516,11 +516,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-bege-castor-1cun8/",
-      "lastSyncedAt": "2026-07-28T15:19:51.190Z",
+      "lastSyncedAt": "2026-08-07T16:24:00.903Z",
       "sku": "952"
     },
     {
@@ -2555,7 +2555,7 @@
           "id": "1504862357",
           "size": "41",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -2582,11 +2582,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-grafite-latex-1ymnd/",
-      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
+      "lastSyncedAt": "2026-08-07T16:24:00.903Z",
       "sku": "717"
     },
     {
@@ -3211,7 +3211,7 @@
           "id": "1548990652",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -3231,11 +3231,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-creme-branco-1d0ii/",
-      "lastSyncedAt": "2026-08-05T21:46:15.120Z",
+      "lastSyncedAt": "2026-08-07T16:24:00.903Z",
       "sku": "869"
     },
     {
@@ -11102,7 +11102,7 @@
           "id": "1548195022",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -11126,11 +11126,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-branco-preto-latex-1kxk7/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-07T16:24:00.903Z",
       "sku": "727"
     },
     {
@@ -18287,8 +18287,8 @@
           "id": "1402193957",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1402193959",
@@ -18307,11 +18307,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-bege-gold-0a1rj/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-07T16:24:00.903Z",
       "sku": "424"
     },
     {
@@ -37092,7 +37092,7 @@
           "id": "1484372223",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -37116,11 +37116,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ultraranger-3d-preto-branco-uqeje/",
-      "lastSyncedAt": "2026-08-06T09:24:52.212Z",
+      "lastSyncedAt": "2026-08-07T16:24:00.903Z",
       "sku": "680"
     },
     {
