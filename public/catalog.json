@@ -23752,8 +23752,8 @@
           "id": "1572147155",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -23769,11 +23769,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-jaguar-blue-1f45w/",
-      "lastSyncedAt": "2026-08-08T14:30:01.552Z",
+      "lastSyncedAt": "2026-08-08T15:00:31.033Z",
       "sku": "1011"
     },
     {
