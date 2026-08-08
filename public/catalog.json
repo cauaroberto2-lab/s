@@ -1673,15 +1673,15 @@
           "id": "1464323001",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1464323002",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1464323005",
@@ -1707,11 +1707,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-preto-1ovpe/",
-      "lastSyncedAt": "2026-08-08T16:34:28.318Z",
+      "lastSyncedAt": "2026-08-08T18:49:29.986Z",
       "sku": "797"
     },
     {
@@ -4201,7 +4201,7 @@
           "id": "1553672372",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -4228,11 +4228,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-adios-pro-4-preto-off-zmjwd/",
-      "lastSyncedAt": "2026-08-04T20:08:49.763Z",
+      "lastSyncedAt": "2026-08-08T18:49:29.986Z",
       "sku": "879"
     },
     {
@@ -13503,7 +13503,7 @@
           "id": "1555931375",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -13537,11 +13537,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-ligth-smoke-gray-9rgf1/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-08T18:49:29.986Z",
       "sku": "903"
     },
     {
@@ -13575,7 +13575,7 @@
           "id": "1510151095",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -13648,11 +13648,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 33,
+      "totalStock": 32,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-all-black-ijaav/",
-      "lastSyncedAt": "2026-08-08T16:34:28.318Z",
+      "lastSyncedAt": "2026-08-08T18:49:29.986Z",
       "sku": "477"
     },
     {
@@ -18446,8 +18446,8 @@
           "id": "1405149516",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1405149520",
@@ -18491,11 +18491,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 33,
+      "totalStock": 32,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-08T17:58:41.434Z",
+      "lastSyncedAt": "2026-08-08T18:49:29.986Z",
       "sku": "74"
     },
     {
@@ -33274,8 +33274,8 @@
           "id": "1564254379",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564254381",
@@ -33294,11 +33294,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-180-off-preto-street-125m1/",
-      "lastSyncedAt": "2026-08-08T15:56:10.209Z",
+      "lastSyncedAt": "2026-08-08T18:49:29.986Z",
       "sku": "964"
     },
     {
