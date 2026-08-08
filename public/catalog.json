@@ -2264,8 +2264,8 @@
           "id": "1493963124",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -2277,11 +2277,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-2000-branco-gelo-129bx/",
-      "lastSyncedAt": "2026-08-08T02:02:26.198Z",
+      "lastSyncedAt": "2026-08-08T14:30:01.552Z",
       "sku": "706"
     },
     {
@@ -2645,8 +2645,8 @@
           "id": "1396798306",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -2658,11 +2658,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-preto-branco-60xu0/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-08T14:30:01.552Z",
       "sku": "89"
     },
     {
@@ -6229,7 +6229,7 @@
           "id": "1548341670",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -6263,11 +6263,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-gel-nyc-creme-off-marinho-1etls/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-08T14:30:01.552Z",
       "sku": "860"
     },
     {
@@ -6321,8 +6321,8 @@
           "id": "1548354777",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1548354778",
@@ -6341,11 +6341,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-gel-nyc-off-cinza-verde-kq7vz/",
-      "lastSyncedAt": "2026-08-03T16:23:09.980Z",
+      "lastSyncedAt": "2026-08-08T14:30:01.552Z",
       "sku": "861"
     },
     {
@@ -13596,7 +13596,7 @@
           "id": "1510151098",
           "size": "42",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -13631,7 +13631,7 @@
           "id": "1572155293",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         }
       ],
@@ -13648,11 +13648,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 36,
+      "totalStock": 34,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-all-black-ijaav/",
-      "lastSyncedAt": "2026-08-08T13:43:49.701Z",
+      "lastSyncedAt": "2026-08-08T14:30:01.552Z",
       "sku": "477"
     },
     {
@@ -14303,7 +14303,7 @@
           "id": "1401232975",
           "size": "40",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 8,
           "available": true
         },
         {
@@ -14341,11 +14341,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 65,
+      "totalStock": 66,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-08-07T15:25:04.722Z",
+      "lastSyncedAt": "2026-08-08T14:30:01.552Z",
       "sku": "166"
     },
     {
@@ -14476,7 +14476,7 @@
           "id": "1420786986",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -14510,11 +14510,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-capuccino-dxo6s/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-08T14:30:01.552Z",
       "sku": "181"
     },
     {
@@ -23731,7 +23731,7 @@
           "id": "1572147152",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -23769,11 +23769,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-jaguar-blue-1f45w/",
-      "lastSyncedAt": "2026-08-07T18:11:11.849Z",
+      "lastSyncedAt": "2026-08-08T14:30:01.552Z",
       "sku": "1011"
     },
     {
@@ -24480,7 +24480,7 @@
           "id": "1571399550",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -24518,11 +24518,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-sesame-m3nmh/",
-      "lastSyncedAt": "2026-08-05T16:40:55.325Z",
+      "lastSyncedAt": "2026-08-08T14:30:01.552Z",
       "sku": "914"
     },
     {
