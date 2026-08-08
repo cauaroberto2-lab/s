@@ -1209,8 +1209,8 @@
           "id": "1562885974",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1562885977",
@@ -1243,11 +1243,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-nude-pink-1ylm3/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-08T17:27:42.176Z",
       "sku": "950"
     },
     {
@@ -27049,8 +27049,8 @@
           "id": "1548261532",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1548261533",
@@ -27069,11 +27069,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-branco-preto-1f9du/",
-      "lastSyncedAt": "2026-07-31T15:18:32.457Z",
+      "lastSyncedAt": "2026-08-08T17:27:42.176Z",
       "sku": "858"
     },
     {
@@ -28014,8 +28014,8 @@
           "id": "1492877362",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1492877363",
@@ -28034,11 +28034,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-creme-bordo-a58fz/",
-      "lastSyncedAt": "2026-08-07T19:28:45.154Z",
+      "lastSyncedAt": "2026-08-08T17:27:42.176Z",
       "sku": "705"
     },
     {
