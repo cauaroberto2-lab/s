@@ -2908,8 +2908,8 @@
           "id": "1564413985",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -2921,11 +2921,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-drop-step-preto-grafite-qd4ab/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
       "sku": "969"
     },
     {
@@ -4368,8 +4368,8 @@
           "id": "1494038810",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -4381,11 +4381,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-azul-celeste-16jok/",
-      "lastSyncedAt": "2026-08-08T15:56:10.209Z",
+      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
       "sku": "120"
     },
     {
@@ -4437,7 +4437,7 @@
           "id": "1494015893",
           "size": "42",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -4457,11 +4457,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adzero-boston-11-branco-limao-1aklb/",
-      "lastSyncedAt": "2026-08-07T19:28:45.154Z",
+      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
       "sku": "453"
     },
     {
@@ -4592,7 +4592,7 @@
           "id": "1549273848",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -4612,11 +4612,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-boston-11-preto-branco-1j5gp/",
-      "lastSyncedAt": "2026-08-07T03:27:32.915Z",
+      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
       "sku": "870"
     },
     {
@@ -9736,7 +9736,7 @@
           "id": "1444139504",
           "size": "M",
           "color": "Branco",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -9858,11 +9858,11 @@
         "Verde",
         "Preto"
       ],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-l-classic-4ds24/",
-      "lastSyncedAt": "2026-08-03T18:16:07.872Z",
+      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
       "sku": "581"
     },
     {
@@ -13617,7 +13617,7 @@
           "id": "1572155286",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -13648,11 +13648,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 32,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-all-black-ijaav/",
-      "lastSyncedAt": "2026-08-08T18:49:29.986Z",
+      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
       "sku": "477"
     },
     {
@@ -15315,7 +15315,7 @@
           "id": "1401101220",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -15374,11 +15374,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 27,
+      "totalStock": 26,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-08T17:58:41.434Z",
+      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
       "sku": "105"
     },
     {
@@ -20406,7 +20406,7 @@
           "id": "1454711592",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -20451,11 +20451,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-branco-preto-m8fvj/",
-      "lastSyncedAt": "2026-08-07T21:10:12.434Z",
+      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
       "sku": "85"
     },
     {
@@ -23731,8 +23731,8 @@
           "id": "1572147152",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1572147153",
@@ -23769,11 +23769,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-jaguar-blue-1f45w/",
-      "lastSyncedAt": "2026-08-08T20:28:16.438Z",
+      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
       "sku": "1011"
     },
     {
@@ -34645,7 +34645,7 @@
           "id": "1515759767",
           "size": "36",
           "color": "Padrão",
-          "stock": 8,
+          "stock": 7,
           "available": true
         },
         {
@@ -34679,11 +34679,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-marrom-latex-1vfdp/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
       "sku": "90"
     },
     {
@@ -38189,8 +38189,8 @@
           "id": "1410609060",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410609061",
@@ -38213,11 +38213,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-preto-off-lr98c/",
-      "lastSyncedAt": "2026-08-04T14:07:05.161Z",
+      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
       "sku": "221"
     },
     {
