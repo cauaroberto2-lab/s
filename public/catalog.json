@@ -131,8 +131,8 @@
           "id": "1504176773",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504176778",
@@ -211,11 +211,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-08-08T20:28:16.438Z",
+      "lastSyncedAt": "2026-08-09T17:58:22.236Z",
       "sku": "715"
     },
     {
@@ -2813,7 +2813,7 @@
           "id": "1572170037",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -2844,11 +2844,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-prime-x3-aqua-e8vn2/",
-      "lastSyncedAt": "2026-08-07T18:11:11.849Z",
+      "lastSyncedAt": "2026-08-09T17:58:22.236Z",
       "sku": "1007"
     },
     {
@@ -4347,7 +4347,7 @@
           "id": "1494038807",
           "size": "40",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -4381,11 +4381,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-azul-celeste-16jok/",
-      "lastSyncedAt": "2026-08-09T03:40:25.742Z",
+      "lastSyncedAt": "2026-08-09T17:58:22.236Z",
       "sku": "120"
     },
     {
@@ -28952,8 +28952,8 @@
           "id": "1407307720",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1407307727",
@@ -28990,11 +28990,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-08-08T16:34:28.318Z",
+      "lastSyncedAt": "2026-08-09T17:58:22.236Z",
       "sku": "205"
     },
     {
