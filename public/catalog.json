@@ -16928,8 +16928,8 @@
           "id": "1426951259",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1426951261",
@@ -16962,11 +16962,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2k-essencial-preto-caramelo-g6x45/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-09T23:29:35.641Z",
       "sku": "482"
     },
     {
