@@ -19089,8 +19089,8 @@
           "id": "1402053297",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1402053302",
@@ -19130,11 +19130,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-preto-off-bege-qs8yl/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-09T01:36:36.831Z",
       "sku": "161"
     },
     {
@@ -19981,7 +19981,7 @@
           "id": "1566956715",
           "size": "41",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -20008,11 +20008,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-black-white-nobuk-1gz2a/",
-      "lastSyncedAt": "2026-08-04T21:48:14.673Z",
+      "lastSyncedAt": "2026-08-09T01:36:36.831Z",
       "sku": "987"
     },
     {
@@ -21954,7 +21954,7 @@
           "id": "1565067524",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -21985,11 +21985,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-preto-musgo-1ylnz/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-09T01:36:36.831Z",
       "sku": "921"
     },
     {
@@ -33770,8 +33770,8 @@
           "id": "1567430998",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1567431000",
@@ -33808,11 +33808,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-suede-xl-creme-preto-1wnwq/",
-      "lastSyncedAt": "2026-08-07T20:08:22.603Z",
+      "lastSyncedAt": "2026-08-09T01:36:36.831Z",
       "sku": "376"
     },
     {
