@@ -37555,8 +37555,8 @@
           "id": "1523350412",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1523350413",
@@ -37614,11 +37614,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-caramelo-off-vquyk/",
-      "lastSyncedAt": "2026-08-07T20:08:22.603Z",
+      "lastSyncedAt": "2026-08-09T15:29:29.282Z",
       "sku": "748"
     },
     {
