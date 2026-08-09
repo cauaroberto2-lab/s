@@ -173,7 +173,7 @@
           "id": "1504176798",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -211,11 +211,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-08-09T17:58:22.236Z",
+      "lastSyncedAt": "2026-08-09T19:31:55.691Z",
       "sku": "715"
     },
     {
@@ -906,7 +906,7 @@
           "id": "1571524810",
           "size": "37",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -933,11 +933,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-gelo-off-qj3wq/",
-      "lastSyncedAt": "2026-08-07T20:08:22.603Z",
+      "lastSyncedAt": "2026-08-09T19:31:55.691Z",
       "sku": "1010"
     },
     {
@@ -2112,7 +2112,7 @@
           "id": "1496804725",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -2125,11 +2125,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-2000-all-black-tyfvz/",
-      "lastSyncedAt": "2026-08-07T15:25:04.722Z",
+      "lastSyncedAt": "2026-08-09T19:31:55.691Z",
       "sku": "456"
     },
     {
@@ -2569,8 +2569,8 @@
           "id": "1504862359",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -2582,11 +2582,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-grafite-latex-1ymnd/",
-      "lastSyncedAt": "2026-08-09T05:02:19.584Z",
+      "lastSyncedAt": "2026-08-09T19:31:55.691Z",
       "sku": "717"
     },
     {
@@ -18335,8 +18335,8 @@
           "id": "1536903850",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1536903851",
@@ -18383,11 +18383,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-black-white-1sscz/",
-      "lastSyncedAt": "2026-08-09T18:51:12.803Z",
+      "lastSyncedAt": "2026-08-09T19:31:55.691Z",
       "sku": "803"
     },
     {
@@ -20434,7 +20434,7 @@
           "id": "1454711596",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -20451,11 +20451,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-branco-preto-m8fvj/",
-      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
+      "lastSyncedAt": "2026-08-09T19:31:55.691Z",
       "sku": "85"
     },
     {
@@ -20748,8 +20748,8 @@
           "id": "1517113812",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1517113813",
@@ -20789,11 +20789,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-grafite-preto-velcro-lesib/",
-      "lastSyncedAt": "2026-08-09T18:51:12.803Z",
+      "lastSyncedAt": "2026-08-09T19:31:55.691Z",
       "sku": "739"
     },
     {
