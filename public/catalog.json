@@ -1350,8 +1350,8 @@
           "id": "1540161678",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1540161679",
@@ -1398,11 +1398,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-taupe-qnife/",
-      "lastSyncedAt": "2026-08-07T03:27:32.915Z",
+      "lastSyncedAt": "2026-08-10T17:01:17.589Z",
       "sku": "815"
     },
     {
@@ -4111,7 +4111,7 @@
           "id": "1572262036",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -4150,11 +4150,11 @@
         "44"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-urban-two-pro-preto-branco-yhf2y/",
-      "lastSyncedAt": "2026-08-07T19:28:45.154Z",
+      "lastSyncedAt": "2026-08-10T17:01:17.589Z",
       "sku": "795"
     },
     {
@@ -14268,7 +14268,7 @@
           "id": "1401232953",
           "size": "35",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -14341,11 +14341,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 60,
+      "totalStock": 59,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-08-08T20:28:16.438Z",
+      "lastSyncedAt": "2026-08-10T17:01:17.589Z",
       "sku": "166"
     },
     {
@@ -20219,15 +20219,15 @@
           "id": "1450677929",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1450677930",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1450677931",
@@ -20271,7 +20271,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-cinza-gelo-1n7rm/",
-      "lastSyncedAt": "2026-08-07T15:25:04.722Z",
+      "lastSyncedAt": "2026-08-10T17:01:17.589Z",
       "sku": "590"
     },
     {
@@ -35745,8 +35745,8 @@
           "id": "1568313353",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1568313354",
@@ -35772,11 +35772,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-gafite-off-white-pro-hhh6e/",
-      "lastSyncedAt": "2026-08-10T02:40:43.654Z",
+      "lastSyncedAt": "2026-08-10T17:01:17.589Z",
       "sku": "998"
     },
     {
