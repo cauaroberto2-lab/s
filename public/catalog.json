@@ -15308,7 +15308,7 @@
           "id": "1401101215",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -15374,11 +15374,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 26,
+      "totalStock": 25,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
+      "lastSyncedAt": "2026-08-10T15:58:57.533Z",
       "sku": "105"
     },
     {
@@ -15409,7 +15409,7 @@
           "id": "1422412374",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -15450,11 +15450,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-preto-nobuk-latex-13k02/",
-      "lastSyncedAt": "2026-08-03T18:16:07.872Z",
+      "lastSyncedAt": "2026-08-10T15:58:57.533Z",
       "sku": "193"
     },
     {
@@ -26586,8 +26586,8 @@
           "id": "1527827786",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527827787",
@@ -26620,11 +26620,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-cinza-ox1b1/",
-      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
+      "lastSyncedAt": "2026-08-10T15:58:57.533Z",
       "sku": "777"
     },
     {
