@@ -2478,7 +2478,7 @@
           "id": "1532306713",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -2505,11 +2505,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-gelo-cinza-1hkax/",
-      "lastSyncedAt": "2026-08-08T02:02:26.198Z",
+      "lastSyncedAt": "2026-08-10T10:42:37.627Z",
       "sku": "841"
     },
     {
@@ -2631,7 +2631,7 @@
           "id": "1396798303",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -2658,11 +2658,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-preto-branco-60xu0/",
-      "lastSyncedAt": "2026-08-08T14:30:01.552Z",
+      "lastSyncedAt": "2026-08-10T10:42:37.627Z",
       "sku": "89"
     },
     {
@@ -9764,8 +9764,8 @@
           "id": "1444139510",
           "size": "G",
           "color": "Branco",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1444139512",
@@ -9785,7 +9785,7 @@
           "id": "1444139514",
           "size": "G",
           "color": "Preto",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -9858,11 +9858,11 @@
         "Verde",
         "Preto"
       ],
-      "totalStock": 17,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-l-classic-4ds24/",
-      "lastSyncedAt": "2026-08-08T21:38:56.423Z",
+      "lastSyncedAt": "2026-08-10T10:42:37.627Z",
       "sku": "581"
     },
     {
@@ -26838,7 +26838,7 @@
           "id": "1527843560",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -26883,11 +26883,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 26,
+      "totalStock": 25,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-08-08T15:56:10.209Z",
+      "lastSyncedAt": "2026-08-10T10:42:37.627Z",
       "sku": "787"
     },
     {
@@ -34176,7 +34176,7 @@
           "id": "1549300092",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         }
       ],
@@ -34189,11 +34189,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-bordo-latex-1iu10/",
-      "lastSyncedAt": "2026-08-05T21:46:15.120Z",
+      "lastSyncedAt": "2026-08-10T10:42:37.627Z",
       "sku": "872"
     },
     {
