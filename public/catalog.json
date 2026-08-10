@@ -14561,7 +14561,7 @@
           "id": "1401125509",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -14620,11 +14620,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-branco-beeo6/",
-      "lastSyncedAt": "2026-08-10T14:35:41.411Z",
+      "lastSyncedAt": "2026-08-10T21:12:01.239Z",
       "sku": "177"
     },
     {
@@ -18453,7 +18453,7 @@
           "id": "1405149520",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -18491,11 +18491,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 29,
+      "totalStock": 28,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-10T14:35:41.411Z",
+      "lastSyncedAt": "2026-08-10T21:12:01.239Z",
       "sku": "74"
     },
     {
@@ -36568,31 +36568,94 @@
       "subCategory": "SUETERS",
       "description": "Suéter Texturizado Zara – Alta Qualidade e Conforto Premium Apresentamos o Suéter Texturizado Zara, uma peça indispensável para quem busca estilo, conforto e qualidade em um só produto. Fabricado com material premium, este suéter oferece um toque macio e um caimento perfeito para valorizar seu visual em qualquer ocasião. Por que escolher o Suéter Texturizado Zara? Material Premium e Super Confortável Produzido com tecidos de alta qualidade, o suéter proporciona máximo conforto durante o uso, ideal para dias mais fresquinhos. Sua textura diferenciada confere um charme especial, tornando-o uma peça versátil para o seu guarda-roupa. Caimento Perfeito e Estilo Sofisticado O design do suéter é pensado para oferecer um ajuste ideal, valorizando diferentes tipos de corpo. Disponível nos tamanhos P ao GG, com comprimento de 34 cm e largura de 29 cm, você encontra o tamanho que melhor se adapta a você, garantindo estilo e conforto. Tabela de Tamanhos Padrão Confira as medidas para facilitar sua escolha: | Tamanho | Comprimento (cm) | Largura (cm) | |---------|------------------|--------------| | P | 34 | 29 | | M | 34 | 29 | | G | 34 | 29 | | GG | 34 | 29 | Dica: Meça suas roupas preferidas e compare com a tabela para garantir o ajuste perfeito! Política de Troca Sua satisfação é prioridade! Caso precise trocar o produto, você tem até 7 dias corridos após o recebimento para solicitar a troca. O produto deve estar em perfeito estado, sem sinais de uso, garantindo a qualidade e autenticidade do suéter.",
       "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/dress_sweater_on_model_2k_202608101632-828b18dd328c37c4e917863904929361-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/dress_sweater_on_model_2k_202608101633-d692625d7aaa03c4a617863904930143-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/dress_sweater_on_model_2k_202608101416-25f5b99cde8c4bf9ca17863904926955-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/dress_sweater_on_model_2k_202608101417-85076cf9c7ef83350017863904927505-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/dress_sweater_on_model_2k_202608101427-31d83080f0d341a05e17863904924900-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/dress_sweater_on_model_2k_202608101427-1-b14fd09b0b0ff47e0517863904929221-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/dress_sweater_on_model_2k_202608101632-828b18dd328c37c4e917863904929361-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/dress_sweater_on_model_2k_202608101633-d692625d7aaa03c4a617863904930143-1024-1024.webp"
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/dress_sweater_on_model_2k_202608101427-31d83080f0d341a05e17863904924900-1024-1024.webp"
       ],
       "variants": [
         {
-          "id": "1574331523",
-          "size": "Único",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "id": "1574360673",
+          "size": "M",
+          "color": "Bege",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1574360674",
+          "size": "M",
+          "color": "Marrom",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1574360675",
+          "size": "M",
+          "color": "Preto",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1574360676",
+          "size": "G",
+          "color": "Bege",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1574360678",
+          "size": "G",
+          "color": "Marrom",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1574360679",
+          "size": "G",
+          "color": "Preto",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1574360681",
+          "size": "GG",
+          "color": "Bege",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1574360682",
+          "size": "GG",
+          "color": "Marrom",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1574360684",
+          "size": "GG",
+          "color": "Preto",
+          "stock": 2,
+          "available": true
         }
       ],
       "sizes": [
-        "Único"
+        "G",
+        "GG",
+        "M"
       ],
-      "colors": [],
-      "totalStock": 0,
-      "available": false,
+      "colors": [
+        "Bege",
+        "Marrom",
+        "Preto"
+      ],
+      "totalStock": 18,
+      "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sueter-texturizado-zara-1q7cu/",
-      "lastSyncedAt": "2026-08-10T20:10:30.705Z"
+      "lastSyncedAt": "2026-08-10T21:12:01.239Z",
+      "sku": "1019"
     },
     {
       "id": "dx-360244860",
