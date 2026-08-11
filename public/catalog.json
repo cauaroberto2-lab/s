@@ -1764,7 +1764,7 @@
           "id": "1555750421",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -1784,11 +1784,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 27,
+      "totalStock": 26,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-pto-bco-pto-1lib1/",
-      "lastSyncedAt": "2026-08-08T16:34:28.318Z",
+      "lastSyncedAt": "2026-08-11T15:28:53.426Z",
       "sku": "899"
     },
     {
@@ -4132,8 +4132,8 @@
           "id": "1572262040",
           "size": "44",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -4150,11 +4150,11 @@
         "44"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-urban-two-pro-preto-branco-yhf2y/",
-      "lastSyncedAt": "2026-08-10T22:06:26.785Z",
+      "lastSyncedAt": "2026-08-11T15:28:53.426Z",
       "sku": "795"
     },
     {
@@ -30200,7 +30200,7 @@
           "id": "1559553230",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -30227,11 +30227,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-preto-cinza-off-1mog9/",
-      "lastSyncedAt": "2026-08-10T23:05:57.915Z",
+      "lastSyncedAt": "2026-08-11T15:28:53.426Z",
       "sku": "925"
     },
     {
@@ -34403,7 +34403,7 @@
           "id": "1464242907",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -34416,11 +34416,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-azul-bb-9qmlj/",
-      "lastSyncedAt": "2026-08-11T12:59:25.760Z",
+      "lastSyncedAt": "2026-08-11T15:28:53.426Z",
       "sku": "338"
     },
     {
@@ -34604,7 +34604,7 @@
           "id": "1401140090",
           "size": "35",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -34677,11 +34677,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-08-10T19:30:04.588Z",
+      "lastSyncedAt": "2026-08-11T15:28:53.426Z",
       "sku": "117"
     },
     {
