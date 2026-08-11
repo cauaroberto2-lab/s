@@ -145,8 +145,8 @@
           "id": "1504176785",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504176788",
@@ -211,11 +211,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-08-11T12:59:25.760Z",
+      "lastSyncedAt": "2026-08-11T14:22:48.389Z",
       "sku": "715"
     },
     {
@@ -3514,8 +3514,8 @@
           "id": "1559636339",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559636340",
@@ -3541,11 +3541,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-sambae-plataforma-branco-rose-latex-xzzcn/",
-      "lastSyncedAt": "2026-08-11T10:57:07.653Z",
+      "lastSyncedAt": "2026-08-11T14:22:48.389Z",
       "sku": "931"
     },
     {
@@ -12157,6 +12157,80 @@
       "sku": "673"
     },
     {
+      "id": "dx-360368159",
+      "sourceId": "360368159",
+      "slug": "conjunto-moletom-nike-360368159",
+      "name": "CONJUNTO MOLETOM NIKE",
+      "brand": "Nike",
+      "category": "Vestuário",
+      "subCategory": "CONJUNTOS",
+      "description": "Conjuntos Nike – Qualidade e Conforto em Cada Detalhe Apresentamos os Conjuntos Nike, desenvolvidos para quem busca alta qualidade e material premium em roupas esportivas que oferecem conforto superior e caimento perfeito. Por que escolher os Conjuntos Nike? Material Premium e Conforto Incomparável Cada conjunto é confeccionado com tecidos de alta performance que proporcionam toque macio, respirabilidade e durabilidade. Isso garante que você se mantenha confortável durante suas atividades físicas ou no dia a dia, sem perder o estilo. Design e Caimento Perfeito Os Conjuntos Nike foram pensados para oferecer um ajuste que valoriza o corpo, com cortes modernos e funcionais. Disponíveis nos tamanhos M e GG, eles acompanham seus movimentos com liberdade e segurança. Tabela de Tamanhos Padrão com Medidas em Centímetros Para facilitar sua escolha, confira a tabela com as medidas recomendadas para garantir o ajuste ideal: | Tamanho | Medidas Aproximadas (cm) | |---------|--------------------------| | M | Busto: 92-96 / Cintura: 76-80 / Quadril: 100-104 | | GG | Busto: 104-108 / Cintura: 88-92 / Quadril: 112-116 | Dica: Meça suas medidas com atenção e compare com a tabela para escolher o tamanho que oferece o melhor conforto e visual. Política de Troca Sua satisfação é fundamental para nós! Caso precise realizar troca, você tem até 7 dias corridos após o recebimento do produto para solicitar. Garantimos um processo simples e transparente para que você tenha a melhor experiência de compra.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/adding_nike_symbol_to_outfit_202608101113-c1dbe52376011c4cfd17864520469441-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/adding_nike_symbol_to_outfit_202608110949-e9c02f25d4c57322e717864526763425-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/add_nike_symbol_to_outfit_202608110942-cafa74d27d37b0e0a617864526768035-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/dress_model_in_nike_outfit_202608111004-005073f2f093f0e01117864535104806-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1574716484",
+          "size": "M",
+          "color": "Preto",
+          "stock": 1022,
+          "available": true
+        },
+        {
+          "id": "1574716485",
+          "size": "M",
+          "color": "Azul",
+          "stock": 1021,
+          "available": true
+        },
+        {
+          "id": "1574716487",
+          "size": "G",
+          "color": "Preto",
+          "stock": 1022,
+          "available": true
+        },
+        {
+          "id": "1574716489",
+          "size": "G",
+          "color": "Azul",
+          "stock": 1021,
+          "available": true
+        },
+        {
+          "id": "1574716492",
+          "size": "GG",
+          "color": "Preto",
+          "stock": 1022,
+          "available": true
+        },
+        {
+          "id": "1574716496",
+          "size": "GG",
+          "color": "Azul",
+          "stock": 1021,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M"
+      ],
+      "colors": [
+        "Preto",
+        "Azul"
+      ],
+      "totalStock": 6129,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/conjunto-moletom-nike-16r0c/",
+      "lastSyncedAt": "2026-08-11T14:22:48.389Z"
+    },
+    {
       "id": "dx-356570011",
       "sourceId": "356570011",
       "slug": "conjunto-moletom-tommy-hilfiger-356570011",
@@ -15079,8 +15153,8 @@
           "id": "1557379931",
           "size": "30",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1557379932",
@@ -15115,11 +15189,11 @@
         "33"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-lilas-kids-5zx0n/",
-      "lastSyncedAt": "2026-08-05T00:54:00.415Z",
+      "lastSyncedAt": "2026-08-11T14:22:48.389Z",
       "sku": "918"
     },
     {
@@ -19350,8 +19424,8 @@
           "id": "1538400866",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1538400867",
@@ -19391,11 +19465,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-pistache-off-ukimx/",
-      "lastSyncedAt": "2026-08-08T17:58:41.434Z",
+      "lastSyncedAt": "2026-08-11T14:22:48.389Z",
       "sku": "812"
     },
     {
@@ -32577,7 +32651,7 @@
           "id": "1009089419",
           "size": "37",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -32604,11 +32678,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 27,
+      "totalStock": 26,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-preto-pink-xe683/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-11T14:22:48.389Z",
       "sku": "29"
     },
     {
