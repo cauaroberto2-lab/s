@@ -3514,7 +3514,7 @@
           "id": "1559636339",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -3541,11 +3541,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-sambae-plataforma-branco-rose-latex-xzzcn/",
-      "lastSyncedAt": "2026-08-07T03:27:32.915Z",
+      "lastSyncedAt": "2026-08-11T10:57:07.653Z",
       "sku": "931"
     },
     {
@@ -36737,15 +36737,15 @@
           "id": "1574297674",
           "size": "G",
           "color": "Azul",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1574297675",
           "size": "G",
           "color": "Cinza",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1574297676",
@@ -36773,11 +36773,11 @@
         "Preto",
         "Grafite"
       ],
-      "totalStock": 13,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sueter-tommy-h-1g5z5/",
-      "lastSyncedAt": "2026-08-10T19:30:04.588Z",
+      "lastSyncedAt": "2026-08-11T10:57:07.653Z",
       "sku": "1015"
     },
     {
