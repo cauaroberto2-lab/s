@@ -17952,7 +17952,7 @@
           "id": "1450111547",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -18000,11 +18000,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-cinza-xadrez-137rx/",
-      "lastSyncedAt": "2026-08-10T14:35:41.411Z",
+      "lastSyncedAt": "2026-08-11T05:33:57.135Z",
       "sku": "587"
     },
     {
@@ -18672,8 +18672,8 @@
           "id": "1537053950",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1537053952",
@@ -18720,11 +18720,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-natural-branco-preto-18jds/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-11T05:33:57.135Z",
       "sku": "804"
     },
     {
