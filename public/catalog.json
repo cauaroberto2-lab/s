@@ -138,8 +138,8 @@
           "id": "1504176778",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504176785",
@@ -211,11 +211,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
+      "lastSyncedAt": "2026-08-11T22:39:38.551Z",
       "sku": "715"
     },
     {
@@ -13663,7 +13663,7 @@
           "id": "1510151097",
           "size": "41",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -13722,11 +13722,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 27,
+      "totalStock": 26,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-all-black-ijaav/",
-      "lastSyncedAt": "2026-08-11T16:26:31.327Z",
+      "lastSyncedAt": "2026-08-11T22:39:38.551Z",
       "sku": "477"
     },
     {
@@ -16826,8 +16826,8 @@
           "id": "1555941815",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555941816",
@@ -16885,11 +16885,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-vintage-navy-10s3k/",
-      "lastSyncedAt": "2026-08-09T11:56:16.170Z",
+      "lastSyncedAt": "2026-08-11T22:39:38.551Z",
       "sku": "904"
     },
     {
@@ -18573,6 +18573,82 @@
       "sku": "74"
     },
     {
+      "id": "dx-324369059",
+      "sourceId": "324369059",
+      "slug": "force-one-branco-marinho-off-324369059",
+      "name": "FORCE ONE BRANCO MARINHO OFF",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "AIR FORCE",
+      "description": "Tênis FORCE ONE BRANCO MARINHO OFF – Estilo e Conforto para o Seu Dia a Dia Apresentamos o FORCE ONE BRANCO MARINHO OFF, um tênis que une design moderno com conforto excepcional, ideal para quem busca um calçado versátil, elegante e durável. Perfeito para acompanhar seu ritmo e dar um toque de estilo em qualquer ocasião. Por que escolher o FORCE ONE BRANCO MARINHO OFF? Visual Sofisticado: A combinação do branco com o azul marinho cria um contraste elegante e contemporâneo, que combina facilmente com diferentes estilos e looks. Conforto Superior: Desenvolvido com materiais de alta qualidade e palmilha acolchoada, proporciona suporte e maciez para os seus pés durante todo o dia. Durabilidade Garantida: O solado resistente e o acabamento impecável asseguram longa vida útil, mantendo o tênis bonito e funcional mesmo com uso frequente. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-02-09-at-16-05-30-74d7ac6bf109256f3017707525479753-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-02-09-at-16-05-33-0d18028d713a62adc817707525442582-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-02-09-at-16-05-34-335de88c5de7e9289b17707525434659-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-02-09-at-16-05-32-d254dbf6f2bc19bd8a17707525459025-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-02-09-at-16-05-31-3f4c22beaee083525217707525470051-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1437928776",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1437928780",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1437928782",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1437928785",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1437928786",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1437928788",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-marinho-off-1ffpx/",
+      "lastSyncedAt": "2026-08-11T22:39:38.551Z",
+      "sku": "457"
+    },
+    {
       "id": "dx-348310470",
       "sourceId": "348310470",
       "slug": "force-one-grafite-camurca-348310470",
@@ -20248,7 +20324,7 @@
           "id": "1555672732",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         }
       ],
@@ -20265,11 +20341,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-branco-preto-latex-kbbxr/",
-      "lastSyncedAt": "2026-08-11T17:28:26.730Z",
+      "lastSyncedAt": "2026-08-11T22:39:38.551Z",
       "sku": "893"
     },
     {
@@ -26891,7 +26967,7 @@
           "id": "1527843557",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -26957,11 +27033,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-08-11T20:40:54.247Z",
+      "lastSyncedAt": "2026-08-11T22:39:38.551Z",
       "sku": "787"
     },
     {
@@ -28322,43 +28398,43 @@
           "id": "1414692551",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1414692552",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1414692553",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1414692554",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1414692555",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1414692556",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -28370,11 +28446,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-cafe-mxu6a/",
-      "lastSyncedAt": "2026-08-06T00:01:03.141Z",
+      "lastSyncedAt": "2026-08-11T22:39:38.551Z",
       "sku": "496"
     },
     {
@@ -29790,7 +29866,7 @@
           "id": "1545082932",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -29831,11 +29907,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-stunt-15lp1/",
-      "lastSyncedAt": "2026-08-11T16:26:31.327Z",
+      "lastSyncedAt": "2026-08-11T22:39:38.551Z",
       "sku": "850"
     },
     {
