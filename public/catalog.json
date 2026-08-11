@@ -152,8 +152,8 @@
           "id": "1504176788",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504176792",
@@ -211,11 +211,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-08-11T17:28:26.730Z",
+      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
       "sku": "715"
     },
     {
@@ -2880,7 +2880,7 @@
           "id": "1564413976",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -2921,11 +2921,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-drop-step-preto-grafite-qd4ab/",
-      "lastSyncedAt": "2026-08-11T16:26:31.327Z",
+      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
       "sku": "969"
     },
     {
@@ -4501,7 +4501,7 @@
           "id": "1559589164",
           "size": "36",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -4535,11 +4535,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-branco-rosa-limao-hy3nc/",
-      "lastSyncedAt": "2026-08-08T16:34:28.318Z",
+      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
       "sku": "929"
     },
     {
@@ -28840,8 +28840,8 @@
           "id": "1467714528",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1467714529",
@@ -28878,11 +28878,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-banco-off-1q8of/",
-      "lastSyncedAt": "2026-07-31T18:53:03.792Z",
+      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
       "sku": "206"
     },
     {
@@ -29648,8 +29648,8 @@
           "id": "1564538295",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564538296",
@@ -29675,11 +29675,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-preto-creme-1k61k/",
-      "lastSyncedAt": "2026-08-05T20:07:17.161Z",
+      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
       "sku": "975"
     },
     {
@@ -30601,6 +30601,83 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-preto-cinza-11fvf/",
       "lastSyncedAt": "2026-08-07T00:23:43.319Z",
       "sku": "848"
+    },
+    {
+      "id": "dx-351073902",
+      "sourceId": "351073902",
+      "slug": "nike-dunk-low-reverse-351073902",
+      "name": "NIKE DUNK LOW REVERSE",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "DUNK LOW",
+      "description": "Tênis DUNK LOW REVERSE – Linha Luxo de Alta Qualidade Apresentamos o Tênis DUNK LOW REVERSE, um calçado que combina estilo moderno, conforto excepcional e alta durabilidade, perfeito para quem busca um produto premium da nossa exclusiva Linha Luxo. Por que escolher o DUNK LOW REVERSE? Design Sofisticado e Atemporal O DUNK LOW REVERSE traz o clássico contraste preto e branco, inspirado na elegância do panda, conferindo um visual versátil que se adapta a qualquer ocasião — seja casual ou urbana. Conforto e Ajuste Impecáveis Produzido com materiais de alta qualidade e palmilha acolchoada, o tênis proporciona maciez e suporte ideais para os seus pés, garantindo conforto durante todo o dia, mesmo nas atividades mais intensas. Durabilidade e Acabamento Premium Com fabricação cuidadosa e atenção aos detalhes, o DUNK LOW REVERSE mantém sua forma e beleza após uso frequente, acompanhando seu ritmo sem perder o estilo. Tamanhos Disponíveis Confira a tabela para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |----------------- 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Envie um vídeo original do tênis, sem sinais de uso, para garantir a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-17-at-16-03-15-fb0cefb2162f6c2d6917817233323587-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-17-at-16-03-16-07abaf9bcd4189c34117817233326007-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-17-at-16-03-17-af9da570b75cbe5b0717817233323237-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-17-at-16-03-17-1-b8f4f51391ad2249c817817233325894-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-17-at-16-03-18-53922ca2185f35363317817233323486-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-17-at-16-03-19-eebf6c511de8a5c93b17817233325884-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1544924014",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 6,
+          "available": true
+        },
+        {
+          "id": "1544924015",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1544924016",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1544924017",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 6,
+          "available": true
+        },
+        {
+          "id": "1544924018",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1544924019",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 23,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-reverse-5og06/",
+      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
+      "sku": "843"
     },
     {
       "id": "dx-359432816",
@@ -34307,8 +34384,8 @@
           "id": "1565140708",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1565140709",
@@ -34341,11 +34418,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-cromado-181k3/",
-      "lastSyncedAt": "2026-08-03T18:16:07.872Z",
+      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
       "sku": "977"
     },
     {
@@ -35477,8 +35554,8 @@
           "id": "1567065592",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1567065593",
@@ -35504,11 +35581,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sb-malor-coffe-black-fjefx/",
-      "lastSyncedAt": "2026-08-06T03:48:42.436Z",
+      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
       "sku": "989"
     },
     {
@@ -35534,36 +35611,36 @@
           "id": "1566970500",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1566970501",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1566970502",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1566970504",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1566970506",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1566970507",
@@ -35582,11 +35659,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sb-malor-preto-branco-1c7yg/",
-      "lastSyncedAt": "2026-08-11T17:28:26.730Z",
+      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
       "sku": "988"
     },
     {
@@ -36853,6 +36930,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sueter-tommy-h-1g5z5/",
       "lastSyncedAt": "2026-08-11T17:28:26.730Z",
       "sku": "1015"
+    },
+    {
+      "id": "dx-318990711",
+      "sourceId": "318990711",
+      "slug": "t-clip-branco-318990711",
+      "name": "T-CLIP BRANCO",
+      "brand": "Lacoste",
+      "category": "Tênis",
+      "subCategory": "LACOSTE",
+      "description": "T-CLIP BRANCO – Tênis de Alta Qualidade da Linha Luxo Descubra o T-CLIP BRANCO, um tênis que une estilo sofisticado, conforto excepcional e durabilidade incomparável, tudo isso com a elegância e exclusividade da Linha Luxo. Ideal para quem valoriza um calçado versátil e refinado, perfeito para diversas ocasiões, do dia a dia a eventos especiais. Por que escolher o T-CLIP BRANCO? Visual moderno e sofisticado Com acabamento em grafite preto, este modelo apresenta um design contemporâneo e discreto, que combina facilmente com diferentes estilos e looks, valorizando sua presença com um toque de exclusividade. Conforto e resistência para seus passos Equipado com sola emborrachada de alta qualidade, o T-CLIP BRANCO oferece excelente aderência e estabilidade em múltiplas superfícies. Seu design ergonômico proporciona leveza e conforto para acompanhar você o dia todo. Qualidade premium da Linha Luxo Fabricado com materiais selecionados e acabamento impecável, este tênis mantém sua beleza e performance mesmo após uso contínuo. A Linha Luxo é sinônimo de produtos para consumidores exigentes que valorizam cada detalhe. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-16-at-16-43-27-2-17da5e3e51a385d92e17685931828581-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-16-at-16-43-28-028a0b3db023caadae17685931797004-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-16-at-16-43-27-1-91150adc7c2b2cea3817685931839715-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-16-at-16-43-28-1-d5cd2823d42e92a44a17685931781624-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-16-at-16-43-27-0b37331a960002e99317685931849545-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1413824102",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1413824103",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1413824106",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 5,
+          "available": true
+        },
+        {
+          "id": "1413824108",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 5,
+          "available": true
+        },
+        {
+          "id": "1413824111",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1413824113",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 18,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/t-clip-branco-1lfjo/",
+      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
+      "sku": "56"
     },
     {
       "id": "dx-316863760",
