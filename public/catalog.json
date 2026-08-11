@@ -1534,7 +1534,7 @@
           "id": "1567414046",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -1554,11 +1554,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-marrom-1d9ct/",
-      "lastSyncedAt": "2026-08-11T19:35:14.657Z",
+      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
       "sku": "991"
     },
     {
@@ -1659,7 +1659,7 @@
           "id": "1464322997",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -1707,11 +1707,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-preto-1ovpe/",
-      "lastSyncedAt": "2026-08-11T04:18:08.506Z",
+      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
       "sku": "797"
     },
     {
@@ -4083,7 +4083,7 @@
           "id": "1529059503",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -4150,11 +4150,11 @@
         "44"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-urban-two-pro-preto-branco-yhf2y/",
-      "lastSyncedAt": "2026-08-11T17:28:26.730Z",
+      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
       "sku": "795"
     },
     {
@@ -4501,7 +4501,7 @@
           "id": "1559589164",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -4515,7 +4515,7 @@
           "id": "1559589166",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -4535,11 +4535,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-branco-rosa-limao-hy3nc/",
-      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
+      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
       "sku": "929"
     },
     {
@@ -12056,8 +12056,8 @@
           "id": "1562617514",
           "size": "M",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1562617515",
@@ -12072,11 +12072,11 @@
         "XG"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/conjunto-de-moletom-lacoste-taxcl/",
-      "lastSyncedAt": "2026-08-07T03:27:32.915Z",
+      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
       "sku": "949"
     },
     {
@@ -14550,7 +14550,7 @@
           "id": "1420786986",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -14584,11 +14584,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-capuccino-dxo6s/",
-      "lastSyncedAt": "2026-08-08T14:30:01.552Z",
+      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
       "sku": "181"
     },
     {
@@ -18347,8 +18347,8 @@
           "id": "1402193945",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1402193950",
@@ -18381,11 +18381,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-bege-gold-0a1rj/",
-      "lastSyncedAt": "2026-08-07T16:24:00.903Z",
+      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
       "sku": "424"
     },
     {
@@ -20815,43 +20815,43 @@
           "id": "1517113811",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1517113812",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1517113813",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1517113814",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1517113815",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1517113816",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -20863,11 +20863,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-grafite-preto-velcro-lesib/",
-      "lastSyncedAt": "2026-08-09T19:31:55.691Z",
+      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
       "sku": "739"
     },
     {
@@ -23148,7 +23148,7 @@
           "id": "1538179726",
           "size": "40",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -23182,11 +23182,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-azul-jeans-1or35/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
       "sku": "808"
     },
     {
@@ -24345,7 +24345,7 @@
           "id": "1555989394",
           "size": "41",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -24404,11 +24404,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 25,
+      "totalStock": 24,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-polar-marinho-17dx8/",
-      "lastSyncedAt": "2026-08-11T19:35:14.657Z",
+      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
       "sku": "907"
     },
     {
@@ -29325,7 +29325,7 @@
           "id": "1564446832",
           "size": "35",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -29366,11 +29366,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-branco-cinza-off-1iwxn/",
-      "lastSyncedAt": "2026-08-11T20:40:54.247Z",
+      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
       "sku": "970"
     },
     {
@@ -31833,36 +31833,36 @@
           "id": "1494025489",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1494025490",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1494025491",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1494025492",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1494025493",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -31874,11 +31874,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/oncloudsurfer-cinza-off-1szpb/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
       "sku": "707"
     },
     {
@@ -37462,6 +37462,83 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-all-black-69fj7/",
       "lastSyncedAt": "2026-08-10T14:35:41.411Z",
       "sku": "254"
+    },
+    {
+      "id": "dx-318686787",
+      "sourceId": "318686787",
+      "slug": "travis-scott-off-coffe-318686787",
+      "name": "TRAVIS SCOTT OFF COFFE",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "JORDAN",
+      "description": "JORDAN CAFÉ OFF – Tênis de Alta Qualidade da Linha Luxo Descubra o JORDAN CAFÉ OFF, um tênis que une estilo sofisticado, conforto excepcional e durabilidade incomparável, tudo isso com a elegância e exclusividade da Linha Luxo. Ideal para quem valoriza um calçado versátil e refinado, perfeito para diversas ocasiões, do dia a dia a eventos especiais. Por que escolher o JORDAN CAFÉ OFF? Visual moderno e sofisticado Com acabamento em grafite preto, este modelo apresenta um design contemporâneo e discreto, que combina facilmente com diferentes estilos e looks, valorizando sua presença com um toque de exclusividade. Conforto e resistência para seus passos Equipado com sola emborrachada de alta qualidade, o JORDAN CAFÉ OFF oferece excelente aderência e estabilidade em múltiplas superfícies. Seu design ergonômico proporciona leveza e conforto para acompanhar você o dia todo. Qualidade premium da Linha Luxo Fabricado com materiais selecionados e acabamento impecável, este tênis mantém sua beleza e performance mesmo após uso contínuo. A Linha Luxo é sinônimo de produtos para consumidores exigentes que valorizam cada detalhe. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-15-at-11-24-16-2ac1d287f89632d71117684894702057-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-15-at-11-24-17-2-81ebdeb07f64b24a7b17684894666929-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-15-at-11-24-17-402393705a928327ea17684894692934-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-15-at-11-24-18-1-98303ca7c4cbea6d1217684894627630-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-15-at-11-24-18-4dafeaa459bd674abd17684894643924-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-15-at-11-24-17-1-6e8739ed3d976fdd0717684894683034-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1412399109",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1412399110",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1412399111",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1412399114",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1412399116",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1412399118",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-cafe-off-u4bck/",
+      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
+      "sku": "245"
     },
     {
       "id": "dx-318689697",
