@@ -1673,8 +1673,8 @@
           "id": "1464323001",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1464323002",
@@ -1707,11 +1707,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-preto-1ovpe/",
-      "lastSyncedAt": "2026-08-13T01:49:31.390Z",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
       "sku": "797"
     },
     {
@@ -1750,7 +1750,7 @@
           "id": "1555750419",
           "size": "36",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -1784,11 +1784,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-pto-bco-pto-1lib1/",
-      "lastSyncedAt": "2026-08-12T20:41:37.835Z",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
       "sku": "899"
     },
     {
@@ -2686,43 +2686,43 @@
           "id": "1419896921",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1419896923",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1419896924",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1419896926",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1419896927",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1419896930",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -2734,11 +2734,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-preto-preto-branco-r9yrp/",
-      "lastSyncedAt": "2026-07-30T17:25:18.672Z",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
       "sku": "346"
     },
     {
@@ -5710,8 +5710,8 @@
           "id": "1511049822",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1511049827",
@@ -5730,11 +5730,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/all-star-bota-preto-branco-1uony/",
-      "lastSyncedAt": "2026-08-08T17:58:41.434Z",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
       "sku": "735"
     },
     {
@@ -6463,7 +6463,7 @@
           "id": "1559536047",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -6497,11 +6497,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-preto-off-1215t/",
-      "lastSyncedAt": "2026-08-11T20:40:54.247Z",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
       "sku": "923"
     },
     {
@@ -10192,7 +10192,7 @@
           "id": "1457859100",
           "size": "P",
           "color": "Branco",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -10270,11 +10270,11 @@
         "Branco",
         "Preto"
       ],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-reserv-1lrcf/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
       "sku": "619"
     },
     {
@@ -13403,8 +13403,8 @@
           "id": "1449594465",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1449594466",
@@ -13455,11 +13455,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-branco-preto-latex-1tj1h/",
-      "lastSyncedAt": "2026-08-05T22:56:30.673Z",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
       "sku": "586"
     },
     {
@@ -20611,6 +20611,83 @@
       "sku": "85"
     },
     {
+      "id": "dx-346917625",
+      "sourceId": "346917625",
+      "slug": "forum-low-84-cinza-branco-346917625",
+      "name": "FORUM LOW 84 CINZA/BRANCO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "FORÚM",
+      "description": "FORUM CINZA/BRANCO – Estilo Clássico com Conforto Essencial Apresentamos o FORUM CINZA/BRANCO, o tênis perfeito para quem busca unir um design atemporal com conforto e qualidade para o dia a dia. Seja para passeios, trabalho ou momentos de lazer, este modelo destaca-se pela versatilidade e sofisticação. Por que escolher o FORUM CINZA/BRANCO? Visual Elegante e Versátil Com acabamento em branco e cinza, o FORUM CINZA/BRANCO traz um visual clássico que combina facilmente com diferentes estilos, do casual ao moderno, valorizando qualquer produção com um toque discreto e sofisticado. Conforto para o Seu Dia Todo Equipado com palmilha macia e sola flexível, este tênis oferece suporte ergonômico para seus pés, garantindo conforto prolongado mesmo durante jornadas longas. Durabilidade e Qualidade Garantidas Fabricado com materiais selecionados e de alta resistência, o FORUM CINZA/BRANCO mantém sua forma e aparência mesmo com uso frequente, assegurando excelente custo-benefício. Segurança a Cada Passo O solado antiderrapante proporciona estabilidade em diversas superfícies, para que você caminhe com confiança e tranquilidade. Tamanhos Disponíveis (Brasil - BR) | Tamanho (BR) | Indicado para Pés com Comprimento Aproximado (cm) | |--------------|---------------------------------------------------| | 26 | 16.5 | | 27 | 17.0 | | 28 | 17.5 | | 29 | 18.0 | | 30 | 18.5 | | 31 | 19.0 | | 32 | 19.5 | | 33 | 20.0 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho ideal, garantindo conforto e segurança em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a qualidade e autenticidade do produto, solicitamos que envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/27eec77d-42e1-417c-a084-baf286eef220-71b3716545879efa3017799112530533-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/dd99cacf-4e07-453f-8917-ee716f2b598b-08621ec8eefa98c70817799112536483-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/11f71b49-26ce-4ef0-b2cc-6c22d2c1210a-756bf70dfd4ceabe1b17799112531933-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/255ae9b9-27c3-4444-9999-f343acef3329-0188f101cc36520cc017799112529612-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/f4abba4b-ac1c-4ad3-99d0-1c60857d16cc-a32f31066bb42300e817799112535937-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/df1993db-1e20-4d34-99f7-950026e29a58-8543b2bcfe160ad6dc17799112534652-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1532566185",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1532566187",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1532566189",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1532566191",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1532566192",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1532566194",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-cinza-branco-1pcgj/",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
+      "sku": "908"
+    },
+    {
       "id": "dx-317180742",
       "sourceId": "317180742",
       "slug": "forum-low-bege-terra-317180742",
@@ -24862,6 +24939,81 @@
       "sku": "914"
     },
     {
+      "id": "dx-360769974",
+      "sourceId": "360769974",
+      "slug": "jordan-travis-scott-mocha-marrom-360769974",
+      "name": "JORDAN TRAVIS SCOTT MOCHA MARROM",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "JORDAN",
+      "description": "Tênis JORDAN TRAVIS SCOTT MOCHA MARROM – Linha Premium de Alta Qualidade Apresentamos o Tênis JORDAN TRAVIS SCOTT MOCHA MARROM, um calçado que une estilo, conforto e durabilidade, perfeito para o seu dia a dia. Parte da nossa exclusiva Linha Premium, este tênis foi desenvolvido para quem busca um produto super confortável e com design super estiloso. Por que escolher o JORDAN TRAVIS SCOTT MOCHA MARROM? Design Sofisticado e Moderno Com uma combinação elegante no tom marrom mocha, este tênis traz um visual único e versátil, ideal para diversas ocasiões do cotidiano. Seu estilo marcante destaca-se em qualquer ambiente, garantindo personalidade e autenticidade. Conforto Superior para o Dia a Dia Produzido com materiais de alta qualidade e tecnologia de conforto avançada, o JORDAN TRAVIS SCOTT oferece uma palmilha macia e suporte ideal para seus pés. Perfeito para quem passa o dia em movimento e não abre mão do conforto. Durabilidade e Acabamento Premium Com fabricação cuidadosa e atenção aos detalhes, este tênis mantém sua forma e beleza mesmo após uso frequente, assegurando resistência e qualidade para acompanhar seu ritmo diário. Tamanhos Disponíveis Confira a tabela abaixo para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-09-42-22-7fc492b6518ad7bdb817866252601689-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-09-42-22-1-75f2750338c3ee8b3617866252600455-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-09-42-22-3-eeba367388deb50d6017866252601969-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-09-42-22-2-17ad7c66c405023fc517866252601722-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1576056036",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1576056037",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576056038",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576056039",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576056040",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1576056041",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 8,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-travis-scott-mocha-marrom-1evqb/",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
+      "sku": "1023"
+    },
+    {
       "id": "dx-321165305",
       "sourceId": "321165305",
       "slug": "kids-samba-branco-rosa-latex-321165305",
@@ -28400,15 +28552,15 @@
           "id": "1492877356",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1492877357",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1492877360",
@@ -28452,7 +28604,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-creme-bordo-a58fz/",
-      "lastSyncedAt": "2026-08-12T23:39:18.001Z",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
       "sku": "705"
     },
     {
@@ -32961,7 +33113,7 @@
           "id": "1408054884",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -33020,11 +33172,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 25,
+      "totalStock": 24,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-preto-branco-7q01e/",
-      "lastSyncedAt": "2026-08-12T23:39:18.001Z",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
       "sku": "28"
     },
     {
@@ -34785,42 +34937,42 @@
           "id": "1464242894",
           "size": "34",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1464242896",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1464242899",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1464242900",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1464242904",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1464242907",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         }
       ],
@@ -34833,11 +34985,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-azul-bb-9qmlj/",
-      "lastSyncedAt": "2026-08-12T23:39:18.001Z",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
       "sku": "338"
     },
     {
@@ -35042,7 +35194,7 @@
           "id": "1401140103",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -35094,11 +35246,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-08-12T14:57:56.296Z",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
       "sku": "117"
     },
     {
@@ -37179,7 +37331,7 @@
           "id": "1574297665",
           "size": "P",
           "color": "Cinza",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -37264,11 +37416,11 @@
         "Preto",
         "Grafite"
       ],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sueter-tommy-h-1g5z5/",
-      "lastSyncedAt": "2026-08-12T23:39:18.001Z",
+      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
       "sku": "1015"
     },
     {
