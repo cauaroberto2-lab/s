@@ -2153,43 +2153,43 @@
           "id": "1396546066",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1396546071",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1396546076",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1396546080",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1396546082",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1396546083",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -2201,11 +2201,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-bege-hxcij/",
-      "lastSyncedAt": "2026-08-02T23:57:45.665Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "348"
     },
     {
@@ -4663,7 +4663,7 @@
           "id": "1559647187",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -4690,11 +4690,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-preto-rosa-1muc3/",
-      "lastSyncedAt": "2026-08-12T20:41:37.835Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "932"
     },
     {
@@ -18501,7 +18501,7 @@
           "id": "1405149495",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -18567,11 +18567,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-13T18:28:56.247Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "74"
     },
     {
@@ -20406,7 +20406,7 @@
           "id": "1450677934",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -20419,11 +20419,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-cinza-gelo-1n7rm/",
-      "lastSyncedAt": "2026-08-10T17:01:17.589Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "590"
     },
     {
@@ -20907,7 +20907,7 @@
           "id": "1430916638",
           "size": "40",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -20941,11 +20941,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-grafite-latex-1pi5x/",
-      "lastSyncedAt": "2026-08-12T23:39:18.001Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "261"
     },
     {
@@ -21315,7 +21315,7 @@
           "id": "1422295701",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -21388,11 +21388,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 35,
+      "totalStock": 34,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-verde-summer-camp-a3yc8/",
-      "lastSyncedAt": "2026-08-13T05:56:03.206Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "97"
     },
     {
@@ -21973,7 +21973,7 @@
           "id": "1568358437",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -21993,11 +21993,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-canela-rose-off-b0wxr/",
-      "lastSyncedAt": "2026-08-13T18:28:56.247Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "1000"
     },
     {
@@ -22482,7 +22482,7 @@
           "id": "1559639520",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -22506,11 +22506,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-preto-grafite-1d8tg/",
-      "lastSyncedAt": "2026-08-04T14:07:05.161Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "664"
     },
     {
@@ -27318,7 +27318,7 @@
           "id": "1527848106",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -27338,11 +27338,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-branco-prata-preto-1bfhp/",
-      "lastSyncedAt": "2026-08-13T18:28:56.247Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "778"
     },
     {
@@ -28558,8 +28558,8 @@
           "id": "1423090059",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1423090060",
@@ -28599,11 +28599,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-creme-branco-eqxrs/",
-      "lastSyncedAt": "2026-08-13T14:58:20.890Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "431"
     },
     {
@@ -30442,7 +30442,7 @@
           "id": "1560038424",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -30476,11 +30476,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-branco-preto-laranja-83lc9/",
-      "lastSyncedAt": "2026-08-12T14:57:56.296Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "939"
     },
     {
@@ -33821,7 +33821,7 @@
           "id": "1565191856",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -33855,11 +33855,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/prophecy-15-preto-prata-h9hdf/",
-      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "980"
     },
     {
@@ -34865,7 +34865,7 @@
           "id": "1465465530",
           "size": "35",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -34906,11 +34906,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-areia-coffe-9kqq9/",
-      "lastSyncedAt": "2026-08-12T13:56:18.529Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "644"
     },
     {
@@ -35318,7 +35318,7 @@
           "id": "1401140086",
           "size": "34",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -35353,7 +35353,7 @@
           "id": "1401140108",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -35398,11 +35398,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
       "sku": "117"
     },
     {
@@ -37686,7 +37686,7 @@
           "id": "1401244708",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -37720,11 +37720,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/t-clip-branco-verde/",
-      "lastSyncedAt": "2026-08-13T04:10:47.676Z"
+      "lastSyncedAt": "2026-08-13T19:36:37.917Z"
     },
     {
       "id": "dx-316863760",
