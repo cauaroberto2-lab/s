@@ -4090,15 +4090,15 @@
           "id": "1529059504",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1529059506",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1572262035",
@@ -4150,11 +4150,11 @@
         "44"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-urban-two-pro-preto-branco-yhf2y/",
-      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
+      "lastSyncedAt": "2026-08-13T16:02:52.560Z",
       "sku": "795"
     },
     {
@@ -13187,43 +13187,43 @@
           "id": "1413614715",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1413614717",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1413614718",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1413614721",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1413614723",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1413614725",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -13239,11 +13239,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 36,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/court-vision-preto-branco-19alo/",
-      "lastSyncedAt": "2026-08-12T19:38:53.961Z",
+      "lastSyncedAt": "2026-08-13T16:02:52.560Z",
       "sku": "37"
     },
     {
@@ -19839,8 +19839,8 @@
           "id": "1566754051",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -19852,11 +19852,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-rosaverniz-o2mkg/",
-      "lastSyncedAt": "2026-08-11T17:28:26.730Z",
+      "lastSyncedAt": "2026-08-13T16:02:52.560Z",
       "sku": "985"
     },
     {
@@ -20277,7 +20277,7 @@
           "id": "1555370868",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -20326,7 +20326,7 @@
           "id": "1555672732",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -20343,11 +20343,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-branco-preto-latex-kbbxr/",
-      "lastSyncedAt": "2026-08-11T22:39:38.551Z",
+      "lastSyncedAt": "2026-08-13T16:02:52.560Z",
       "sku": "893"
     },
     {
@@ -28367,15 +28367,15 @@
           "id": "1414801127",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1414801128",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1414801129",
@@ -28409,29 +28409,29 @@
           "id": "1514672562",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1514672563",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1514672565",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1514672567",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         }
       ],
       "sizes": [
@@ -28447,11 +28447,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-cinza-1fzhs/",
-      "lastSyncedAt": "2026-08-06T00:01:03.141Z",
+      "lastSyncedAt": "2026-08-13T16:02:52.560Z",
       "sku": "266"
     },
     {
@@ -33072,6 +33072,82 @@
       "sku": "26"
     },
     {
+      "id": "dx-360812950",
+      "sourceId": "360812950",
+      "slug": "pegasus-branco-prata-360812950",
+      "name": "PEGASUS BRANCO/PRATA",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "PEGASUS",
+      "description": "Tênis PEGASUS Branco/Prata – Linha Premium de Alta Qualidade Apresentamos o Tênis PEGASUS Branco/Prata, um calçado que une design moderno, conforto superior e durabilidade premium, ideal para quem busca um produto de alta qualidade para o dia a dia. Por que escolher o Tênis PEGASUS Branco/Prata? Estilo e Versatilidade Com uma combinação elegante de branco e prata, o PEGASUS é super estiloso e combina facilmente com qualquer look casual ou urbano, garantindo um visual sofisticado e atual. Conforto Excepcional Produzido com materiais de alta qualidade e tecnologia que proporciona maciez e suporte, o tênis é super confortável, ideal para usar durante todo o dia, seja no trabalho, lazer ou passeios. Durabilidade e Acabamento Premium Fabricado com atenção aos detalhes e acabamento refinado, o PEGASUS mantém sua forma e beleza mesmo após uso contínuo, garantindo resistência e qualidade superiores. Tamanhos Disponíveis Confira abaixo a tabela para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca Sua satisfação é nossa prioridade. Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, para garantir a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-12-22-49-3e4e53908d3d2458c217866351708158-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-12-22-48-2-cac0ea785081dbff3e17866351707528-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-12-22-48-6360796fd7cf7791e917866351706906-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-12-22-47-e48a4bad42592680a717866351707742-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-12-22-49-1-dd59ba036ed21153b717866351706927-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1576188433",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1576188436",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576188437",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1576188439",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576188441",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576188443",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-branco-prata-nl87w/",
+      "lastSyncedAt": "2026-08-13T16:02:52.560Z",
+      "sku": "1024"
+    },
+    {
       "id": "dx-317853063",
       "sourceId": "317853063",
       "slug": "pegasus-preto-branco-317853063",
@@ -37380,8 +37456,8 @@
           "id": "1574297674",
           "size": "G",
           "color": "Azul",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1574297675",
@@ -37416,11 +37492,11 @@
         "Preto",
         "Grafite"
       ],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sueter-tommy-h-1g5z5/",
-      "lastSyncedAt": "2026-08-13T14:58:20.890Z",
+      "lastSyncedAt": "2026-08-13T16:02:52.560Z",
       "sku": "1015"
     },
     {
@@ -38343,7 +38419,7 @@
           "id": "1564486511",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -38363,11 +38439,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-hylane-caramelo-castor-w5pie/",
-      "lastSyncedAt": "2026-08-05T21:46:15.120Z",
+      "lastSyncedAt": "2026-08-13T16:02:52.560Z",
       "sku": "971"
     },
     {
