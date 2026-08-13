@@ -187,8 +187,8 @@
           "id": "1504176808",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504176810",
@@ -211,11 +211,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-08-12T20:41:37.835Z",
+      "lastSyncedAt": "2026-08-13T01:49:31.390Z",
       "sku": "715"
     },
     {
@@ -1687,8 +1687,8 @@
           "id": "1464323005",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1464323006",
@@ -1707,11 +1707,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-preto-1ovpe/",
-      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
+      "lastSyncedAt": "2026-08-13T01:49:31.390Z",
       "sku": "797"
     },
     {
@@ -10310,8 +10310,8 @@
           "id": "1464818721",
           "size": "M",
           "color": "Azul",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1464818722",
@@ -10374,11 +10374,11 @@
         "Azul",
         "Preto"
       ],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-t-hilfiger-grid-1cr6u/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z"
+      "lastSyncedAt": "2026-08-13T01:49:31.390Z"
     },
     {
       "id": "dx-324732306",
@@ -27897,8 +27897,8 @@
           "id": "1414822659",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1414822660",
@@ -27924,11 +27924,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-1ib5e/",
-      "lastSyncedAt": "2026-08-12T20:41:37.835Z",
+      "lastSyncedAt": "2026-08-13T01:49:31.390Z",
       "sku": "421"
     },
     {
@@ -30123,8 +30123,8 @@
           "id": "1545082931",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1545082932",
@@ -30171,11 +30171,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-stunt-15lp1/",
-      "lastSyncedAt": "2026-08-11T22:39:38.551Z",
+      "lastSyncedAt": "2026-08-13T01:49:31.390Z",
       "sku": "850"
     },
     {
