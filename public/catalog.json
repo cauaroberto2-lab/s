@@ -1520,7 +1520,7 @@
           "id": "1567414044",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -1554,11 +1554,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-marrom-1d9ct/",
-      "lastSyncedAt": "2026-08-12T17:28:01.123Z",
+      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
       "sku": "991"
     },
     {
@@ -2084,7 +2084,7 @@
           "id": "1496804721",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -2125,11 +2125,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-2000-all-black-tyfvz/",
-      "lastSyncedAt": "2026-08-11T02:34:29.889Z",
+      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
       "sku": "456"
     },
     {
@@ -7717,7 +7717,7 @@
           "id": "1562031419",
           "size": "GG",
           "color": "Preto",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -7740,11 +7740,11 @@
         "Preto",
         "Cinza Grafite"
       ],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/calca-zara-over-de-moletom-1bi8o/",
-      "lastSyncedAt": "2026-08-11T19:35:14.657Z",
+      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
       "sku": "946"
     },
     {
@@ -9820,8 +9820,8 @@
           "id": "1444139525",
           "size": "XG",
           "color": "Branco",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1444139526",
@@ -9858,11 +9858,11 @@
         "Verde",
         "Preto"
       ],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-l-classic-4ds24/",
-      "lastSyncedAt": "2026-08-11T19:35:14.657Z",
+      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
       "sku": "581"
     },
     {
@@ -11987,7 +11987,7 @@
           "id": "1557623922",
           "size": "G",
           "color": "Marrom",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -12030,11 +12030,11 @@
         "Marrom",
         "Preto"
       ],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jaqueta-bomer-tommy-h-premium-sxhm9/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
       "sku": "01"
     },
     {
@@ -13906,7 +13906,7 @@
           "id": "1420765202",
           "size": "34",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -13986,11 +13986,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 32,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-bordo-branco-1ndho/",
-      "lastSyncedAt": "2026-08-12T16:02:19.456Z",
+      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
       "sku": "546"
     },
     {
@@ -15391,8 +15391,8 @@
           "id": "1401101220",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401101224",
@@ -15450,11 +15450,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 31,
+      "totalStock": 30,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-13T14:58:20.890Z",
+      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
       "sku": "105"
     },
     {
@@ -15877,7 +15877,7 @@
           "id": "1441120000",
           "size": "34",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -15925,11 +15925,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-natural-ouro-x7g1e/",
-      "lastSyncedAt": "2026-08-12T23:39:18.001Z",
+      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
       "sku": "400"
     },
     {
@@ -22001,6 +22001,82 @@
       "sku": "1000"
     },
     {
+      "id": "dx-338761952",
+      "sourceId": "338761952",
+      "slug": "hylane-natural-off-338761952",
+      "name": "HYLANE NATURAL OFF",
+      "brand": "Vans",
+      "category": "Tênis",
+      "subCategory": "HYLANE",
+      "description": "Tênis HYLANE NATURAL OFF – Linha Luxo de Alta Qualidade Apresentamos o Tênis HYLANE NATURAL OFF, um modelo que une conforto excepcional e atitude para você marcar presença por onde passar. Faz parte da nossa exclusiva Linha Luxo, garantindo alta qualidade e estilo único para quem valoriza calçados premium. Por que escolher o Tênis HYLANE NATURAL OFF? Estilo Street com Personalidade O design moderno do HYLANE NATURAL OFF traz um visual urbano e autêntico, perfeito para quem quer caminhar com segurança e estilo em todos os momentos do dia. Conforto para o Seu Dia a Dia Produzido com materiais selecionados, este tênis proporciona um ajuste confortável e a maciez necessária para longas caminhadas, garantindo que seus pés estejam sempre protegidos e confortáveis. Durabilidade e Qualidade Premium Com acabamento cuidadoso e atenção aos detalhes, o HYLANE NATURAL OFF mantém sua forma e beleza mesmo após uso frequente, refletindo a excelência da Linha Luxo. Tamanhos Disponíveis Escolha o tamanho ideal para você, do 38 ao 43, conforme o comprimento do seu pé em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com atenção e consulte a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é prioridade para nós. Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução do produto. Para garantir a autenticidade e qualidade, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-15-at-12-51-02-180381d01b7845c28417764353795531-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-15-at-12-51-07-936e84cc87cebf9b7517764353796730-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-15-at-12-51-09-e470205c4792338fd917764353793429-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-15-at-12-51-04-bf3ad143e29ed32f3717764353799410-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-15-at-12-51-03-4c553baf515de3a5e917764353799071-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1505714305",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1505714307",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1505714309",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1505714311",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1505714312",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1505714313",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-natural-off-8ru8x/",
+      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
+      "sku": "464"
+    },
+    {
       "id": "dx-330960467",
       "sourceId": "330960467",
       "slug": "hylane-natural-cafe-330960467",
@@ -24705,8 +24781,8 @@
           "id": "1568248139",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1568248140",
@@ -24743,11 +24819,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-polar-marinho-17dx8/",
-      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
+      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
       "sku": "907"
     },
     {
@@ -26095,7 +26171,7 @@
           "id": "1409296770",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -26140,11 +26216,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/knu-skool-preto-branco-4p3cp/",
-      "lastSyncedAt": "2026-08-12T17:28:01.123Z",
+      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
       "sku": "195"
     },
     {
@@ -33738,7 +33814,7 @@
           "id": "1565191855",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -33779,11 +33855,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/prophecy-15-preto-prata-h9hdf/",
-      "lastSyncedAt": "2026-08-10T20:10:30.705Z",
+      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
       "sku": "980"
     },
     {
