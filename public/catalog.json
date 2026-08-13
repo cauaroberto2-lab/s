@@ -1520,8 +1520,8 @@
           "id": "1567414044",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1567414045",
@@ -1554,11 +1554,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-marrom-1d9ct/",
-      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
+      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
       "sku": "991"
     },
     {
@@ -2631,15 +2631,15 @@
           "id": "1396798303",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1396798304",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1396798306",
@@ -2658,11 +2658,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-preto-branco-60xu0/",
-      "lastSyncedAt": "2026-08-12T19:38:53.961Z",
+      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
       "sku": "89"
     },
     {
@@ -3359,8 +3359,8 @@
           "id": "1556326756",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1556326757",
@@ -3386,11 +3386,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-plataforma-marrom-latex-bnq1t/",
-      "lastSyncedAt": "2026-08-10T19:30:04.588Z",
+      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
       "sku": "912"
     },
     {
@@ -24296,8 +24296,8 @@
           "id": "1567748518",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1567748520",
@@ -24369,11 +24369,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-panda-reverse-gauzm/",
-      "lastSyncedAt": "2026-08-13T18:28:56.247Z",
+      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
       "sku": "993"
     },
     {
@@ -24802,7 +24802,7 @@
           "id": "1568248144",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -24819,11 +24819,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-polar-marinho-17dx8/",
-      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
+      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
       "sku": "907"
     },
     {
@@ -27367,7 +27367,7 @@
           "id": "1527843554",
           "size": "34",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -27409,7 +27409,7 @@
           "id": "1527843561",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -27447,11 +27447,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-08-12T20:41:37.835Z",
+      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
       "sku": "787"
     },
     {
@@ -30372,7 +30372,7 @@
           "id": "1545082935",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -30399,11 +30399,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-stunt-15lp1/",
-      "lastSyncedAt": "2026-08-13T01:49:31.390Z",
+      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
       "sku": "850"
     },
     {
@@ -31213,7 +31213,7 @@
           "id": "1544924017",
           "size": "41",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -31240,11 +31240,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-reverse-5og06/",
-      "lastSyncedAt": "2026-08-13T04:10:47.676Z",
+      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
       "sku": "843"
     },
     {
@@ -35089,7 +35089,7 @@
           "id": "1464242894",
           "size": "34",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -35137,11 +35137,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-azul-bb-9qmlj/",
-      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
+      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
       "sku": "338"
     },
     {
@@ -35353,7 +35353,7 @@
           "id": "1401140108",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -35398,11 +35398,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
+      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
       "sku": "117"
     },
     {
@@ -35447,7 +35447,7 @@
           "id": "1515759769",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -35474,11 +35474,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-marrom-latex-1vfdp/",
-      "lastSyncedAt": "2026-08-13T18:28:56.247Z",
+      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
       "sku": "90"
     },
     {
@@ -36154,6 +36154,76 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sambae-branco-verde-ztpf6/",
       "lastSyncedAt": "2026-07-31T17:04:12.353Z",
       "sku": "883"
+    },
+    {
+      "id": "dx-360896134",
+      "sourceId": "360896134",
+      "slug": "sapatenis-tommy-h-bege-360896134",
+      "name": "SAPATENIS TOMMY H BEGE",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "Produtos",
+      "description": "SAPATENIS TOMMY H BEGE – Linha Premium de Alta Qualidade Apresentamos o Sapatênis Tommy H Bege, um calçado que une estilo sofisticado, conforto superior e excelente durabilidade. Ideal para quem busca um produto premium para o dia a dia, combinando praticidade e elegância em um só modelo. Por que escolher o Sapatênis Tommy H Bege? Design Super Estiloso e Versátil O Tommy H Bege se destaca pelo visual moderno e neutro, que facilita a combinação com diversos looks, tornando-o perfeito para o uso cotidiano, seja no trabalho, passeios ou eventos informais. Conforto Excepcional Produzido com materiais de alta qualidade e palmilha acolchoada, o sapatênis oferece conforto prolongado para os seus pés, garantindo bem-estar durante todo o dia sem abrir mão do estilo. Durabilidade e Acabamento Premium Com acabamento cuidadoso e atenção aos detalhes, este sapatênis mantém sua forma e beleza mesmo após uso frequente, entregando qualidade superior da nossa linha premium. Tamanhos Disponíveis Confira a tabela abaixo para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir um ajuste perfeito! Política de Troca Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do sapatênis, sem sinais de uso, para garantir a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-14-10-04-6625d543b7e906762717866522063218-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-12-at-17-17-49-ad305c3aee05ffcc2d17866522064164-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-14-10-03-f692c799de342286cb17866522063250-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-12-at-17-17-50-8c9d1220adb87be78917866522063629-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-11-at-14-12-08-25b222e8124441f55f17866522070292-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1576450789",
+          "size": "39",
+          "color": "Bege",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1576450791",
+          "size": "40",
+          "color": "Bege",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1576450793",
+          "size": "41",
+          "color": "Bege",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576450795",
+          "size": "42",
+          "color": "Bege",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1576450796",
+          "size": "43",
+          "color": "Bege",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [
+        "Bege"
+      ],
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/sapatenis-tommy-h-bege-n8dzh/",
+      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
+      "sku": "1025"
     },
     {
       "id": "dx-358130676",
