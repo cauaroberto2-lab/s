@@ -1371,7 +1371,7 @@
           "id": "1540161681",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -1398,11 +1398,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-taupe-qnife/",
-      "lastSyncedAt": "2026-08-12T21:42:22.012Z",
+      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
       "sku": "815"
     },
     {
@@ -2188,8 +2188,8 @@
           "id": "1396546083",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -2201,11 +2201,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-bege-hxcij/",
-      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
+      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
       "sku": "348"
     },
     {
@@ -3500,7 +3500,7 @@
           "id": "1559636337",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -3541,11 +3541,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-sambae-plataforma-branco-rose-latex-xzzcn/",
-      "lastSyncedAt": "2026-08-11T14:22:48.389Z",
+      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
       "sku": "931"
     },
     {
@@ -4111,7 +4111,7 @@
           "id": "1572262036",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
@@ -4150,11 +4150,11 @@
         "44"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-urban-two-pro-preto-branco-yhf2y/",
-      "lastSyncedAt": "2026-08-13T16:02:52.560Z",
+      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
       "sku": "795"
     },
     {
@@ -4354,7 +4354,7 @@
           "id": "1494038808",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -4381,11 +4381,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-azul-celeste-16jok/",
-      "lastSyncedAt": "2026-08-11T17:28:26.730Z",
+      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
       "sku": "120"
     },
     {
@@ -11088,8 +11088,8 @@
           "id": "1548195019",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1548195021",
@@ -11126,11 +11126,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-branco-preto-latex-1kxk7/",
-      "lastSyncedAt": "2026-08-07T16:24:00.903Z",
+      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
       "sku": "727"
     },
     {
@@ -14552,8 +14552,8 @@
           "id": "1420786986",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1420786988",
@@ -14586,11 +14586,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-capuccino-dxo6s/",
-      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
+      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
       "sku": "181"
     },
     {
@@ -15309,8 +15309,8 @@
           "id": "1422209051",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1422209052",
@@ -15343,11 +15343,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-natural-grafite-1a0bt/",
-      "lastSyncedAt": "2026-08-12T21:42:22.012Z",
+      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
       "sku": "262"
     },
     {
@@ -16411,14 +16411,14 @@
           "id": "1563820573",
           "size": "39",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1563820574",
           "size": "40",
           "color": "Padrão",
-          "stock": 10,
+          "stock": 11,
           "available": true
         },
         {
@@ -16456,7 +16456,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-storm-grafite-bco-pto-16m65/",
-      "lastSyncedAt": "2026-08-12T21:42:22.012Z",
+      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
       "sku": "954"
     },
     {
@@ -30669,8 +30669,8 @@
           "id": "1559908515",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559908517",
@@ -30717,11 +30717,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-preto-grafite-jne37/",
-      "lastSyncedAt": "2026-08-12T23:39:18.001Z",
+      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
       "sku": "936"
     },
     {
@@ -32599,6 +32599,83 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/on-cloudultra-cinza-off-lbck6/",
       "lastSyncedAt": "2026-07-28T16:58:11.124Z",
       "sku": "796"
+    },
+    {
+      "id": "dx-360910922",
+      "sourceId": "360910922",
+      "slug": "on-running-grafite-360910922",
+      "name": "ON RUNNING GRAFITE",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "ON CLOUD",
+      "description": "Tênis ON RUNNING GRAFITE – Linha Premium de Alta Qualidade Conheça o Tênis ON RUNNING GRAFITE, um calçado que une conforto superior, design moderno e qualidade premium. Ideal para quem busca um tênis estiloso e funcional para o dia a dia. Por que escolher o ON RUNNING GRAFITE? Design Moderno e Estiloso Com sua cor grafite elegante, o tênis apresenta um visual sóbrio e versátil, perfeito para combinar com diversos estilos e ocasiões. Seja para o trabalho, lazer ou passeios, o ON RUNNING GRAFITE garante um toque de sofisticação e personalidade. Conforto e Ajuste Impecáveis Produzido com materiais de alta qualidade, este tênis oferece um ajuste perfeito e uma palmilha acolchoada que proporciona maciez e suporte aos seus pés. Você sente o conforto o dia todo, ideal para quem está sempre em movimento. Durabilidade e Acabamento Premium O ON RUNNING GRAFITE é fabricado com atenção aos mínimos detalhes, garantindo resistência e durabilidade superiores, mantendo sua forma e beleza mesmo após uso frequente. Tamanhos Disponíveis Confira a tabela para escolher o tamanho ideal de acordo com o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé cuidadosamente e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-17-36-20-8fc74e2ecc8c10f29817866537921827-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-17-36-20-1-521ed5899c3c2f146717866537921630-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-17-36-21-bbdfe2e4574eea32e117866537922755-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-17-36-20-2-8a0a5a8b55925ff1a817866537922081-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1576481955",
+          "size": "38",
+          "color": "Grafite",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1576481956",
+          "size": "39",
+          "color": "Grafite",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576481957",
+          "size": "40",
+          "color": "Grafite",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576481958",
+          "size": "41",
+          "color": "Grafite",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1576481960",
+          "size": "42",
+          "color": "Grafite",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576481961",
+          "size": "43",
+          "color": "Grafite",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [
+        "Grafite"
+      ],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/on-running-grafite-1hsha/",
+      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
+      "sku": "1026"
     },
     {
       "id": "dx-322127637",
