@@ -1527,7 +1527,7 @@
           "id": "1567414045",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -1554,11 +1554,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-marrom-1d9ct/",
-      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
+      "lastSyncedAt": "2026-08-13T23:39:06.497Z",
       "sku": "991"
     },
     {
@@ -6463,8 +6463,8 @@
           "id": "1559536047",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559536048",
@@ -6497,11 +6497,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-preto-off-1215t/",
-      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
+      "lastSyncedAt": "2026-08-13T23:39:06.497Z",
       "sku": "923"
     },
     {
@@ -26199,8 +26199,8 @@
           "id": "1409296775",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -26216,11 +26216,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/knu-skool-preto-branco-4p3cp/",
-      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
+      "lastSyncedAt": "2026-08-13T23:39:06.497Z",
       "sku": "195"
     },
     {
