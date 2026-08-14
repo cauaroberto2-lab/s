@@ -482,8 +482,8 @@
           "id": "1563717350",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1563717351",
@@ -516,11 +516,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-bege-castor-1cun8/",
-      "lastSyncedAt": "2026-08-07T16:24:00.903Z",
+      "lastSyncedAt": "2026-08-14T22:20:22.662Z",
       "sku": "952"
     },
     {
@@ -2021,7 +2021,7 @@
           "id": "1568807187",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -2048,11 +2048,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/add-classic-branco-preto-cinza-g6v62/",
-      "lastSyncedAt": "2026-08-08T17:58:41.434Z",
+      "lastSyncedAt": "2026-08-14T22:20:22.662Z",
       "sku": "1003"
     },
     {
@@ -7244,8 +7244,8 @@
           "id": "1413839089",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1413839091",
@@ -7285,11 +7285,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/beta-preto-branco-vxiza/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-14T22:20:22.662Z",
       "sku": "335"
     },
     {
@@ -13277,14 +13277,14 @@
           "id": "1413614718",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1413614721",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -13315,11 +13315,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 34,
+      "totalStock": 32,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/court-vision-preto-branco-19alo/",
-      "lastSyncedAt": "2026-08-14T19:46:27.316Z",
+      "lastSyncedAt": "2026-08-14T22:20:22.662Z",
       "sku": "37"
     },
     {
@@ -18659,7 +18659,7 @@
           "id": "1405149500",
           "size": "37",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -18718,11 +18718,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
+      "lastSyncedAt": "2026-08-14T22:20:22.662Z",
       "sku": "74"
     },
     {
@@ -20894,8 +20894,8 @@
           "id": "1405223617",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1405223620",
@@ -20939,11 +20939,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-bege-terra-iv73e/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-14T22:20:22.662Z",
       "sku": "473"
     },
     {
