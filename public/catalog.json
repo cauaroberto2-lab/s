@@ -566,8 +566,8 @@
           "id": "1563896185",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1563896187",
@@ -593,11 +593,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-black-grafite-ajc9t/",
-      "lastSyncedAt": "2026-08-13T18:28:56.247Z",
+      "lastSyncedAt": "2026-08-14T16:50:22.305Z",
       "sku": "954"
     },
     {
@@ -1124,8 +1124,8 @@
           "id": "1563928596",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1563928597",
@@ -1165,11 +1165,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-gelo-grafite-9k30g/",
-      "lastSyncedAt": "2026-08-01T20:53:19.090Z",
+      "lastSyncedAt": "2026-08-14T16:50:22.305Z",
       "sku": "956"
     },
     {
@@ -1378,15 +1378,15 @@
           "id": "1540161682",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1540161683",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -1398,11 +1398,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-taupe-qnife/",
-      "lastSyncedAt": "2026-08-14T15:50:01.398Z",
+      "lastSyncedAt": "2026-08-14T16:50:22.305Z",
       "sku": "815"
     },
     {
@@ -1790,6 +1790,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-pto-bco-pto-1lib1/",
       "lastSyncedAt": "2026-08-14T12:07:16.231Z",
       "sku": "899"
+    },
+    {
+      "id": "dx-361056080",
+      "sourceId": "361056080",
+      "slug": "ad-sl-72-marrom-bordo-361056080",
+      "name": "AD SL 72 MARROM BORDÔ",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "ADIDAS",
+      "description": "Tênis AD SL 72 Marrom Bordô – Linha Premium de Alta Qualidade Apresentamos o Tênis AD SL 72 Marrom Bordô, um calçado que une estilo moderno, conforto excepcional e durabilidade, ideal para quem busca um produto de linha premium para o dia a dia. Por que escolher o AD SL 72 Marrom Bordô? Design Super Estiloso e Versátil O AD SL 72 combina a sofisticação do marrom com detalhes bordô, criando um visual elegante e contemporâneo. Perfeito para complementar seus looks casuais e também para o uso diário com muito estilo. Conforto Incomparável Produzido com materiais de alta qualidade e com atenção especial à palmilha acolchoada, este tênis oferece suporte e maciez para seus pés, garantindo conforto durante todas as suas atividades. Durabilidade e Acabamento Premium Com acabamento refinado e fabricação cuidadosa, o AD SL 72 mantém sua forma e beleza mesmo após uso frequente, representando um investimento seguro em qualidade e resistência. Tamanhos Disponíveis Confira a tabela abaixo para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22,5 | | 35 | 23,0 | | 36 | 24,0 | | 37 | 25,0 | | 38 | 25,0 | | 39 | 26,0 | | 40 | 27,0 | | 41 | 27,5 | | 42 | 29,0 | | 43 | 29,5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, assegurando a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-43-30-1-20ceafa704e437232d17867251525543-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-43-30-0e041c77f1acdec2cc17867251526019-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-43-32-9e9c57d5d3cceef02217867251525509-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-43-29-704f667fe831fb8e5217867251526317-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-43-31-4c4bc109544f7e8e5417867251529539-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1576961871",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576961872",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1576961873",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1576961874",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 5,
+          "available": true
+        },
+        {
+          "id": "1576961877",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576961878",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 18,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/ad-sl-72-marrom-bordo-1mtud/",
+      "lastSyncedAt": "2026-08-14T16:50:22.305Z",
+      "sku": "1031"
     },
     {
       "id": "dx-358675069",
@@ -13187,7 +13263,7 @@
           "id": "1413614715",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -13239,11 +13315,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 36,
+      "totalStock": 35,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/court-vision-preto-branco-19alo/",
-      "lastSyncedAt": "2026-08-13T16:02:52.560Z",
+      "lastSyncedAt": "2026-08-14T16:50:22.305Z",
       "sku": "37"
     },
     {
@@ -13656,7 +13732,7 @@
           "id": "1510151096",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -13722,11 +13798,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-all-black-ijaav/",
-      "lastSyncedAt": "2026-08-13T18:28:56.247Z",
+      "lastSyncedAt": "2026-08-14T16:50:22.305Z",
       "sku": "477"
     },
     {
@@ -20928,7 +21004,7 @@
           "id": "1430916644",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -20941,11 +21017,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-grafite-latex-1pi5x/",
-      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
+      "lastSyncedAt": "2026-08-14T16:50:22.305Z",
       "sku": "261"
     },
     {
@@ -33190,7 +33266,7 @@
           "id": "1572363143",
           "size": "41",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -33217,11 +33293,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-all-black-c7hxv/",
-      "lastSyncedAt": "2026-08-13T14:58:20.890Z",
+      "lastSyncedAt": "2026-08-14T16:50:22.305Z",
       "sku": "1013"
     },
     {
@@ -37875,6 +37951,113 @@
       "sku": "1015"
     },
     {
+      "id": "dx-361045080",
+      "sourceId": "361045080",
+      "slug": "superstar-branco-preto-361045080",
+      "name": "SUPERSTAR BRANCO/PRETO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "ADIDAS",
+      "description": "Tênis SUPERSTAR Branco/Preto – Linha Premium de Alta Qualidade Apresentamos o Tênis SUPERSTAR Branco/Preto, um calçado premium que une estilo marcante, conforto superior e durabilidade, ideal para o seu dia a dia com muito mais personalidade. Por que escolher o Tênis SUPERSTAR Branco/Preto? Design Moderno e Super Estiloso O clássico contraste entre o branco e preto confere um visual versátil e contemporâneo, perfeito para combinar com diferentes looks urbanos e casuais. Seja para o trabalho, lazer ou passeios, o SUPERSTAR é uma escolha que destaca seu estilo. Conforto Excepcional Produzido com materiais de alta qualidade e equipado com palmilha acolchoada, este tênis proporciona maciez e suporte ideais para os seus pés. Sinta o conforto durante todas as suas atividades diárias, com um ajuste perfeito que valoriza seu bem-estar. Durabilidade e Acabamento Premium Cada par do SUPERSTAR é fabricado com atenção aos detalhes, garantindo resistência e acabamento impecável. Seu design robusto mantém a forma e o visual mesmo após uso frequente, acompanhando seu ritmo sem perder a elegância. Tamanhos Disponíveis Confira a tabela abaixo para escolher o tamanho ideal, com o comprimento do pé em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e a qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-25-07-f1fd0660c87cff2e5617867223729693-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-25-08-1-0f36601439b710ab5f17867223728674-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-25-07-1-480f9e3e724f55158f17867223729574-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-25-08-6ab0b1c489b60a198517867223730120-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1576929011",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1576929012",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576929013",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576929014",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576929015",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576929016",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576929017",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1576929018",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1576929020",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576929021",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 20,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/superstar-branco-preto-86an6/",
+      "lastSyncedAt": "2026-08-14T16:50:22.305Z",
+      "sku": "1030"
+    },
+    {
       "id": "dx-230733845",
       "sourceId": "230733845",
       "slug": "t-clip-bege-verde-230733845",
@@ -37985,7 +38168,7 @@
           "id": "1413824106",
           "size": "40",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -38006,8 +38189,8 @@
           "id": "1413824113",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -38019,11 +38202,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/t-clip-branco-1lfjo/",
-      "lastSyncedAt": "2026-08-12T21:42:22.012Z",
+      "lastSyncedAt": "2026-08-14T16:50:22.305Z",
       "sku": "56"
     },
     {
