@@ -6484,8 +6484,8 @@
           "id": "1559536050",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -6497,11 +6497,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-preto-off-1215t/",
-      "lastSyncedAt": "2026-08-14T01:47:51.174Z",
+      "lastSyncedAt": "2026-08-14T14:49:04.509Z",
       "sku": "923"
     },
     {
@@ -14022,7 +14022,7 @@
           "id": "1403805164",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -14095,11 +14095,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-088mg/",
-      "lastSyncedAt": "2026-08-12T18:27:50.488Z",
+      "lastSyncedAt": "2026-08-14T14:49:04.509Z",
       "sku": "175"
     },
     {
@@ -23124,7 +23124,7 @@
           "id": "1557630827",
           "size": "GG",
           "color": "Bege",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -23139,11 +23139,11 @@
         "Cinza",
         "Bege"
       ],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jaqueta-puffer-the-north-face-premium-shf2u/",
-      "lastSyncedAt": "2026-07-31T20:18:55.059Z",
+      "lastSyncedAt": "2026-08-14T14:49:04.509Z",
       "sku": "02"
     },
     {
@@ -34963,7 +34963,7 @@
           "id": "1465465533",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -34983,11 +34983,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-areia-coffe-9kqq9/",
-      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
+      "lastSyncedAt": "2026-08-14T14:49:04.509Z",
       "sku": "644"
     },
     {
@@ -35187,7 +35187,7 @@
           "id": "1464242900",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -35214,11 +35214,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-azul-bb-9qmlj/",
-      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
+      "lastSyncedAt": "2026-08-14T14:49:04.509Z",
       "sku": "338"
     },
     {
@@ -35846,8 +35846,8 @@
           "id": "1429382924",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1429382926",
@@ -35919,11 +35919,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-sl-branco-preto-1t8ky/",
-      "lastSyncedAt": "2026-08-04T11:38:55.238Z",
+      "lastSyncedAt": "2026-08-14T14:49:04.509Z",
       "sku": "444"
     },
     {
