@@ -3506,7 +3506,7 @@
           "id": "1560086580",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -3540,11 +3540,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-sambae-olografico-preto-latex-1iyxp/",
-      "lastSyncedAt": "2026-08-07T03:27:32.915Z",
+      "lastSyncedAt": "2026-08-14T21:52:22.229Z",
       "sku": "941"
     },
     {
@@ -4746,8 +4746,8 @@
           "id": "1559647188",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559647189",
@@ -4766,11 +4766,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-preto-rosa-1muc3/",
-      "lastSyncedAt": "2026-08-14T17:51:18.095Z",
+      "lastSyncedAt": "2026-08-14T21:52:22.229Z",
       "sku": "932"
     },
     {
@@ -14099,7 +14099,7 @@
           "id": "1447541228",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -14137,11 +14137,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 40,
+      "totalStock": 39,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-bordo-branco-1ndho/",
-      "lastSyncedAt": "2026-08-14T17:51:18.095Z",
+      "lastSyncedAt": "2026-08-14T21:52:22.229Z",
       "sku": "546"
     },
     {
@@ -16583,7 +16583,7 @@
           "id": "1563820576",
           "size": "42",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -16603,11 +16603,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 34,
+      "totalStock": 33,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-storm-grafite-bco-pto-16m65/",
-      "lastSyncedAt": "2026-08-14T04:07:17.328Z",
+      "lastSyncedAt": "2026-08-14T21:52:22.229Z",
       "sku": "954"
     },
     {
@@ -18493,8 +18493,8 @@
           "id": "1402193941",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1402193945",
@@ -18534,11 +18534,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-bege-gold-0a1rj/",
-      "lastSyncedAt": "2026-08-11T21:43:19.354Z",
+      "lastSyncedAt": "2026-08-14T21:52:22.229Z",
       "sku": "424"
     },
     {
@@ -25277,7 +25277,7 @@
           "id": "1576056038",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -25311,11 +25311,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-travis-scott-mocha-marrom-1evqb/",
-      "lastSyncedAt": "2026-08-14T18:51:08.484Z",
+      "lastSyncedAt": "2026-08-14T21:52:22.229Z",
       "sku": "1023"
     },
     {
@@ -32199,8 +32199,8 @@
           "id": "1527838772",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527838773",
@@ -32226,11 +32226,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/olympikus-corre-preto-branco-9lvql/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z"
+      "lastSyncedAt": "2026-08-14T21:52:22.229Z"
     },
     {
       "id": "dx-345373765",
