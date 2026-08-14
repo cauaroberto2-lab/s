@@ -13539,6 +13539,81 @@
       "sku": "586"
     },
     {
+      "id": "dx-361146849",
+      "sourceId": "361146849",
+      "slug": "dunk-jumbo-cinza-branco-361146849",
+      "name": "DUNK JUMBO CINZA/BRANCO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "DUNK LOW",
+      "description": "Tênis DUNK JUMBO CINZA/BRANCO – Linha Premium de Alta Qualidade Apresentamos o Tênis DUNK JUMBO CINZA/BRANCO, um calçado que une estilo moderno, conforto excepcional e alta qualidade, perfeito para quem busca um produto da Linha Premium para o dia a dia. Por que escolher o DUNK JUMBO CINZA/BRANCO? Design Super Estiloso e Versátil Com combinação elegante de cinza e branco, o DUNK JUMBO destaca-se pelo visual moderno e clean, ideal para compor looks casuais e urbanos com personalidade. Conforto Imbatível para o Dia a Dia Produzido com materiais de alta qualidade e palmilha acolchoada, este tênis oferece conforto superior, garantindo maciez e suporte para os seus pés durante longas horas. Durabilidade e Acabamento Premium Com atenção aos mínimos detalhes, o DUNK JUMBO mantém sua forma e beleza mesmo após uso frequente, acompanhando seu ritmo sem perder o estilo. Tamanhos Disponíveis Escolha o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-39-26-afc0256e98a23cf28217867401184739-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-39-28-b3b759c1b3de3c9bbf17867401184481-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-39-27-91b7cc4bb8f6785cef17867401185519-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-39-25-47cb3e819beffbb12a17867401184572-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1577197321",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1577197322",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1577197327",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 6,
+          "available": true
+        },
+        {
+          "id": "1577197328",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 5,
+          "available": true
+        },
+        {
+          "id": "1577211595",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1577211597",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 20,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-jumbo-cinza-branco-1f3aw/",
+      "lastSyncedAt": "2026-08-14T20:57:59.333Z",
+      "sku": "1033"
+    },
+    {
       "id": "dx-353849873",
       "sourceId": "353849873",
       "slug": "dunk-jumbo-verde-militar-353849873",
@@ -27570,7 +27645,7 @@
           "id": "1527843562",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -27601,11 +27676,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-08-14T17:51:18.095Z",
+      "lastSyncedAt": "2026-08-14T20:57:59.333Z",
       "sku": "787"
     },
     {
@@ -30693,8 +30768,8 @@
           "id": "1560038430",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -30706,11 +30781,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-branco-preto-laranja-83lc9/",
-      "lastSyncedAt": "2026-08-14T01:47:51.174Z",
+      "lastSyncedAt": "2026-08-14T20:57:59.333Z",
       "sku": "939"
     },
     {
@@ -35418,7 +35493,7 @@
           "id": "1565140709",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -35445,11 +35520,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-cromado-181k3/",
-      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
+      "lastSyncedAt": "2026-08-14T20:57:59.333Z",
       "sku": "977"
     },
     {
@@ -36058,7 +36133,7 @@
           "id": "1401115570",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -36117,11 +36192,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-preto-branco-w3nsz/",
-      "lastSyncedAt": "2026-08-12T20:41:37.835Z",
+      "lastSyncedAt": "2026-08-14T20:57:59.333Z",
       "sku": "264"
     },
     {
@@ -36559,7 +36634,7 @@
           "id": "1576450789",
           "size": "39",
           "color": "Bege",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -36573,7 +36648,7 @@
           "id": "1576450793",
           "size": "41",
           "color": "Bege",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -36601,11 +36676,11 @@
       "colors": [
         "Bege"
       ],
-      "totalStock": 7,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sapatenis-tommy-h-bege-n8dzh/",
-      "lastSyncedAt": "2026-08-14T15:50:01.398Z",
+      "lastSyncedAt": "2026-08-14T20:57:59.333Z",
       "sku": "1025"
     },
     {
@@ -36643,7 +36718,7 @@
           "id": "1576819138",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -36677,11 +36752,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sapatenis-tommy-h-preto-branco-14ops/",
-      "lastSyncedAt": "2026-08-14T13:52:39.626Z",
+      "lastSyncedAt": "2026-08-14T20:57:59.333Z",
       "sku": "1027"
     },
     {
@@ -37932,7 +38007,7 @@
           "id": "1574360678",
           "size": "G",
           "color": "Marrom",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -37974,11 +38049,11 @@
         "Marrom",
         "Preto"
       ],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sueter-texturizado-zara-1q7cu/",
-      "lastSyncedAt": "2026-08-14T15:50:01.398Z",
+      "lastSyncedAt": "2026-08-14T20:57:59.333Z",
       "sku": "1019"
     },
     {
