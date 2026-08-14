@@ -14423,8 +14423,8 @@
           "id": "1510079872",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1510079873",
@@ -14461,11 +14461,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 25,
+      "totalStock": 24,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-verde-musgo-m17pb/",
-      "lastSyncedAt": "2026-08-14T20:28:32.406Z",
+      "lastSyncedAt": "2026-08-14T23:47:15.965Z",
       "sku": "665"
     },
     {
