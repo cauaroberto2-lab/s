@@ -2894,7 +2894,7 @@
           "id": "1564413981",
           "size": "41",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -2921,11 +2921,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-drop-step-preto-grafite-qd4ab/",
-      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
+      "lastSyncedAt": "2026-08-14T13:52:39.626Z",
       "sku": "969"
     },
     {
@@ -4354,8 +4354,8 @@
           "id": "1494038808",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1494038809",
@@ -4381,11 +4381,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-azul-celeste-16jok/",
-      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
+      "lastSyncedAt": "2026-08-14T13:52:39.626Z",
       "sku": "120"
     },
     {
@@ -4585,7 +4585,7 @@
           "id": "1549273847",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -4612,11 +4612,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-boston-11-preto-branco-1j5gp/",
-      "lastSyncedAt": "2026-08-12T21:42:22.012Z",
+      "lastSyncedAt": "2026-08-14T13:52:39.626Z",
       "sku": "870"
     },
     {
@@ -15898,7 +15898,7 @@
           "id": "1441120005",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -15925,11 +15925,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-natural-ouro-x7g1e/",
-      "lastSyncedAt": "2026-08-13T18:28:56.247Z",
+      "lastSyncedAt": "2026-08-14T13:52:39.626Z",
       "sku": "400"
     },
     {
@@ -29893,7 +29893,7 @@
           "id": "1564446832",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -29934,11 +29934,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-branco-cinza-off-1iwxn/",
-      "lastSyncedAt": "2026-08-12T20:41:37.835Z",
+      "lastSyncedAt": "2026-08-14T13:52:39.626Z",
       "sku": "970"
     },
     {
@@ -30209,7 +30209,7 @@
           "id": "1564538294",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -30243,11 +30243,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-preto-creme-1k61k/",
-      "lastSyncedAt": "2026-08-11T18:27:15.260Z",
+      "lastSyncedAt": "2026-08-14T13:52:39.626Z",
       "sku": "975"
     },
     {
@@ -36253,14 +36253,14 @@
           "id": "1576450789",
           "size": "39",
           "color": "Bege",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1576450791",
           "size": "40",
           "color": "Bege",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -36295,12 +36295,88 @@
       "colors": [
         "Bege"
       ],
-      "totalStock": 6,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sapatenis-tommy-h-bege-n8dzh/",
-      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
+      "lastSyncedAt": "2026-08-14T13:52:39.626Z",
       "sku": "1025"
+    },
+    {
+      "id": "dx-361016951",
+      "sourceId": "361016951",
+      "slug": "sapatenis-tommy-h-preto-branco-361016951",
+      "name": "SAPATENIS TOMMY H PRETO/BRANCO",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "Produtos",
+      "description": "Sapatênis Tommy H Preto/Branco – Linha Premium de Alta Qualidade Apresentamos o Sapatênis Tommy H Preto/Branco, um calçado que une design moderno, conforto superior e durabilidade, perfeito para o seu dia a dia com estilo e elegância. Parte de nossa exclusiva linha premium, este sapatênis é ideal para quem busca qualidade e praticidade em um só produto. Por que escolher o Sapatênis Tommy H Preto/Branco? Estilo Sofisticado e Versátil O design em preto e branco oferece um visual clássico e contemporâneo, fácil de combinar com diversas ocasiões, do casual ao social. Um sapatênis que valoriza seu visual com um toque de personalidade. Conforto Excepcional Produzido com materiais de alta qualidade e palmilha acolchoada, o Tommy H garante conforto durante todo o dia, seja no trabalho, lazer ou compromissos. Ideal para quem não abre mão de bem-estar e estilo. Durabilidade e Acabamento Premium Com fabricação cuidadosa e atenção aos detalhes, este sapatênis mantém a forma e o acabamento mesmo após uso frequente, acompanhando seu ritmo sem perder a elegância. Tamanhos Disponíveis Confira a tabela com os tamanhos disponíveis e o comprimento do pé em centímetros para escolher o ajuste perfeito: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o melhor encaixe. Política de Troca e Devolução A sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do sapatênis, sem sinais de uso, garantindo a autenticidade e a qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-12-at-17-19-26-1-8a6486f90308ff918f17867149963832-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-12-at-17-19-27-767d8c18fc0c38d35c17867149961838-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-09-42-14-a787f2470d27ecd36b17867149961832-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-09-42-13-dc20e02b4ecd834e0d17867149961852-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-12-at-17-19-27-1-99c489fc8c9d4b53ca17867149961724-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1576819135",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1576819136",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576819138",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1576819140",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1576819141",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1576819142",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/sapatenis-tommy-h-preto-branco-14ops/",
+      "lastSyncedAt": "2026-08-14T13:52:39.626Z",
+      "sku": "1027"
     },
     {
       "id": "dx-358130676",
