@@ -1659,8 +1659,8 @@
           "id": "1464322997",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1464322999",
@@ -1707,11 +1707,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-preto-1ovpe/",
-      "lastSyncedAt": "2026-08-13T13:56:15.282Z",
+      "lastSyncedAt": "2026-08-15T01:07:02.462Z",
       "sku": "797"
     },
     {
@@ -21079,8 +21079,8 @@
           "id": "1430916644",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -21092,11 +21092,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-grafite-latex-1pi5x/",
-      "lastSyncedAt": "2026-08-14T20:28:32.406Z",
+      "lastSyncedAt": "2026-08-15T01:07:02.462Z",
       "sku": "261"
     },
     {
