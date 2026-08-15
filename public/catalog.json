@@ -21537,7 +21537,7 @@
           "id": "1422295699",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -21617,11 +21617,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 31,
+      "totalStock": 30,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-verde-summer-camp-a3yc8/",
-      "lastSyncedAt": "2026-08-14T20:28:32.406Z",
+      "lastSyncedAt": "2026-08-15T14:48:02.219Z",
       "sku": "97"
     },
     {
@@ -22839,8 +22839,8 @@
           "id": "1413409404",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1413409406",
@@ -22887,11 +22887,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/imigrante-marinho-refletivel-kwcbx/",
-      "lastSyncedAt": "2026-08-10T18:12:44.783Z",
+      "lastSyncedAt": "2026-08-15T14:48:02.219Z",
       "sku": "531"
     },
     {
@@ -30122,8 +30122,8 @@
           "id": "1559916643",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1559916644",
@@ -30163,11 +30163,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 2,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-530-off-cacau-1dit5/",
-      "lastSyncedAt": "2026-08-14T15:50:01.398Z",
+      "lastSyncedAt": "2026-08-15T14:48:02.219Z",
       "sku": "937"
     },
     {
@@ -33725,8 +33725,8 @@
           "id": "1408054884",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1408054892",
@@ -33784,11 +33784,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-preto-branco-7q01e/",
-      "lastSyncedAt": "2026-08-13T14:58:20.890Z",
+      "lastSyncedAt": "2026-08-15T14:48:02.219Z",
       "sku": "28"
     },
     {
