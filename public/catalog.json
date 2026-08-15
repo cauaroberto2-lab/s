@@ -21558,7 +21558,7 @@
           "id": "1422295703",
           "size": "41",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -21617,11 +21617,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 30,
+      "totalStock": 29,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-verde-summer-camp-a3yc8/",
-      "lastSyncedAt": "2026-08-15T14:48:02.219Z",
+      "lastSyncedAt": "2026-08-15T15:18:09.357Z",
       "sku": "97"
     },
     {
@@ -30247,6 +30247,82 @@
       "sku": "1028"
     },
     {
+      "id": "dx-361267147",
+      "sourceId": "361267147",
+      "slug": "new-balance-5c-elite-preto-prata-361267147",
+      "name": "NEW BALANCE 5C ELITE PRETO PRATA",
+      "brand": "New Balance",
+      "category": "Tênis",
+      "subCategory": "NEW BALACE",
+      "description": "Tênis NEW BALANCE 5C ELITE Preto Prata – Linha Premium de Alta Qualidade Apresentamos o Tênis NEW BALANCE 5C ELITE Preto Prata, um calçado desenvolvido para quem busca um produto premium, que une estilo, conforto e durabilidade para o dia a dia. Por que escolher o NEW BALANCE 5C ELITE? Design Moderno e Estiloso Com uma combinação elegante nas cores preto e prata, o 5C ELITE oferece um visual moderno e versátil, perfeito para diversas ocasiões, do trabalho ao lazer. Conforto Superior Produzido com materiais de alta qualidade e acabamento premium, este tênis garante um ajuste confortável e suporte ideal para os seus pés, proporcionando bem-estar durante toda a rotina. Durabilidade e Qualidade Pensando na sua satisfação, o NEW BALANCE 5C ELITE apresenta acabamento robusto e resistente, mantendo a forma e a estética mesmo após uso frequente. Tamanhos Disponíveis Confira a tabela de tamanhos para encontrar o ajuste perfeito conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com atenção e compare com a tabela para garantir o tamanho ideal! Política de Troca Sua satisfação é prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, assegurando a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-15-at-11-49-01-9109fe00e7ebdc9dc617868060851432-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-15-at-11-49-02-3-35196b3ec76b261d8517868060847393-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-15-at-11-49-02-1-a8a3aef7fe19b71f2017868060846635-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-15-at-11-49-02-2-3d0521f920657d8a7517868060850211-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-15-at-11-49-02-4f7f60f92d89cf296317868060846526-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1577615179",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1577615181",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1577615183",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1577615185",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1577615187",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1577615189",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-5c-elite-preto-prata-1m62o/",
+      "lastSyncedAt": "2026-08-15T15:18:09.357Z",
+      "sku": "1036"
+    },
+    {
       "id": "dx-357296939",
       "sourceId": "357296939",
       "slug": "new-balance-9060-branco-cinza-off-357296939",
@@ -36726,8 +36802,8 @@
           "id": "1576450793",
           "size": "41",
           "color": "Bege",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1576450795",
@@ -36754,11 +36830,11 @@
       "colors": [
         "Bege"
       ],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sapatenis-tommy-h-bege-n8dzh/",
-      "lastSyncedAt": "2026-08-14T20:57:59.333Z",
+      "lastSyncedAt": "2026-08-15T15:18:09.357Z",
       "sku": "1025"
     },
     {
@@ -36810,8 +36886,8 @@
           "id": "1576819141",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1576819142",
@@ -36830,11 +36906,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sapatenis-tommy-h-preto-branco-14ops/",
-      "lastSyncedAt": "2026-08-14T20:57:59.333Z",
+      "lastSyncedAt": "2026-08-15T15:18:09.357Z",
       "sku": "1027"
     },
     {
