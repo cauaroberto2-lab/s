@@ -642,8 +642,8 @@
           "id": "1544191174",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1544191175",
@@ -701,11 +701,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-1qzac/",
-      "lastSyncedAt": "2026-08-15T02:32:17.019Z",
+      "lastSyncedAt": "2026-08-15T23:44:09.148Z",
       "sku": "840"
     },
     {
@@ -3133,8 +3133,8 @@
           "id": "1545015533",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1545015535",
@@ -3153,11 +3153,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-forum-low-84-cafe-escuro-1lcic/",
-      "lastSyncedAt": "2026-08-15T18:25:36.975Z",
+      "lastSyncedAt": "2026-08-15T23:44:09.148Z",
       "sku": "847"
     },
     {
@@ -33908,7 +33908,7 @@
           "id": "1009089419",
           "size": "37",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -33935,11 +33935,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-preto-pink-xe683/",
-      "lastSyncedAt": "2026-08-14T17:51:18.095Z",
+      "lastSyncedAt": "2026-08-15T23:44:09.148Z",
       "sku": "29"
     },
     {
