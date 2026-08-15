@@ -1055,8 +1055,8 @@
           "id": "1567125083",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1567125087",
@@ -1089,11 +1089,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-creme-off-prata-a0wib/",
-      "lastSyncedAt": "2026-08-12T20:41:37.835Z",
+      "lastSyncedAt": "2026-08-15T13:28:17.799Z",
       "sku": "990"
     },
     {
@@ -1280,8 +1280,8 @@
           "id": "1555846245",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1555846247",
@@ -1321,11 +1321,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-snow-18m9e/",
-      "lastSyncedAt": "2026-08-12T14:57:56.296Z",
+      "lastSyncedAt": "2026-08-15T13:28:17.799Z",
       "sku": "901"
     },
     {
@@ -1560,6 +1560,84 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-marrom-1d9ct/",
       "lastSyncedAt": "2026-08-13T23:39:06.497Z",
       "sku": "991"
+    },
+    {
+      "id": "dx-354719457",
+      "sourceId": "354719457",
+      "slug": "9060-off-white-pink-354719457",
+      "name": "9060 OFF WHITE PINK",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "Tênis 9060 OFF WHITE PINK – Linha Luxo de Alta Qualidade Descubra o Tênis 9060 OFF WHITE PINK, um calçado que une sofisticação, conforto e exclusividade, ideal para quem busca um produto da linha luxo com acabamento impecável e alta durabilidade. Perfeito para elevar o seu estilo com um toque moderno e feminino. Por que escolher o Tênis 9060 OFF WHITE PINK? Design Elegante e Atual A combinação do off white com detalhes em pink traz um visual delicado e versátil, compondo looks desde os mais casuais até os mais elaborados. Design Elegante e Atual A combinação do off white com detalhes em pink traz um visual delicado e versátil, compondo looks desde os mais casuais até os mais elaborados. Conforto Superior Fabricado com materiais premium, oferece palmilha macia e estrutura que se adapta ao pé, garantindo conforto prolongado para o seu dia a dia. Conforto Superior Fabricado com materiais premium, oferece palmilha macia e estrutura que se adapta ao pé, garantindo conforto prolongado para o seu dia a dia. Durabilidade Garantida Produzido com atenção aos detalhes e materiais resistentes, o 9060 OFF WHITE PINK mantém sua beleza e funcionalidade mesmo após uso frequente. Durabilidade Garantida Produzido com atenção aos detalhes e materiais resistentes, o 9060 OFF WHITE PINK mantém sua beleza e funcionalidade mesmo após uso frequente. Tamanhos Disponíveis (Brasil) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho ideal para você, garantindo o melhor ajuste e conforto. Política de Troca e Devolução Sua satisfação é prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso. Garanta agora o seu Tênis 9060 OFF WHITE PINK e dê passos com elegância, conforto e a qualidade que você merece da nossa linha luxo!",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-09-at-13-14-10-4db0da45f81c84eb9a17836164033231-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-09-at-13-14-11-71b276eeb988072e1717836164036467-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-09-at-13-14-12-b8a586e9f1455bd7e217836164035434-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-09-at-13-14-16-c0f5fdeb846bb6c90b17836164034825-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-09-at-13-14-18-aea37c68fafb487b2d17836164033633-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-09-at-13-14-19-00fab83aa723cf5f2517836164036277-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-09-at-13-14-20-23d5ec06a46169bbea17836164033761-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1556305043",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1556305044",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1556305045",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1556305047",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1556305048",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1556305049",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-pink-5g7mn/",
+      "lastSyncedAt": "2026-08-15T13:28:17.799Z",
+      "sku": "909"
     },
     {
       "id": "dx-358255129",
@@ -13586,7 +13664,7 @@
           "id": "1577211595",
           "size": "42",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -13606,11 +13684,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-jumbo-cinza-branco-1f3aw/",
-      "lastSyncedAt": "2026-08-14T21:29:47.465Z",
+      "lastSyncedAt": "2026-08-15T13:28:17.799Z",
       "sku": "1033"
     },
     {
@@ -14016,8 +14094,8 @@
           "id": "1568328187",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -14029,11 +14107,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-bege-preto-1yonz/",
-      "lastSyncedAt": "2026-07-31T17:04:12.353Z",
+      "lastSyncedAt": "2026-08-15T13:28:17.799Z",
       "sku": "999"
     },
     {
@@ -14544,7 +14622,7 @@
           "id": "1401232984",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
@@ -14568,11 +14646,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 53,
+      "totalStock": 54,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-08-14T17:51:18.095Z",
+      "lastSyncedAt": "2026-08-15T13:28:17.799Z",
       "sku": "166"
     },
     {
@@ -18264,8 +18342,8 @@
           "id": "1564511764",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1564511765",
@@ -18305,11 +18383,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-air-force-natural-cinza-1ul70/",
-      "lastSyncedAt": "2026-08-11T16:26:31.327Z",
+      "lastSyncedAt": "2026-08-15T13:28:17.799Z",
       "sku": "963"
     },
     {
@@ -28083,8 +28161,8 @@
           "id": "1505634923",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1505634925",
@@ -28121,11 +28199,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-off-coffe-mosev/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-15T13:28:17.799Z",
       "sku": "720"
     },
     {
@@ -29733,8 +29811,8 @@
           "id": "1565211868",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1565211869",
@@ -29753,11 +29831,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-grafite-off-white-158m2/",
-      "lastSyncedAt": "2026-08-11T19:35:14.657Z",
+      "lastSyncedAt": "2026-08-15T13:28:17.799Z",
       "sku": "982"
     },
     {
@@ -35783,7 +35861,7 @@
           "id": "1401140090",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -35856,11 +35934,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-08-14T15:50:01.398Z",
+      "lastSyncedAt": "2026-08-15T13:28:17.799Z",
       "sku": "117"
     },
     {
@@ -36126,7 +36204,7 @@
           "id": "1401115566",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 4,
           "available": true
         },
         {
@@ -36192,11 +36270,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-preto-branco-w3nsz/",
-      "lastSyncedAt": "2026-08-14T20:57:59.333Z",
+      "lastSyncedAt": "2026-08-15T13:28:17.799Z",
       "sku": "264"
     },
     {
