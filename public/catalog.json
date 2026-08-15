@@ -3723,8 +3723,8 @@
           "id": "1523401438",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1523401440",
@@ -3771,11 +3771,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-spezial-bordo-branco-1fu19/",
-      "lastSyncedAt": "2026-08-15T13:53:24.842Z",
+      "lastSyncedAt": "2026-08-15T20:47:48.711Z",
       "sku": "753"
     },
     {
@@ -14566,7 +14566,7 @@
           "id": "1401232948",
           "size": "34",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -14580,7 +14580,7 @@
           "id": "1401232957",
           "size": "36",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -14646,11 +14646,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 52,
+      "totalStock": 50,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-08-15T19:45:12.318Z",
+      "lastSyncedAt": "2026-08-15T20:47:48.711Z",
       "sku": "166"
     },
     {
@@ -15805,7 +15805,7 @@
           "id": "1557169547",
           "size": "29",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -15848,11 +15848,11 @@
         "33"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-rosa-kids-vog27/",
-      "lastSyncedAt": "2026-07-31T22:58:23.170Z",
+      "lastSyncedAt": "2026-08-15T20:47:48.711Z",
       "sku": "915"
     },
     {
@@ -16120,8 +16120,8 @@
           "id": "1441120004",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1441120005",
@@ -16154,11 +16154,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-natural-ouro-x7g1e/",
-      "lastSyncedAt": "2026-08-15T19:45:12.318Z",
+      "lastSyncedAt": "2026-08-15T20:47:48.711Z",
       "sku": "400"
     },
     {
@@ -20801,7 +20801,7 @@
           "id": "1454711594",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -20832,11 +20832,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-branco-preto-m8fvj/",
-      "lastSyncedAt": "2026-08-15T19:22:21.481Z",
+      "lastSyncedAt": "2026-08-15T20:47:48.711Z",
       "sku": "85"
     },
     {
@@ -35484,7 +35484,7 @@
           "id": "1465465531",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -35518,11 +35518,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-areia-coffe-9kqq9/",
-      "lastSyncedAt": "2026-08-15T13:53:24.842Z",
+      "lastSyncedAt": "2026-08-15T20:47:48.711Z",
       "sku": "644"
     },
     {
