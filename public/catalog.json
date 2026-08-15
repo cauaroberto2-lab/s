@@ -23,8 +23,8 @@
           "id": "1540260031",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1540260032",
@@ -103,11 +103,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-bordo-884q8/",
-      "lastSyncedAt": "2026-08-14T17:51:18.095Z",
+      "lastSyncedAt": "2026-08-15T17:18:29.539Z",
       "sku": "818"
     },
     {
@@ -1062,8 +1062,8 @@
           "id": "1567125087",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1567125089",
@@ -1089,11 +1089,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-creme-off-prata-a0wib/",
-      "lastSyncedAt": "2026-08-15T13:28:17.799Z",
+      "lastSyncedAt": "2026-08-15T17:18:29.539Z",
       "sku": "990"
     },
     {
@@ -14795,8 +14795,8 @@
           "id": "1420786989",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1420786993",
@@ -14815,11 +14815,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-capuccino-dxo6s/",
-      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
+      "lastSyncedAt": "2026-08-15T17:18:29.539Z",
       "sku": "181"
     },
     {
@@ -23799,7 +23799,7 @@
           "id": "1465636887",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -23826,11 +23826,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-high-4-all-black-pnn60/",
-      "lastSyncedAt": "2026-08-14T22:49:22.629Z",
+      "lastSyncedAt": "2026-08-15T17:18:29.539Z",
       "sku": "647"
     },
     {
@@ -24724,7 +24724,7 @@
           "id": "1422955091",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -24783,11 +24783,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-preto-branco-hk4pe/",
-      "lastSyncedAt": "2026-08-14T17:51:18.095Z",
+      "lastSyncedAt": "2026-08-15T17:18:29.539Z",
       "sku": "234"
     },
     {
@@ -32179,8 +32179,8 @@
           "id": "1410669495",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410669498",
@@ -32224,11 +32224,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/old-skool-preto-branco-xkzxj/",
-      "lastSyncedAt": "2026-08-15T03:36:42.747Z",
+      "lastSyncedAt": "2026-08-15T17:18:29.539Z",
       "sku": "279"
     },
     {
@@ -36059,7 +36059,7 @@
           "id": "1515759769",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -36086,11 +36086,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-marrom-latex-1vfdp/",
-      "lastSyncedAt": "2026-08-14T18:51:08.484Z",
+      "lastSyncedAt": "2026-08-15T17:18:29.539Z",
       "sku": "90"
     },
     {
