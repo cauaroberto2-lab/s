@@ -3960,8 +3960,8 @@
           "id": "1560231745",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1560231746",
@@ -4001,11 +4001,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-supernova-preto-prata-off-12ulo/",
-      "lastSyncedAt": "2026-08-04T21:48:14.673Z",
+      "lastSyncedAt": "2026-08-16T21:44:20.236Z",
       "sku": "944"
     },
     {
