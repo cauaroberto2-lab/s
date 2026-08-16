@@ -32200,8 +32200,8 @@
           "id": "1410669501",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410669502",
@@ -32224,11 +32224,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/old-skool-preto-branco-xkzxj/",
-      "lastSyncedAt": "2026-08-16T20:47:00.354Z",
+      "lastSyncedAt": "2026-08-16T23:43:25.077Z",
       "sku": "279"
     },
     {
