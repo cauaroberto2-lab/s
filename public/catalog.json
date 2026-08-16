@@ -29336,8 +29336,8 @@
           "id": "1404734504",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -29353,11 +29353,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-branco-0qo43/",
-      "lastSyncedAt": "2026-08-15T18:56:27.153Z",
+      "lastSyncedAt": "2026-08-16T01:11:01.450Z",
       "sku": "67"
     },
     {
