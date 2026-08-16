@@ -38606,8 +38606,8 @@
           "id": "1401244729",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -38619,11 +38619,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/t-clip-branco-verde/",
-      "lastSyncedAt": "2026-08-14T15:50:01.398Z",
+      "lastSyncedAt": "2026-08-16T16:21:56.205Z",
       "sku": "55"
     },
     {
