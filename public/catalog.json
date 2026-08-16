@@ -28703,8 +28703,8 @@
           "id": "1464625931",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1464625933",
@@ -28723,11 +28723,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-rosa-bb-cpw15/",
-      "lastSyncedAt": "2026-08-16T22:46:11.481Z",
+      "lastSyncedAt": "2026-08-16T23:17:35.932Z",
       "sku": "451"
     },
     {
