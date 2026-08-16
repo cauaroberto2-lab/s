@@ -3140,8 +3140,8 @@
           "id": "1545015535",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -3153,11 +3153,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-forum-low-84-cafe-escuro-1lcic/",
-      "lastSyncedAt": "2026-08-16T10:48:28.809Z",
+      "lastSyncedAt": "2026-08-16T13:29:40.040Z",
       "sku": "847"
     },
     {
@@ -39284,7 +39284,7 @@
           "id": "1412411323",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -39304,11 +39304,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/travis-scott-oliva-p8fah/",
-      "lastSyncedAt": "2026-08-12T23:39:18.001Z",
+      "lastSyncedAt": "2026-08-16T13:29:40.040Z",
       "sku": "228"
     },
     {
