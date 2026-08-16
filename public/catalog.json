@@ -28956,8 +28956,8 @@
           "id": "1492877361",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1492877362",
@@ -28983,11 +28983,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-creme-bordo-a58fz/",
-      "lastSyncedAt": "2026-08-15T22:19:13.082Z",
+      "lastSyncedAt": "2026-08-16T02:41:01.512Z",
       "sku": "705"
     },
     {
@@ -31070,8 +31070,8 @@
           "id": "1559836124",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559836125",
@@ -31098,11 +31098,11 @@
         "40"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-off-white-marinho-qs2wf/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-16T02:41:01.512Z",
       "sku": "933"
     },
     {
@@ -40789,8 +40789,8 @@
           "id": "1571585530",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -40802,11 +40802,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/zoom-invincible-run-3-off-nude-qwusw/",
-      "lastSyncedAt": "2026-08-10T23:05:57.915Z",
+      "lastSyncedAt": "2026-08-16T02:41:01.512Z",
       "sku": "1009"
     },
     {
