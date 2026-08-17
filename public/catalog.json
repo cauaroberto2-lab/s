@@ -32200,8 +32200,8 @@
           "id": "1410669501",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1410669502",
@@ -32224,11 +32224,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/old-skool-preto-branco-xkzxj/",
-      "lastSyncedAt": "2026-08-16T23:43:25.077Z",
+      "lastSyncedAt": "2026-08-17T01:08:37.517Z",
       "sku": "279"
     },
     {
@@ -37362,7 +37362,7 @@
           "id": "1568298335",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -37403,11 +37403,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-pro-off-preto-1fsb2/",
-      "lastSyncedAt": "2026-08-11T17:28:26.730Z",
+      "lastSyncedAt": "2026-08-17T01:08:37.517Z",
       "sku": "997"
     },
     {
