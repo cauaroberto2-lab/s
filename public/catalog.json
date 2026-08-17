@@ -1273,8 +1273,8 @@
           "id": "1555846243",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1555846245",
@@ -1321,11 +1321,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-snow-18m9e/",
-      "lastSyncedAt": "2026-08-17T17:25:40.914Z",
+      "lastSyncedAt": "2026-08-17T20:23:53.579Z",
       "sku": "901"
     },
     {
@@ -29490,6 +29490,84 @@
       "sku": "853"
     },
     {
+      "id": "dx-353852258",
+      "sourceId": "353852258",
+      "slug": "nb-rose-off-white-353852258",
+      "name": "NB ROSE OFF WHITE",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "Tênis NB ROSE OFF WHITE – Qualidade Premium e Conforto para o Seu Dia a Dia Apresentamos o Tênis NB ROSE OFF WHITE, um calçado que une alta qualidade, design moderno e conforto excepcional. Este tênis da linha premium é perfeito para quem busca estilo sem abrir mão do bem-estar em cada passo. Por que escolher o NB ROSE OFF WHITE? Linha Premium: Fabricado com materiais selecionados para garantir durabilidade e acabamento superior. Super Confortável: Palmilha macia e solado que proporciona leveza e absorção de impacto para o uso prolongado. Estilo Versátil: A cor off white com detalhes em rosa traz um visual delicado e moderno, ideal para o dia a dia e diversas ocasiões. Durabilidade: Construção robusta que mantém o tênis bonito e resistente mesmo após uso constante. Tamanhos Disponíveis (Brasil) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22,5 | | 35 | 23,0 | | 36 | 24,0 | | 37 | 25,0 | | 38 | 25,5 | | 39 | 26,0 | Dica: Meça o seu pé com cuidado e consulte a tabela para escolher o tamanho ideal. Assim, você garante o ajuste perfeito e máximo conforto. Política de Troca e Devolução Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, pedimos que envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-03-at-13-41-01-9c3f08bd240daa336717831004535643-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-03-at-13-41-02-55b40c58e8495d6fd217831004533076-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-03-at-13-41-01-2-9654540bccd588edc117831004533795-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-03-at-13-41-02-1-15c19831be52b96efb17831004532061-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-03-at-13-41-02-2-ae2570d93fcb04843917831004533052-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-03-at-13-41-06-b431acd04db34a0bc017831004536834-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-03-at-13-41-01-3-ee0254c5e60c19baff17831004536325-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1553687510",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1553687512",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1553687514",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1553687516",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1553687519",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1553687521",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-rose-off-white-1cr5g/",
+      "lastSyncedAt": "2026-08-17T20:23:53.579Z",
+      "sku": "881"
+    },
+    {
       "id": "dx-320079697",
       "sourceId": "320079697",
       "slug": "neo-azul-navy-320079697",
@@ -30232,8 +30310,8 @@
       "subCategory": "NEW BALACE",
       "description": "Tênis NEW BALANCE 5C ELITE Branco/Preto Turquesa – Linha Premium de Alta Qualidade Apresentamos o Tênis NEW BALANCE 5C ELITE Branco/Preto Turquesa, um calçado que une estilo moderno, conforto superior e durabilidade, ideal para quem busca um produto premium para o dia a dia. Por que escolher o NEW BALANCE 5C ELITE? Design Super Estiloso e Versátil Com uma combinação elegante de branco, preto e detalhes em turquesa, este tênis oferece um visual moderno e marcante que combina facilmente com diversos looks, perfeito para o uso diário. Conforto Excepcional Produzido com materiais de alta qualidade, o 5C ELITE possui palmilha acolchoada e tecnologia que garantem um ajuste confortável e suporte ideal, proporcionando bem-estar durante o uso prolongado. Durabilidade e Acabamento Premium Este modelo apresenta acabamento refinado, pensado para resistir ao uso constante sem perder a forma ou a beleza. Um tênis que acompanha seu ritmo com estilo e qualidade. Tamanhos Disponíveis Escolha o tamanho ideal para seus pés consultando a tabela abaixo, com as medidas em centímetros para facilitar a escolha: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
       "images": [
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-11-39-03-cf0c72dc68d9746cc717867203510985-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-11-39-00-2c01bf13e803e7bcea17867203511701-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-11-39-03-cf0c72dc68d9746cc717867203510985-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-11-39-01-82092fde64eabdeafd17867203511505-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-11-39-04-5a13996d16c810039f17867203511015-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-11-39-02-f44fce924420ec7a3b17867203511368-1024-1024.webp"
@@ -30295,7 +30373,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-5c-elite-branco-preto-turquesa-zse1i/",
-      "lastSyncedAt": "2026-08-15T16:21:16.198Z",
+      "lastSyncedAt": "2026-08-17T20:23:53.579Z",
       "sku": "1028"
     },
     {
@@ -32438,6 +32516,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/olympikus-corre-cinza-preto-1wggq/",
       "lastSyncedAt": "2026-08-01T16:57:40.823Z",
       "sku": "782"
+    },
+    {
+      "id": "dx-345384634",
+      "sourceId": "345384634",
+      "slug": "olympikus-corre-lilas-branco-345384634",
+      "name": "OLYMPIKUS CORRE LILAS/BRANCO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "OLYMPIKUS",
+      "description": "OLYMPIKUS CORRE LILAS/BRANCO – Tênis Linha Luxo de Alta Qualidade Apresentamos o OLYMPIKUS CORRE LILAS/BRANCO, o tênis ideal para quem busca um calçado super confortável, estiloso e de alta qualidade para o seu dia a dia. Perfeito para acompanhar você em todas as ocasiões com muito charme e praticidade. Por que escolher o OLYMPIKUS CORRE LILAS/BRANCO? Estilo Sofisticado e Moderno Com uma combinação elegante de lilás e branco, este tênis traz um design contemporâneo que se destaca no seu visual, seja em ambientes casuais ou urbanos. Um toque de cor que valoriza seu estilo com personalidade. Conforto Excepcional para o Dia a Dia Produzido com materiais premium da Linha Luxo, o OLYMPIKUS CORRE oferece uma palmilha macia e ajuste perfeito para garantir conforto durante longas horas de uso. Ideal para quem busca leveza e bem-estar a cada passo. Sola Emborrachada para Maior Segurança A sola emborrachada proporciona ótima aderência e durabilidade, garantindo estabilidade e segurança em diferentes superfícies. Caminhe com confiança em qualquer situação! Tamanhos Disponíveis Disponível nos tamanhos do 38 ao 43, com medidas precisas em centímetros para facilitar a escolha do seu tamanho ideal: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25,0 | | 39 | 26,0 | | 40 | 27,0 | | 41 | 27,5 | | 42 | 29,0 | | 43 | 29,5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito e máximo conforto. Política de Troca e Devolução Sua satisfação é prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a qualidade e autenticidade do produto, solicitamos o envio de um vídeo original do tênis sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-20-at-11-22-53-93f3fc3965b576beb817793853457506-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-20-at-11-23-02-ba1f5d3d5f51810a9c17793853460139-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-20-at-11-23-03-8652064ffd694dc5c717793853457497-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-20-at-11-23-00-6e3ce1cb8a4d38f85b17793853458903-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-20-at-11-22-57-20c2c7768ad044fc6217793853457326-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-20-at-11-23-06-dcd4bd0ce48ab1ee8f17793853540951-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1528957512",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1528957513",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1528957516",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1528957518",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1528957520",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1528957521",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/olympikus-lilas-rij2n/",
+      "lastSyncedAt": "2026-08-17T20:23:53.579Z"
     },
     {
       "id": "dx-345275849",
@@ -36985,8 +37139,8 @@
       "subCategory": "Produtos",
       "description": "Sapatênis Tommy H Preto/Branco – Linha Premium de Alta Qualidade Apresentamos o Sapatênis Tommy H Preto/Branco, um calçado que une design moderno, conforto superior e durabilidade, perfeito para o seu dia a dia com estilo e elegância. Parte de nossa exclusiva linha premium, este sapatênis é ideal para quem busca qualidade e praticidade em um só produto. Por que escolher o Sapatênis Tommy H Preto/Branco? Estilo Sofisticado e Versátil O design em preto e branco oferece um visual clássico e contemporâneo, fácil de combinar com diversas ocasiões, do casual ao social. Um sapatênis que valoriza seu visual com um toque de personalidade. Conforto Excepcional Produzido com materiais de alta qualidade e palmilha acolchoada, o Tommy H garante conforto durante todo o dia, seja no trabalho, lazer ou compromissos. Ideal para quem não abre mão de bem-estar e estilo. Durabilidade e Acabamento Premium Com fabricação cuidadosa e atenção aos detalhes, este sapatênis mantém a forma e o acabamento mesmo após uso frequente, acompanhando seu ritmo sem perder a elegância. Tamanhos Disponíveis Confira a tabela com os tamanhos disponíveis e o comprimento do pé em centímetros para escolher o ajuste perfeito: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o melhor encaixe. Política de Troca e Devolução A sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do sapatênis, sem sinais de uso, garantindo a autenticidade e a qualidade do produto.",
       "images": [
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-12-at-17-19-26-1-8a6486f90308ff918f17867149963832-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-12-at-17-19-27-767d8c18fc0c38d35c17867149961838-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-12-at-17-19-26-1-8a6486f90308ff918f17867149963832-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-09-42-14-a787f2470d27ecd36b17867149961832-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-13-at-09-42-13-dc20e02b4ecd834e0d17867149961852-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-12-at-17-19-27-1-99c489fc8c9d4b53ca17867149961724-1024-1024.webp"
@@ -37048,7 +37202,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sapatenis-tommy-h-preto-branco-14ops/",
-      "lastSyncedAt": "2026-08-15T16:49:47.597Z",
+      "lastSyncedAt": "2026-08-17T20:23:53.579Z",
       "sku": "1027"
     },
     {
