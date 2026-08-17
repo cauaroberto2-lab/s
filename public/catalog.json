@@ -15315,8 +15315,8 @@
           "id": "1544997034",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -15328,11 +15328,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-verde-preto-off-b2trw/",
-      "lastSyncedAt": "2026-08-08T22:26:53.366Z",
+      "lastSyncedAt": "2026-08-17T23:20:25.931Z",
       "sku": "846"
     },
     {
@@ -27572,8 +27572,8 @@
           "id": "1527849445",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1527849446",
@@ -27620,11 +27620,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-branco-prata-6edpy/",
-      "lastSyncedAt": "2026-08-17T22:49:54.496Z",
+      "lastSyncedAt": "2026-08-17T23:20:25.931Z",
       "sku": "785"
     },
     {
