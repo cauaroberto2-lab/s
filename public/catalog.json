@@ -906,7 +906,7 @@
           "id": "1571524810",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -933,11 +933,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-gelo-off-qj3wq/",
-      "lastSyncedAt": "2026-08-14T17:51:18.095Z",
+      "lastSyncedAt": "2026-08-17T14:24:50.926Z",
       "sku": "1010"
     },
     {
@@ -1138,8 +1138,8 @@
           "id": "1563928598",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1563928599",
@@ -1165,11 +1165,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-gelo-grafite-9k30g/",
-      "lastSyncedAt": "2026-08-17T13:37:35.764Z",
+      "lastSyncedAt": "2026-08-17T14:24:50.926Z",
       "sku": "956"
     },
     {
@@ -4810,7 +4810,7 @@
           "id": "1559647186",
           "size": "36",
           "color": "Padrão",
-          "stock": 9,
+          "stock": 8,
           "available": true
         },
         {
@@ -4844,11 +4844,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-preto-rosa-1muc3/",
-      "lastSyncedAt": "2026-08-14T21:52:22.229Z",
+      "lastSyncedAt": "2026-08-17T14:24:50.926Z",
       "sku": "932"
     },
     {
