@@ -1273,8 +1273,8 @@
           "id": "1555846243",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555846245",
@@ -1321,11 +1321,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-snow-18m9e/",
-      "lastSyncedAt": "2026-08-17T20:23:53.579Z",
+      "lastSyncedAt": "2026-08-17T20:54:19.940Z",
       "sku": "901"
     },
     {
@@ -2646,8 +2646,8 @@
           "id": "1532306717",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -2659,11 +2659,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-gelo-cinza-1hkax/",
-      "lastSyncedAt": "2026-08-16T14:48:09.400Z",
+      "lastSyncedAt": "2026-08-17T20:54:19.940Z",
       "sku": "841"
     },
     {
@@ -3055,7 +3055,7 @@
           "id": "1564413982",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -3075,11 +3075,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-drop-step-preto-grafite-qd4ab/",
-      "lastSyncedAt": "2026-08-15T14:19:38.170Z",
+      "lastSyncedAt": "2026-08-17T20:54:19.940Z",
       "sku": "969"
     },
     {
@@ -18730,7 +18730,7 @@
           "id": "1405149495",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -18796,11 +18796,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-17T18:38:02.727Z",
+      "lastSyncedAt": "2026-08-17T20:54:19.940Z",
       "sku": "74"
     },
     {
