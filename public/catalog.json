@@ -1897,7 +1897,7 @@
           "id": "1576961872",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -1938,11 +1938,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ad-sl-72-marrom-bordo-1mtud/",
-      "lastSyncedAt": "2026-08-17T02:40:26.861Z",
+      "lastSyncedAt": "2026-08-17T15:49:35.063Z",
       "sku": "1031"
     },
     {
@@ -4431,7 +4431,7 @@
           "id": "1514660098",
           "size": "41",
           "color": "Padrão",
-          "stock": 9,
+          "stock": 8,
           "available": true
         },
         {
@@ -4458,11 +4458,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 27,
+      "totalStock": 26,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-branco-vermelho-off-ocubc/",
-      "lastSyncedAt": "2026-08-17T03:48:25.845Z",
+      "lastSyncedAt": "2026-08-17T15:49:35.063Z",
       "sku": "454"
     },
     {
@@ -6147,8 +6147,8 @@
           "id": "1426855514",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1426855515",
@@ -6188,11 +6188,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/as-preto-o04fv/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-17T15:49:35.063Z",
       "sku": "429"
     },
     {
