@@ -4570,7 +4570,7 @@
           "id": "1494015890",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -4611,11 +4611,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adzero-boston-11-branco-limao-1aklb/",
-      "lastSyncedAt": "2026-08-15T03:36:42.747Z",
+      "lastSyncedAt": "2026-08-17T19:25:58.815Z",
       "sku": "453"
     },
     {
@@ -14788,8 +14788,8 @@
           "id": "1420786988",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1420786989",
@@ -14815,11 +14815,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-capuccino-dxo6s/",
-      "lastSyncedAt": "2026-08-15T18:56:27.153Z",
+      "lastSyncedAt": "2026-08-17T19:25:58.815Z",
       "sku": "181"
     },
     {
@@ -15216,7 +15216,7 @@
           "id": "1537385102",
           "size": "40",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -15250,11 +15250,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-jumbo-panda-14fpt/",
-      "lastSyncedAt": "2026-08-14T05:55:27.610Z",
+      "lastSyncedAt": "2026-08-17T19:25:58.815Z",
       "sku": "842"
     },
     {
@@ -20808,7 +20808,7 @@
           "id": "1454711595",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -20832,11 +20832,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-branco-preto-m8fvj/",
-      "lastSyncedAt": "2026-08-17T18:38:02.727Z",
+      "lastSyncedAt": "2026-08-17T19:25:58.815Z",
       "sku": "85"
     },
     {
@@ -31262,6 +31262,84 @@
       "sku": "925"
     },
     {
+      "id": "dx-361514043",
+      "sourceId": "361514043",
+      "slug": "nike-ambush-branco-361514043",
+      "name": "NIKE AMBUSH BRANCO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "NIKE",
+      "description": "NIKE AMBUSH BRANCO – Tênis Premium de Alta Qualidade Apresentamos o NIKE AMBUSH BRANCO, um tênis que une design moderno, conforto excepcional e durabilidade, ideal para quem busca um produto premium para o dia a dia. Por que escolher o NIKE AMBUSH BRANCO? Estilo Super Moderno e Versátil O NIKE AMBUSH em tom branco traz um visual clean e super estiloso, perfeito para compor looks casuais e urbanos com personalidade. É o calçado ideal para quem quer estar sempre elegante e confortável. Conforto Imbatível para o Dia a Dia Produzido com materiais de alta qualidade e palmilha acolchoada, o tênis oferece conforto superior, garantindo suporte e maciez para seus pés durante todas as atividades do dia a dia. Durabilidade e Acabamento Premium Com acabamento refinado e atenção aos detalhes, o NIKE AMBUSH mantém sua forma e beleza mesmo após uso frequente, entregando alta resistência para acompanhar seu ritmo com estilo. Tamanhos Disponíveis | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça o comprimento do seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-17-at-15-43-48-3-4780c386d39899b07417869923546715-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-17-at-15-43-47-e085eeffa645c6a49817869923549641-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-17-at-15-43-48-2-5f12dd9102c38500eb17869923546653-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-17-at-15-43-47-1-9319f7f8d226d0928d17869923546538-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-17-at-15-43-47-2-cdbcebae31832fe0de17869923546241-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-17-at-15-43-48-1-94ab60f0f959a7742217869923547766-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-17-at-15-43-48-7fbb417a2e413b074417869923546295-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1578470120",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1578470122",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1578470123",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1578470124",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1578470126",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1578470127",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 3,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-ambush-branco-ckhaz/",
+      "lastSyncedAt": "2026-08-17T19:25:58.815Z",
+      "sku": "1038"
+    },
+    {
       "id": "dx-332149108",
       "sourceId": "332149108",
       "slug": "nike-dunk-low-azul-332149108",
@@ -35484,7 +35562,7 @@
           "id": "1465465531",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -35518,11 +35596,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-areia-coffe-9kqq9/",
-      "lastSyncedAt": "2026-08-15T22:19:13.082Z",
+      "lastSyncedAt": "2026-08-17T19:25:58.815Z",
       "sku": "644"
     },
     {
@@ -36038,8 +36116,8 @@
           "id": "1515759764",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1515759765",
@@ -36086,11 +36164,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-marrom-latex-1vfdp/",
-      "lastSyncedAt": "2026-08-15T17:18:29.539Z",
+      "lastSyncedAt": "2026-08-17T19:25:58.815Z",
       "sku": "90"
     },
     {
