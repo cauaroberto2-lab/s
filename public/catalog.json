@@ -21066,8 +21066,8 @@
           "id": "1541235628",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1541235630",
@@ -21093,11 +21093,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-branco-off-preto-qyo3s/",
-      "lastSyncedAt": "2026-08-14T20:28:32.406Z",
+      "lastSyncedAt": "2026-08-17T14:53:18.760Z",
       "sku": "827"
     },
     {
@@ -38549,6 +38549,58 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/superstar-branco-preto-86an6/",
       "lastSyncedAt": "2026-08-17T03:48:25.845Z",
       "sku": "1030"
+    },
+    {
+      "id": "dx-361466118",
+      "sourceId": "361466118",
+      "slug": "superstar-preto-branco-361466118",
+      "name": "SUPERSTAR PRETO/BRANCO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "ADIDAS",
+      "description": "Tênis SUPERSTAR Preto/Branco – Linha Premium de Alta Qualidade Conheça o Tênis SUPERSTAR Preto/Branco, um calçado de alta qualidade que une estilo, conforto e durabilidade, ideal para o seu dia a dia. Faz parte da nossa exclusiva Linha Premium, garantindo um produto super confortável e com acabamento impecável. Por que escolher o Tênis SUPERSTAR Preto/Branco? Estilo Super Moderno e Versátil O design preto e branco do SUPERSTAR é super estiloso, combinando facilmente com qualquer look casual ou urbano. Perfeito para quem deseja um tênis que destaque a personalidade e o bom gosto sem abrir mão do conforto. Conforto Excepcional Produzido com materiais de alta qualidade, o SUPERSTAR possui palmilha acolchoada que oferece suporte ideal e maciez para os seus pés. Use durante todo o dia com conforto garantido, seja no trabalho, lazer ou atividades do cotidiano. Durabilidade e Acabamento Premium Fabricado com cuidado e atenção aos detalhes, o tênis mantém sua forma e beleza mesmo após uso frequente. A Linha Premium assegura resistência e qualidade superior para acompanhar seu ritmo. Tamanhos Disponíveis Confira abaixo a tabela com os tamanhos disponíveis do 41 ao 43, incluindo a medida do comprimento do pé em centímetros para facilitar sua escolha: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 41 | 27.5 | | 42 | 28.5 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-17-at-11-26-02-2-42e2a66ed5d132c39f17869771842710-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-17-at-11-26-02-3788c16ae851a723e217869771843480-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-17-at-11-26-01-2-82b3eca2e26700b0c217869771845191-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-17-at-11-26-02-1-024674244196e8f34917869771842679-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-17-at-11-26-01-1-a4c5037b03771b081217869771842691-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1578299118",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1578299119",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1578299120",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 4,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/superstar-preto-branco-19esf/",
+      "lastSyncedAt": "2026-08-17T14:53:18.760Z",
+      "sku": "1037"
     },
     {
       "id": "dx-230733845",
