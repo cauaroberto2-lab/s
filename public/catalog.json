@@ -18116,7 +18116,7 @@
           "id": "1553647456",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -18150,11 +18150,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-cinza-branco-latex-16moz/",
-      "lastSyncedAt": "2026-08-10T02:40:43.654Z",
+      "lastSyncedAt": "2026-08-17T22:49:54.496Z",
       "sku": "134"
     },
     {
@@ -27572,8 +27572,8 @@
           "id": "1527849445",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527849446",
@@ -27620,11 +27620,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-branco-prata-6edpy/",
-      "lastSyncedAt": "2026-08-07T21:10:12.434Z",
+      "lastSyncedAt": "2026-08-17T22:49:54.496Z",
       "sku": "785"
     },
     {
