@@ -4445,8 +4445,8 @@
           "id": "1514660100",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -4458,11 +4458,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 28,
+      "totalStock": 27,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-branco-vermelho-off-ocubc/",
-      "lastSyncedAt": "2026-08-15T18:56:27.153Z",
+      "lastSyncedAt": "2026-08-17T03:48:25.845Z",
       "sku": "454"
     },
     {
@@ -4703,7 +4703,7 @@
       "name": "ADIZERO BOSTON 11 PRETO BRANCO",
       "brand": "Adidas",
       "category": "Tênis",
-      "subCategory": "ADIDAS",
+      "subCategory": "SPORT",
       "description": "ADIZERO BOSTON 11 PRETO BRANCO – Tênis Linha Luxo de Alta Qualidade Apresentamos o ADIZERO BOSTON 11 PRETO BRANCO, um tênis que une design moderno com tecnologia avançada para garantir conforto, estilo e performance em cada passo. Ideal para quem busca um calçado de alta qualidade, disponível nos tamanhos do 38 ao 43, que acompanha seu ritmo com segurança e elegância. Por que escolher o ADIZERO BOSTON 11 PRETO BRANCO? Linha Luxo e Alta Qualidade Fabricado com materiais selecionados e acabamento primoroso, este tênis oferece durabilidade e resistência, mantendo a aparência impecável mesmo após uso frequente. Linha Luxo e Alta Qualidade Fabricado com materiais selecionados e acabamento primoroso, este tênis oferece durabilidade e resistência, mantendo a aparência impecável mesmo após uso frequente. Design Atraente e Atual A combinação do tom preto com detalhes branco cria um visual sofisticado e versátil, perfeito para diversas ocasiões, do esporte à rotina urbana. Design Atraente e Atual A combinação do tom preto com detalhes branco cria um visual sofisticado e versátil, perfeito para diversas ocasiões, do esporte à rotina urbana. Conforto e Ajuste Perfeito Com palmilha macia e tecnologia que garante suporte ideal, proporciona conforto prolongado, reduzindo o impacto a cada passo. Conforto e Ajuste Perfeito Com palmilha macia e tecnologia que garante suporte ideal, proporciona conforto prolongado, reduzindo o impacto a cada passo. Solado com Excelente Aderência Desenvolvido para máxima estabilidade e segurança, o solado permite o uso em diferentes superfícies com confiança. Solado com Excelente Aderência Desenvolvido para máxima estabilidade e segurança, o solado permite o uso em diferentes superfícies com confiança. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------|--| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-25-at-11-03-11-e37a0f58c2c3919a4e17823965696789-1024-1024.webp",
@@ -4770,7 +4770,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-boston-11-preto-branco-1j5gp/",
-      "lastSyncedAt": "2026-08-14T18:51:08.484Z",
+      "lastSyncedAt": "2026-08-17T03:48:25.845Z",
       "sku": "870"
     },
     {
@@ -5285,8 +5285,8 @@
           "id": "1542358198",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1542358199",
@@ -5299,8 +5299,8 @@
           "id": "1542358200",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1542358202",
@@ -5337,7 +5337,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-axcee-bege-off-12iog/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-17T03:48:25.845Z",
       "sku": "830"
     },
     {
@@ -5523,8 +5523,8 @@
           "id": "1554117010",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1554117011",
@@ -5571,11 +5571,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-tn-plus-grafite-1v47u/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-17T03:48:25.845Z",
       "sku": "886"
     },
     {
@@ -15469,7 +15469,7 @@
           "id": "1401060761",
           "size": "37",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 2,
           "available": true
         },
         {
@@ -15496,11 +15496,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-love-vit3i/",
-      "lastSyncedAt": "2026-08-04T20:08:49.763Z",
+      "lastSyncedAt": "2026-08-17T03:48:25.845Z",
       "sku": "165"
     },
     {
@@ -18194,8 +18194,8 @@
           "id": "1537078386",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1537078388",
@@ -18228,11 +18228,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-cinza-off-blue-ze6wu/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-17T03:48:25.845Z",
       "sku": "806"
     },
     {
@@ -38453,10 +38453,10 @@
       "subCategory": "ADIDAS",
       "description": "Tênis SUPERSTAR Branco/Preto – Linha Premium de Alta Qualidade Apresentamos o Tênis SUPERSTAR Branco/Preto, um calçado premium que une estilo marcante, conforto superior e durabilidade, ideal para o seu dia a dia com muito mais personalidade. Por que escolher o Tênis SUPERSTAR Branco/Preto? Design Moderno e Super Estiloso O clássico contraste entre o branco e preto confere um visual versátil e contemporâneo, perfeito para combinar com diferentes looks urbanos e casuais. Seja para o trabalho, lazer ou passeios, o SUPERSTAR é uma escolha que destaca seu estilo. Conforto Excepcional Produzido com materiais de alta qualidade e equipado com palmilha acolchoada, este tênis proporciona maciez e suporte ideais para os seus pés. Sinta o conforto durante todas as suas atividades diárias, com um ajuste perfeito que valoriza seu bem-estar. Durabilidade e Acabamento Premium Cada par do SUPERSTAR é fabricado com atenção aos detalhes, garantindo resistência e acabamento impecável. Seu design robusto mantém a forma e o visual mesmo após uso frequente, acompanhando seu ritmo sem perder a elegância. Tamanhos Disponíveis Confira a tabela abaixo para escolher o tamanho ideal, com o comprimento do pé em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e a qualidade do produto.",
       "images": [
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-25-08-6ab0b1c489b60a198517867223730120-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-25-08-1-0f36601439b710ab5f17867223728674-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-25-07-1-480f9e3e724f55158f17867223729574-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-25-07-f1fd0660c87cff2e5617867223729693-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-25-07-1-480f9e3e724f55158f17867223729574-1024-1024.webp"
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-25-08-6ab0b1c489b60a198517867223730120-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-25-08-1-0f36601439b710ab5f17867223728674-1024-1024.webp"
       ],
       "variants": [
         {
@@ -38547,7 +38547,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/superstar-branco-preto-86an6/",
-      "lastSyncedAt": "2026-08-15T16:21:16.198Z",
+      "lastSyncedAt": "2026-08-17T03:48:25.845Z",
       "sku": "1030"
     },
     {
