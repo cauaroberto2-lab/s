@@ -14573,7 +14573,7 @@
           "id": "1401232953",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -14646,11 +14646,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 49,
+      "totalStock": 48,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-08-17T17:25:40.914Z",
+      "lastSyncedAt": "2026-08-17T19:51:11.408Z",
       "sku": "166"
     },
     {
@@ -23145,7 +23145,7 @@
           "id": "1411138664",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 6,
           "available": true
         },
         {
@@ -23179,12 +23179,64 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/zoom-x-nude-8a0fn/",
-      "lastSyncedAt": "2026-08-15T21:44:58.402Z",
+      "lastSyncedAt": "2026-08-17T19:51:11.408Z",
       "sku": "354"
+    },
+    {
+      "id": "dx-342944026",
+      "sourceId": "342944026",
+      "slug": "jaqueta-bomber-nk-342944026",
+      "name": "JAQUETA BOMBER NK",
+      "brand": "Nike",
+      "category": "Vestuário",
+      "subCategory": "NIKE",
+      "description": "Jaqueta Bomber NK – Elegância e Conforto para o Frio Intenso Descubra a Jaqueta Bomber NK, a escolha perfeita para quem busca uma peça de alta qualidade que une estilo, conforto e proteção contra o frio rigoroso. Desenhada para oferecer máximo aquecimento, esta jaqueta é essencial para os dias mais gelados, sem abrir mão da elegância. Por que escolher a Jaqueta Bomber NK? Qualidade Superior e Conforto Excepcional Produzida com materiais selecionados, a Jaqueta Bomber NK proporciona uma sensação super confortável e quente, ideal para enfrentar o frio intenso com sofisticação. Seu acabamento primoroso reflete o compromisso com a excelência e durabilidade. Design Elegante e Atemporal Com um corte moderno e refinado, esta jaqueta combina perfeitamente com diferentes estilos, conferindo um toque de elegância e estilo a qualquer look. Seja para um passeio casual ou um evento mais formal, a Bomber NK valoriza sua presença com discrição e personalidade. Tamanhos Disponíveis Oferecemos os tamanhos M, G e GG, cuidadosamente dimensionados para garantir o ajuste perfeito: - M: indicado para pessoas com peso entre 65 e 75 kg e altura aproximada de 1,65 a 1,75 m, correspondendo a uma largura de peito de cerca de 96 cm e comprimento da jaqueta de aproximadamente 66 cm. - G: ideal para quem pesa entre 75 e 85 kg e altura de 1,75 a 1,85 m, com largura de peito em torno de 104 cm e comprimento da jaqueta de 68 cm. - GG: indicado para pessoas entre 85 e 95 kg e altura de 1,80 a 1,90 m, com largura do peito de 112 cm e comprimento da jaqueta de 70 cm. Essas medidas foram baseadas em padrões nacionais para jaquetas bomber, garantindo conforto e liberdade de movimento sem perder a elegância. Recomendamos confirmar suas medidas corporais antes da compra para o melhor ajuste possível. Política de Troca Sua satisfação é nossa prioridade. Você tem até 7 dias corridos após o recebimento para solicitar troca, seguindo nossa política transparente e eficiente para garantir a melhor experiência de compra. Garanta agora a sua Jaqueta Bomber NK e eleve seu guarda-roupa com uma peça que alia conforto, proteção e estilo impecável. Prepare-se para o inverno com a sofisticação que você merece!",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/por_baixo_coloque_uma_camiseta_202605081642-ad714e64120556a52717782745936449-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retire_a_etiqueta_e_esconda_202605081639-2304dd100c11a8facf17782745927590-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/faca_uma_foto_mais_aproximada_202605081640-d1b88c619bb52f031a17782745945266-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/altere_para_todo_preto_2k_202605081519-c6a6e5aa04231cca1417782745940158-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1521048032",
+          "size": "M",
+          "color": "Preto",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1521048035",
+          "size": "G",
+          "color": "Preto",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1521048039",
+          "size": "GG",
+          "color": "Preto",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M"
+      ],
+      "colors": [
+        "Preto"
+      ],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/jaqueta-bomber-nk-1uy5k/",
+      "lastSyncedAt": "2026-08-17T19:51:11.408Z"
     },
     {
       "id": "dx-355190776",
@@ -26558,8 +26610,8 @@
           "id": "1447725536",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1447725537",
@@ -26599,11 +26651,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/lv-black-white-oxi1i/",
-      "lastSyncedAt": "2026-08-07T05:15:54.641Z",
+      "lastSyncedAt": "2026-08-17T19:51:11.408Z",
       "sku": "418"
     },
     {
