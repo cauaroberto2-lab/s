@@ -1925,7 +1925,7 @@
           "id": "1576961878",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -1938,11 +1938,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ad-sl-72-marrom-bordo-1mtud/",
-      "lastSyncedAt": "2026-08-17T18:38:02.727Z",
+      "lastSyncedAt": "2026-08-18T13:40:20.281Z",
       "sku": "1031"
     },
     {
@@ -22250,8 +22250,8 @@
           "id": "1505714305",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1505714307",
@@ -22298,11 +22298,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-natural-off-8ru8x/",
-      "lastSyncedAt": "2026-08-15T22:19:13.082Z",
+      "lastSyncedAt": "2026-08-18T13:40:20.281Z",
       "sku": "464"
     },
     {
@@ -22529,7 +22529,7 @@
           "id": "1566916417",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -22543,7 +22543,7 @@
           "id": "1566916419",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -22564,8 +22564,8 @@
           "id": "1566916422",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1566916424",
@@ -22595,11 +22595,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-off-coffe-132z6/",
-      "lastSyncedAt": "2026-08-14T18:51:08.484Z",
+      "lastSyncedAt": "2026-08-18T13:40:20.281Z",
       "sku": "986"
     },
     {
@@ -26401,15 +26401,15 @@
           "id": "1410616704",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1410616705",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1410616706",
@@ -26429,7 +26429,7 @@
           "id": "1410616709",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -26450,8 +26450,8 @@
           "id": "1410616713",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -26467,11 +26467,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/knu-skool-marinho-jeans-7tjdu/",
-      "lastSyncedAt": "2026-08-15T20:19:56.936Z",
+      "lastSyncedAt": "2026-08-18T13:40:20.281Z",
       "sku": "437"
     },
     {
