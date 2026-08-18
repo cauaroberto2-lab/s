@@ -649,7 +649,7 @@
           "id": "1544191175",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -701,11 +701,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-1qzac/",
-      "lastSyncedAt": "2026-08-15T23:44:09.148Z",
+      "lastSyncedAt": "2026-08-18T20:21:07.086Z",
       "sku": "840"
     },
     {
@@ -1849,8 +1849,8 @@
           "id": "1555750422",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -1862,11 +1862,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-pto-bco-pto-1lib1/",
-      "lastSyncedAt": "2026-08-14T12:07:16.231Z",
+      "lastSyncedAt": "2026-08-18T20:21:07.086Z",
       "sku": "899"
     },
     {
@@ -3189,8 +3189,8 @@
           "id": "1528463662",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1528463667",
@@ -3230,11 +3230,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-otelo-preto-branco-96wa2/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-18T20:21:07.086Z",
       "sku": "119"
     },
     {
@@ -15599,8 +15599,8 @@
           "id": "1401101207",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1401101210",
@@ -15679,11 +15679,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 30,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-13T17:28:18.175Z",
+      "lastSyncedAt": "2026-08-18T20:21:07.086Z",
       "sku": "105"
     },
     {
@@ -18765,8 +18765,8 @@
           "id": "1405149523",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1405149527",
@@ -18796,11 +18796,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-18T02:35:46.096Z",
+      "lastSyncedAt": "2026-08-18T20:21:07.086Z",
       "sku": "74"
     },
     {
@@ -18908,8 +18908,8 @@
           "id": "1537098596",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1537098597",
@@ -18949,11 +18949,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-grafite-camurca-9xriv/",
-      "lastSyncedAt": "2026-08-18T19:49:05.311Z",
+      "lastSyncedAt": "2026-08-18T20:21:07.086Z",
       "sku": "807"
     },
     {
@@ -28133,7 +28133,7 @@
           "id": "1528507052",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -28146,11 +28146,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-creme-off-1epvj/",
-      "lastSyncedAt": "2026-07-30T20:13:43.754Z",
+      "lastSyncedAt": "2026-08-18T20:21:07.086Z",
       "sku": "774"
     },
     {
@@ -36291,7 +36291,7 @@
           "id": "1401140086",
           "size": "34",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -36371,11 +36371,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-08-15T17:44:53.407Z",
+      "lastSyncedAt": "2026-08-18T20:21:07.086Z",
       "sku": "117"
     },
     {
@@ -36648,8 +36648,8 @@
           "id": "1401115570",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401115572",
@@ -36707,11 +36707,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-preto-branco-w3nsz/",
-      "lastSyncedAt": "2026-08-18T19:26:00.655Z",
+      "lastSyncedAt": "2026-08-18T20:21:07.086Z",
       "sku": "264"
     },
     {
@@ -39099,7 +39099,7 @@
           "id": "1413824103",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -39140,11 +39140,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/t-clip-branco-1lfjo/",
-      "lastSyncedAt": "2026-08-17T21:23:51.706Z",
+      "lastSyncedAt": "2026-08-18T20:21:07.086Z",
       "sku": "56"
     },
     {
