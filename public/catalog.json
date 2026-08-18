@@ -2231,8 +2231,8 @@
           "id": "1496804719",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1496804721",
@@ -2279,11 +2279,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-2000-all-black-tyfvz/",
-      "lastSyncedAt": "2026-08-15T14:19:38.170Z",
+      "lastSyncedAt": "2026-08-18T21:22:01.347Z",
       "sku": "456"
     },
     {
