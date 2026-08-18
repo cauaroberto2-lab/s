@@ -3744,8 +3744,8 @@
           "id": "1523401444",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1523401445",
@@ -3771,11 +3771,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-spezial-bordo-branco-1fu19/",
-      "lastSyncedAt": "2026-08-15T20:47:48.711Z",
+      "lastSyncedAt": "2026-08-18T16:39:58.052Z",
       "sku": "753"
     },
     {
@@ -10108,8 +10108,8 @@
           "id": "1454499323",
           "size": "P",
           "color": "Branco",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1454499325",
@@ -10179,11 +10179,11 @@
         "Preto",
         "Branco"
       ],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-polo-r-1g2od/",
-      "lastSyncedAt": "2026-07-31T20:18:55.059Z",
+      "lastSyncedAt": "2026-08-18T16:39:58.052Z",
       "sku": "608"
     },
     {
@@ -10702,7 +10702,7 @@
           "id": "1440815418",
           "size": "P",
           "color": "Preto",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -10773,11 +10773,11 @@
         "Bege",
         "Preto"
       ],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-tomy-h-classics-1qduj/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-18T16:39:58.052Z",
       "sku": "565"
     },
     {
@@ -14566,8 +14566,8 @@
           "id": "1401232948",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401232953",
@@ -14646,11 +14646,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 48,
+      "totalStock": 47,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-08-17T19:51:11.408Z",
+      "lastSyncedAt": "2026-08-18T16:39:58.052Z",
       "sku": "166"
     },
     {
@@ -23907,8 +23907,8 @@
           "id": "1465636882",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1465636884",
@@ -23955,11 +23955,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-high-4-all-black-pnn60/",
-      "lastSyncedAt": "2026-08-15T17:18:29.539Z",
+      "lastSyncedAt": "2026-08-18T16:39:58.052Z",
       "sku": "647"
     },
     {
