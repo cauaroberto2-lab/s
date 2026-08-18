@@ -17573,8 +17573,8 @@
           "id": "1556311232",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1556311234",
@@ -17593,11 +17593,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-azul-bb-bco-xg6nj/",
-      "lastSyncedAt": "2026-08-14T17:51:18.095Z",
+      "lastSyncedAt": "2026-08-18T19:49:05.311Z",
       "sku": "910"
     },
     {
@@ -18901,8 +18901,8 @@
           "id": "1537098594",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1537098596",
@@ -18949,11 +18949,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-grafite-camurca-9xriv/",
-      "lastSyncedAt": "2026-08-17T13:37:35.764Z",
+      "lastSyncedAt": "2026-08-18T19:49:05.311Z",
       "sku": "807"
     },
     {
@@ -30066,7 +30066,7 @@
           "id": "1407307685",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -30080,8 +30080,8 @@
           "id": "1407307700",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1407307704",
@@ -30094,8 +30094,8 @@
           "id": "1407307710",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1407307717",
@@ -30108,8 +30108,8 @@
           "id": "1407307720",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1407307727",
@@ -30122,8 +30122,8 @@
           "id": "1407307734",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1407307738",
@@ -30146,11 +30146,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-08-14T18:51:08.484Z",
+      "lastSyncedAt": "2026-08-18T19:49:05.311Z",
       "sku": "205"
     },
     {
@@ -31964,7 +31964,7 @@
           "id": "1544924018",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -31984,11 +31984,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-reverse-5og06/",
-      "lastSyncedAt": "2026-08-18T19:26:00.655Z",
+      "lastSyncedAt": "2026-08-18T19:49:05.311Z",
       "sku": "843"
     },
     {
@@ -40814,14 +40814,14 @@
           "id": "1545331622",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1545331623",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -40852,7 +40852,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-vr3-all-black-e13y4/",
-      "lastSyncedAt": "2026-08-11T17:28:26.730Z",
+      "lastSyncedAt": "2026-08-18T19:49:05.311Z",
       "sku": "852"
     },
     {
