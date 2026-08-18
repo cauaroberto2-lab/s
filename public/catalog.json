@@ -7932,8 +7932,8 @@
           "id": "1465549387",
           "size": "G",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1465549390",
@@ -7958,11 +7958,11 @@
         "XG"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-a-axchange-upfhb/",
-      "lastSyncedAt": "2026-07-29T20:29:53.065Z",
+      "lastSyncedAt": "2026-08-18T17:24:25.323Z",
       "sku": "660"
     },
     {
@@ -21122,7 +21122,7 @@
           "id": "1430916635",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -21136,22 +21136,22 @@
           "id": "1430916638",
           "size": "40",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1430916640",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1430916643",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1430916644",
@@ -21170,11 +21170,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-grafite-latex-1pi5x/",
-      "lastSyncedAt": "2026-08-17T16:24:48.007Z",
+      "lastSyncedAt": "2026-08-18T17:24:25.323Z",
       "sku": "261"
     },
     {
@@ -27579,7 +27579,7 @@
           "id": "1527827785",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -27620,11 +27620,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-cinza-ox1b1/",
-      "lastSyncedAt": "2026-08-15T18:56:27.153Z",
+      "lastSyncedAt": "2026-08-18T17:24:25.323Z",
       "sku": "777"
     },
     {
@@ -28928,7 +28928,7 @@
           "id": "1514672563",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -28959,11 +28959,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-cinza-1fzhs/",
-      "lastSyncedAt": "2026-08-14T01:47:51.174Z",
+      "lastSyncedAt": "2026-08-18T17:24:25.323Z",
       "sku": "266"
     },
     {
@@ -33228,7 +33228,7 @@
           "id": "1494025490",
           "size": "40",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
@@ -33262,11 +33262,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/oncloudsurfer-cinza-off-1szpb/",
-      "lastSyncedAt": "2026-08-14T18:51:08.484Z",
+      "lastSyncedAt": "2026-08-18T17:24:25.323Z",
       "sku": "707"
     },
     {
@@ -35838,7 +35838,7 @@
           "id": "1465465530",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -35879,11 +35879,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-areia-coffe-9kqq9/",
-      "lastSyncedAt": "2026-08-18T15:29:39.435Z",
+      "lastSyncedAt": "2026-08-18T17:24:25.323Z",
       "sku": "644"
     },
     {
