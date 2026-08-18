@@ -30502,8 +30502,8 @@
           "id": "1577615187",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1577615189",
@@ -30522,11 +30522,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-5c-elite-preto-prata-1m62o/",
-      "lastSyncedAt": "2026-08-18T20:49:31.257Z",
+      "lastSyncedAt": "2026-08-18T23:46:18.119Z",
       "sku": "1036"
     },
     {
