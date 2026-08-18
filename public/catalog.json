@@ -31024,8 +31024,8 @@
           "id": "1545082932",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1545082934",
@@ -31065,11 +31065,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-stunt-15lp1/",
-      "lastSyncedAt": "2026-08-13T20:39:42.149Z",
+      "lastSyncedAt": "2026-08-18T18:35:29.447Z",
       "sku": "850"
     },
     {
