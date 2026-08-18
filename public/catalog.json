@@ -752,7 +752,7 @@
           "id": "1540896505",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -779,11 +779,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-refletivo-vjgt2/",
-      "lastSyncedAt": "2026-08-15T18:25:36.975Z",
+      "lastSyncedAt": "2026-08-18T14:32:12.232Z",
       "sku": "820"
     },
     {
@@ -22001,8 +22001,8 @@
           "id": "1438069896",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1438069897",
@@ -22050,8 +22050,8 @@
           "id": "1555200821",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -22071,7 +22071,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-branco-off-oxovh/",
-      "lastSyncedAt": "2026-08-08T02:02:26.198Z",
+      "lastSyncedAt": "2026-08-18T14:32:12.232Z",
       "sku": "562"
     },
     {
@@ -22228,6 +22228,83 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-canela-rose-off-b0wxr/",
       "lastSyncedAt": "2026-08-15T18:56:27.153Z",
       "sku": "1000"
+    },
+    {
+      "id": "dx-326306304",
+      "sourceId": "326306304",
+      "slug": "hylane-grafite-off-326306304",
+      "name": "HYLANE GRAFITE OFF",
+      "brand": "Vans",
+      "category": "Tênis",
+      "subCategory": "HYLANE",
+      "description": "HYLANE GRAFITE OFF – Estilo Moderno com Conforto Imbatível Conheça o HYLANE GRAFITE OFF, o tênis que une design contemporâneo com conforto excepcional, perfeito para quem valoriza um calçado versátil e de alta qualidade no dia a dia. Por que escolher o HYLANE GRAFITE OFF? Design Sofisticado: A combinação do tom grafite com detalhes off-white proporciona um visual moderno e elegante, ideal para diversas ocasiões, do casual ao esportivo. Conforto de Longa Duração: Fabricado com materiais de alta qualidade e palmilha acolchoada, o HYLANE oferece suporte ideal para seus pés, garantindo conforto mesmo nas jornadas mais longas. Durabilidade e Resistência: Com acabamento reforçado e solado antiderrapante, este tênis acompanha seu ritmo sem perder a forma ou estilo. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-02-18-at-10-28-55-640d5fd5f67614146d17715350890735-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-02-18-at-10-28-59-a7a5f177c8d140bd9417715350841393-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-02-18-at-10-29-01-d92866d3b2cab0d07417715350827578-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-02-18-at-10-28-58-1323cf32667d70855517715350853799-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-02-18-at-10-28-57-2e3c3e65825dd0394517715350864960-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-02-18-at-10-28-56-b0d750b5a0723786cd17715350879114-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1450658299",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1450658300",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1450658301",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1450658302",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1450658303",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1450658304",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-grafite-off-1hcnh/",
+      "lastSyncedAt": "2026-08-18T14:32:12.232Z",
+      "sku": "465"
     },
     {
       "id": "dx-338761952",
@@ -22436,43 +22513,43 @@
           "id": "1528512966",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1528512967",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1528512968",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1528512969",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1528512971",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1528512972",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -22484,11 +22561,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-off-cinza-1fesl/",
-      "lastSyncedAt": "2026-08-14T19:46:27.316Z",
+      "lastSyncedAt": "2026-08-18T14:32:12.232Z",
       "sku": "775"
     },
     {
@@ -22625,8 +22702,8 @@
           "id": "1565067506",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1565067509",
@@ -22667,8 +22744,8 @@
           "id": "1565067521",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1565067524",
@@ -22709,7 +22786,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-preto-musgo-1ylnz/",
-      "lastSyncedAt": "2026-08-13T04:10:47.676Z",
+      "lastSyncedAt": "2026-08-18T14:32:12.232Z",
       "sku": "921"
     },
     {
@@ -27572,8 +27649,8 @@
           "id": "1527849445",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527849446",
@@ -27620,11 +27697,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-branco-prata-6edpy/",
-      "lastSyncedAt": "2026-08-17T23:20:25.931Z",
+      "lastSyncedAt": "2026-08-18T14:32:12.232Z",
       "sku": "785"
     },
     {
@@ -31038,8 +31115,8 @@
           "id": "1560038425",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1560038427",
@@ -31065,11 +31142,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-branco-preto-laranja-83lc9/",
-      "lastSyncedAt": "2026-08-18T01:06:27.135Z",
+      "lastSyncedAt": "2026-08-18T14:32:12.232Z",
       "sku": "939"
     },
     {
