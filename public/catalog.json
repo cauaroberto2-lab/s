@@ -7932,8 +7932,8 @@
           "id": "1465549387",
           "size": "G",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1465549390",
@@ -7958,11 +7958,11 @@
         "XG"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-a-axchange-upfhb/",
-      "lastSyncedAt": "2026-08-18T17:24:25.323Z",
+      "lastSyncedAt": "2026-08-18T17:54:12.674Z",
       "sku": "660"
     },
     {
@@ -36076,7 +36076,7 @@
           "id": "1464242899",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -36110,11 +36110,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-azul-bb-9qmlj/",
-      "lastSyncedAt": "2026-08-15T22:46:52.069Z",
+      "lastSyncedAt": "2026-08-18T17:54:12.674Z",
       "sku": "338"
     },
     {
@@ -38523,8 +38523,8 @@
           "id": "1574360676",
           "size": "G",
           "color": "Bege",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1574360678",
@@ -38572,11 +38572,11 @@
         "Marrom",
         "Preto"
       ],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sueter-texturizado-zara-1q7cu/",
-      "lastSyncedAt": "2026-08-14T21:29:47.465Z",
+      "lastSyncedAt": "2026-08-18T17:54:12.674Z",
       "sku": "1019"
     },
     {
@@ -41166,8 +41166,8 @@
           "id": "1410589484",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1410589486",
@@ -41246,11 +41246,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-verde-off-jilr9/",
-      "lastSyncedAt": "2026-08-16T15:19:23.485Z",
+      "lastSyncedAt": "2026-08-18T17:54:12.674Z",
       "sku": "217"
     },
     {
