@@ -18758,8 +18758,8 @@
           "id": "1405149520",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1405149523",
@@ -18796,11 +18796,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-17T20:54:19.940Z",
+      "lastSyncedAt": "2026-08-18T02:35:46.096Z",
       "sku": "74"
     },
     {
@@ -27684,7 +27684,7 @@
           "id": "1527848107",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -27697,11 +27697,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-branco-prata-preto-1bfhp/",
-      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
+      "lastSyncedAt": "2026-08-18T02:35:46.096Z",
       "sku": "778"
     },
     {
@@ -38351,7 +38351,7 @@
           "id": "1397242253",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -38396,11 +38396,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/suede-xl-c5p43/",
-      "lastSyncedAt": "2026-08-15T20:19:56.936Z",
+      "lastSyncedAt": "2026-08-18T02:35:46.096Z",
       "sku": "45"
     },
     {
