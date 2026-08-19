@@ -4732,8 +4732,8 @@
           "id": "1549273844",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549273847",
@@ -4766,11 +4766,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-boston-11-preto-branco-1j5gp/",
-      "lastSyncedAt": "2026-08-17T03:48:25.845Z",
+      "lastSyncedAt": "2026-08-19T23:20:35.665Z",
       "sku": "870"
     },
     {
@@ -21129,7 +21129,7 @@
           "id": "1430916637",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -21170,11 +21170,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-grafite-latex-1pi5x/",
-      "lastSyncedAt": "2026-08-19T16:39:29.921Z",
+      "lastSyncedAt": "2026-08-19T23:20:35.665Z",
       "sku": "261"
     },
     {
