@@ -1202,8 +1202,8 @@
           "id": "1562885970",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1562885974",
@@ -1243,11 +1243,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-nude-pink-1ylm3/",
-      "lastSyncedAt": "2026-08-15T18:25:36.975Z",
+      "lastSyncedAt": "2026-08-19T17:50:04.463Z",
       "sku": "950"
     },
     {
@@ -1273,15 +1273,15 @@
           "id": "1555846243",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1555846245",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555846247",
@@ -1325,7 +1325,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-snow-18m9e/",
-      "lastSyncedAt": "2026-08-19T16:39:29.921Z",
+      "lastSyncedAt": "2026-08-19T17:50:04.463Z",
       "sku": "901"
     },
     {
@@ -2238,8 +2238,8 @@
           "id": "1496804721",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1496804722",
@@ -2279,11 +2279,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-2000-all-black-tyfvz/",
-      "lastSyncedAt": "2026-08-18T21:22:01.347Z",
+      "lastSyncedAt": "2026-08-19T17:50:04.463Z",
       "sku": "456"
     },
     {
@@ -15620,14 +15620,14 @@
           "id": "1401101220",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1401101224",
           "size": "38",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -15683,7 +15683,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-19T16:39:29.921Z",
+      "lastSyncedAt": "2026-08-19T17:50:04.463Z",
       "sku": "105"
     },
     {
@@ -18716,71 +18716,71 @@
           "id": "1405149483",
           "size": "34",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1405149492",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 4,
+          "available": true
         },
         {
           "id": "1405149495",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 8,
           "available": true
         },
         {
           "id": "1405149500",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 5,
+          "available": true
         },
         {
           "id": "1405149508",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 10,
           "available": true
         },
         {
           "id": "1405149516",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 4,
+          "available": true
         },
         {
           "id": "1405149520",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 6,
+          "available": true
         },
         {
           "id": "1405149523",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 6,
+          "available": true
         },
         {
           "id": "1405149527",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 4,
+          "available": true
         },
         {
           "id": "1405149531",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         }
       ],
       "sizes": [
@@ -18796,11 +18796,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 55,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-19T16:39:29.921Z",
+      "lastSyncedAt": "2026-08-19T17:50:04.463Z",
       "sku": "74"
     },
     {
@@ -28617,7 +28617,7 @@
           "id": "1414822656",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -28631,22 +28631,22 @@
           "id": "1414822658",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1414822659",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1414822660",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1414822661",
@@ -28665,11 +28665,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-1ib5e/",
-      "lastSyncedAt": "2026-08-19T16:39:29.921Z",
+      "lastSyncedAt": "2026-08-19T17:50:04.463Z",
       "sku": "421"
     },
     {
@@ -31108,7 +31108,7 @@
           "id": "1545082934",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -31142,11 +31142,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-stunt-15lp1/",
-      "lastSyncedAt": "2026-08-18T18:35:29.447Z",
+      "lastSyncedAt": "2026-08-19T17:50:04.463Z",
       "sku": "850"
     },
     {
@@ -40196,8 +40196,8 @@
           "id": "1564501509",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564501512",
@@ -40244,11 +40244,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-hylane-musgo-militar-u1gxi/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-08-19T17:50:04.463Z",
       "sku": "972"
     },
     {
