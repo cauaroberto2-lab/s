@@ -33379,8 +33379,8 @@
           "id": "1535679855",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1535679856",
@@ -33413,11 +33413,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/on-cloudultra-cinza-off-lbck6/",
-      "lastSyncedAt": "2026-07-28T16:58:11.124Z",
+      "lastSyncedAt": "2026-08-19T02:38:12.490Z",
       "sku": "796"
     },
     {
@@ -33475,8 +33475,8 @@
           "id": "1576481961",
           "size": "43",
           "color": "Grafite",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -33490,11 +33490,11 @@
       "colors": [
         "Grafite"
       ],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/on-running-grafite-1hsha/",
-      "lastSyncedAt": "2026-08-13T21:42:27.657Z",
+      "lastSyncedAt": "2026-08-19T02:38:12.490Z",
       "sku": "1026"
     },
     {
@@ -33948,8 +33948,8 @@
           "id": "1572363147",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -33961,11 +33961,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-all-black-c7hxv/",
-      "lastSyncedAt": "2026-08-14T16:50:22.305Z",
+      "lastSyncedAt": "2026-08-19T02:38:12.490Z",
       "sku": "1013"
     },
     {
@@ -39106,7 +39106,7 @@
           "id": "1413824106",
           "size": "40",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -39140,11 +39140,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/t-clip-branco-1lfjo/",
-      "lastSyncedAt": "2026-08-18T20:21:07.086Z",
+      "lastSyncedAt": "2026-08-19T02:38:12.490Z",
       "sku": "56"
     },
     {
