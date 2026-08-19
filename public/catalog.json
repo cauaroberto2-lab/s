@@ -19135,7 +19135,7 @@
           "id": "1405138893",
           "size": "35",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -19156,7 +19156,7 @@
           "id": "1405138904",
           "size": "38",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -19208,11 +19208,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 25,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-nobuk-preto-nnzwh/",
-      "lastSyncedAt": "2026-08-08T17:58:41.434Z",
+      "lastSyncedAt": "2026-08-19T18:32:26.714Z",
       "sku": "21"
     },
     {
@@ -30482,7 +30482,7 @@
           "id": "1576904729",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -30523,11 +30523,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-5c-elite-branco-preto-turquesa-zse1i/",
-      "lastSyncedAt": "2026-08-19T17:24:38.277Z",
+      "lastSyncedAt": "2026-08-19T18:32:26.714Z",
       "sku": "1028"
     },
     {
@@ -35792,8 +35792,8 @@
           "id": "1419654749",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -35805,11 +35805,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/racing-eva-nude-1mmti/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-19T18:32:26.714Z",
       "sku": "543"
     },
     {
@@ -38262,15 +38262,15 @@
           "id": "1555665357",
           "size": "36/37",
           "color": "Bege",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1555665359",
           "size": "36/37",
           "color": "Preto",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1555665362",
@@ -38354,11 +38354,11 @@
         "Preto",
         "Cinza"
       ],
-      "totalStock": 12,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/slide-mind-preto-d2p85/",
-      "lastSyncedAt": "2026-08-19T15:28:33.098Z",
+      "lastSyncedAt": "2026-08-19T18:32:26.714Z",
       "sku": "897"
     },
     {
@@ -39107,8 +39107,8 @@
           "id": "1401244708",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401244714",
@@ -39141,11 +39141,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/t-clip-branco-verde/",
-      "lastSyncedAt": "2026-08-16T16:21:56.205Z",
+      "lastSyncedAt": "2026-08-19T18:32:26.714Z",
       "sku": "55"
     },
     {
