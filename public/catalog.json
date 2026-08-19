@@ -40591,8 +40591,8 @@
           "id": "1564356435",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564356437",
@@ -40618,11 +40618,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-verde-aqua-off-white-1svxu/",
-      "lastSyncedAt": "2026-08-17T21:23:51.706Z",
+      "lastSyncedAt": "2026-08-19T04:34:13.825Z",
       "sku": "967"
     },
     {
