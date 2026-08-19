@@ -4522,8 +4522,8 @@
           "id": "1494038810",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -4535,11 +4535,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-azul-celeste-16jok/",
-      "lastSyncedAt": "2026-08-15T16:21:16.198Z",
+      "lastSyncedAt": "2026-08-19T14:31:28.676Z",
       "sku": "120"
     },
     {
@@ -15606,8 +15606,8 @@
           "id": "1401101210",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401101215",
@@ -15679,11 +15679,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 30,
+      "totalStock": 29,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-18T20:49:31.257Z",
+      "lastSyncedAt": "2026-08-19T14:31:28.676Z",
       "sku": "105"
     },
     {
@@ -18744,7 +18744,7 @@
           "id": "1405149508",
           "size": "38",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -18796,11 +18796,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-19T01:07:41.822Z",
+      "lastSyncedAt": "2026-08-19T14:31:28.676Z",
       "sku": "74"
     },
     {
@@ -24478,8 +24478,8 @@
           "id": "1536788269",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1536788271",
@@ -24505,11 +24505,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-dunas-grafite-1g5o0/",
-      "lastSyncedAt": "2026-08-14T21:29:47.465Z",
+      "lastSyncedAt": "2026-08-19T14:31:28.676Z",
       "sku": "802"
     },
     {
@@ -33221,7 +33221,7 @@
           "id": "1494025489",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -33262,11 +33262,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/oncloudsurfer-cinza-off-1szpb/",
-      "lastSyncedAt": "2026-08-18T17:24:25.323Z",
+      "lastSyncedAt": "2026-08-19T14:31:28.676Z",
       "sku": "707"
     },
     {
