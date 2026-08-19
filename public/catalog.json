@@ -2397,22 +2397,22 @@
           "id": "1493963121",
           "size": "40",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1493963122",
           "size": "41",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1493963123",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1493963124",
@@ -2431,11 +2431,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-2000-branco-gelo-129bx/",
-      "lastSyncedAt": "2026-08-17T22:21:33.022Z",
+      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
       "sku": "706"
     },
     {
@@ -4135,7 +4135,7 @@
           "id": "1522494573",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -4187,11 +4187,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-superstar-classic-1xaxr/",
-      "lastSyncedAt": "2026-08-15T16:21:16.198Z",
+      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
       "sku": "377"
     },
     {
@@ -11324,7 +11324,7 @@
           "id": "1568200233",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -11358,11 +11358,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-cacau-gold-12ur3/",
-      "lastSyncedAt": "2026-08-11T16:26:31.327Z",
+      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
       "sku": "995"
     },
     {
@@ -13164,8 +13164,8 @@
           "id": "1413584586",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1413584588",
@@ -13209,11 +13209,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/court-vision-branco-zx9hy/",
-      "lastSyncedAt": "2026-08-19T01:07:41.822Z",
+      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
       "sku": "36"
     },
     {
@@ -14601,14 +14601,14 @@
           "id": "1401232972",
           "size": "39",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 8,
           "available": true
         },
         {
           "id": "1401232975",
           "size": "40",
           "color": "Padrão",
-          "stock": 8,
+          "stock": 7,
           "available": true
         },
         {
@@ -14650,7 +14650,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-08-18T16:39:58.052Z",
+      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
       "sku": "166"
     },
     {
@@ -18278,7 +18278,7 @@
           "id": "1450111553",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -18305,11 +18305,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-cinza-xadrez-137rx/",
-      "lastSyncedAt": "2026-08-11T05:33:57.135Z",
+      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
       "sku": "587"
     },
     {
@@ -24368,21 +24368,21 @@
           "id": "1493114963",
           "size": "40",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1493114964",
           "size": "41",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1493114965",
           "size": "42",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -24402,11 +24402,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-cinza-preto-1ctg9/",
-      "lastSyncedAt": "2026-08-19T15:28:33.098Z",
+      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
       "sku": "249"
     },
     {
@@ -25554,14 +25554,14 @@
           "id": "1576056037",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1576056038",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -25599,7 +25599,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-travis-scott-mocha-marrom-1evqb/",
-      "lastSyncedAt": "2026-08-14T21:52:22.229Z",
+      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
       "sku": "1023"
     },
     {
@@ -27670,7 +27670,7 @@
           "id": "1527827787",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -27697,11 +27697,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-cinza-ox1b1/",
-      "lastSyncedAt": "2026-08-18T17:24:25.323Z",
+      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
       "sku": "777"
     },
     {
@@ -36243,7 +36243,7 @@
           "id": "1400995807",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -36263,11 +36263,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-latex-dh73v/",
-      "lastSyncedAt": "2026-08-18T20:49:31.257Z",
+      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
       "sku": "404"
     },
     {
@@ -38505,8 +38505,8 @@
           "id": "1397242253",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1418802383",
@@ -38519,8 +38519,8 @@
           "id": "1418802384",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1418802386",
@@ -38550,11 +38550,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/suede-xl-c5p43/",
-      "lastSyncedAt": "2026-08-18T02:35:46.096Z",
+      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
       "sku": "45"
     },
     {
@@ -39778,8 +39778,8 @@
           "id": "1412399109",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1412399110",
@@ -39792,7 +39792,7 @@
           "id": "1412399111",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -39830,7 +39830,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-cafe-off-u4bck/",
-      "lastSyncedAt": "2026-08-15T22:46:52.069Z",
+      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
       "sku": "245"
     },
     {
