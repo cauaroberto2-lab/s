@@ -13192,8 +13192,8 @@
           "id": "1413584596",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -13209,11 +13209,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/court-vision-branco-zx9hy/",
-      "lastSyncedAt": "2026-08-17T21:23:51.706Z",
+      "lastSyncedAt": "2026-08-19T01:07:41.822Z",
       "sku": "36"
     },
     {
@@ -18737,7 +18737,7 @@
           "id": "1405149500",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -18796,11 +18796,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-18T20:21:07.086Z",
+      "lastSyncedAt": "2026-08-19T01:07:41.822Z",
       "sku": "74"
     },
     {
@@ -34815,8 +34815,8 @@
           "id": "1565191859",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -34828,11 +34828,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/prophecy-15-preto-prata-h9hdf/",
-      "lastSyncedAt": "2026-08-13T19:36:37.917Z",
+      "lastSyncedAt": "2026-08-19T01:07:41.822Z",
       "sku": "980"
     },
     {
