@@ -4431,7 +4431,7 @@
           "id": "1514660098",
           "size": "41",
           "color": "Padrão",
-          "stock": 8,
+          "stock": 7,
           "available": true
         },
         {
@@ -4458,11 +4458,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 25,
+      "totalStock": 24,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-branco-vermelho-off-ocubc/",
-      "lastSyncedAt": "2026-08-18T15:29:39.435Z",
+      "lastSyncedAt": "2026-08-19T15:28:33.098Z",
       "sku": "454"
     },
     {
@@ -14184,7 +14184,7 @@
           "id": "1447541231",
           "size": "41",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -14215,11 +14215,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 38,
+      "totalStock": 37,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-bordo-branco-1ndho/",
-      "lastSyncedAt": "2026-08-15T18:56:27.153Z",
+      "lastSyncedAt": "2026-08-19T15:28:33.098Z",
       "sku": "546"
     },
     {
@@ -23728,8 +23728,8 @@
           "id": "1432965818",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1432965819",
@@ -23801,11 +23801,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-cinza-1psj2/",
-      "lastSyncedAt": "2026-08-12T20:41:37.835Z",
+      "lastSyncedAt": "2026-08-19T15:28:33.098Z",
       "sku": "231"
     },
     {
@@ -24331,6 +24331,83 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-cinza-gelo-branco-mlljo/",
       "lastSyncedAt": "2026-08-14T19:46:27.316Z",
       "sku": "1005"
+    },
+    {
+      "id": "dx-335699335",
+      "sourceId": "335699335",
+      "slug": "jordan-low-cinza-preto-335699335",
+      "name": "JORDAN LOW CINZA PRETO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "JORDAN",
+      "description": "Tênis JORDAN LOW CINZA PRETO – Estilo e Conforto para Seu Dia a Dia Apresentamos o Tênis JORDAN LOW CINZA PRETO, o calçado perfeito para quem busca aliar design moderno, conforto excepcional e durabilidade em um único produto. Com uma cor neutra e elegante, o JORDAN ROSE GREEN é ideal para diversas ocasiões, seja no trabalho, lazer ou atividades esportivas. Por que escolher o JORDAN LOW CINZA PRETO? Visual Sofisticado e Versátil: A tonalidade cinza proporciona um estilo clean e fácil de combinar com qualquer look, do casual ao urbano. Conforto ao Longo do Dia: Desenvolvido com materiais de alta qualidade e palmilha acolchoada, oferece suporte e maciez para seus pés, garantindo conforto mesmo em uso prolongado. Resistência e Qualidade: O acabamento premium e o solado reforçado proporcionam maior durabilidade, acompanhando seu ritmo com segurança e estilo. Tamanhos Disponíveis (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho ideal. Isso garante o ajuste perfeito e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a qualidade e autenticidade, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-01-at-15-01-56-2e95ba75547484bb4217751607497686-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-01-at-15-02-05-8b200a55ceccff271a17751607497582-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-01-at-15-02-03-64b8782351e253911b17751607497947-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-01-at-15-02-06-d9bd745ab8fc92bc1417751607497394-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-01-at-15-02-02-ebee6a3e69d57d9b5217751607500932-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-01-at-15-01-57-b586b7044a6aad1e0f17751607497169-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1493114961",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1493114962",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1493114963",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 6,
+          "available": true
+        },
+        {
+          "id": "1493114964",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 6,
+          "available": true
+        },
+        {
+          "id": "1493114965",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1493114967",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 24,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-cinza-preto-1ctg9/",
+      "lastSyncedAt": "2026-08-19T15:28:33.098Z",
+      "sku": "249"
     },
     {
       "id": "dx-339805887",
@@ -38255,8 +38332,8 @@
           "id": "1555665384",
           "size": "42/43",
           "color": "Preto",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555665386",
@@ -38277,11 +38354,11 @@
         "Preto",
         "Cinza"
       ],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/slide-mind-preto-d2p85/",
-      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
+      "lastSyncedAt": "2026-08-19T15:28:33.098Z",
       "sku": "897"
     },
     {
