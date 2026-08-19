@@ -2611,8 +2611,8 @@
           "id": "1532306709",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1532306710",
@@ -2659,11 +2659,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-gelo-cinza-1hkax/",
-      "lastSyncedAt": "2026-08-17T20:54:19.940Z",
+      "lastSyncedAt": "2026-08-19T22:22:19.339Z",
       "sku": "841"
     },
     {
@@ -12027,8 +12027,8 @@
           "id": "1401358707",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401358722",
@@ -12061,11 +12061,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-rose-metalico-wnq5j/",
-      "lastSyncedAt": "2026-08-15T21:44:58.402Z",
+      "lastSyncedAt": "2026-08-19T22:22:19.339Z",
       "sku": "526"
     },
     {
@@ -20341,7 +20341,7 @@
           "id": "1566956711",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -20389,11 +20389,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-black-white-nobuk-1gz2a/",
-      "lastSyncedAt": "2026-08-09T01:36:36.831Z",
+      "lastSyncedAt": "2026-08-19T22:22:19.339Z",
       "sku": "987"
     },
     {
@@ -38262,8 +38262,8 @@
           "id": "1555665357",
           "size": "36/37",
           "color": "Bege",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555665359",
@@ -38354,11 +38354,11 @@
         "Preto",
         "Cinza"
       ],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/slide-mind-preto-d2p85/",
-      "lastSyncedAt": "2026-08-19T18:32:26.714Z",
+      "lastSyncedAt": "2026-08-19T22:22:19.339Z",
       "sku": "897"
     },
     {
