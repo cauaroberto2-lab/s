@@ -4445,8 +4445,8 @@
           "id": "1514660100",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -4458,11 +4458,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 25,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-branco-vermelho-off-ocubc/",
-      "lastSyncedAt": "2026-08-19T15:28:33.098Z",
+      "lastSyncedAt": "2026-08-19T22:50:36.199Z",
       "sku": "454"
     },
     {
@@ -21579,8 +21579,8 @@
           "id": "1575569562",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1575569563",
@@ -21617,11 +21617,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-verde-summer-camp-a3yc8/",
-      "lastSyncedAt": "2026-08-19T20:24:49.599Z",
+      "lastSyncedAt": "2026-08-19T22:50:36.199Z",
       "sku": "97"
     },
     {
