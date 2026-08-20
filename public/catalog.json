@@ -3820,8 +3820,8 @@
           "id": "1523432820",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1523432821",
@@ -3847,11 +3847,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-spezial-cacau-latex-zrqgb/",
-      "lastSyncedAt": "2026-08-20T17:26:50.213Z",
+      "lastSyncedAt": "2026-08-20T21:53:54.149Z",
       "sku": "757"
     },
     {
@@ -13719,35 +13719,35 @@
           "id": "1577197322",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1577197327",
           "size": "40",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1577197328",
           "size": "41",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1577211595",
           "size": "42",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1577211597",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -13760,11 +13760,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-jumbo-cinza-branco-1f3aw/",
-      "lastSyncedAt": "2026-08-20T21:25:46.129Z",
+      "lastSyncedAt": "2026-08-20T21:53:54.149Z",
       "sku": "1033"
     },
     {
@@ -29329,7 +29329,7 @@
           "id": "1423090062",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -29356,11 +29356,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-creme-branco-eqxrs/",
-      "lastSyncedAt": "2026-08-20T21:25:46.129Z",
+      "lastSyncedAt": "2026-08-20T21:53:54.149Z",
       "sku": "431"
     },
     {
