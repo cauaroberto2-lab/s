@@ -14717,15 +14717,15 @@
           "id": "1557376328",
           "size": "32",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1557376329",
           "size": "33",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -14739,11 +14739,11 @@
         "33"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-kids-1ogor/",
-      "lastSyncedAt": "2026-08-07T19:28:45.154Z",
+      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
       "sku": "917"
     },
     {
@@ -15363,21 +15363,21 @@
           "id": "1557379928",
           "size": "27",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1557379929",
           "size": "28",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1557379930",
           "size": "29",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -15420,11 +15420,11 @@
         "33"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-lilas-kids-5zx0n/",
-      "lastSyncedAt": "2026-08-11T14:22:48.389Z",
+      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
       "sku": "918"
     },
     {
@@ -16364,8 +16364,8 @@
           "id": "1541266275",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1541266276",
@@ -16416,11 +16416,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-sb-colab-parra-1r1yt/",
-      "lastSyncedAt": "2026-08-07T17:23:04.858Z",
+      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
       "sku": "829"
     },
     {
@@ -25603,6 +25603,98 @@
       "sku": "1023"
     },
     {
+      "id": "dx-321137286",
+      "sourceId": "321137286",
+      "slug": "kids-2000-rosa-branco-321137286",
+      "name": "KIDS 2000 ROSA BRANCO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "2000",
+      "description": "KIDS 2000 ROSA BRANCO – Tênis Kids de Ótima Qualidade para Pequenos Passos com Estilo Descubra o KIDS 2000 ROSA BRANCO, o tênis perfeito para os pequenos que querem conforto e estilo em cada aventura do dia a dia. Com cores delicadas e design moderno, este modelo combina a suavidade do rosa com o branco clássico, garantindo um visual encantador e cheio de personalidade. Por que escolher o KIDS 2000 ROSA BRANCO? Qualidade Superior: Fabricado com materiais resistentes e de alta durabilidade, este tênis acompanha o ritmo das crianças, oferecendo segurança e conforto em todas as brincadeiras. Conforto Garantido: Seu design ergonômico e o solado flexível proporcionam leveza e proteção, permitindo movimentos naturais e confortáveis. Estilo que Encanta: A combinação das cores rosa e branco torna o KIDS 2000 uma escolha charmosa para qualquer ocasião, seja na escola, parque ou passeio com a família. Dica: Meça o pé da criança com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta. Assim, você garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-20-at-18-50-18-2fb657b0a69c20946817695428607939-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-20-at-18-50-20-8143a3b5c26801b01a17695428607908-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-20-at-18-50-21-1b9717a0c40abaee0617695428609982-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-20-at-18-50-17-52cb042a16f63d072b17695428608422-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-20-at-18-50-16-903f53d8ccaf3e47c917695428608059-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1423380659",
+          "size": "26",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1423380660",
+          "size": "27",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1423380661",
+          "size": "28",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1423380663",
+          "size": "29",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1423380664",
+          "size": "30",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1423380665",
+          "size": "31",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1423380666",
+          "size": "32",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1423380669",
+          "size": "33",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "colors": [],
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/kids-2000-rosa-branco-1ssbi/",
+      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
+      "sku": "549"
+    },
+    {
       "id": "dx-321165305",
       "sourceId": "321165305",
       "slug": "kids-samba-branco-rosa-latex-321165305",
@@ -25990,7 +26082,7 @@
           "id": "1428077743",
           "size": "26",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -26054,11 +26146,11 @@
         "33"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/kids-v2k-branco-pink-1cixv/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
       "sku": "556"
     },
     {
@@ -26096,8 +26188,8 @@
           "id": "1423497143",
           "size": "28",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1423497144",
@@ -26146,11 +26238,11 @@
         "33"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/kids-v2k-verde-prata-1ldcz/",
-      "lastSyncedAt": "2026-07-28T15:19:51.190Z",
+      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
       "sku": "552"
     },
     {
@@ -26649,15 +26741,15 @@
           "id": "1409296764",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1409296765",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1409296766",
@@ -26684,14 +26776,14 @@
           "id": "1409296770",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1409296771",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -26705,7 +26797,7 @@
           "id": "1409296773",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -26729,11 +26821,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/knu-skool-preto-branco-4p3cp/",
-      "lastSyncedAt": "2026-08-19T15:59:34.561Z",
+      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
       "sku": "195"
     },
     {
@@ -31943,8 +32035,8 @@
           "id": "1545028946",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1545028948",
@@ -31984,11 +32076,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-preto-cinza-11fvf/",
-      "lastSyncedAt": "2026-08-19T20:24:49.599Z",
+      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
       "sku": "848"
     },
     {
@@ -36403,8 +36495,8 @@
           "id": "1401140108",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401140112",
@@ -36448,11 +36540,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-08-19T16:39:29.921Z",
+      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
       "sku": "117"
     },
     {
@@ -37480,8 +37572,8 @@
           "id": "1566970504",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1566970506",
@@ -37507,11 +37599,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sb-malor-preto-branco-1c7yg/",
-      "lastSyncedAt": "2026-08-19T17:24:38.277Z",
+      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
       "sku": "988"
     },
     {
@@ -37556,14 +37648,14 @@
           "id": "1407957165",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1407957168",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 5,
           "available": true
         },
         {
@@ -37577,7 +37669,7 @@
           "id": "1559847305",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -37615,11 +37707,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sk8-bota-preto-branco-mbk33/",
-      "lastSyncedAt": "2026-08-10T18:12:44.783Z",
+      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
       "sku": "350"
     },
     {
