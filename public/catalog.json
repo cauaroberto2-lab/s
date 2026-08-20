@@ -1520,8 +1520,8 @@
           "id": "1567414044",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1567414045",
@@ -1554,11 +1554,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-marrom-1d9ct/",
-      "lastSyncedAt": "2026-08-20T10:58:46.362Z",
+      "lastSyncedAt": "2026-08-20T22:24:56.946Z",
       "sku": "991"
     },
     {
@@ -30977,7 +30977,7 @@
           "id": "1564446836",
           "size": "38",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -30997,11 +30997,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-branco-cinza-off-1iwxn/",
-      "lastSyncedAt": "2026-08-20T17:56:53.308Z",
+      "lastSyncedAt": "2026-08-20T22:24:56.946Z",
       "sku": "970"
     },
     {
@@ -32355,7 +32355,7 @@
           "id": "1545028950",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -32382,11 +32382,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-preto-cinza-11fvf/",
-      "lastSyncedAt": "2026-08-20T16:32:38.462Z",
+      "lastSyncedAt": "2026-08-20T22:24:56.946Z",
       "sku": "848"
     },
     {
