@@ -13424,8 +13424,8 @@
           "id": "1413614717",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1413614718",
@@ -13469,11 +13469,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/court-vision-preto-branco-19alo/",
-      "lastSyncedAt": "2026-08-20T21:25:46.129Z",
+      "lastSyncedAt": "2026-08-20T23:50:09.681Z",
       "sku": "37"
     },
     {
@@ -22146,8 +22146,8 @@
           "id": "1438069895",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1438069896",
@@ -22219,11 +22219,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-branco-off-oxovh/",
-      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
+      "lastSyncedAt": "2026-08-20T23:50:09.681Z",
       "sku": "562"
     },
     {
