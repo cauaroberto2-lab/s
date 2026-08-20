@@ -32041,8 +32041,8 @@
           "id": "1544924018",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1544924019",
@@ -32061,11 +32061,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-reverse-5og06/",
-      "lastSyncedAt": "2026-08-18T19:49:05.311Z",
+      "lastSyncedAt": "2026-08-20T04:35:23.753Z",
       "sku": "843"
     },
     {
