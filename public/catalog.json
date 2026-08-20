@@ -3450,8 +3450,8 @@
           "id": "1549286454",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -3463,11 +3463,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-creme-coffe-1p7l2/",
-      "lastSyncedAt": "2026-08-08T22:58:41.917Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "871"
     },
     {
@@ -6657,6 +6657,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-preto-off-1215t/",
       "lastSyncedAt": "2026-08-19T20:24:49.599Z",
       "sku": "923"
+    },
+    {
+      "id": "dx-342528566",
+      "sourceId": "342528566",
+      "slug": "asuna-2-0-verde-musgo-342528566",
+      "name": "ASUNA 2.0 VERDE MUSGO",
+      "brand": "Não informada",
+      "category": "Chinelos",
+      "subCategory": "ASUNA",
+      "description": "Chinelo ASUNA 2.0 Verde Musgo – Linha Premium de Alta Qualidade Descubra o chinelo perfeito para quem busca conforto, resistência e estilo em um só produto. O Chinelo ASUNA 2.0 Verde Musgo é a escolha ideal para quem valoriza qualidade superior e design elegante. Por que escolher o Chinelo ASUNA 2.0 Verde Musgo? Alta Qualidade e Conforto Fabricado com materiais selecionados, este chinelo oferece uma experiência única de conforto e durabilidade. Seu design pensado para o uso diário proporciona leveza e ajuste perfeito aos seus pés. Sola Emborrachada para Máxima Segurança A sola emborrachada garante excelente aderência e resistência, evitando escorregões e proporcionando estabilidade em diferentes superfícies, ideal para suas atividades diárias. Design Sofisticado na Cor Verde Musgo Com um tom sóbrio e moderno, o ASUNA 2.0 combina facilmente com diferentes estilos, trazendo um toque de elegância para o seu visual casual. Tamanhos Disponíveis (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25,0 | | 39 | 26,0 | | 40 | 27,0 | | 41 | 27,5 | | 42 | 29,0 | | 43 | 29,5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho ideal que ofereça o máximo conforto. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do chinelo, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-06-at-18-11-08-2-b3312131796eb6a43617781025699531-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-06-at-18-11-07-d6918a01c5cc6c9ed517781020175967-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-06-at-18-11-08-1d10d356d640a4298117781020179481-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-06-at-18-11-07-1-b46917a81ad6f15b8817781020177549-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-06-at-18-11-08-1-cff42fa9e235842a6217781020177935-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1519607878",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1519607879",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1519607880",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1519607882",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1519607883",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1519607884",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/asuna-2-0-verde-musgo-1w96b/",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
+      "sku": "742"
     },
     {
       "id": "dx-322146503",
@@ -11672,7 +11748,7 @@
           "id": "1418333459",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
@@ -11692,11 +11768,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-ice-wdnkg/",
-      "lastSyncedAt": "2026-08-07T21:10:12.434Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "527"
     },
     {
@@ -14788,8 +14864,8 @@
           "id": "1420786988",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1420786989",
@@ -14815,11 +14891,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-capuccino-dxo6s/",
-      "lastSyncedAt": "2026-08-17T19:25:58.815Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "181"
     },
     {
@@ -14873,15 +14949,15 @@
           "id": "1401125514",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1401125518",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1401125522",
@@ -14925,11 +15001,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-branco-beeo6/",
-      "lastSyncedAt": "2026-08-13T18:28:56.247Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "177"
     },
     {
@@ -15462,22 +15538,22 @@
           "id": "1401060756",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1401060761",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1401060765",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401060769",
@@ -15496,11 +15572,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-love-vit3i/",
-      "lastSyncedAt": "2026-08-17T03:48:25.845Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "165"
     },
     {
@@ -15627,7 +15703,7 @@
           "id": "1401101224",
           "size": "38",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 7,
           "available": true
         },
         {
@@ -15679,11 +15755,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 24,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-19T20:24:49.599Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "105"
     },
     {
@@ -16286,7 +16362,7 @@
           "id": "1401386740",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -16306,11 +16382,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-roxo-latex-gmhzg/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "179"
     },
     {
@@ -18744,7 +18820,7 @@
           "id": "1405149508",
           "size": "38",
           "color": "Padrão",
-          "stock": 10,
+          "stock": 11,
           "available": true
         },
         {
@@ -18796,11 +18872,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 55,
+      "totalStock": 56,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-19T17:50:04.463Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "74"
     },
     {
@@ -21199,8 +21275,8 @@
           "id": "1517113811",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1517113812",
@@ -21247,11 +21323,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-grafite-preto-velcro-lesib/",
-      "lastSyncedAt": "2026-08-12T17:28:01.123Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "739"
     },
     {
@@ -22001,7 +22077,7 @@
           "id": "1438069896",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -22067,11 +22143,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-branco-off-oxovh/",
-      "lastSyncedAt": "2026-08-18T14:32:12.232Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "562"
     },
     {
@@ -29889,8 +29965,8 @@
           "id": "1418807791",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1418807792",
@@ -29913,11 +29989,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-azul-navy-1vcek/",
-      "lastSyncedAt": "2026-08-05T18:20:06.946Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "222"
     },
     {
@@ -30159,7 +30235,7 @@
           "id": "1565211863",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -30207,11 +30283,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-grafite-off-white-158m2/",
-      "lastSyncedAt": "2026-08-18T20:49:31.257Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "982"
     },
     {
@@ -40465,8 +40541,8 @@
           "id": "1564373341",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1564373343",
@@ -40492,11 +40568,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-cacau-off-white-hhrac/",
-      "lastSyncedAt": "2026-08-12T22:38:21.320Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "968"
     },
     {
@@ -40528,7 +40604,7 @@
           "id": "1523350410",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -40601,11 +40677,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-caramelo-off-vquyk/",
-      "lastSyncedAt": "2026-08-11T16:26:31.327Z",
+      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
       "sku": "748"
     },
     {
