@@ -2252,8 +2252,8 @@
           "id": "1496804723",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1496804724",
@@ -2279,11 +2279,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-2000-all-black-tyfvz/",
-      "lastSyncedAt": "2026-08-21T11:52:17.407Z",
+      "lastSyncedAt": "2026-08-21T15:30:43.193Z",
       "sku": "456"
     },
     {
@@ -2397,7 +2397,7 @@
           "id": "1493963121",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -2431,11 +2431,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-2000-branco-gelo-129bx/",
-      "lastSyncedAt": "2026-08-21T03:49:06.921Z",
+      "lastSyncedAt": "2026-08-21T15:30:43.193Z",
       "sku": "706"
     },
     {
@@ -3048,8 +3048,8 @@
           "id": "1564413981",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564413982",
@@ -3075,11 +3075,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-drop-step-preto-grafite-qd4ab/",
-      "lastSyncedAt": "2026-08-21T01:10:36.772Z",
+      "lastSyncedAt": "2026-08-21T15:30:43.193Z",
       "sku": "969"
     },
     {
@@ -3730,8 +3730,8 @@
           "id": "1523401440",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1523401442",
@@ -3771,11 +3771,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-spezial-bordo-branco-1fu19/",
-      "lastSyncedAt": "2026-08-18T16:39:58.052Z",
+      "lastSyncedAt": "2026-08-21T15:30:43.193Z",
       "sku": "753"
     },
     {
@@ -14656,7 +14656,7 @@
           "id": "1401232957",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 9,
           "available": true
         },
         {
@@ -14670,28 +14670,28 @@
           "id": "1401232968",
           "size": "38",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1401232972",
           "size": "39",
           "color": "Padrão",
-          "stock": 8,
+          "stock": 9,
           "available": true
         },
         {
           "id": "1401232975",
           "size": "40",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1401232978",
           "size": "41",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 2,
           "available": true
         },
         {
@@ -14722,11 +14722,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 45,
+      "totalStock": 44,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-08-20T16:32:38.462Z",
+      "lastSyncedAt": "2026-08-21T15:30:43.193Z",
       "sku": "166"
     },
     {
@@ -15044,8 +15044,8 @@
           "id": "1557177332",
           "size": "28",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1557177333",
@@ -15094,11 +15094,11 @@
         "33"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-kids-1ogsu/",
-      "lastSyncedAt": "2026-08-15T18:56:27.153Z",
+      "lastSyncedAt": "2026-08-21T15:30:43.193Z",
       "sku": "916"
     },
     {
@@ -15710,14 +15710,14 @@
           "id": "1401101227",
           "size": "39",
           "color": "Padrão",
-          "stock": 11,
+          "stock": 9,
           "available": true
         },
         {
           "id": "1401101230",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -15738,8 +15738,8 @@
           "id": "1401101239",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -15755,11 +15755,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-20T20:32:53.193Z",
+      "lastSyncedAt": "2026-08-21T15:30:43.193Z",
       "sku": "105"
     },
     {
@@ -17140,8 +17140,8 @@
           "id": "1555941816",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1555941817",
@@ -17168,7 +17168,7 @@
           "id": "1555947374",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
@@ -17192,11 +17192,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-vintage-navy-10s3k/",
-      "lastSyncedAt": "2026-08-21T14:32:48.386Z",
+      "lastSyncedAt": "2026-08-21T15:30:43.193Z",
       "sku": "904"
     },
     {
@@ -31273,8 +31273,8 @@
           "id": "1564217908",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564217909",
@@ -31307,11 +31307,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-off-nude-bronze-sqtbl/",
-      "lastSyncedAt": "2026-08-17T18:38:02.727Z",
+      "lastSyncedAt": "2026-08-21T15:30:43.193Z",
       "sku": "962"
     },
     {
@@ -34737,7 +34737,7 @@
           "id": "1009089418",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -34771,11 +34771,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-preto-pink-xe683/",
-      "lastSyncedAt": "2026-08-15T23:44:09.148Z",
+      "lastSyncedAt": "2026-08-21T15:30:43.193Z",
       "sku": "29"
     },
     {
