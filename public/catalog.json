@@ -17543,43 +17543,43 @@
           "id": "1510161622",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1510161623",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 6,
+          "available": true
         },
         {
           "id": "1510161624",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 8,
+          "available": true
         },
         {
           "id": "1510161625",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 8,
+          "available": true
         },
         {
           "id": "1510161626",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 6,
+          "available": true
         },
         {
           "id": "1510161627",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         }
       ],
       "sizes": [
@@ -17591,11 +17591,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 34,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-all-black-1suo5/",
-      "lastSyncedAt": "2026-08-05T16:40:55.325Z",
+      "lastSyncedAt": "2026-08-21T18:39:56.475Z",
       "sku": "34"
     },
     {
@@ -18465,6 +18465,115 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-air-force-natural-cinza-1ul70/",
       "lastSyncedAt": "2026-08-20T16:32:38.462Z",
       "sku": "963"
+    },
+    {
+      "id": "dx-362349537",
+      "sourceId": "362349537",
+      "slug": "force-nobuk-2-0-362349537",
+      "name": "FORCE NOBUK 2.0",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "AIR FORCE",
+      "description": "Tênis FORCE NOBUK 2 – Linha Luxo de Alta Qualidade Apresentamos o Tênis FORCE NOBUK 2, um calçado da exclusiva Linha Luxo que une alta qualidade, conforto superior e um design lindo e estiloso, perfeito para o dia a dia. Por que escolher o FORCE NOBUK 2? Design elegante e moderno O FORCE NOBUK 2 traz um visual sofisticado e versátil, ideal para quem quer estar sempre na moda com um calçado que combina com diversas ocasiões. Conforto incomparável Produzido com materiais de alta qualidade, este tênis oferece um ajuste confortável e uma palmilha acolchoada, proporcionando suporte ideal para os seus pés durante todo o dia. Durabilidade e acabamento premium Com atenção aos detalhes e acabamento refinado, o FORCE NOBUK 2 mantém sua forma e beleza mesmo após uso frequente, garantindo um produto resistente e de longa duração. Tamanhos Disponíveis Para garantir o ajuste perfeito, confira a tabela com o comprimento do pé em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com atenção e compare com a tabela para escolher o tamanho ideal! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-57-06-6e8be4d33bb18007b617873360596921-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-57-07-be0cc16e982f0941b917873360595810-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-57-05-29ddc19d4c6980b7d117873360597048-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-57-07-1-2a79aeaee370959e9817873360594689-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-57-08-92f6f06a32e18d6e1317873360596921-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-57-08-1-c4acdcdd5cc051275a17873360600753-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-57-10-45bee22ffc39d08e9917873360601073-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1581265193",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1581265194",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1581265196",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1581265197",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1581265199",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 5,
+          "available": true
+        },
+        {
+          "id": "1581265201",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 7,
+          "available": true
+        },
+        {
+          "id": "1581265203",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 8,
+          "available": true
+        },
+        {
+          "id": "1581265204",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 8,
+          "available": true
+        },
+        {
+          "id": "1581265205",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 6,
+          "available": true
+        },
+        {
+          "id": "1581265206",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 46,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/force-nobuk-2-1pfpw/",
+      "lastSyncedAt": "2026-08-21T18:39:56.475Z"
     },
     {
       "id": "dx-325764365",
@@ -37878,8 +37987,8 @@
           "id": "1566970504",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1566970506",
@@ -37905,11 +38014,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sb-malor-preto-branco-1c7yg/",
-      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
+      "lastSyncedAt": "2026-08-21T18:39:56.475Z",
       "sku": "988"
     },
     {
