@@ -2397,7 +2397,7 @@
           "id": "1493963121",
           "size": "40",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -2431,11 +2431,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-2000-branco-gelo-129bx/",
-      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
+      "lastSyncedAt": "2026-08-21T03:49:06.921Z",
       "sku": "706"
     },
     {
@@ -21211,7 +21211,7 @@
           "id": "1541235627",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -21245,11 +21245,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-branco-off-preto-qyo3s/",
-      "lastSyncedAt": "2026-08-17T14:53:18.760Z",
+      "lastSyncedAt": "2026-08-21T03:49:06.921Z",
       "sku": "827"
     },
     {
@@ -30519,8 +30519,8 @@
           "id": "1407307734",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1407307738",
@@ -30543,11 +30543,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-08-18T19:49:05.311Z",
+      "lastSyncedAt": "2026-08-21T03:49:06.921Z",
       "sku": "205"
     },
     {
