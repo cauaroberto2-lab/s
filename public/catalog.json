@@ -2,6 +2,85 @@
   "schemaVersion": 1,
   "products": [
     {
+      "id": "dx-350365063",
+      "sourceId": "350365063",
+      "slug": "180-preto-branco-350365063",
+      "name": "180 PRETO BRANCO",
+      "brand": "Puma",
+      "category": "Tênis",
+      "subCategory": "PUMA",
+      "description": "Tênis 180 Preto Branco – Linha Luxo de Alta Qualidade Apresentamos o Tênis 180 Preto Branco, um calçado que une o melhor do estilo contemporâneo com o conforto e a durabilidade que você procura. Parte da exclusiva Linha Luxo, este tênis é a escolha ideal para quem valoriza qualidade superior e design sofisticado. Por que escolher o Tênis 180 Preto Branco? Design Moderno e Versátil Combinando o clássico preto e branco, o Tênis 180 oferece um visual impactante e elegante que se adapta facilmente a diferentes ocasiões, do dia a dia casual a eventos mais despojados. Conforto e Ajuste Perfeitos Fabricado com materiais de alta qualidade, este tênis possui palmilha acolchoada que garante maciez e suporte ideal para seus pés, proporcionando conforto durante todo o uso, seja em passeios ou atividades intensas. Durabilidade e Acabamento Premium Com atenção aos mínimos detalhes, o Tênis 180 mantém sua forma, cor e resistência mesmo após uso frequente. A Linha Luxo assegura um acabamento refinado e alta qualidade para acompanhar seu ritmo com estilo. Tamanhos Disponíveis Escolha o tamanho ideal para você, conforme o comprimento do seu pé (de 38 a 43 cm): | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Basta enviar um vídeo original do tênis, sem sinais de uso, para garantir a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-13-at-14-45-41-5fd985df34fc18b83f17813731348482-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-13-at-14-45-44-b057dba0e04ce4428a17813731347107-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-13-at-14-45-47-a2ef9c48f003ecf20117813731344122-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-13-at-14-45-43-f3a930a0e943ce82ba17813731345896-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-13-at-14-45-46-01c15595e1bcc4528517813731345522-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-13-at-14-45-42-6318b362e446968ddb17813731344848-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-13-at-14-45-48-3f5e4bee662e5ac37417813731348225-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-13-at-14-45-49-a5054000ee037b1d5717813731345900-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1542958277",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1542958278",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1542958279",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1542958280",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1542958281",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1542958282",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/180-preto-branco-1mp4y/",
+      "lastSyncedAt": "2026-08-22T18:27:01.570Z",
+      "sku": "837"
+    },
+    {
       "id": "dx-349440119",
       "sourceId": "349440119",
       "slug": "530-branco-prata-bordo-349440119",
@@ -3209,7 +3288,7 @@
           "id": "1491770280",
           "size": "42",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -3261,11 +3340,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 33,
+      "totalStock": 32,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-forum-low-velcro-branco-pto-verde-77krt/",
-      "lastSyncedAt": "2026-08-22T14:47:23.705Z",
+      "lastSyncedAt": "2026-08-22T18:27:01.570Z",
       "sku": "109"
     },
     {
@@ -16193,6 +16272,62 @@
       "sku": "915"
     },
     {
+      "id": "dx-362539936",
+      "sourceId": "362539936",
+      "slug": "dunk-low-sb-bird-preto-red-362539936",
+      "name": "DUNK LOW SB BIRD PRETO RED",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "DUNK LOW",
+      "description": "Tênis DUNK LOW SB BIRD PRETO RED – Linha Premium de Alta Qualidade Apresentamos o Tênis DUNK LOW SB BIRD PRETO RED, um calçado que une estilo super estiloso, conforto excepcional e qualidade premium, perfeito para o seu dia a dia. Este modelo é ideal para quem busca um tênis resistente, moderno e confortável para todas as ocasiões. Por que escolher o DUNK LOW SB BIRD PRETO RED? Visual Moderno e Marcante Com uma combinação impactante do preto com detalhes em vermelho, este tênis traz um design ousado e contemporâneo que destaca seu estilo em qualquer ambiente. Conforto Superior para o Dia a Dia Produzido com materiais de alta qualidade e palmilha acolchoada, o DUNK LOW SB BIRD oferece um ajuste perfeito e conforto prolongado, ideal para quem passa o dia em movimento. Durabilidade e Acabamento Premium Cada detalhe do tênis é pensado para garantir resistência e beleza duradouras, fazendo parte da nossa exclusiva linha premium, que entrega o melhor em acabamento e qualidade. Tamanhos Disponíveis Escolha o tamanho ideal de acordo com a medida do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca Sua satisfação é nossa prioridade. Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-17-at-12-31-13-05fc4a7d5fe715a8dc17874219918018-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1581764550",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1581764551",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1581764552",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1581764554",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 3,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-sb-bird-preto-red-21r5q/",
+      "lastSyncedAt": "2026-08-22T18:27:01.570Z",
+      "sku": "1042"
+    },
+    {
       "id": "dx-350339447",
       "sourceId": "350339447",
       "slug": "dunk-low-storm-350339447",
@@ -21659,7 +21794,7 @@
           "id": "1430916638",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -21693,11 +21828,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-grafite-latex-1pi5x/",
-      "lastSyncedAt": "2026-08-22T17:18:38.686Z",
+      "lastSyncedAt": "2026-08-22T18:27:01.570Z",
       "sku": "261"
     },
     {
@@ -22828,6 +22963,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-grafite-off-1hcnh/",
       "lastSyncedAt": "2026-08-18T14:32:12.232Z",
       "sku": "465"
+    },
+    {
+      "id": "dx-362534885",
+      "sourceId": "362534885",
+      "slug": "hylane-marrom-off-white-362534885",
+      "name": "HYLANE MARROM OFF WHITE",
+      "brand": "Vans",
+      "category": "Tênis",
+      "subCategory": "HYLANE",
+      "description": "Tênis HYLANE Marrom Off White – Linha Luxo de Alta Qualidade Apresentamos o Tênis HYLANE Marrom Off White, um calçado que une estilo moderno, conforto excepcional e alta qualidade, ideal para o seu dia a dia. Parte da exclusiva Linha Luxo Brasil, este modelo é perfeito para quem valoriza um produto premium, confortável e super estiloso. Por que escolher o Tênis HYLANE Marrom Off White? Design Elegante e Versátil Com uma combinação sofisticada de tons marrom e off white, o HYLANE traz um visual que se adapta facilmente a diferentes ocasiões e looks, do casual ao urbano. Seu design moderno é pensado para quem busca estar sempre com estilo. Conforto para o Dia a Dia Produzido com materiais de alta qualidade e equipado com palmilha acolchoada, o tênis proporciona conforto duradouro e ajuste perfeito aos seus pés. Ideal para quem passa o dia em movimento sem abrir mão do bem-estar. Durabilidade e Acabamento Premium Com acabamento refinado e atenção aos detalhes, o HYLANE mantém sua forma e beleza mesmo após uso constante, garantindo um investimento seguro para o seu guarda-roupa. Tamanhos Disponíveis O Tênis HYLANE está disponível do tamanho 38 ao 43. Confira a tabela para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso. Garanta agora o seu Tênis HYLANE Marrom Off White e experimente o equilíbrio perfeito entre conforto, estilo e alta qualidade da nossa Linha Luxo. Dê passos confiantes e marcantes todos os dias!",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-19-at-09-22-05-1-6a0d5031b0786a933017874200206225-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-19-at-09-22-05-563d658660e295ac1b17874200197462-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-19-at-09-22-03-61d94f2465f756b2da17874200205545-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-19-at-09-22-04-e4aebb0a7f2f4dedfa17874200202554-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-19-at-09-22-06-6fa8b6abbe639b4a2f17874200199450-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-19-at-09-22-07-3305562b4a22d5e0b017874200205241-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1581754295",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1581754296",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1581754297",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1581754298",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1581754299",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1581754300",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-marrom-off-white-4yq3f/",
+      "lastSyncedAt": "2026-08-22T18:27:01.570Z"
     },
     {
       "id": "dx-338761952",
@@ -31946,8 +32157,8 @@
           "id": "1564217909",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1564217911",
@@ -31973,11 +32184,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-off-nude-bronze-sqtbl/",
-      "lastSyncedAt": "2026-08-21T15:30:43.193Z",
+      "lastSyncedAt": "2026-08-22T18:27:01.570Z",
       "sku": "962"
     },
     {
@@ -32758,8 +32969,8 @@
           "id": "1478002908",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1478002911",
@@ -32817,11 +33028,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-azul-1ra6y/",
-      "lastSyncedAt": "2026-08-05T16:40:55.325Z",
+      "lastSyncedAt": "2026-08-22T18:27:01.570Z",
       "sku": "675"
     },
     {
@@ -37859,7 +38070,7 @@
           "id": "1401115566",
           "size": "36",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -37925,11 +38136,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-preto-branco-w3nsz/",
-      "lastSyncedAt": "2026-08-18T20:21:07.086Z",
+      "lastSyncedAt": "2026-08-22T18:27:01.570Z",
       "sku": "264"
     },
     {
@@ -38802,8 +39013,8 @@
           "id": "1559847307",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559847308",
@@ -38833,11 +39044,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sk8-bota-preto-branco-mbk33/",
-      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
+      "lastSyncedAt": "2026-08-22T18:27:01.570Z",
       "sku": "350"
     },
     {
