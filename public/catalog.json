@@ -14840,8 +14840,8 @@
           "id": "1510079872",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1510079873",
@@ -14878,11 +14878,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 27,
+      "totalStock": 26,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-verde-musgo-m17pb/",
-      "lastSyncedAt": "2026-08-21T16:31:31.718Z",
+      "lastSyncedAt": "2026-08-22T19:28:35.316Z",
       "sku": "665"
     },
     {
@@ -19437,7 +19437,7 @@
           "id": "1405149531",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -19454,11 +19454,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 52,
+      "totalStock": 51,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-22T15:18:28.655Z",
+      "lastSyncedAt": "2026-08-22T19:28:35.316Z",
       "sku": "74"
     },
     {
