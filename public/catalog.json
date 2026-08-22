@@ -1364,8 +1364,8 @@
           "id": "1540161680",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1540161681",
@@ -1398,11 +1398,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-taupe-qnife/",
-      "lastSyncedAt": "2026-08-21T21:22:04.164Z",
+      "lastSyncedAt": "2026-08-22T16:49:24.912Z",
       "sku": "815"
     },
     {
@@ -1828,7 +1828,7 @@
           "id": "1555750419",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -1862,11 +1862,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-pto-bco-pto-1lib1/",
-      "lastSyncedAt": "2026-08-21T12:42:26.071Z",
+      "lastSyncedAt": "2026-08-22T16:49:24.912Z",
       "sku": "899"
     },
     {
@@ -14840,7 +14840,7 @@
           "id": "1401232957",
           "size": "36",
           "color": "Padrão",
-          "stock": 8,
+          "stock": 7,
           "available": true
         },
         {
@@ -14882,7 +14882,7 @@
           "id": "1401232984",
           "size": "42",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -14906,11 +14906,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 42,
+      "totalStock": 40,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-08-21T21:22:04.164Z",
+      "lastSyncedAt": "2026-08-22T16:49:24.912Z",
       "sku": "166"
     },
     {
@@ -15762,6 +15762,83 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-love-vit3i/",
       "lastSyncedAt": "2026-08-22T01:06:44.454Z",
       "sku": "165"
+    },
+    {
+      "id": "dx-362525478",
+      "sourceId": "362525478",
+      "slug": "dunk-low-marrom-off-362525478",
+      "name": "DUNK LOW MARROM OFF",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "DUNK LOW",
+      "description": "Tênis DUNK LOW MARROM OFF – Linha Luxo de Alta Qualidade Apresentamos o Tênis DUNK LOW MARROM OFF, um modelo que une design elegante, conforto excepcional e durabilidade superior. Ideal para quem busca um calçado da nossa exclusiva Linha Luxo, perfeito para o dia a dia com estilo e praticidade. Por que escolher o Tênis DUNK LOW MARROM OFF? Visual Sofisticado e Estiloso O tom marrom off confere um visual moderno e versátil, que combina facilmente com diversos looks, do casual ao urbano. Seu design refinado faz deste tênis uma peça chave para quem valoriza estilo e personalidade. Conforto Imbatível para o Dia a Dia Produzido com materiais de alta qualidade e palmilha acolchoada, o DUNK LOW MARROM OFF oferece um ajuste confortável e suporte ideal para seus pés durante longas jornadas. Caminhe com leveza e segurança, sem abrir mão do conforto. Durabilidade e Acabamento Premium Com acabamento cuidadoso e atenção aos detalhes, este tênis mantém sua forma e beleza mesmo após uso frequente, garantindo resistência para acompanhar seu ritmo diário sem perder o estilo. Tamanhos Disponíveis Confira a tabela de tamanhos e o comprimento correspondente do pé para escolher o ajuste perfeito: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé cuidadosamente e compare com a tabela para garantir o tamanho ideal. Política de Troca e Devolução Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-19-at-09-43-47-62d3847afe24c399ea17874167106182-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-19-at-09-43-48-fa434239bcf3657ed617874165014760-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-19-at-09-43-49-f277c720ac8f93e33717874165018597-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-19-at-09-43-49-1-750ce7a523ae2b613f17874165017696-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-19-at-09-43-50-4b3e67feca1849163a17874165017148-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-19-at-09-43-51-e6f21deb8ee1d8a7a917874165015103-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-19-at-09-43-52-9129deccd4453aaecd17874165016064-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1581734916",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1581734917",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1581734918",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 5,
+          "available": true
+        },
+        {
+          "id": "1581734919",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 5,
+          "available": true
+        },
+        {
+          "id": "1581734920",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1581734921",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 20,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-marrom-off-ahmrq/",
+      "lastSyncedAt": "2026-08-22T16:49:24.912Z"
     },
     {
       "id": "dx-320835198",
@@ -28678,7 +28755,7 @@
           "id": "1527843561",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -28716,11 +28793,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-08-21T23:21:25.216Z",
+      "lastSyncedAt": "2026-08-22T16:49:24.912Z",
       "sku": "787"
     },
     {
@@ -29458,7 +29535,7 @@
           "id": "1527267256",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -29499,11 +29576,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-preto-gzbjg/",
-      "lastSyncedAt": "2026-08-20T17:26:50.213Z",
+      "lastSyncedAt": "2026-08-22T16:49:24.912Z",
       "sku": "769"
     },
     {
@@ -32095,7 +32172,7 @@
           "id": "1560038424",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -32129,11 +32206,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-branco-preto-laranja-83lc9/",
-      "lastSyncedAt": "2026-08-21T16:31:31.718Z",
+      "lastSyncedAt": "2026-08-22T16:49:24.912Z",
       "sku": "939"
     },
     {
@@ -36532,8 +36609,8 @@
           "id": "1567431000",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1567431003",
@@ -36563,11 +36640,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-suede-xl-creme-preto-1wnwq/",
-      "lastSyncedAt": "2026-08-22T13:30:08.892Z",
+      "lastSyncedAt": "2026-08-22T16:49:24.912Z",
       "sku": "376"
     },
     {
