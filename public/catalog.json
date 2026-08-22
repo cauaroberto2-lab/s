@@ -18834,7 +18834,8 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-nobuk-2-1pfpw/",
-      "lastSyncedAt": "2026-08-21T18:39:56.475Z"
+      "lastSyncedAt": "2026-08-22T17:18:38.686Z",
+      "sku": "1039"
     },
     {
       "id": "dx-325764365",
@@ -21665,7 +21666,7 @@
           "id": "1430916640",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -21692,11 +21693,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-grafite-latex-1pi5x/",
-      "lastSyncedAt": "2026-08-19T23:20:35.665Z",
+      "lastSyncedAt": "2026-08-22T17:18:38.686Z",
       "sku": "261"
     },
     {
@@ -21797,43 +21798,43 @@
           "id": "1532236772",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1532236775",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1532236776",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 6,
+          "available": true
         },
         {
           "id": "1532236777",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 6,
+          "available": true
         },
         {
           "id": "1532236778",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 4,
+          "available": true
         },
         {
           "id": "1532236780",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         }
       ],
       "sizes": [
@@ -21845,11 +21846,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 23,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-preto-camurca-preto-latex-5i709/",
-      "lastSyncedAt": "2026-08-21T22:22:00.717Z",
+      "lastSyncedAt": "2026-08-22T17:18:38.686Z",
       "sku": "78"
     },
     {
@@ -21873,70 +21874,70 @@
           "id": "1430823386",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1430823388",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1430823389",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1430823390",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1430823391",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1430823392",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1430823394",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1430823396",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1430823397",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1430823398",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         }
       ],
@@ -21953,11 +21954,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 25,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-branco-18ixt/",
-      "lastSyncedAt": "2026-08-05T22:56:30.673Z",
+      "lastSyncedAt": "2026-08-22T17:18:38.686Z",
       "sku": "78"
     },
     {
@@ -27969,6 +27970,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/moletom-canguru-zara-1rwou/",
       "lastSyncedAt": "2026-08-22T16:21:08.650Z",
       "sku": "947"
+    },
+    {
+      "id": "dx-345161860",
+      "sourceId": "345161860",
+      "slug": "nb-1000-all-black-345161860",
+      "name": "NB 1000 ALL BLACK",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "NEW BALACE",
+      "description": "Tênis 1000 ALL BLACK – Linha Luxo de Alta Qualidade Apresentamos o Tênis 1000 ALL BLACK, a escolha perfeita para quem busca um calçado sofisticado, confortável e com design moderno totalmente em preto, ideal para diversas ocasiões do seu dia a dia. Por que escolher o Tênis 1000 ALL BLACK? Design Exclusivo e Atemporal Com seu visual all black, este tênis traz elegância e versatilidade, combinando facilmente com diferentes estilos e roupas. Um modelo que nunca sai de moda e eleva seu estilo com discrição e personalidade. Conforto Superior e Ajuste Ideal Produzido com materiais premium, o 1000 ALL BLACK conta com palmilha macia e sola flexível, proporcionando conforto durante todo o uso. Seu ajuste perfeito garante suporte ergonômico, ideal para quem está em movimento o dia todo. Durabilidade e Acabamento de Alto Padrão Feito para durar, este tênis da Linha Luxo mantém sua estrutura e aparência mesmo após uso contínuo, entregando excelente custo-benefício para quem valoriza qualidade e resistência. Tamanhos Disponíveis (38 ao 43 cm) | Tamanho (BR) | Comprimento Aproximado do Pé (cm) | |--------------|----------------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com atenção e escolha o tamanho ideal para garantir conforto e segurança em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, pedimos que envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-19-at-12-08-20-c845cbfbaa7c26127d17792145011106-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-19-at-12-08-28-34b7408cc1eb20658217792145008575-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-19-at-12-08-25-ee4e5129916dbd726517792145011188-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-19-at-12-08-26-b3a3b1a7b04553c0b917792145011959-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-19-at-12-08-29-95406eab2b1776065a17792145009047-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1527554196",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1527554197",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1527554200",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1527554201",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1527554203",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1527554204",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/1000-all-black-ibeoq/",
+      "lastSyncedAt": "2026-08-22T17:18:38.686Z",
+      "sku": "773"
     },
     {
       "id": "dx-345874480",
