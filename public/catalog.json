@@ -21158,8 +21158,8 @@
           "id": "1450677934",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -21171,11 +21171,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-cinza-gelo-1n7rm/",
-      "lastSyncedAt": "2026-08-21T19:47:57.952Z",
+      "lastSyncedAt": "2026-08-22T17:45:26.952Z",
       "sku": "590"
     },
     {
@@ -25679,7 +25679,7 @@
           "id": "1422955093",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -25731,11 +25731,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-preto-branco-hk4pe/",
-      "lastSyncedAt": "2026-08-20T17:26:50.213Z",
+      "lastSyncedAt": "2026-08-22T17:45:26.952Z",
       "sku": "234"
     },
     {
@@ -37101,7 +37101,8 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-azul-off-white-1ca91/",
-      "lastSyncedAt": "2026-08-22T16:21:08.650Z"
+      "lastSyncedAt": "2026-08-22T17:45:26.952Z",
+      "sku": "1041"
     },
     {
       "id": "dx-352443635",
@@ -38005,7 +38006,8 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-rosa-off-white-1x1r0/",
-      "lastSyncedAt": "2026-08-22T14:47:23.705Z"
+      "lastSyncedAt": "2026-08-22T17:45:26.952Z",
+      "sku": "1040"
     },
     {
       "id": "dx-322487272",
