@@ -30993,8 +30993,8 @@
           "id": "1418807790",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1418807791",
@@ -31024,11 +31024,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-azul-navy-1vcek/",
-      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
+      "lastSyncedAt": "2026-08-22T23:18:42.416Z",
       "sku": "222"
     },
     {
