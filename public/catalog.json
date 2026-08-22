@@ -27851,7 +27851,7 @@
           "id": "1562105744",
           "size": "G",
           "color": "Cinza",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -27886,11 +27886,11 @@
         "Preto",
         "Cinza"
       ],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/moletom-canguru-zara-1rwou/",
-      "lastSyncedAt": "2026-08-21T19:24:27.472Z",
+      "lastSyncedAt": "2026-08-22T16:21:08.650Z",
       "sku": "947"
     },
     {
@@ -36872,6 +36872,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-areia-coffe-9kqq9/",
       "lastSyncedAt": "2026-08-21T17:57:07.135Z",
       "sku": "644"
+    },
+    {
+      "id": "dx-362519937",
+      "sourceId": "362519937",
+      "slug": "samba-azul-off-white-362519937",
+      "name": "SAMBA AZUL OFF WHITE",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "SAMBA",
+      "description": "Tênis SAMBA Azul Off White – Linha Luxo de Alta Qualidade Apresentamos o Tênis SAMBA Azul Off White, um calçado que une design elegante, conforto superior e durabilidade, perfeito para o seu dia a dia. Integrante da exclusiva Linha Luxo Brasil, este modelo é ideal para quem busca estilo e praticidade em um só produto. Por que escolher o Tênis SAMBA Azul Off White? Visual Moderno e Versátil O contraste entre o azul e o off white confere um visual sofisticado e atual, que combina facilmente com diversos looks — seja para ocasiões casuais ou para o uso diário na cidade. Conforto Excepcional para o Dia a Dia Produzido com materiais de alta qualidade e equipado com palmilha acolchoada, o SAMBA Azul Off White oferece maciez e suporte ideais para manter seus pés confortáveis durante todo o dia. Durabilidade e Acabamento de Linha Luxo Com atenção aos detalhes e acabamento refinado, este tênis mantém sua forma e beleza mesmo após uso constante, garantindo um produto resistente para acompanhar seu ritmo sem perder o estilo. Tamanhos Disponíveis Confira a tabela abaixo para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e a qualidade, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-54-45-e71949fa6dc69412a717874135541667-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-54-43-1-dbfce73bde42f4ed0d17874135540456-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-54-42-73e4b4975f186bec8c17874135541231-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-54-43-c2d67d05e602bea63f17874135541103-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-54-44-92c9931c6c64ebee4b17874135540589-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-54-44-1-9b04f74bce62b7f37317874135545501-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1581720246",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1581720247",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1581720248",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1581720249",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1581720250",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1581720251",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-azul-off-white-1ca91/",
+      "lastSyncedAt": "2026-08-22T16:21:08.650Z"
     },
     {
       "id": "dx-352443635",
