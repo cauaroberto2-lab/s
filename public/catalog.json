@@ -1457,7 +1457,7 @@
           "id": "1540161682",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -1477,11 +1477,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-taupe-qnife/",
-      "lastSyncedAt": "2026-08-22T16:49:24.912Z",
+      "lastSyncedAt": "2026-08-22T22:19:33.260Z",
       "sku": "815"
     },
     {
@@ -16071,8 +16071,8 @@
           "id": "1401101236",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401101239",
@@ -16095,11 +16095,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-21T15:30:43.193Z",
+      "lastSyncedAt": "2026-08-22T22:19:33.260Z",
       "sku": "105"
     },
     {
