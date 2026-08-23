@@ -1983,7 +1983,7 @@
           "id": "1576961873",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -2017,11 +2017,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ad-sl-72-marrom-bordo-1mtud/",
-      "lastSyncedAt": "2026-08-20T17:26:50.213Z",
+      "lastSyncedAt": "2026-08-23T02:44:05.485Z",
       "sku": "1031"
     },
     {
@@ -14854,7 +14854,7 @@
           "id": "1510079874",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -14878,11 +14878,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 26,
+      "totalStock": 25,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-verde-musgo-m17pb/",
-      "lastSyncedAt": "2026-08-22T19:28:35.316Z",
+      "lastSyncedAt": "2026-08-23T02:44:05.485Z",
       "sku": "665"
     },
     {
@@ -17973,7 +17973,7 @@
           "id": "1510161626",
           "size": "42",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -17993,11 +17993,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 34,
+      "totalStock": 33,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-all-black-1suo5/",
-      "lastSyncedAt": "2026-08-21T18:39:56.475Z",
+      "lastSyncedAt": "2026-08-23T02:44:05.485Z",
       "sku": "34"
     },
     {
@@ -41365,8 +41365,8 @@
           "id": "1412411319",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1412411320",
@@ -41413,11 +41413,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/travis-scott-oliva-p8fah/",
-      "lastSyncedAt": "2026-08-21T22:50:29.189Z",
+      "lastSyncedAt": "2026-08-23T02:44:05.485Z",
       "sku": "228"
     },
     {
