@@ -3637,8 +3637,8 @@
           "id": "1549286454",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -3650,11 +3650,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-creme-coffe-1p7l2/",
-      "lastSyncedAt": "2026-08-23T14:49:33.319Z",
+      "lastSyncedAt": "2026-08-23T15:20:34.015Z",
       "sku": "871"
     },
     {
@@ -3714,8 +3714,8 @@
           "id": "1581690568",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -3727,11 +3727,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-azul-off-white-qdr31/",
-      "lastSyncedAt": "2026-08-23T14:49:33.319Z"
+      "lastSyncedAt": "2026-08-23T15:20:34.015Z"
     },
     {
       "id": "dx-354727911",
@@ -30387,8 +30387,8 @@
           "id": "1568170583",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1568170584",
@@ -30425,11 +30425,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-grafitte-off-3ijvt/",
-      "lastSyncedAt": "2026-08-23T14:49:33.319Z",
+      "lastSyncedAt": "2026-08-23T15:20:34.015Z",
       "sku": "782"
     },
     {
@@ -32480,8 +32480,8 @@
           "id": "1560038427",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1560038430",
@@ -32500,11 +32500,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-branco-preto-laranja-83lc9/",
-      "lastSyncedAt": "2026-08-23T14:49:33.319Z",
+      "lastSyncedAt": "2026-08-23T15:20:34.015Z",
       "sku": "939"
     },
     {
@@ -33147,8 +33147,8 @@
           "id": "1548955606",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1548955607",
@@ -33188,11 +33188,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-branco-latex-1qfyy/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-23T15:20:34.015Z",
       "sku": "864"
     },
     {
@@ -37945,8 +37945,8 @@
           "id": "1523385898",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -37958,11 +37958,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-off-rose-181n5/",
-      "lastSyncedAt": "2026-08-23T14:49:33.319Z",
+      "lastSyncedAt": "2026-08-23T15:20:34.015Z",
       "sku": "752"
     },
     {
