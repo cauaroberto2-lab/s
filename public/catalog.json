@@ -14854,8 +14854,8 @@
           "id": "1510079874",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1510079876",
@@ -14878,11 +14878,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 25,
+      "totalStock": 24,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-verde-musgo-m17pb/",
-      "lastSyncedAt": "2026-08-23T02:44:05.485Z",
+      "lastSyncedAt": "2026-08-23T16:51:35.304Z",
       "sku": "665"
     },
     {
@@ -41498,8 +41498,8 @@
           "id": "1484372223",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1484372224",
@@ -41522,11 +41522,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ultraranger-3d-preto-branco-uqeje/",
-      "lastSyncedAt": "2026-08-23T03:48:44.039Z",
+      "lastSyncedAt": "2026-08-23T16:51:35.304Z",
       "sku": "680"
     },
     {
