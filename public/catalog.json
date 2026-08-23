@@ -3993,8 +3993,8 @@
           "id": "1523401440",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1523401442",
@@ -4034,11 +4034,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-spezial-bordo-branco-1fu19/",
-      "lastSyncedAt": "2026-08-21T16:31:31.718Z",
+      "lastSyncedAt": "2026-08-23T03:48:44.039Z",
       "sku": "753"
     },
     {
@@ -41484,8 +41484,8 @@
           "id": "1484372220",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1484372222",
@@ -41522,11 +41522,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ultraranger-3d-preto-branco-uqeje/",
-      "lastSyncedAt": "2026-08-21T12:42:26.071Z",
+      "lastSyncedAt": "2026-08-23T03:48:44.039Z",
       "sku": "680"
     },
     {
