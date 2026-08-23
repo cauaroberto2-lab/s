@@ -4854,7 +4854,7 @@
           "id": "1494015893",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -4874,11 +4874,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adzero-boston-11-branco-limao-1aklb/",
-      "lastSyncedAt": "2026-08-20T10:58:46.362Z",
+      "lastSyncedAt": "2026-08-23T11:45:26.026Z",
       "sku": "453"
     },
     {
@@ -12926,8 +12926,8 @@
           "id": "1561911925",
           "size": "XG",
           "color": "Azul",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -12942,11 +12942,11 @@
         "Cinza",
         "Azul"
       ],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/conjunto-nike-importado-1ac8y/",
-      "lastSyncedAt": "2026-08-08T22:26:53.366Z",
+      "lastSyncedAt": "2026-08-23T11:45:26.026Z",
       "sku": "919"
     },
     {
