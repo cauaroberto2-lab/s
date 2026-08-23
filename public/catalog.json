@@ -3637,8 +3637,8 @@
           "id": "1549286454",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -3650,11 +3650,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-creme-coffe-1p7l2/",
-      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
+      "lastSyncedAt": "2026-08-23T14:49:33.319Z",
       "sku": "871"
     },
     {
@@ -3714,8 +3714,8 @@
           "id": "1581690568",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -3727,11 +3727,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-azul-off-white-qdr31/",
-      "lastSyncedAt": "2026-08-22T15:18:28.655Z"
+      "lastSyncedAt": "2026-08-23T14:49:33.319Z"
     },
     {
       "id": "dx-354727911",
@@ -15900,8 +15900,8 @@
           "id": "1581734921",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -15913,11 +15913,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-marrom-off-ahmrq/",
-      "lastSyncedAt": "2026-08-22T16:49:24.912Z"
+      "lastSyncedAt": "2026-08-23T14:49:33.319Z"
     },
     {
       "id": "dx-320835198",
@@ -30387,8 +30387,8 @@
           "id": "1568170583",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1568170584",
@@ -30425,11 +30425,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-grafitte-off-3ijvt/",
-      "lastSyncedAt": "2026-08-21T19:24:27.472Z",
+      "lastSyncedAt": "2026-08-23T14:49:33.319Z",
       "sku": "782"
     },
     {
@@ -31388,7 +31388,7 @@
           "id": "1407307720",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -31426,11 +31426,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-08-21T03:49:06.921Z",
+      "lastSyncedAt": "2026-08-23T14:49:33.319Z",
       "sku": "205"
     },
     {
@@ -32480,8 +32480,8 @@
           "id": "1560038427",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1560038430",
@@ -32500,11 +32500,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-branco-preto-laranja-83lc9/",
-      "lastSyncedAt": "2026-08-22T16:49:24.912Z",
+      "lastSyncedAt": "2026-08-23T14:49:33.319Z",
       "sku": "939"
     },
     {
@@ -37945,8 +37945,8 @@
           "id": "1523385898",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -37958,11 +37958,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-off-rose-181n5/",
-      "lastSyncedAt": "2026-08-21T13:43:23.813Z",
+      "lastSyncedAt": "2026-08-23T14:49:33.319Z",
       "sku": "752"
     },
     {
@@ -41982,8 +41982,8 @@
           "id": "1555328919",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555328920",
@@ -42020,11 +42020,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-caramelo-off-vquyk/",
-      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
+      "lastSyncedAt": "2026-08-23T14:49:33.319Z",
       "sku": "748"
     },
     {
