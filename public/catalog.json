@@ -27700,8 +27700,8 @@
           "id": "1409296764",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1409296765",
@@ -27780,11 +27780,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/knu-skool-preto-branco-4p3cp/",
-      "lastSyncedAt": "2026-08-23T17:45:13.843Z",
+      "lastSyncedAt": "2026-08-23T20:48:29.805Z",
       "sku": "195"
     },
     {
