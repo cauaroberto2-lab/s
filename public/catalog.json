@@ -39760,8 +39760,8 @@
           "id": "1555665381",
           "size": "42/43",
           "color": "Bege",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555665384",
@@ -39789,11 +39789,11 @@
         "Preto",
         "Cinza"
       ],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/slide-mind-preto-d2p85/",
-      "lastSyncedAt": "2026-08-20T19:57:24.108Z",
+      "lastSyncedAt": "2026-08-23T14:25:39.510Z",
       "sku": "897"
     },
     {
