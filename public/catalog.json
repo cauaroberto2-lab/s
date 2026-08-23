@@ -1983,8 +1983,8 @@
           "id": "1576961873",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1576961874",
@@ -2017,11 +2017,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ad-sl-72-marrom-bordo-1mtud/",
-      "lastSyncedAt": "2026-08-23T02:44:05.485Z",
+      "lastSyncedAt": "2026-08-23T15:47:17.556Z",
       "sku": "1031"
     },
     {
