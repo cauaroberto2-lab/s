@@ -21451,8 +21451,8 @@
           "id": "1454711592",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1454711593",
@@ -21496,11 +21496,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-branco-preto-m8fvj/",
-      "lastSyncedAt": "2026-08-21T20:23:16.294Z",
+      "lastSyncedAt": "2026-08-23T22:19:27.643Z",
       "sku": "85"
     },
     {
