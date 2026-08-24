@@ -31578,7 +31578,7 @@
           "id": "1565211863",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -31626,11 +31626,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-grafite-off-white-158m2/",
-      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
+      "lastSyncedAt": "2026-08-24T22:53:10.295Z",
       "sku": "982"
     },
     {
@@ -31910,43 +31910,43 @@
           "id": "1559916642",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1559916643",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1559916644",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1559916645",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1559916646",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1559916647",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -31958,11 +31958,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-530-off-cacau-1dit5/",
-      "lastSyncedAt": "2026-08-15T14:48:02.219Z",
+      "lastSyncedAt": "2026-08-24T22:53:10.295Z",
       "sku": "937"
     },
     {
@@ -42271,43 +42271,71 @@
           "id": "1564373333",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1564373335",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1564373337",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 4,
+          "available": true
         },
         {
           "id": "1564373341",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1564373343",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1564373344",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1583427631",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1583427632",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1583427633",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1583427636",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
         }
       ],
       "sizes": [
@@ -42316,14 +42344,18 @@
         "36",
         "37",
         "38",
-        "39"
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-cacau-off-white-hhrac/",
-      "lastSyncedAt": "2026-08-20T15:31:39.296Z",
+      "lastSyncedAt": "2026-08-24T22:53:10.295Z",
       "sku": "968"
     },
     {
