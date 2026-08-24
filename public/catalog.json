@@ -4764,8 +4764,8 @@
           "id": "1494038807",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1494038808",
@@ -4798,11 +4798,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-azul-celeste-16jok/",
-      "lastSyncedAt": "2026-08-21T11:52:17.407Z",
+      "lastSyncedAt": "2026-08-24T18:00:12.931Z",
       "sku": "120"
     },
     {
@@ -19806,7 +19806,7 @@
           "id": "1405138899",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -19872,11 +19872,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 41,
+      "totalStock": 40,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-nobuk-preto-nnzwh/",
-      "lastSyncedAt": "2026-08-22T14:47:23.705Z",
+      "lastSyncedAt": "2026-08-24T18:00:12.931Z",
       "sku": "21"
     },
     {
@@ -22036,7 +22036,7 @@
           "id": "1430823390",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -22095,11 +22095,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 25,
+      "totalStock": 24,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-branco-18ixt/",
-      "lastSyncedAt": "2026-08-22T17:18:38.686Z",
+      "lastSyncedAt": "2026-08-24T18:00:12.931Z",
       "sku": "78"
     },
     {
@@ -22243,8 +22243,8 @@
           "id": "1575569562",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1575569563",
@@ -22281,11 +22281,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-verde-summer-camp-a3yc8/",
-      "lastSyncedAt": "2026-08-20T19:29:15.022Z",
+      "lastSyncedAt": "2026-08-24T18:00:12.931Z",
       "sku": "97"
     },
     {
@@ -22672,7 +22672,7 @@
           "id": "1438069897",
           "size": "41",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -22731,11 +22731,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-branco-off-oxovh/",
-      "lastSyncedAt": "2026-08-23T17:45:13.843Z",
+      "lastSyncedAt": "2026-08-24T18:00:12.931Z",
       "sku": "562"
     },
     {
@@ -30111,7 +30111,7 @@
           "id": "1414801131",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -30163,11 +30163,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-cinza-1fzhs/",
-      "lastSyncedAt": "2026-08-21T20:23:16.294Z",
+      "lastSyncedAt": "2026-08-24T18:00:12.931Z",
       "sku": "266"
     },
     {
@@ -32332,6 +32332,27 @@
           "id": "1548985248",
           "size": "39",
           "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1583112189",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1583112192",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1583112194",
+          "size": "42",
+          "color": "Padrão",
           "stock": 1,
           "available": true
         }
@@ -32342,14 +32363,17 @@
         "36",
         "37",
         "38",
-        "39"
+        "39",
+        "40",
+        "41",
+        "42"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-preto-bco-kqvmb/",
-      "lastSyncedAt": "2026-08-24T17:28:54.576Z",
+      "lastSyncedAt": "2026-08-24T18:00:12.931Z",
       "sku": "868"
     },
     {
