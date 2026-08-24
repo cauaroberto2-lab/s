@@ -6764,6 +6764,83 @@
       "sku": "14"
     },
     {
+      "id": "dx-363009846",
+      "sourceId": "363009846",
+      "slug": "asics-gel-ny-preto-grafite-363009846",
+      "name": "ASICS GEL NY PRETO GRAFITE",
+      "brand": "Asics",
+      "category": "Tênis",
+      "subCategory": "GEL NY",
+      "description": "Tênis ASICS GEL NY Preto Grafite – Linha Luxo de Alta Qualidade Apresentamos o Tênis ASICS GEL NY Preto Grafite, um calçado que une estilo sofisticado, conforto superior e durabilidade, perfeito para o seu dia a dia. Parte da exclusiva Linha Luxo, este modelo foi desenvolvido para quem não abre mão de qualidade e elegância em todas as ocasiões. Por que escolher o Tênis ASICS GEL NY Preto Grafite? Visual Moderno e Versátil O design em preto com detalhes grafite confere um visual sóbrio e elegante, que combina facilmente com diferentes estilos, seja para o trabalho, lazer ou passeios urbanos. Conforto e Ajuste Impecáveis Equipado com a tecnologia GEL da ASICS, este tênis proporciona amortecimento e suporte excepcionais, garantindo conforto durante todo o dia. A palmilha macia e o ajuste perfeito fazem dele o parceiro ideal para longas caminhadas e atividades diárias. Durabilidade e Acabamento Premium Fabricado com materiais de alta qualidade e atenção especial aos detalhes, o ASICS GEL NY mantém sua forma e beleza mesmo após uso intenso, oferecendo um produto resistente e confiável. Tamanhos Disponíveis Disponível do 38 ao 43, com medidas em centímetros para facilitar a escolha: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste ideal. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para assegurar a qualidade e autenticidade do produto, envie um vídeo original do tênis, sem sinais de uso. Garanta agora o seu Tênis ASICS GEL NY Preto Grafite e experimente o equilíbrio perfeito entre qualidade, conforto e estilo da nossa Linha Luxo. Dê passos confiantes e cheios de personalidade todos os dias!",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-24-at-18-54-22-25522455605acfc61c17876089535153-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-24-at-18-54-28-2766fa974d192aa62d17876089532420-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-24-at-18-54-24-401ec3f692d2cb463417876089535284-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-24-at-18-54-27-cc23932d8949311b0117876089534607-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-24-at-18-54-29-a957c55376e47d455317876089532926-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-24-at-18-54-30-98470e57ac7d2ef9a617876089534670-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-24-at-18-54-31-426491aeec2418574917876089533524-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1583401348",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1583401349",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1583401351",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1583401352",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1583401353",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1583401354",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-gel-ny-preto-grafite-113gu/",
+      "lastSyncedAt": "2026-08-24T22:23:23.011Z"
+    },
+    {
       "id": "dx-352121814",
       "sourceId": "352121814",
       "slug": "asics-gel-nyc-creme-off-marinho-352121814",
@@ -16070,7 +16147,8 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-marrom-off-ahmrq/",
-      "lastSyncedAt": "2026-08-24T15:37:10.386Z"
+      "lastSyncedAt": "2026-08-24T22:23:23.011Z",
+      "sku": "712"
     },
     {
       "id": "dx-320835198",
@@ -16182,8 +16260,8 @@
           "id": "1401101215",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1401101220",
@@ -16196,36 +16274,36 @@
           "id": "1401101224",
           "size": "38",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 8,
           "available": true
         },
         {
           "id": "1401101227",
           "size": "39",
           "color": "Padrão",
-          "stock": 9,
+          "stock": 12,
           "available": true
         },
         {
           "id": "1401101230",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1401101232",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1401101236",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1401101239",
@@ -16248,11 +16326,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-24T21:26:32.675Z",
+      "lastSyncedAt": "2026-08-24T22:23:23.011Z",
       "sku": "105"
     },
     {
@@ -16461,8 +16539,8 @@
           "id": "1581764552",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1581764554",
@@ -16479,11 +16557,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-sb-bird-preto-red-21r5q/",
-      "lastSyncedAt": "2026-08-24T15:37:10.386Z",
+      "lastSyncedAt": "2026-08-24T22:23:23.011Z",
       "sku": "1042"
     },
     {
@@ -19753,8 +19831,8 @@
           "id": "1437928788",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -19766,11 +19844,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 27,
+      "totalStock": 26,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-marinho-off-1ffpx/",
-      "lastSyncedAt": "2026-08-24T21:54:14.649Z",
+      "lastSyncedAt": "2026-08-24T22:23:23.011Z",
       "sku": "457"
     },
     {
@@ -30313,29 +30391,29 @@
           "id": "1414801127",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1414801128",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1414801129",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1414801130",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1414801131",
@@ -30355,29 +30433,29 @@
           "id": "1514672562",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1514672563",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1514672565",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1514672567",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -30393,11 +30471,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-cinza-1fzhs/",
-      "lastSyncedAt": "2026-08-24T21:26:32.675Z",
+      "lastSyncedAt": "2026-08-24T22:23:23.011Z",
       "sku": "266"
     },
     {
@@ -32643,7 +32721,7 @@
           "id": "1545082934",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -32677,11 +32755,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-stunt-15lp1/",
-      "lastSyncedAt": "2026-08-24T21:26:32.675Z",
+      "lastSyncedAt": "2026-08-24T22:23:23.011Z",
       "sku": "850"
     },
     {
@@ -39146,43 +39224,43 @@
           "id": "1567065589",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1567065590",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 4,
+          "available": true
         },
         {
           "id": "1567065591",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 8,
           "available": true
         },
         {
           "id": "1567065592",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 6,
+          "available": true
         },
         {
           "id": "1567065593",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 4,
+          "available": true
         },
         {
           "id": "1567065594",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -39194,11 +39272,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 24,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sb-malor-coffe-black-fjefx/",
-      "lastSyncedAt": "2026-08-12T19:38:53.961Z",
+      "lastSyncedAt": "2026-08-24T22:23:23.011Z",
       "sku": "989"
     },
     {
@@ -39224,42 +39302,42 @@
           "id": "1566970500",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1566970501",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 4,
+          "available": true
         },
         {
           "id": "1566970502",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 6,
+          "available": true
         },
         {
           "id": "1566970504",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 6,
+          "available": true
         },
         {
           "id": "1566970506",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 5,
+          "available": true
         },
         {
           "id": "1566970507",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 4,
           "available": true
         }
       ],
@@ -39272,11 +39350,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 27,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sb-malor-preto-branco-1c7yg/",
-      "lastSyncedAt": "2026-08-21T19:24:27.472Z",
+      "lastSyncedAt": "2026-08-24T22:23:23.011Z",
       "sku": "988"
     },
     {
