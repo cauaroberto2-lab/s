@@ -32802,7 +32802,7 @@
           "id": "1559553226",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -32843,11 +32843,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-preto-cinza-off-1mog9/",
-      "lastSyncedAt": "2026-08-20T17:26:50.213Z",
+      "lastSyncedAt": "2026-08-24T19:56:18.653Z",
       "sku": "925"
     },
     {
@@ -32894,8 +32894,8 @@
           "id": "1578470124",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1578470126",
@@ -32921,11 +32921,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-ambush-branco-ckhaz/",
-      "lastSyncedAt": "2026-08-21T01:10:36.772Z",
+      "lastSyncedAt": "2026-08-24T19:56:18.653Z",
       "sku": "1038"
     },
     {
@@ -33020,29 +33020,29 @@
           "id": "1478012814",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1478012817",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1478012819",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1478012820",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -33058,11 +33058,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-azul-1ra6y/",
-      "lastSyncedAt": "2026-08-22T18:27:01.570Z",
+      "lastSyncedAt": "2026-08-24T19:56:18.653Z",
       "sku": "675"
     },
     {
@@ -34207,6 +34207,82 @@
       "sku": "781"
     },
     {
+      "id": "dx-318886093",
+      "sourceId": "318886093",
+      "slug": "on-cloudeclipse-cinza-grafite-318886093",
+      "name": "ON CLOUDECLIPSE CINZA GRAFITE",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "ECLIPSE",
+      "description": "CLOUDECLIPSE CINZA GRAFITE – Tênis de Alta Qualidade da Linha Luxo Descubra o CLOUDECLIPSE CINZA GRAFITE , um tênis que une estilo sofisticado, conforto excepcional e durabilidade incomparável, tudo isso com a elegância e exclusividade da Linha Luxo. Ideal para quem valoriza um calçado versátil e refinado, perfeito para diversas ocasiões, do dia a dia a eventos especiais. Por que escolher o CLOUDECLIPSE CINZA GRAFITE ? Visual moderno e sofisticado Com acabamento em grafite preto, este modelo apresenta um design contemporâneo e discreto, que combina facilmente com diferentes estilos e looks, valorizando sua presença com um toque de exclusividade. Conforto e resistência para seus passos Equipado com sola emborrachada de alta qualidade, o CLOUDECLIPSE CINZA GRAFITE oferece excelente aderência e estabilidade em múltiplas superfícies. Seu design ergonômico proporciona leveza e conforto para acompanhar você o dia todo. Qualidade premium da Linha Luxo Fabricado com materiais selecionados e acabamento impecável, este tênis mantém sua beleza e performance mesmo após uso contínuo. A Linha Luxo é sinônimo de produtos para consumidores exigentes que valorizam cada detalhe. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-16-at-11-36-13-1-03d46746e752456e9917685744016223-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-16-at-11-36-13-2-285f6578affbb1344b17685744003986-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-16-at-11-36-13-453c41b82485f1924e17685744022726-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-16-at-11-36-12-1-a7d1418427e83e3ad717685744037662-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-16-at-11-36-12-3883535573e35a837917685744048869-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1413216516",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1413216517",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1413216518",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1413216519",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1413216520",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1413216521",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/cloudeclipse-cinza-grafite-lamap/",
+      "lastSyncedAt": "2026-08-24T19:56:18.653Z",
+      "sku": "516"
+    },
+    {
       "id": "dx-318887046",
       "sourceId": "318887046",
       "slug": "on-cloudeclipse-marrom-318887046",
@@ -34494,8 +34570,8 @@
           "id": "1413213043",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1413213045",
@@ -34567,11 +34643,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/cloudeclipse-off-white-1w2fu/",
-      "lastSyncedAt": "2026-08-04T23:01:46.809Z",
+      "lastSyncedAt": "2026-08-24T19:56:18.653Z",
       "sku": "508"
     },
     {
