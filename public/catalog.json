@@ -39,7 +39,7 @@
           "id": "1542958279",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -73,11 +73,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/180-preto-branco-1mp4y/",
-      "lastSyncedAt": "2026-08-22T18:27:01.570Z",
+      "lastSyncedAt": "2026-08-24T21:54:14.649Z",
       "sku": "837"
     },
     {
@@ -2023,6 +2023,83 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-pto-bco-pto-1lib1/",
       "lastSyncedAt": "2026-08-24T21:26:32.675Z",
       "sku": "899"
+    },
+    {
+      "id": "dx-363004766",
+      "sourceId": "363004766",
+      "slug": "9060-talp-bege-off-363004766",
+      "name": "9060 TALP BEGE OFF",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "Tênis 9060 TALP Bege Off – Linha Luxo de Alta Qualidade Apresentamos o Tênis 9060 TALP Bege Off, um modelo que une conforto superior, design moderno e a qualidade premium da nossa exclusiva Linha Luxo. Ideal para quem busca um calçado bonito, estiloso e confortável para o dia a dia. Por que escolher o Tênis 9060 TALP Bege Off? Visual Elegante e Versátil A tonalidade bege off traz um toque neutro e sofisticado, fácil de combinar com diferentes looks, do casual ao urbano. Seu design contemporâneo garante um estilo único que valoriza qualquer produção. Conforto Excepcional Fabricado com materiais de alta qualidade, o 9060 TALP oferece uma palmilha acolchoada que proporciona maciez e suporte, garantindo conforto durante todo o dia, mesmo em longas caminhadas. Durabilidade e Acabamento Premium A atenção aos detalhes na fabricação assegura resistência e acabamento impecável. Este tênis mantém sua forma e beleza mesmo após uso frequente, acompanhando seu ritmo com estilo e segurança. Tamanhos Disponíveis Confira a tabela para escolher o tamanho ideal conforme a medida do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-00-42-6c07b46354d0a9d67317876071776852-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-00-46-5db41cf5def7e9e47517876071776453-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-00-40-b9b32103e186a0ef1717876071778432-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-00-41-c12451b92a2b139b1917876071777658-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-00-44-fbcbc9bc28d7fd0d3817876071775196-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-00-45-1ca7857edf5438d39417876071776492-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-00-47-b269f1f78a37630e0817876071777522-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1583382780",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1583382781",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1583382783",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 6,
+          "available": true
+        },
+        {
+          "id": "1583382785",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1583382786",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 4,
+          "available": true
+        },
+        {
+          "id": "1583382787",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 19,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-talp-bege-off-w0an9/",
+      "lastSyncedAt": "2026-08-24T21:54:14.649Z"
     },
     {
       "id": "dx-361056080",
@@ -13958,7 +14035,7 @@
           "id": "1449594463",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -14024,11 +14101,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-branco-preto-latex-1tj1h/",
-      "lastSyncedAt": "2026-08-24T01:09:55.119Z",
+      "lastSyncedAt": "2026-08-24T21:54:14.649Z",
       "sku": "586"
     },
     {
@@ -19641,43 +19718,43 @@
           "id": "1437928776",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1437928780",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1437928782",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 9,
           "available": true
         },
         {
           "id": "1437928785",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 4,
+          "available": true
         },
         {
           "id": "1437928786",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 4,
+          "available": true
         },
         {
           "id": "1437928788",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -19689,11 +19766,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 27,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-marinho-off-1ffpx/",
-      "lastSyncedAt": "2026-08-24T15:37:10.386Z",
+      "lastSyncedAt": "2026-08-24T21:54:14.649Z",
       "sku": "457"
     },
     {
@@ -20878,8 +20955,8 @@
           "id": "1566754050",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1566754051",
@@ -20898,11 +20975,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-rosaverniz-o2mkg/",
-      "lastSyncedAt": "2026-08-21T19:24:27.472Z",
+      "lastSyncedAt": "2026-08-24T21:54:14.649Z",
       "sku": "985"
     },
     {
