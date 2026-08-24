@@ -7657,36 +7657,36 @@
           "id": "1536280586",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1536280587",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1536280589",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1536280590",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1536280592",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1536280594",
@@ -7705,11 +7705,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/beta-azul-marinho-branco-k83qd/",
-      "lastSyncedAt": "2026-08-05T00:54:00.415Z",
+      "lastSyncedAt": "2026-08-24T23:20:18.052Z",
       "sku": "798"
     },
     {
@@ -18288,7 +18288,7 @@
           "id": "1510161627",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -18301,11 +18301,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 32,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-all-black-1suo5/",
-      "lastSyncedAt": "2026-08-24T17:28:54.576Z",
+      "lastSyncedAt": "2026-08-24T23:20:18.052Z",
       "sku": "34"
     },
     {
@@ -22330,7 +22330,7 @@
           "id": "1430823388",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -22403,11 +22403,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-branco-18ixt/",
-      "lastSyncedAt": "2026-08-24T18:00:12.931Z",
+      "lastSyncedAt": "2026-08-24T23:20:18.052Z",
       "sku": "78"
     },
     {
@@ -26286,14 +26286,14 @@
           "id": "1568034189",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1568034190",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -26323,9 +26323,41 @@
           "color": "Padrão",
           "stock": 0,
           "available": false
+        },
+        {
+          "id": "1583453890",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1583453891",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1583453892",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1583453893",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
         }
       ],
       "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
         "38",
         "39",
         "40",
@@ -26334,11 +26366,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-snow-preto-cb2ic/",
-      "lastSyncedAt": "2026-08-21T21:22:04.164Z",
+      "lastSyncedAt": "2026-08-24T23:20:18.052Z",
       "sku": "994"
     },
     {
@@ -28342,43 +28374,43 @@
           "id": "1532634939",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1532634940",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1532634941",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1532634944",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1532634945",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1532634946",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -28390,11 +28422,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-wave-beta-cinza-branco-1kox4/",
-      "lastSyncedAt": "2026-08-15T18:56:27.153Z",
+      "lastSyncedAt": "2026-08-24T23:20:18.052Z",
       "sku": "794"
     },
     {
@@ -37132,6 +37164,114 @@
       "sku": "849"
     },
     {
+      "id": "dx-230733634",
+      "sourceId": "230733634",
+      "slug": "puma-suede-xl-230733634",
+      "name": "PUMA SUEDE XL",
+      "brand": "Puma",
+      "category": "Tênis",
+      "subCategory": "SUEDE",
+      "description": "SUEDE XL – Estilo e Conforto em Cada Passo Apresentamos o SUEDE XL, o tênis perfeito para quem busca aliar um design clássico com o conforto que acompanha seu ritmo. Com um visual sofisticado e versátil, ele é ideal para diversas ocasiões, do passeio urbano ao encontro com amigos. Por que escolher o SUEDE XL? Design Atemporal e Elegante O SUEDE XL traz um estilo único que combina facilmente com diferentes looks, valorizando seu visual com um toque de autenticidade e personalidade. Design Atemporal e Elegante O SUEDE XL traz um estilo único que combina facilmente com diferentes looks, valorizando seu visual com um toque de autenticidade e personalidade. Conforto Duradouro Equipado com palmilha macia e ajuste perfeito, proporciona conforto durante horas, garantindo uma experiência agradável em cada caminhada. Conforto Duradouro Equipado com palmilha macia e ajuste perfeito, proporciona conforto durante horas, garantindo uma experiência agradável em cada caminhada. Qualidade e Resistência Feito com materiais selecionados, o SUEDE XL oferece durabilidade e mantém sua aparência impecável mesmo após uso frequente. Qualidade e Resistência Feito com materiais selecionados, o SUEDE XL oferece durabilidade e mantém sua aparência impecável mesmo após uso frequente. Solado Seguro e Estável A sola possui excelente aderência, garantindo segurança em diferentes superfícies para você caminhar com confiança. Solado Seguro e Estável A sola possui excelente aderência, garantindo segurança em diferentes superfícies para você caminhar com confiança. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-22-at-12-58-24-4ddbdf5b492dfaa06417690985964353-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-22-at-12-58-39-5f0e4651efa139e66317690985962549-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-22-at-12-58-23-ac149f699357d1748f17690985968104-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-22-at-12-58-33-3f6105f1f08a7d9bde17690985962195-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-22-at-12-58-40-2a0b14a01dbf84e9ef17690985963687-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1397242247",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1397242248",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1397242249",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1397242251",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1397242252",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1397242253",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1418802383",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1418802384",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1418802386",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1418802387",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 20,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/suede-xl-c5p43/",
+      "lastSyncedAt": "2026-08-24T23:20:18.052Z",
+      "sku": "45"
+    },
+    {
       "id": "dx-335896539",
       "sourceId": "335896539",
       "slug": "puma-suede-xl-all-black-335896539",
@@ -40291,114 +40431,6 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/slide-nk-3h7p3/",
       "lastSyncedAt": "2026-07-27T21:06:00.994Z",
       "sku": "589"
-    },
-    {
-      "id": "dx-230733634",
-      "sourceId": "230733634",
-      "slug": "suede-xl-230733634",
-      "name": "SUEDE XL",
-      "brand": "Puma",
-      "category": "Tênis",
-      "subCategory": "SUEDE",
-      "description": "SUEDE XL – Estilo e Conforto em Cada Passo Apresentamos o SUEDE XL, o tênis perfeito para quem busca aliar um design clássico com o conforto que acompanha seu ritmo. Com um visual sofisticado e versátil, ele é ideal para diversas ocasiões, do passeio urbano ao encontro com amigos. Por que escolher o SUEDE XL? Design Atemporal e Elegante O SUEDE XL traz um estilo único que combina facilmente com diferentes looks, valorizando seu visual com um toque de autenticidade e personalidade. Design Atemporal e Elegante O SUEDE XL traz um estilo único que combina facilmente com diferentes looks, valorizando seu visual com um toque de autenticidade e personalidade. Conforto Duradouro Equipado com palmilha macia e ajuste perfeito, proporciona conforto durante horas, garantindo uma experiência agradável em cada caminhada. Conforto Duradouro Equipado com palmilha macia e ajuste perfeito, proporciona conforto durante horas, garantindo uma experiência agradável em cada caminhada. Qualidade e Resistência Feito com materiais selecionados, o SUEDE XL oferece durabilidade e mantém sua aparência impecável mesmo após uso frequente. Qualidade e Resistência Feito com materiais selecionados, o SUEDE XL oferece durabilidade e mantém sua aparência impecável mesmo após uso frequente. Solado Seguro e Estável A sola possui excelente aderência, garantindo segurança em diferentes superfícies para você caminhar com confiança. Solado Seguro e Estável A sola possui excelente aderência, garantindo segurança em diferentes superfícies para você caminhar com confiança. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
-      "images": [
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-22-at-12-58-24-4ddbdf5b492dfaa06417690985964353-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-22-at-12-58-39-5f0e4651efa139e66317690985962549-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-22-at-12-58-23-ac149f699357d1748f17690985968104-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-22-at-12-58-33-3f6105f1f08a7d9bde17690985962195-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-22-at-12-58-40-2a0b14a01dbf84e9ef17690985963687-1024-1024.webp"
-      ],
-      "variants": [
-        {
-          "id": "1397242247",
-          "size": "34",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1397242248",
-          "size": "35",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1397242249",
-          "size": "36",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1397242251",
-          "size": "37",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1397242252",
-          "size": "38",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1397242253",
-          "size": "39",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1418802383",
-          "size": "40",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1418802384",
-          "size": "41",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1418802386",
-          "size": "42",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1418802387",
-          "size": "43",
-          "color": "Padrão",
-          "stock": 1,
-          "available": true
-        }
-      ],
-      "sizes": [
-        "34",
-        "35",
-        "36",
-        "37",
-        "38",
-        "39",
-        "40",
-        "41",
-        "42",
-        "43"
-      ],
-      "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
-      "sourceUrl": "https://dxstoreimports.com.br/produtos/suede-xl-c5p43/",
-      "lastSyncedAt": "2026-08-19T19:49:12.058Z",
-      "sku": "45"
     },
     {
       "id": "dx-360258225",
