@@ -1675,15 +1675,15 @@
           "id": "1567414044",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1567414045",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1567414046",
@@ -1709,11 +1709,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-marrom-1d9ct/",
-      "lastSyncedAt": "2026-08-21T01:10:36.772Z",
+      "lastSyncedAt": "2026-08-25T17:29:55.278Z",
       "sku": "991"
     },
     {
@@ -13712,8 +13712,8 @@
           "id": "1413584581",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1413584582",
@@ -13778,11 +13778,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/court-vision-branco-zx9hy/",
-      "lastSyncedAt": "2026-08-25T15:40:09.634Z",
+      "lastSyncedAt": "2026-08-25T17:29:55.278Z",
       "sku": "36"
     },
     {
@@ -13903,7 +13903,7 @@
           "id": "1413614712",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -13962,11 +13962,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/court-vision-preto-branco-19alo/",
-      "lastSyncedAt": "2026-08-24T20:30:54.945Z",
+      "lastSyncedAt": "2026-08-25T17:29:55.278Z",
       "sku": "37"
     },
     {
@@ -26043,7 +26043,8 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-lakers-edition-16sk2/",
-      "lastSyncedAt": "2026-08-24T11:54:28.591Z"
+      "lastSyncedAt": "2026-08-25T17:29:55.278Z",
+      "sku": "1044"
     },
     {
       "id": "dx-358338595",
@@ -31728,8 +31729,8 @@
           "id": "1407307720",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1407307727",
@@ -31766,11 +31767,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-08-25T15:40:09.634Z",
+      "lastSyncedAt": "2026-08-25T17:29:55.278Z",
       "sku": "205"
     },
     {
@@ -37906,7 +37907,7 @@
           "id": "1549300087",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 1,
           "available": true
         },
         {
@@ -37940,11 +37941,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-bordo-latex-1iu10/",
-      "lastSyncedAt": "2026-08-24T18:52:48.452Z",
+      "lastSyncedAt": "2026-08-25T17:29:55.278Z",
       "sku": "872"
     },
     {
@@ -40245,8 +40246,8 @@
           "id": "1555665357",
           "size": "36/37",
           "color": "Bege",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1555665359",
@@ -40337,11 +40338,11 @@
         "Preto",
         "Cinza"
       ],
-      "totalStock": 12,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/slide-mind-preto-d2p85/",
-      "lastSyncedAt": "2026-08-23T14:25:39.510Z",
+      "lastSyncedAt": "2026-08-25T17:29:55.278Z",
       "sku": "897"
     },
     {
@@ -40689,7 +40690,7 @@
           "id": "1577566973",
           "size": "36",
           "color": "Branco",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -40757,11 +40758,11 @@
       "colors": [
         "Branco"
       ],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-superstar-branco-classic-h7gdy/",
-      "lastSyncedAt": "2026-08-23T21:45:37.025Z",
+      "lastSyncedAt": "2026-08-25T17:29:55.278Z",
       "sku": "1035"
     },
     {
