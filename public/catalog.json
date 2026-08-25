@@ -1505,8 +1505,8 @@
           "id": "1540161678",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1540161679",
@@ -1553,11 +1553,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-taupe-qnife/",
-      "lastSyncedAt": "2026-08-25T16:34:58.554Z",
+      "lastSyncedAt": "2026-08-25T19:29:58.077Z",
       "sku": "815"
     },
     {
@@ -1990,7 +1990,7 @@
           "id": "1555750420",
           "size": "37",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -2017,11 +2017,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-pto-bco-pto-1lib1/",
-      "lastSyncedAt": "2026-08-24T21:26:32.675Z",
+      "lastSyncedAt": "2026-08-25T19:29:58.077Z",
       "sku": "899"
     },
     {
@@ -15156,7 +15156,7 @@
           "id": "1401232962",
           "size": "37",
           "color": "Padrão",
-          "stock": 11,
+          "stock": 10,
           "available": true
         },
         {
@@ -15215,11 +15215,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 40,
+      "totalStock": 39,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-08-22T16:49:24.912Z",
+      "lastSyncedAt": "2026-08-25T19:29:58.077Z",
       "sku": "166"
     },
     {
@@ -16336,8 +16336,8 @@
           "id": "1401101215",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401101220",
@@ -16402,11 +16402,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 30,
+      "totalStock": 29,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-25T03:46:37.755Z",
+      "lastSyncedAt": "2026-08-25T19:29:58.077Z",
       "sku": "105"
     },
     {
@@ -23997,8 +23997,8 @@
           "id": "1559639522",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -24014,11 +24014,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-preto-grafite-1d8tg/",
-      "lastSyncedAt": "2026-08-25T16:34:58.554Z",
+      "lastSyncedAt": "2026-08-25T19:29:58.077Z",
       "sku": "664"
     },
     {
@@ -26056,7 +26056,7 @@
           "id": "1581538630",
           "size": "37",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -26115,11 +26115,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 50,
+      "totalStock": 49,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-lakers-edition-16sk2/",
-      "lastSyncedAt": "2026-08-25T17:29:55.278Z",
+      "lastSyncedAt": "2026-08-25T19:29:58.077Z",
       "sku": "1044"
     },
     {
@@ -33059,8 +33059,8 @@
           "id": "1560038424",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1560038425",
@@ -33093,11 +33093,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-branco-preto-laranja-83lc9/",
-      "lastSyncedAt": "2026-08-24T21:26:32.675Z",
+      "lastSyncedAt": "2026-08-25T19:29:58.077Z",
       "sku": "939"
     },
     {
@@ -36113,7 +36113,7 @@
           "id": "1576188439",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -36140,11 +36140,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-branco-prata-nl87w/",
-      "lastSyncedAt": "2026-08-21T01:10:36.772Z",
+      "lastSyncedAt": "2026-08-25T19:29:58.077Z",
       "sku": "1024"
     },
     {
@@ -38097,6 +38097,66 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-azul-off-white-1ca91/",
       "lastSyncedAt": "2026-08-23T20:20:19.479Z",
       "sku": "1041"
+    },
+    {
+      "id": "dx-363184245",
+      "sourceId": "363184245",
+      "slug": "samba-bege-onca-363184245",
+      "name": "SAMBA BEGE/ONÇA",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "SAMBA",
+      "description": "Tênis SAMBA BEGE/ONÇA – Linha Luxo de Alta Qualidade Apresentamos o Tênis SAMBA BEGE/ONÇA, um modelo que combina design exclusivo, conforto superior e alta durabilidade. Perfeito para quem busca um calçado estiloso e prático para o dia a dia, mantendo a elegância da nossa Linha Luxo Brasil. Por que escolher o Tênis SAMBA BEGE/ONÇA? Estilo Único e Sofisticado Com sua combinação de bege e estampa onça, o SAMBA BEGE/ONÇA traz um visual moderno e cheio de personalidade, ideal para quem quer se destacar com charme e originalidade em qualquer ocasião. Conforto para o Seu Dia a Dia Produzido com materiais de alta qualidade e palmilha acolchoada, este tênis oferece conforto prolongado, suporte ideal e ajuste perfeito, garantindo bem-estar para seus pés durante todas as suas atividades diárias. Durabilidade e Acabamento Premium Faz parte da exclusiva Linha Luxo, com acabamento refinado e resistência para manter a beleza e a forma mesmo após uso frequente, acompanhando seu ritmo sem perder o estilo. Tamanhos Disponíveis Confira a tabela com os tamanhos disponíveis do 35 ao 39, indicados em centímetros para facilitar a escolha do seu ajuste ideal: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, enviamos orientações para o envio de um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-03-18-1f14eee32788bc48d117876836810545-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-03-49-ccad301fa66f984b5717876836813287-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-03-54-2e743ef305e00dcb4217876836809686-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-03-33-27f48e9027a50cd70c17876836809318-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-03-48-80b9660dd638da324b17876836810940-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-03-51-1e00de2cdc1ecd1af417876836811669-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1584086866",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1584086868",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1584086869",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1584086870",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "colors": [],
+      "totalStock": 4,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-bege-onca-hl5ok/",
+      "lastSyncedAt": "2026-08-25T19:29:58.077Z"
     },
     {
       "id": "dx-352443635",
