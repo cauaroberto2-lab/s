@@ -1533,8 +1533,8 @@
           "id": "1540161682",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1540161683",
@@ -1553,11 +1553,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-taupe-qnife/",
-      "lastSyncedAt": "2026-08-25T19:29:58.077Z",
+      "lastSyncedAt": "2026-08-25T21:53:33.647Z",
       "sku": "815"
     },
     {
@@ -6821,8 +6821,8 @@
           "id": "1583401354",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -6834,11 +6834,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-gel-ny-preto-grafite-113gu/",
-      "lastSyncedAt": "2026-08-24T22:23:23.011Z"
+      "lastSyncedAt": "2026-08-25T21:53:33.647Z"
     },
     {
       "id": "dx-352121814",
@@ -17198,8 +17198,8 @@
           "id": "1541266270",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1541266271",
@@ -17278,11 +17278,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-sb-colab-parra-1r1yt/",
-      "lastSyncedAt": "2026-08-25T21:25:57.123Z",
+      "lastSyncedAt": "2026-08-25T21:53:33.647Z",
       "sku": "829"
     },
     {
@@ -25800,7 +25800,7 @@
           "id": "1581532111",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         }
       ],
@@ -25817,11 +25817,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 35,
+      "totalStock": 34,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-edition-chicago-bulls-1owvr/",
-      "lastSyncedAt": "2026-08-25T13:48:24.740Z",
+      "lastSyncedAt": "2026-08-25T21:53:33.647Z",
       "sku": "801"
     },
     {
@@ -28388,8 +28388,8 @@
           "id": "1564140767",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564140768",
@@ -28422,11 +28422,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-pro-15-branco-verm-marinho-9pj63/",
-      "lastSyncedAt": "2026-08-25T21:25:57.123Z",
+      "lastSyncedAt": "2026-08-25T21:53:33.647Z",
       "sku": "958"
     },
     {
@@ -28661,8 +28661,8 @@
           "id": "1527554204",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -28674,11 +28674,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/1000-all-black-ibeoq/",
-      "lastSyncedAt": "2026-08-22T17:18:38.686Z",
+      "lastSyncedAt": "2026-08-25T21:53:33.647Z",
       "sku": "773"
     },
     {
@@ -30528,7 +30528,7 @@
           "id": "1414801131",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -30580,11 +30580,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-cinza-1fzhs/",
-      "lastSyncedAt": "2026-08-24T22:23:23.011Z",
+      "lastSyncedAt": "2026-08-25T21:53:33.647Z",
       "sku": "266"
     },
     {
