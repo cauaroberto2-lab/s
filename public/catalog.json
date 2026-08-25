@@ -14112,8 +14112,8 @@
           "id": "1449594463",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1449594464",
@@ -14178,11 +14178,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-branco-preto-latex-1tj1h/",
-      "lastSyncedAt": "2026-08-24T21:54:14.649Z",
+      "lastSyncedAt": "2026-08-25T02:38:03.236Z",
       "sku": "586"
     },
     {
@@ -15870,7 +15870,7 @@
           "id": "1544997032",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -15897,11 +15897,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-verde-preto-off-b2trw/",
-      "lastSyncedAt": "2026-08-21T13:43:23.813Z",
+      "lastSyncedAt": "2026-08-25T02:38:03.236Z",
       "sku": "846"
     },
     {
@@ -15932,7 +15932,7 @@
           "id": "1557379928",
           "size": "27",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -15989,11 +15989,11 @@
         "33"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-lilas-kids-5zx0n/",
-      "lastSyncedAt": "2026-08-24T01:09:55.119Z",
+      "lastSyncedAt": "2026-08-25T02:38:03.236Z",
       "sku": "918"
     },
     {
@@ -18033,8 +18033,8 @@
           "id": "1426951263",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1426951264",
@@ -18053,11 +18053,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2k-essencial-preto-caramelo-g6x45/",
-      "lastSyncedAt": "2026-08-15T03:36:42.747Z",
+      "lastSyncedAt": "2026-08-25T02:38:03.236Z",
       "sku": "482"
     },
     {
@@ -24670,7 +24670,7 @@
           "id": "1526725581",
           "size": "M",
           "color": "Azul",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -24741,11 +24741,11 @@
         "Preto",
         "Bege"
       ],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jaqueta-zara-lchqf/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-25T02:38:03.236Z",
       "sku": "765"
     },
     {
@@ -29389,8 +29389,8 @@
           "id": "1527843561",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527843562",
@@ -29427,11 +29427,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-08-25T01:08:56.433Z",
+      "lastSyncedAt": "2026-08-25T02:38:03.236Z",
       "sku": "787"
     },
     {
@@ -42468,8 +42468,8 @@
           "id": "1555328921",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555328922",
@@ -42492,11 +42492,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-caramelo-off-vquyk/",
-      "lastSyncedAt": "2026-08-23T14:49:33.319Z",
+      "lastSyncedAt": "2026-08-25T02:38:03.236Z",
       "sku": "748"
     },
     {
