@@ -3677,43 +3677,43 @@
           "id": "1548990648",
           "size": "34",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1548990649",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1548990650",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1548990651",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1548990652",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1548990653",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -3725,11 +3725,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-creme-branco-1d0ii/",
-      "lastSyncedAt": "2026-08-22T15:45:26.273Z",
+      "lastSyncedAt": "2026-08-25T19:57:34.014Z",
       "sku": "869"
     },
     {
@@ -19771,7 +19771,7 @@
           "id": "1405149492",
           "size": "35",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -19792,7 +19792,7 @@
           "id": "1405149508",
           "size": "38",
           "color": "Padrão",
-          "stock": 11,
+          "stock": 10,
           "available": true
         },
         {
@@ -19844,11 +19844,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 44,
+      "totalStock": 42,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-25T15:40:09.634Z",
+      "lastSyncedAt": "2026-08-25T19:57:34.014Z",
       "sku": "74"
     },
     {
@@ -19872,7 +19872,7 @@
           "id": "1437928776",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -19920,11 +19920,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-marinho-off-1ffpx/",
-      "lastSyncedAt": "2026-08-25T16:34:58.554Z",
+      "lastSyncedAt": "2026-08-25T19:57:34.014Z",
       "sku": "457"
     },
     {
@@ -20225,22 +20225,22 @@
           "id": "1422246915",
           "size": "41",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1422246916",
           "size": "42",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1422246920",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -20256,11 +20256,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 39,
+      "totalStock": 36,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-nobuk-preto-nnzwh/",
-      "lastSyncedAt": "2026-08-25T15:40:09.634Z",
+      "lastSyncedAt": "2026-08-25T19:57:34.014Z",
       "sku": "21"
     },
     {
@@ -21010,8 +21010,8 @@
           "id": "1523322730",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1523322731",
@@ -21051,11 +21051,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-preto-uva-gold-3jc0d/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-08-25T19:57:34.014Z",
       "sku": "746"
     },
     {
@@ -36654,36 +36654,36 @@
           "id": "1403981725",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1403981730",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1403981734",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1403981740",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1403981744",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1403981748",
@@ -36702,11 +36702,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-pro-14-preto-grafite-81n14/",
-      "lastSyncedAt": "2026-08-22T21:19:50.207Z",
+      "lastSyncedAt": "2026-08-25T19:57:34.014Z",
       "sku": "323"
     },
     {
