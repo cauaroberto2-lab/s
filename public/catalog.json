@@ -3413,7 +3413,7 @@
           "id": "1491770275",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -3493,11 +3493,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 32,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-forum-low-velcro-branco-pto-verde-77krt/",
-      "lastSyncedAt": "2026-08-22T18:27:01.570Z",
+      "lastSyncedAt": "2026-08-25T14:42:40.278Z",
       "sku": "109"
     },
     {
@@ -15421,8 +15421,8 @@
           "id": "1401125499",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401125503",
@@ -15494,11 +15494,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-branco-beeo6/",
-      "lastSyncedAt": "2026-08-24T17:28:54.576Z",
+      "lastSyncedAt": "2026-08-25T14:42:40.278Z",
       "sku": "177"
     },
     {
