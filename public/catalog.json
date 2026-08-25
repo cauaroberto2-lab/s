@@ -32872,6 +32872,82 @@
       "sku": "850"
     },
     {
+      "id": "dx-363175875",
+      "sourceId": "363175875",
+      "slug": "new-balance-bege-castor-363175875",
+      "name": "NEW BALANCE BEGE/CASTOR",
+      "brand": "New Balance",
+      "category": "Tênis",
+      "subCategory": "NEW BALACE",
+      "description": "Tênis NEW BALANCE Bege/Castor – Linha Luxo de Alta Qualidade Apresentamos o Tênis NEW BALANCE Bege/Castor, um modelo que une conforto superior, design elegante e durabilidade para quem busca um calçado premium para o dia a dia. Por que escolher o Tênis NEW BALANCE Bege/Castor? Visual Sofisticado e Versátil O tom bege com detalhes castor traz um estilo discreto e moderno, combinando facilmente com diferentes looks, desde o casual até o mais arrumado, perfeito para qualquer ocasião. Conforto e Ajuste Impecáveis Produzido com materiais de alta qualidade e palmilha acolchoada, este tênis proporciona maciez e suporte ideal para seus pés, garantindo conforto durante todo o dia. Durabilidade e Acabamento Premium Com acabamento refinado da nossa Linha Luxo, o NEW BALANCE mantém sua forma e beleza mesmo após uso frequente, acompanhando seu ritmo sem perder a elegância. Tamanhos Disponíveis e Medidas Confira a tabela para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é muito importante para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-17-44-bb5558db6595bee39c17876819622531-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-17-45-78cb3b8a823e5410bf17876819622560-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-17-46-ed0b5ab792de25b77317876819627207-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-17-48-4b592f74af9797cb2a17876819626879-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-17-49-12ac9f85b581ce19c117876819624622-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-17-51-4a1f8d5b583902044f17876819625088-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1584051224",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1584051225",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1584051226",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1584051227",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1584051228",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1584051231",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-bege-castor-1bwqe/",
+      "lastSyncedAt": "2026-08-25T18:50:26.880Z"
+    },
+    {
       "id": "dx-363169262",
       "sourceId": "363169262",
       "slug": "new-balance-bege-castor-363169262",
@@ -39545,7 +39621,7 @@
           "id": "1567065593",
           "size": "42",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -39565,11 +39641,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sb-malor-coffe-black-fjefx/",
-      "lastSyncedAt": "2026-08-24T23:46:00.869Z",
+      "lastSyncedAt": "2026-08-25T18:50:26.880Z",
       "sku": "989"
     },
     {
