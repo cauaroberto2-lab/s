@@ -15272,8 +15272,8 @@
           "id": "1557376326",
           "size": "30",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1557376327",
@@ -15308,11 +15308,11 @@
         "33"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-kids-1ogor/",
-      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
+      "lastSyncedAt": "2026-08-25T23:23:16.043Z",
       "sku": "917"
     },
     {
