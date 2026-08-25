@@ -2150,7 +2150,7 @@
           "id": "1576961877",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -2170,11 +2170,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ad-sl-72-marrom-bordo-1mtud/",
-      "lastSyncedAt": "2026-08-24T12:45:22.572Z",
+      "lastSyncedAt": "2026-08-25T01:08:56.433Z",
       "sku": "1031"
     },
     {
@@ -19730,7 +19730,7 @@
           "id": "1405149520",
           "size": "40",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -19768,11 +19768,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 47,
+      "totalStock": 46,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-24T21:26:32.675Z",
+      "lastSyncedAt": "2026-08-25T01:08:56.433Z",
       "sku": "74"
     },
     {
@@ -29354,8 +29354,8 @@
           "id": "1527843555",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527843557",
@@ -29427,11 +29427,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-08-22T16:49:24.912Z",
+      "lastSyncedAt": "2026-08-25T01:08:56.433Z",
       "sku": "787"
     },
     {
@@ -34165,15 +34165,15 @@
           "id": "1410669492",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1410669493",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410669494",
@@ -34231,11 +34231,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/old-skool-preto-branco-xkzxj/",
-      "lastSyncedAt": "2026-08-24T19:27:36.486Z",
+      "lastSyncedAt": "2026-08-25T01:08:56.433Z",
       "sku": "279"
     },
     {
