@@ -1913,7 +1913,7 @@
           "id": "1464323002",
           "size": "40",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -1940,11 +1940,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-preto-1ovpe/",
-      "lastSyncedAt": "2026-08-24T18:52:48.452Z",
+      "lastSyncedAt": "2026-08-25T17:59:59.851Z",
       "sku": "797"
     },
     {
@@ -15593,6 +15593,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-kids-1ogsu/",
       "lastSyncedAt": "2026-08-22T15:18:28.655Z",
       "sku": "916"
+    },
+    {
+      "id": "dx-363166132",
+      "sourceId": "363166132",
+      "slug": "dunk-low-grafite-363166132",
+      "name": "DUNK LOW GRAFITE",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "DUNK LOW",
+      "description": "Tênis DUNK LOW GRAFITE – Linha Luxo de Alta Qualidade Apresentamos o Tênis DUNK LOW GRAFITE, um modelo sofisticado que une conforto, estilo e durabilidade, perfeito para o seu dia a dia. Parte da nossa exclusiva Linha Luxo, este tênis foi desenvolvido para quem busca um calçado moderno e super confortável, ideal para diferentes ocasiões. Por que escolher o Tênis DUNK LOW GRAFITE? Visual Moderno e Estiloso Com a cor grafite, o DUNK LOW oferece um tom neutro e elegante, que combina facilmente com variados looks, do casual ao urbano. Seu design clean e contemporâneo garante um visual sempre atual e atraente. Conforto para o Dia a Dia Fabricado com materiais de alta qualidade e palmilha acolchoada, este tênis proporciona uma experiência confortável durante todo o uso. É ideal para quem precisa de um calçado que suporte longas jornadas com leveza e maciez. Durabilidade e Acabamento Premium Com acabamento refinado e atenção aos detalhes, o DUNK LOW GRAFITE mantém sua forma e beleza mesmo após uso frequente. Sua construção robusta assegura resistência para acompanhar seu ritmo sem perder o estilo. Tamanhos Disponíveis Escolha o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento do produto para solicitar troca ou devolução. Para garantir a autenticidade e qualidade, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-58-46-a4578b55fe46011b7417876792269686-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-58-45-5265cf53482f3bd94117876792269585-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-58-48-5745a5fa7bfb7c47ba17876792271455-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-58-49-4e402e3f09099e4eca17876792267105-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-58-50-7a76ff60a92b20fb7717876792270269-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-11-58-47-9a9e92d59a61e4384917876792269626-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1584013011",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1584013012",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1584013014",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1584013015",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1584013016",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1584013017",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-grafite-1nemw/",
+      "lastSyncedAt": "2026-08-25T17:59:59.851Z"
     },
     {
       "id": "dx-352034962",
@@ -29793,8 +29869,8 @@
           "id": "1505634916",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1505634917",
@@ -29873,11 +29949,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-off-coffe-mosev/",
-      "lastSyncedAt": "2026-08-24T18:52:48.452Z",
+      "lastSyncedAt": "2026-08-25T17:59:59.851Z",
       "sku": "720"
     },
     {
@@ -32794,6 +32870,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-stunt-15lp1/",
       "lastSyncedAt": "2026-08-24T22:23:23.011Z",
       "sku": "850"
+    },
+    {
+      "id": "dx-363169262",
+      "sourceId": "363169262",
+      "slug": "new-balance-bege-castor-363169262",
+      "name": "NEW BALANCE BEGE/CASTOR",
+      "brand": "New Balance",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "Tênis NEW BALANCE Bege/Castor – Linha Luxo de Alta Qualidade Apresentamos o Tênis NEW BALANCE Bege/Castor, um calçado que une conforto superior, estilo elegante e qualidade premium, ideal para o seu dia a dia. Parte da exclusiva Linha Luxo, este modelo é perfeito para quem busca um tênis versátil, sofisticado e durável. Por que escolher o Tênis NEW BALANCE Bege/Castor? Design Moderno e Sofisticado Com a combinação das cores bege e castor, este tênis oferece um visual neutro e elegante que se adapta facilmente a diversos estilos e ocasiões, desde o casual até o urbano. Seu design refinado é ideal para quem quer estar sempre confortável sem abrir mão da beleza. Conforto e Ajuste Perfeito Produzido com materiais de alta qualidade, o NEW BALANCE Bege/Castor possui palmilha acolchoada que proporciona maciez e suporte durante todo o dia. Seu formato cuidadosamente elaborado garante um ajuste seguro e confortável para seus pés, perfeito para longas jornadas. Durabilidade e Acabamento Premium Com atenção especial aos detalhes e acabamento impecável, este tênis mantém sua forma, cor e resistência mesmo após uso frequente. A Linha Luxo assegura um produto durável para acompanhar seu ritmo com segurança e estilo. Tamanhos Disponíveis e Medidas Confira a tabela para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com atenção e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-18-07-1-5725374d7afc0b852617876799674277-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-18-07-4c9d968bad05bf04a317876799677976-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-18-05-3d32ec31074d0be00217876799674934-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-18-06-ef5e67b54c0d92775f17876799673609-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-18-10-fdeaecc29d9852dc5017876799678307-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-20-at-12-18-08-4b9634473ea16ca98d17876799674309-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1584023933",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1584023934",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1584023936",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1584023937",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1584023938",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1584023939",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-bege-castor-1r4mn/",
+      "lastSyncedAt": "2026-08-25T17:59:59.851Z"
     },
     {
       "id": "dx-355919707",
