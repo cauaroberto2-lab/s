@@ -22101,8 +22101,8 @@
           "id": "1430916637",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1430916638",
@@ -22142,11 +22142,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-grafite-latex-1pi5x/",
-      "lastSyncedAt": "2026-08-22T18:27:01.570Z",
+      "lastSyncedAt": "2026-08-25T10:00:09.426Z",
       "sku": "261"
     },
     {
@@ -35718,7 +35718,7 @@
           "id": "1572363139",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -35759,11 +35759,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-all-black-c7hxv/",
-      "lastSyncedAt": "2026-08-24T20:30:54.945Z",
+      "lastSyncedAt": "2026-08-25T10:00:09.426Z",
       "sku": "1013"
     },
     {
