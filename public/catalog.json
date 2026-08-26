@@ -31942,8 +31942,8 @@
           "id": "1559567669",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559567671",
@@ -31990,11 +31990,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-530-branco-prata-k3o6r/",
-      "lastSyncedAt": "2026-08-11T20:40:54.247Z",
+      "lastSyncedAt": "2026-08-26T01:11:00.587Z",
       "sku": "927"
     },
     {
