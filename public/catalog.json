@@ -2331,7 +2331,7 @@
           "id": "1568807187",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -2358,11 +2358,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/add-classic-branco-preto-cinza-g6v62/",
-      "lastSyncedAt": "2026-08-14T22:20:22.662Z",
+      "lastSyncedAt": "2026-08-26T13:59:28.969Z",
       "sku": "1003"
     },
     {
@@ -6839,7 +6839,8 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-gel-ny-preto-grafite-113gu/",
-      "lastSyncedAt": "2026-08-25T21:53:33.647Z"
+      "lastSyncedAt": "2026-08-26T13:59:28.969Z",
+      "sku": "1048"
     },
     {
       "id": "dx-352121814",
@@ -14949,7 +14950,7 @@
           "id": "1401025256",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -15001,11 +15002,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-cinza-verde-pnm9e/",
-      "lastSyncedAt": "2026-08-21T14:32:48.386Z",
+      "lastSyncedAt": "2026-08-26T13:59:28.969Z",
       "sku": "190"
     },
     {
@@ -16337,8 +16338,8 @@
           "id": "1401101215",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1401101220",
@@ -16403,11 +16404,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 29,
+      "totalStock": 30,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-25T19:29:58.077Z",
+      "lastSyncedAt": "2026-08-26T13:59:28.969Z",
       "sku": "105"
     },
     {
@@ -23036,21 +23037,21 @@
           "id": "1438069893",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1438069895",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1438069896",
           "size": "40",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -23116,11 +23117,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-branco-off-oxovh/",
-      "lastSyncedAt": "2026-08-25T21:25:57.123Z",
+      "lastSyncedAt": "2026-08-26T13:59:28.969Z",
       "sku": "562"
     },
     {
@@ -33832,7 +33833,7 @@
           "id": "1545028950",
           "size": "41",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -33859,11 +33860,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-preto-cinza-11fvf/",
-      "lastSyncedAt": "2026-08-24T01:09:55.119Z",
+      "lastSyncedAt": "2026-08-26T13:59:28.969Z",
       "sku": "848"
     },
     {
@@ -38157,7 +38158,8 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-bege-onca-hl5ok/",
-      "lastSyncedAt": "2026-08-25T19:29:58.077Z"
+      "lastSyncedAt": "2026-08-26T13:59:28.969Z",
+      "sku": "1046"
     },
     {
       "id": "dx-352443635",
@@ -43558,8 +43560,8 @@
           "id": "1410589492",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410589495",
@@ -43596,11 +43598,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-verde-off-jilr9/",
-      "lastSyncedAt": "2026-08-18T17:54:12.674Z",
+      "lastSyncedAt": "2026-08-26T13:59:28.969Z",
       "sku": "217"
     },
     {
