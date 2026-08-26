@@ -1287,7 +1287,7 @@
           "id": "1583342864",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
@@ -1321,11 +1321,12 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-marrom-cacau-fqrsc/",
-      "lastSyncedAt": "2026-08-25T23:48:50.582Z"
+      "lastSyncedAt": "2026-08-26T16:16:09.158Z",
+      "sku": "1053"
     },
     {
       "id": "dx-356805545",
@@ -4995,7 +4996,7 @@
           "id": "1494015891",
           "size": "40",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -5029,11 +5030,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adzero-boston-11-branco-limao-1aklb/",
-      "lastSyncedAt": "2026-08-25T16:34:58.554Z",
+      "lastSyncedAt": "2026-08-26T16:16:09.158Z",
       "sku": "453"
     },
     {
@@ -16226,8 +16227,8 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-marrom-off-ahmrq/",
-      "lastSyncedAt": "2026-08-25T16:34:58.554Z",
-      "sku": "712"
+      "lastSyncedAt": "2026-08-26T16:16:09.158Z",
+      "sku": "1054"
     },
     {
       "id": "dx-320835198",
@@ -22379,8 +22380,8 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-preto-camurca-preto-latex-5i709/",
-      "lastSyncedAt": "2026-08-22T17:18:38.686Z",
-      "sku": "78"
+      "lastSyncedAt": "2026-08-26T16:16:09.158Z",
+      "sku": "1052"
     },
     {
       "id": "dx-322834443",
@@ -23046,8 +23047,8 @@
           "id": "1438069895",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1438069896",
@@ -23119,11 +23120,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-branco-off-oxovh/",
-      "lastSyncedAt": "2026-08-26T13:59:28.969Z",
+      "lastSyncedAt": "2026-08-26T16:16:09.158Z",
       "sku": "562"
     },
     {
@@ -23432,7 +23433,8 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-marrom-off-white-4yq3f/",
-      "lastSyncedAt": "2026-08-22T18:27:01.570Z"
+      "lastSyncedAt": "2026-08-26T16:16:09.158Z",
+      "sku": "1051"
     },
     {
       "id": "dx-338761952",
@@ -32260,8 +32262,8 @@
           "id": "1564446832",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564446833",
@@ -32301,11 +32303,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-branco-cinza-off-1iwxn/",
-      "lastSyncedAt": "2026-08-24T21:26:32.675Z",
+      "lastSyncedAt": "2026-08-26T16:16:09.158Z",
       "sku": "970"
     },
     {
@@ -40616,8 +40618,8 @@
           "id": "1555665386",
           "size": "42/43",
           "color": "Cinza",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -40631,11 +40633,11 @@
         "Preto",
         "Cinza"
       ],
-      "totalStock": 12,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/slide-mind-preto-d2p85/",
-      "lastSyncedAt": "2026-08-26T12:59:46.687Z",
+      "lastSyncedAt": "2026-08-26T16:16:09.158Z",
       "sku": "897"
     },
     {
