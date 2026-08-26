@@ -2099,7 +2099,8 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-talp-bege-off-w0an9/",
-      "lastSyncedAt": "2026-08-24T21:54:14.649Z"
+      "lastSyncedAt": "2026-08-26T14:53:11.954Z",
+      "sku": "1049"
     },
     {
       "id": "dx-361056080",
@@ -16895,8 +16896,8 @@
           "id": "1583360465",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1583360467",
@@ -16923,8 +16924,8 @@
           "id": "1583360473",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1583360476",
@@ -16943,11 +16944,12 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-z-cinza-preto-hw9e4/",
-      "lastSyncedAt": "2026-08-25T16:34:58.554Z"
+      "lastSyncedAt": "2026-08-26T14:53:11.954Z",
+      "sku": "1050"
     },
     {
       "id": "dx-325020134",
@@ -30785,8 +30787,8 @@
           "id": "1529158736",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1529158737",
@@ -30844,11 +30846,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-grafitte-off-3ijvt/",
-      "lastSyncedAt": "2026-08-25T12:42:52.431Z",
+      "lastSyncedAt": "2026-08-26T14:53:11.954Z",
       "sku": "782"
     },
     {
@@ -38184,8 +38186,8 @@
           "id": "1549300085",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549300086",
@@ -38232,11 +38234,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-bordo-latex-1iu10/",
-      "lastSyncedAt": "2026-08-25T17:29:55.278Z",
+      "lastSyncedAt": "2026-08-26T14:53:11.954Z",
       "sku": "872"
     },
     {
