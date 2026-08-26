@@ -700,14 +700,14 @@
           "id": "1544191171",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1544191172",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 6,
           "available": true
         },
         {
@@ -721,22 +721,22 @@
           "id": "1544191174",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1544191175",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1544191176",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1544191177",
@@ -780,11 +780,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-1qzac/",
-      "lastSyncedAt": "2026-08-24T18:52:48.452Z",
+      "lastSyncedAt": "2026-08-26T12:59:46.687Z",
       "sku": "840"
     },
     {
@@ -3884,7 +3884,8 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-azul-off-white-qdr31/",
-      "lastSyncedAt": "2026-08-24T21:26:32.675Z"
+      "lastSyncedAt": "2026-08-26T12:59:46.687Z",
+      "sku": "1045"
     },
     {
       "id": "dx-354727911",
@@ -15251,8 +15252,8 @@
           "id": "1557376322",
           "size": "27",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1557376323",
@@ -15308,11 +15309,11 @@
         "33"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-kids-1ogor/",
-      "lastSyncedAt": "2026-08-25T23:23:16.043Z",
+      "lastSyncedAt": "2026-08-26T12:59:46.687Z",
       "sku": "917"
     },
     {
@@ -27041,8 +27042,8 @@
           "id": "1423380666",
           "size": "32",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1423380669",
@@ -27063,11 +27064,11 @@
         "33"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/kids-2000-rosa-branco-1ssbi/",
-      "lastSyncedAt": "2026-08-20T14:34:14.829Z",
+      "lastSyncedAt": "2026-08-26T12:59:46.687Z",
       "sku": "549"
     },
     {
@@ -40534,8 +40535,8 @@
           "id": "1555665357",
           "size": "36/37",
           "color": "Bege",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555665359",
@@ -40626,11 +40627,11 @@
         "Preto",
         "Cinza"
       ],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/slide-mind-preto-d2p85/",
-      "lastSyncedAt": "2026-08-25T17:29:55.278Z",
+      "lastSyncedAt": "2026-08-26T12:59:46.687Z",
       "sku": "897"
     },
     {
