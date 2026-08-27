@@ -15648,8 +15648,8 @@
           "id": "1584013016",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1584013017",
@@ -15668,11 +15668,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-grafite-1nemw/",
-      "lastSyncedAt": "2026-08-25T17:59:59.851Z"
+      "lastSyncedAt": "2026-08-27T10:09:25.813Z"
     },
     {
       "id": "dx-352034962",
@@ -16203,8 +16203,8 @@
           "id": "1581734920",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1581734921",
@@ -16223,11 +16223,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-marrom-off-ahmrq/",
-      "lastSyncedAt": "2026-08-26T16:16:09.158Z",
+      "lastSyncedAt": "2026-08-27T10:09:25.813Z",
       "sku": "1054"
     },
     {
@@ -18924,7 +18924,7 @@
           "id": "1564197154",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -18941,11 +18941,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 33,
+      "totalStock": 32,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-air-force-caramelo-4am9b/",
-      "lastSyncedAt": "2026-08-27T00:27:18.724Z",
+      "lastSyncedAt": "2026-08-27T10:09:25.813Z",
       "sku": "961"
     },
     {
@@ -19452,7 +19452,7 @@
           "id": "1581265206",
           "size": "43",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         }
       ],
@@ -19469,11 +19469,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 42,
+      "totalStock": 41,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-nobuk-2-1pfpw/",
-      "lastSyncedAt": "2026-08-26T18:16:05.958Z",
+      "lastSyncedAt": "2026-08-27T10:09:25.813Z",
       "sku": "1039"
     },
     {
@@ -29725,7 +29725,7 @@
           "id": "1527843554",
           "size": "34",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -29805,11 +29805,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-08-25T02:38:03.236Z",
+      "lastSyncedAt": "2026-08-27T10:09:25.813Z",
       "sku": "787"
     },
     {
@@ -36804,43 +36804,43 @@
           "id": "1413881409",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1413881415",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1413881417",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1413881418",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1413881421",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1413881425",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -36852,11 +36852,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pro-14-branco-grafite-2osvb/",
-      "lastSyncedAt": "2026-08-20T21:25:46.129Z",
+      "lastSyncedAt": "2026-08-27T10:09:25.813Z",
       "sku": "325"
     },
     {
@@ -40403,8 +40403,8 @@
           "id": "1568298342",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1568298344",
@@ -40423,11 +40423,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-pro-off-preto-1fsb2/",
-      "lastSyncedAt": "2026-08-24T21:26:32.675Z",
+      "lastSyncedAt": "2026-08-27T10:09:25.813Z",
       "sku": "997"
     },
     {
