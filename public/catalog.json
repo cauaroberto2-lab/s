@@ -210,8 +210,8 @@
           "id": "1504176773",
           "size": "34",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504176778",
@@ -290,11 +290,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-08-29T13:56:13.652Z",
+      "lastSyncedAt": "2026-08-29T20:25:42.324Z",
       "sku": "715"
     },
     {
@@ -700,7 +700,7 @@
           "id": "1544191171",
           "size": "34",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -780,11 +780,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-1qzac/",
-      "lastSyncedAt": "2026-08-27T20:40:56.759Z",
+      "lastSyncedAt": "2026-08-29T20:25:42.324Z",
       "sku": "840"
     },
     {
@@ -4659,8 +4659,8 @@
           "id": "1522494579",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1522494580",
@@ -4683,11 +4683,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-superstar-classic-1xaxr/",
-      "lastSyncedAt": "2026-08-26T20:32:40.579Z",
+      "lastSyncedAt": "2026-08-29T20:25:42.324Z",
       "sku": "377"
     },
     {
@@ -20257,7 +20257,7 @@
           "id": "1437928780",
           "size": "39",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -20298,11 +20298,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-marinho-off-1ffpx/",
-      "lastSyncedAt": "2026-08-26T20:32:40.579Z",
+      "lastSyncedAt": "2026-08-29T20:25:42.324Z",
       "sku": "457"
     },
     {
@@ -22784,7 +22784,7 @@
           "id": "1430823388",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -22857,11 +22857,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-branco-18ixt/",
-      "lastSyncedAt": "2026-08-24T23:46:00.869Z",
+      "lastSyncedAt": "2026-08-29T20:25:42.324Z",
       "sku": "78"
     },
     {
@@ -30585,7 +30585,7 @@
           "id": "1586143019",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -30625,11 +30625,11 @@
         "40"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-branco-prata-grafite-1sy84/",
-      "lastSyncedAt": "2026-08-28T17:36:26.570Z",
+      "lastSyncedAt": "2026-08-29T20:25:42.324Z",
       "sku": "1060"
     },
     {
@@ -37797,7 +37797,7 @@
           "id": "1408054896",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -37842,11 +37842,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-preto-branco-7q01e/",
-      "lastSyncedAt": "2026-08-28T05:06:32.653Z",
+      "lastSyncedAt": "2026-08-29T20:25:42.324Z",
       "sku": "28"
     },
     {
@@ -38767,8 +38767,8 @@
           "id": "1563404960",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1563404963",
@@ -38791,11 +38791,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-180-preto-1uksu/",
-      "lastSyncedAt": "2026-08-12T18:27:50.488Z",
+      "lastSyncedAt": "2026-08-29T20:25:42.324Z",
       "sku": "718"
     },
     {
@@ -39028,8 +39028,8 @@
           "id": "1397242251",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1397242252",
@@ -39087,11 +39087,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/suede-xl-c5p43/",
-      "lastSyncedAt": "2026-08-27T20:40:56.759Z",
+      "lastSyncedAt": "2026-08-29T20:25:42.324Z",
       "sku": "45"
     },
     {
@@ -39281,7 +39281,7 @@
           "id": "1567431003",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -39305,11 +39305,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-suede-xl-creme-preto-1wnwq/",
-      "lastSyncedAt": "2026-08-29T01:28:10.314Z",
+      "lastSyncedAt": "2026-08-29T20:25:42.324Z",
       "sku": "376"
     },
     {
@@ -44236,7 +44236,7 @@
           "id": "1583427632",
           "size": "41",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -44267,11 +44267,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 29,
+      "totalStock": 28,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-cacau-off-white-hhrac/",
-      "lastSyncedAt": "2026-08-29T01:28:10.314Z",
+      "lastSyncedAt": "2026-08-29T20:25:42.324Z",
       "sku": "968"
     },
     {
