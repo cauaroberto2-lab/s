@@ -1900,7 +1900,7 @@
           "id": "1464322999",
           "size": "42",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -1941,11 +1941,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-preto-1ovpe/",
-      "lastSyncedAt": "2026-08-27T20:40:56.759Z",
+      "lastSyncedAt": "2026-08-29T08:14:26.280Z",
       "sku": "797"
     },
     {
@@ -26689,8 +26689,8 @@
           "id": "1581538635",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1581538636",
@@ -26713,11 +26713,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 48,
+      "totalStock": 47,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-lakers-edition-16sk2/",
-      "lastSyncedAt": "2026-08-26T18:16:05.958Z",
+      "lastSyncedAt": "2026-08-29T08:14:26.280Z",
       "sku": "1044"
     },
     {
@@ -32522,7 +32522,7 @@
           "id": "1586436920",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -32542,11 +32542,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-elite-off-white-preto-1imf7/",
-      "lastSyncedAt": "2026-08-29T01:28:10.314Z",
+      "lastSyncedAt": "2026-08-29T08:14:26.280Z",
       "sku": "1067"
     },
     {
@@ -35355,7 +35355,7 @@
           "id": "1548955611",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -35375,11 +35375,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-branco-latex-1qfyy/",
-      "lastSyncedAt": "2026-08-27T20:40:56.759Z",
+      "lastSyncedAt": "2026-08-29T08:14:26.280Z",
       "sku": "864"
     },
     {
