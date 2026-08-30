@@ -428,8 +428,8 @@
           "id": "1542939177",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -441,11 +441,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-all-black-camurca-12hji/",
-      "lastSyncedAt": "2026-08-15T15:45:26.952Z",
+      "lastSyncedAt": "2026-08-30T17:40:50.971Z",
       "sku": "836"
     },
     {
@@ -14096,8 +14096,8 @@
           "id": "1413614723",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1413614725",
@@ -14120,11 +14120,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/court-vision-preto-branco-19alo/",
-      "lastSyncedAt": "2026-08-25T17:29:55.278Z",
+      "lastSyncedAt": "2026-08-30T17:40:50.971Z",
       "sku": "37"
     },
     {
@@ -18612,7 +18612,7 @@
           "id": "1510161624",
           "size": "40",
           "color": "Padrão",
-          "stock": 8,
+          "stock": 7,
           "available": true
         },
         {
@@ -18646,11 +18646,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 30,
+      "totalStock": 29,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-all-black-1suo5/",
-      "lastSyncedAt": "2026-08-29T17:31:49.202Z",
+      "lastSyncedAt": "2026-08-30T17:40:50.971Z",
       "sku": "34"
     },
     {
@@ -26356,14 +26356,14 @@
           "id": "1536581662",
           "size": "41",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1536581664",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -26415,11 +26415,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 33,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-edition-chicago-bulls-1owvr/",
-      "lastSyncedAt": "2026-08-29T01:28:10.314Z",
+      "lastSyncedAt": "2026-08-30T17:40:50.971Z",
       "sku": "801"
     },
     {
@@ -28739,7 +28739,7 @@
           "id": "1410616712",
           "size": "42",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -28763,11 +28763,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/knu-skool-marinho-jeans-7tjdu/",
-      "lastSyncedAt": "2026-08-29T01:28:10.314Z",
+      "lastSyncedAt": "2026-08-30T17:40:50.971Z",
       "sku": "437"
     },
     {
@@ -33999,7 +33999,7 @@
           "id": "1564217906",
           "size": "34",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -34047,11 +34047,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-off-nude-bronze-sqtbl/",
-      "lastSyncedAt": "2026-08-30T07:04:45.782Z",
+      "lastSyncedAt": "2026-08-30T17:40:50.971Z",
       "sku": "962"
     },
     {
@@ -34653,7 +34653,7 @@
           "id": "1585860153",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -34687,11 +34687,11 @@
         "40"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-cinza-branco-kojww/",
-      "lastSyncedAt": "2026-08-28T05:06:32.653Z",
+      "lastSyncedAt": "2026-08-30T17:40:50.971Z",
       "sku": "1057"
     },
     {
@@ -38269,7 +38269,7 @@
           "id": "1403981740",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -38296,11 +38296,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-pro-14-preto-grafite-81n14/",
-      "lastSyncedAt": "2026-08-26T18:16:05.958Z",
+      "lastSyncedAt": "2026-08-30T17:40:50.971Z",
       "sku": "323"
     },
     {
@@ -39581,7 +39581,7 @@
           "id": "1465465532",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -39608,11 +39608,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-areia-coffe-9kqq9/",
-      "lastSyncedAt": "2026-08-27T20:40:56.759Z",
+      "lastSyncedAt": "2026-08-30T17:40:50.971Z",
       "sku": "644"
     },
     {
@@ -41031,7 +41031,7 @@
           "id": "1553737123",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -41065,11 +41065,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sambae-branco-verde-ztpf6/",
-      "lastSyncedAt": "2026-08-29T01:28:10.314Z",
+      "lastSyncedAt": "2026-08-30T17:40:50.971Z",
       "sku": "883"
     },
     {
