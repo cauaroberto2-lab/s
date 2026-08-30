@@ -1893,8 +1893,8 @@
           "id": "1464322997",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1464322999",
@@ -1941,11 +1941,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-preto-1ovpe/",
-      "lastSyncedAt": "2026-08-29T08:14:26.280Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "797"
     },
     {
@@ -5306,7 +5306,7 @@
           "id": "1559647186",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -5340,11 +5340,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-preto-rosa-1muc3/",
-      "lastSyncedAt": "2026-08-28T05:06:32.653Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "932"
     },
     {
@@ -15309,7 +15309,7 @@
           "id": "1472856058",
           "size": "36",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -15375,11 +15375,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 36,
+      "totalStock": 35,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-verde-musgo-m17pb/",
-      "lastSyncedAt": "2026-08-27T00:27:18.724Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "665"
     },
     {
@@ -15702,7 +15702,7 @@
           "id": "1401125509",
           "size": "37",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -15761,11 +15761,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 41,
+      "totalStock": 40,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-branco-beeo6/",
-      "lastSyncedAt": "2026-08-29T22:43:48.518Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "177"
     },
     {
@@ -16618,7 +16618,7 @@
           "id": "1401101224",
           "size": "38",
           "color": "Padrão",
-          "stock": 8,
+          "stock": 7,
           "available": true
         },
         {
@@ -16670,11 +16670,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 28,
+      "totalStock": 27,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-08-29T17:31:49.202Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "105"
     },
     {
@@ -19181,7 +19181,7 @@
           "id": "1564197153",
           "size": "42",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -19205,11 +19205,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 30,
+      "totalStock": 29,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-air-force-caramelo-4am9b/",
-      "lastSyncedAt": "2026-08-29T01:28:10.314Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "961"
     },
     {
@@ -20156,7 +20156,7 @@
           "id": "1405149495",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 6,
           "available": true
         },
         {
@@ -20198,7 +20198,7 @@
           "id": "1405149527",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -20226,7 +20226,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "74"
     },
     {
@@ -26363,8 +26363,8 @@
           "id": "1536581664",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1536581666",
@@ -26415,11 +26415,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 31,
+      "totalStock": 30,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-edition-chicago-bulls-1owvr/",
-      "lastSyncedAt": "2026-08-30T17:40:50.971Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "801"
     },
     {
@@ -27175,7 +27175,7 @@
           "id": "1555829672",
           "size": "42",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -27195,11 +27195,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 34,
+      "totalStock": 33,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-storm-branco-cc6vo/",
-      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "900"
     },
     {
@@ -29362,7 +29362,7 @@
           "id": "1585851442",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -29396,11 +29396,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-pro-15-preto-azul-amarelo-limao-nnywp/",
-      "lastSyncedAt": "2026-08-28T05:06:32.653Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "1056"
     },
     {
@@ -31990,8 +31990,8 @@
           "id": "1492877361",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1492877362",
@@ -32017,11 +32017,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-creme-bordo-a58fz/",
-      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "705"
     },
     {
@@ -33795,8 +33795,8 @@
           "id": "1544953715",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1544953716",
@@ -33815,11 +33815,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-caramelo-off-1rd7p/",
-      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "844"
     },
     {
@@ -34430,7 +34430,7 @@
           "id": "1584023937",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
@@ -34457,11 +34457,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-bege-castor-1r4mn/",
-      "lastSyncedAt": "2026-08-30T20:34:48.215Z"
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z"
     },
     {
       "id": "dx-363958443",
@@ -39790,8 +39790,8 @@
           "id": "1549300087",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549300089",
@@ -39824,11 +39824,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-bordo-latex-1iu10/",
-      "lastSyncedAt": "2026-08-26T14:53:11.954Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "872"
     },
     {
@@ -41102,7 +41102,7 @@
           "id": "1578351717",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -41143,11 +41143,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sapatenis-tommy-h-bege-n8dzh/",
-      "lastSyncedAt": "2026-08-19T16:39:29.921Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "1025"
     },
     {
@@ -44229,7 +44229,7 @@
           "id": "1583427631",
           "size": "40",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -44267,11 +44267,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 28,
+      "totalStock": 27,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-cacau-off-white-hhrac/",
-      "lastSyncedAt": "2026-08-29T20:25:42.324Z",
+      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
       "sku": "968"
     },
     {
