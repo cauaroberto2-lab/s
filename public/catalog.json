@@ -7843,7 +7843,7 @@
           "id": "1536280592",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -7863,11 +7863,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/beta-azul-marinho-branco-k83qd/",
-      "lastSyncedAt": "2026-08-27T00:27:18.724Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "798"
     },
     {
@@ -20149,14 +20149,14 @@
           "id": "1405149492",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1405149495",
           "size": "36",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -20222,11 +20222,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 27,
+      "totalStock": 25,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-08-29T17:31:49.202Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "74"
     },
     {
@@ -21263,8 +21263,8 @@
           "id": "1553870390",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -21276,11 +21276,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-preto-cinza-off-2jnj9/",
-      "lastSyncedAt": "2026-08-21T01:10:36.772Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "884"
     },
     {
@@ -21635,8 +21635,8 @@
           "id": "1564529853",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1564529854",
@@ -21662,11 +21662,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-air-force-shark-hrhil/",
-      "lastSyncedAt": "2026-08-28T05:06:32.653Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "974"
     },
     {
@@ -22963,7 +22963,7 @@
           "id": "1422295699",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -23043,11 +23043,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-verde-summer-camp-a3yc8/",
-      "lastSyncedAt": "2026-08-29T22:43:48.518Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "97"
     },
     {
@@ -27147,43 +27147,43 @@
           "id": "1555829667",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1555829668",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 6,
+          "available": true
         },
         {
           "id": "1555829670",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 9,
+          "available": true
         },
         {
           "id": "1555829671",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 9,
+          "available": true
         },
         {
           "id": "1555829672",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 6,
+          "available": true
         },
         {
           "id": "1555829673",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         }
       ],
       "sizes": [
@@ -27195,11 +27195,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 34,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-storm-branco-cc6vo/",
-      "lastSyncedAt": "2026-08-03T18:16:07.872Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "900"
     },
     {
@@ -29206,7 +29206,7 @@
           "id": "1585778176",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -29240,11 +29240,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-pro-15-branco-ouro-d2dx1/",
-      "lastSyncedAt": "2026-08-28T17:36:26.570Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "1066"
     },
     {
@@ -29460,8 +29460,8 @@
           "id": "1532634946",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -29473,11 +29473,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-wave-beta-cinza-branco-1kox4/",
-      "lastSyncedAt": "2026-08-24T23:20:18.052Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "794"
     },
     {
@@ -31983,7 +31983,7 @@
           "id": "1492877360",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -32017,11 +32017,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-creme-bordo-a58fz/",
-      "lastSyncedAt": "2026-08-29T17:31:49.202Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "705"
     },
     {
@@ -32678,7 +32678,7 @@
           "id": "1586193315",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -32698,11 +32698,11 @@
         "40"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-sc-elite-off-white-pink-44lwe/",
-      "lastSyncedAt": "2026-08-28T17:36:26.570Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "1063"
     },
     {
@@ -33795,8 +33795,8 @@
           "id": "1544953715",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1544953716",
@@ -33815,11 +33815,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-caramelo-off-1rd7p/",
-      "lastSyncedAt": "2026-08-20T17:26:50.213Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "844"
     },
     {
@@ -34430,7 +34430,7 @@
           "id": "1584023937",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -34457,11 +34457,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-bege-castor-1r4mn/",
-      "lastSyncedAt": "2026-08-25T17:59:59.851Z"
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z"
     },
     {
       "id": "dx-363958443",
@@ -39567,8 +39567,8 @@
           "id": "1465465530",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1465465531",
@@ -39608,11 +39608,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-areia-coffe-9kqq9/",
-      "lastSyncedAt": "2026-08-30T17:40:50.971Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "644"
     },
     {
@@ -39936,8 +39936,8 @@
           "id": "1464242896",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1464242899",
@@ -39977,11 +39977,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-azul-bb-9qmlj/",
-      "lastSyncedAt": "2026-08-28T17:36:26.570Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "338"
     },
     {
@@ -40446,8 +40446,8 @@
           "id": "1428234852",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1428234853",
@@ -40466,11 +40466,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-preto-latex-yo39o/",
-      "lastSyncedAt": "2026-08-29T01:28:10.314Z",
+      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
       "sku": "27"
     },
     {
