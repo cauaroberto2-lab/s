@@ -8098,6 +8098,70 @@
       "sku": "335"
     },
     {
+      "id": "dx-364713759",
+      "sourceId": "364713759",
+      "slug": "bota-cano-curto-com-strass-364713759",
+      "name": "Bota cano curto com strass",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "BOTA",
+      "description": "Bota Cano Curto com Strass Roma – Sofisticação e Conforto em Cada Passo Descubra a elegância da Bota Roma, confeccionada em PU de alta qualidade, perfeita para quem busca um calçado resistente e cheio de estilo para o dia a dia ou ocasiões especiais. Seu design com detalhes em strass adiciona um toque de brilho discreto e sofisticado. Conforto garantido com ajuste perfeito, disponível nos tamanhos 34 ao 39. Atenção: a bota possui confecção pequena, vista como um número menor, por isso sugerimos escolher um tamanho acima do seu habitual (exemplo: 34/35, 35/36). Confira a tabela para encontrar o tamanho ideal: | Tamanho (BR) | Equivale a (BR) | Comprimento do Pé (cm) | |--------------|-----------------|------------------------| | 34 | 34/35 | 22,5 | | 35 | 35/36 | 23,0 | | 36 | 36/37 | 24,0 | | 37 | 37/38 | 25,0 | | 38 | 38/39 | 25,5 | | 39 | 26,0 | Além do visual marcante, a Bota Roma oferece durabilidade e acabamento premium que mantém sua forma e beleza mesmo após usos frequentes.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/chatgpt-image-1-de-set-de-2026-19_08_00-f991de98b261f0ae1a17883005195314-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/chatgpt-image-1-de-set-de-2026-19_10_26-43be98eb2437007f0217883006355669-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1588633896",
+          "size": "33",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1588633897",
+          "size": "35/36",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1588633898",
+          "size": "36/37",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1588633899",
+          "size": "37/38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1588633900",
+          "size": "38/39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "33",
+        "35/36",
+        "36/37",
+        "37/38",
+        "38/39"
+      ],
+      "colors": [],
+      "totalStock": 5,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/bota-cano-curto-com-strass-16j9a/",
+      "lastSyncedAt": "2026-09-01T23:47:49.035Z"
+    },
+    {
       "id": "dx-352469722",
       "sourceId": "352469722",
       "slug": "bota-capa-giorgia-bico-fino-352469722",
@@ -12291,8 +12355,8 @@
           "id": "1541037388",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1541037389",
@@ -12311,11 +12375,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-cinza-grafite-1jq2v/",
-      "lastSyncedAt": "2026-08-15T20:19:56.936Z",
+      "lastSyncedAt": "2026-09-01T23:47:49.035Z",
       "sku": "824"
     },
     {
@@ -12544,7 +12608,7 @@
           "id": "1525178768",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
@@ -12571,11 +12635,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-off-black-1e0ea/",
-      "lastSyncedAt": "2026-08-07T00:23:43.319Z",
+      "lastSyncedAt": "2026-09-01T23:47:49.035Z",
       "sku": "763"
     },
     {
@@ -15491,7 +15555,7 @@
           "id": "1401232957",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -15533,8 +15597,8 @@
           "id": "1401232984",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401232991",
@@ -15557,11 +15621,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 35,
+      "totalStock": 33,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-08-29T13:56:13.652Z",
+      "lastSyncedAt": "2026-09-01T23:47:49.035Z",
       "sku": "166"
     },
     {
@@ -15798,8 +15862,8 @@
           "id": "1401125522",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401125526",
@@ -15836,11 +15900,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 37,
+      "totalStock": 36,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-branco-beeo6/",
-      "lastSyncedAt": "2026-09-01T21:54:15.968Z",
+      "lastSyncedAt": "2026-09-01T23:47:49.035Z",
       "sku": "177"
     },
     {
@@ -18430,8 +18494,8 @@
           "id": "1555941817",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1555947370",
@@ -18475,11 +18539,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-vintage-navy-10s3k/",
-      "lastSyncedAt": "2026-08-21T15:30:43.193Z",
+      "lastSyncedAt": "2026-09-01T23:47:49.035Z",
       "sku": "904"
     },
     {
@@ -23033,7 +23097,7 @@
           "id": "1430823391",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -23085,11 +23149,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-branco-18ixt/",
-      "lastSyncedAt": "2026-09-01T19:12:23.418Z",
+      "lastSyncedAt": "2026-09-01T23:47:49.035Z",
       "sku": "78"
     },
     {
@@ -33789,7 +33853,7 @@
           "id": "1407307700",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -33855,11 +33919,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-08-29T17:31:49.202Z",
+      "lastSyncedAt": "2026-09-01T23:47:49.035Z",
       "sku": "205"
     },
     {
@@ -39084,8 +39148,8 @@
           "id": "1564291678",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564291679",
@@ -39119,8 +39183,8 @@
           "id": "1564291683",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -39132,11 +39196,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-180-ice-cinza-amdzc/",
-      "lastSyncedAt": "2026-08-31T07:26:53.141Z",
+      "lastSyncedAt": "2026-09-01T23:47:49.035Z",
       "sku": "966"
     },
     {
@@ -40403,8 +40467,8 @@
           "id": "1549300086",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549300087",
@@ -40417,7 +40481,7 @@
           "id": "1549300089",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
@@ -40431,8 +40495,8 @@
           "id": "1549300092",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -40444,11 +40508,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-bordo-latex-1iu10/",
-      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
+      "lastSyncedAt": "2026-09-01T23:47:49.035Z",
       "sku": "872"
     },
     {
@@ -40563,7 +40627,7 @@
           "id": "1464242899",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -40597,11 +40661,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-azul-bb-9qmlj/",
-      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
+      "lastSyncedAt": "2026-09-01T23:47:49.035Z",
       "sku": "338"
     },
     {
