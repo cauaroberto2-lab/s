@@ -2110,12 +2110,12 @@
       "name": "AD 2000 GELO/PRETO",
       "brand": "Adidas",
       "category": "Tênis",
-      "subCategory": "ADIDAS",
+      "subCategory": "2000",
       "description": "Tênis AD 2000 GELO/PRETO – Linha Premium de Alta Qualidade Apresentamos o Tênis AD 2000 GELO/PRETO, um calçado premium que une design moderno, conforto superior e durabilidade excepcional. Ideal para quem busca estilo e praticidade para o dia a dia, este modelo é a escolha perfeita para acompanhar seu ritmo com elegância. Por que escolher o Tênis AD 2000 GELO/PRETO? Visual Moderno e Super Estiloso Com a combinação elegante do gelo e preto, o AD 2000 traz um visual sofisticado e versátil que combina com diversas ocasiões, seja no trabalho, lazer ou passeios casuais. Conforto Incomparável Fabricado com materiais de alta qualidade e tecnologia de palmilha acolchoada, este tênis oferece conforto duradouro para seus pés, tornando-o perfeito para uso contínuo ao longo do dia. Durabilidade e Acabamento Premium Produzido com atenção aos detalhes, o AD 2000 mantém sua forma e beleza mesmo após uso intenso, garantindo um produto resistente e confiável da linha premium. Tamanhos Disponíveis Escolha o tamanho ideal para seus pés conferindo a tabela abaixo com as medidas em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é prioridade para nós. Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-28-at-12-45-44-59d6c23cbdd524192117879321661772-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-28-at-12-45-44-1-033b06bd44e4cde74b17879321657732-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-28-at-12-45-44-2-a6fa63e6be3445b11717879321657912-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-28-at-12-45-44-1-033b06bd44e4cde74b17879321657732-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-28-at-12-45-45-53b9ddc3400c3a19e817879321660966-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-28-at-12-45-45-1-9a3df766a450a02b7e17879321657765-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-28-at-12-45-45-2-ae8ea22f9fcfd9779217879321657935-1024-1024.webp"
@@ -2177,7 +2177,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ad-2000-gelo-preto-1x7if/",
-      "lastSyncedAt": "2026-08-28T17:36:26.570Z",
+      "lastSyncedAt": "2026-09-01T05:33:06.003Z",
       "sku": "1064"
     },
     {
@@ -3345,8 +3345,8 @@
           "id": "1564413976",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564413978",
@@ -3386,11 +3386,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-drop-step-preto-grafite-qd4ab/",
-      "lastSyncedAt": "2026-08-29T17:31:49.202Z",
+      "lastSyncedAt": "2026-09-01T05:33:06.003Z",
       "sku": "969"
     },
     {
@@ -29515,7 +29515,7 @@
           "id": "1585851442",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -29549,11 +29549,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-pro-15-preto-azul-amarelo-limao-nnywp/",
-      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
+      "lastSyncedAt": "2026-09-01T05:33:06.003Z",
       "sku": "1056"
     },
     {
@@ -44527,7 +44527,7 @@
       "name": "VANS NEO CACAU OFF WHITE",
       "brand": "Vans",
       "category": "Tênis",
-      "subCategory": "VANS",
+      "subCategory": "NEO",
       "description": "Tênis VANS NEO CACAU OFF WHITE – Linha Premium de Alta Qualidade Apresentamos o Tênis VANS NEO CACAU OFF WHITE, um calçado que une estilo moderno, conforto excepcional e durabilidade, perfeito para quem busca um produto premium e super confortável para o dia a dia. Por que escolher o VANS NEO CACAU OFF WHITE? Design Estiloso e Versátil Com seu tom off white elegante e detalhes que remetem ao cacau, este tênis oferece um visual clean e sofisticado, ideal para combinar com diversos looks do cotidiano, seja para o trabalho, lazer ou passeios. Conforto Superior Produzido com materiais de alta qualidade e palmilha acolchoada, o VANS NEO proporciona um ajuste perfeito e conforto prolongado, garantindo bem-estar para os seus pés durante todo o dia. Durabilidade e Acabamento Premium Com atenção especial aos detalhes e acabamento refinado, este tênis mantém sua forma e beleza mesmo após uso contínuo, evidenciando a qualidade da nossa linha premium. Tamanhos Disponíveis Confira a tabela abaixo para escolher o tamanho ideal de acordo com o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22,5 | | 35 | 23,0 | | 36 | 24,0 | | 37 | 25,0 | | 38 | 25,0 | | 39 | 26,0 | | 40 | 27,0 | | 41 | 27,5 | | 42 | 29,0 | | 43 | 29,5 | Dica: Meça seu pé cuidadosamente e compare com a tabela para garantir o ajuste perfeito! Política de Troca Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-23-at-14-27-52-7f8ee7d5267c202e8d17848293701460-1024-1024.webp",
@@ -44627,7 +44627,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-cacau-off-white-hhrac/",
-      "lastSyncedAt": "2026-08-30T23:10:35.833Z",
+      "lastSyncedAt": "2026-09-01T05:33:06.003Z",
       "sku": "968"
     },
     {
