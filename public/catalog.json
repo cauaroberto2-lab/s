@@ -3342,8 +3342,8 @@
           "id": "1571472147",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1572170036",
@@ -3370,7 +3370,7 @@
           "id": "1572170039",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         }
       ],
@@ -3387,11 +3387,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-prime-x3-aqua-e8vn2/",
-      "lastSyncedAt": "2026-09-02T17:00:35.892Z",
+      "lastSyncedAt": "2026-09-03T13:49:05.653Z",
       "sku": "1007"
     },
     {
@@ -20724,7 +20724,7 @@
           "id": "1405149508",
           "size": "38",
           "color": "Padrão",
-          "stock": 8,
+          "stock": 7,
           "available": true
         },
         {
@@ -20776,11 +20776,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-09-01T21:54:15.968Z",
+      "lastSyncedAt": "2026-09-03T13:49:05.653Z",
       "sku": "74"
     },
     {
@@ -26577,7 +26577,7 @@
           "id": "1588585020",
           "size": "42",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -26601,11 +26601,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 40,
+      "totalStock": 39,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-cinza-gelo-branco-mlljo/",
-      "lastSyncedAt": "2026-09-01T21:54:15.968Z",
+      "lastSyncedAt": "2026-09-03T13:49:05.653Z",
       "sku": "1005"
     },
     {
@@ -29569,7 +29569,7 @@
           "id": "1409296770",
           "size": "39",
           "color": "Padrão",
-          "stock": 10,
+          "stock": 9,
           "available": true
         },
         {
@@ -29614,11 +29614,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 58,
+      "totalStock": 57,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/knu-skool-preto-branco-4p3cp/",
-      "lastSyncedAt": "2026-09-02T22:22:05.461Z",
+      "lastSyncedAt": "2026-09-03T13:49:05.653Z",
       "sku": "195"
     },
     {
@@ -29935,7 +29935,7 @@
           "id": "1585778174",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -29983,11 +29983,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-pro-15-branco-ouro-d2dx1/",
-      "lastSyncedAt": "2026-08-30T20:34:48.215Z",
+      "lastSyncedAt": "2026-09-03T13:49:05.653Z",
       "sku": "1066"
     },
     {
@@ -32063,7 +32063,7 @@
           "id": "1527852490",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
@@ -32084,11 +32084,11 @@
         "40"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-725-off-white-rose-1y74g/",
-      "lastSyncedAt": "2026-09-02T17:00:35.892Z",
+      "lastSyncedAt": "2026-09-03T13:49:05.653Z",
       "sku": "776"
     },
     {
@@ -33815,8 +33815,8 @@
           "id": "1559908522",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -33828,11 +33828,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-preto-grafite-jne37/",
-      "lastSyncedAt": "2026-09-02T19:41:48.678Z",
+      "lastSyncedAt": "2026-09-03T13:49:05.653Z",
       "sku": "936"
     },
     {
@@ -40036,8 +40036,8 @@
           "id": "1397242251",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1397242252",
@@ -40095,11 +40095,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/suede-xl-c5p43/",
-      "lastSyncedAt": "2026-09-02T19:41:48.678Z",
+      "lastSyncedAt": "2026-09-03T13:49:05.653Z",
       "sku": "45"
     },
     {
@@ -40666,7 +40666,7 @@
           "id": "1581720249",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
@@ -40693,11 +40693,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-azul-off-white-1ca91/",
-      "lastSyncedAt": "2026-08-27T20:40:56.759Z",
+      "lastSyncedAt": "2026-09-03T13:49:05.653Z",
       "sku": "1041"
     },
     {
@@ -41456,8 +41456,8 @@
           "id": "1428234850",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1428234851",
@@ -41490,11 +41490,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-preto-latex-yo39o/",
-      "lastSyncedAt": "2026-09-02T22:22:05.461Z",
+      "lastSyncedAt": "2026-09-03T13:49:05.653Z",
       "sku": "27"
     },
     {
