@@ -42383,8 +42383,8 @@
           "id": "1541165082",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1541165083",
@@ -42410,11 +42410,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-verde-camurca-1oo40/",
-      "lastSyncedAt": "2026-08-20T17:26:50.213Z",
+      "lastSyncedAt": "2026-09-06T15:14:40.886Z",
       "sku": "826"
     },
     {
