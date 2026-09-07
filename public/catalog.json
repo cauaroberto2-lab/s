@@ -19864,7 +19864,7 @@
           "id": "1510192748",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -19937,11 +19937,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-branco-preto-1yyd4/",
-      "lastSyncedAt": "2026-09-04T18:06:04.190Z",
+      "lastSyncedAt": "2026-09-07T20:04:53.761Z",
       "sku": "163"
     },
     {
@@ -21592,7 +21592,7 @@
           "id": "1422246911",
           "size": "40",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -21630,11 +21630,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 27,
+      "totalStock": 26,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-nobuk-preto-nnzwh/",
-      "lastSyncedAt": "2026-09-05T21:57:36.705Z",
+      "lastSyncedAt": "2026-09-07T20:04:53.761Z",
       "sku": "21"
     },
     {
@@ -25860,8 +25860,8 @@
           "id": "1521048032",
           "size": "M",
           "color": "Preto",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1521048035",
@@ -25886,11 +25886,11 @@
       "colors": [
         "Preto"
       ],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jaqueta-bomber-nk-1uy5k/",
-      "lastSyncedAt": "2026-08-17T19:51:11.408Z"
+      "lastSyncedAt": "2026-09-07T20:04:53.761Z"
     },
     {
       "id": "dx-355190776",
@@ -39265,8 +39265,8 @@
           "id": "1408054884",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1408054892",
@@ -39324,11 +39324,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-preto-branco-7q01e/",
-      "lastSyncedAt": "2026-09-05T17:54:52.061Z",
+      "lastSyncedAt": "2026-09-07T20:04:53.761Z",
       "sku": "28"
     },
     {
