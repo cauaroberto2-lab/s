@@ -1822,8 +1822,8 @@
           "id": "1567414044",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1567414045",
@@ -1856,11 +1856,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-marrom-1d9ct/",
-      "lastSyncedAt": "2026-09-08T21:18:53.910Z",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
       "sku": "991"
     },
     {
@@ -3152,7 +3152,7 @@
           "id": "1504862355",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -3193,11 +3193,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-grafite-latex-1ymnd/",
-      "lastSyncedAt": "2026-09-07T16:16:39.501Z",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
       "sku": "717"
     },
     {
@@ -3681,7 +3681,7 @@
           "id": "1590604182",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -3719,11 +3719,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-forum-low-84-cinza-1qell/",
-      "lastSyncedAt": "2026-09-06T22:04:56.091Z",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
       "sku": "1081"
     },
     {
@@ -23134,8 +23134,8 @@
           "id": "1532541081",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -23147,11 +23147,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-marrom-1qon1/",
-      "lastSyncedAt": "2026-09-08T10:36:08.004Z",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
       "sku": "792"
     },
     {
@@ -28019,7 +28019,7 @@
           "id": "1567748520",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -28085,11 +28085,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-panda-reverse-gauzm/",
-      "lastSyncedAt": "2026-08-19T19:23:13.665Z",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
       "sku": "993"
     },
     {
@@ -30211,6 +30211,76 @@
       "sku": "329"
     },
     {
+      "id": "dx-366212924",
+      "sourceId": "366212924",
+      "slug": "mizuno-preto-vermelho-366212924",
+      "name": "MIZUNO PRETO VERMELHO",
+      "brand": "Mizuno",
+      "category": "Tênis",
+      "subCategory": "MIZUNO",
+      "description": "Tênis MIZUNO Preto Vermelho – Linha Premium de Alta Qualidade Conheça o Tênis MIZUNO Preto Vermelho, um calçado de linha premium que une estilo, conforto e qualidade para o seu dia a dia. Com design moderno e cores marcantes, ele é ideal para quem busca um tênis super estiloso e confortável para acompanhar todas as suas atividades. Por que escolher o Tênis MIZUNO Preto Vermelho? Design moderno e exclusivo O contraste entre o preto e o vermelho oferece um visual arrojado e versátil, perfeito para quem quer se destacar com elegância em qualquer ocasião. Conforto que dura o dia todo Produzido com materiais de alta qualidade, este tênis proporciona um ajuste perfeito e conforto superior, garantindo leveza e suporte para seus passos, seja no trabalho, lazer ou caminhada. Durabilidade e qualidade Premium Com acabamento cuidadoso e componentes resistentes, este modelo foi pensado para durar, mantendo sua beleza e funcionalidade mesmo após uso diário. Tamanhos Disponíveis e Medidas (Brasil - BR) Para garantir o melhor ajuste, confira a tabela com os tamanhos e o comprimento do pé em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado para escolher o tamanho ideal e garantir o máximo conforto. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento. Para garantir a autenticidade e qualidade do produto, solicitamos o envio de um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-08-at-18-47-19-2-4906bea77ffa74107317889043504153-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-08-at-18-47-18-2-8630ad145192f751af17889043503932-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-08-at-18-47-20-6c752d7535b000e62417889043502267-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-08-at-18-47-18-1-d47afbe39fca3c07d717889043503319-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-08-at-18-47-19-a5ca458d4276ed38a317889043505078-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-08-at-18-47-19-1-309427e0a1ffc8518e17889043504272-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-08-at-18-47-18-db8a84b238caee791d17889043506390-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1592890524",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1592890525",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1592890526",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1592890527",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1592890528",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "colors": [],
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-preto-vermelho-117h4/",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
+      "sku": "1084"
+    },
+    {
       "id": "dx-363799677",
       "sourceId": "363799677",
       "slug": "mizuno-pro-12-cinza-laranja-363799677",
@@ -30940,8 +31010,8 @@
           "id": "1586182033",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1586182034",
@@ -30988,11 +31058,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-1000-off-white-cinza-1jlf2/",
-      "lastSyncedAt": "2026-09-04T18:06:04.190Z",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
       "sku": "1062"
     },
     {
@@ -32676,7 +32746,7 @@
           "id": "1414822658",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -32710,11 +32780,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-1ib5e/",
-      "lastSyncedAt": "2026-09-08T21:18:53.910Z",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
       "sku": "421"
     },
     {
@@ -33186,7 +33256,7 @@
           "id": "1492877356",
           "size": "34",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -33234,11 +33304,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-creme-bordo-a58fz/",
-      "lastSyncedAt": "2026-09-07T00:10:43.240Z",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
       "sku": "705"
     },
     {
@@ -33456,8 +33526,8 @@
           "id": "1527430931",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527430932",
@@ -33497,11 +33567,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-of-vinho-erpyp/",
-      "lastSyncedAt": "2026-08-31T20:57:53.936Z",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
       "sku": "772"
     },
     {
@@ -34527,7 +34597,7 @@
           "id": "1408175875",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -34593,11 +34663,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-bege-cafe-wxs1u/",
-      "lastSyncedAt": "2026-09-05T19:56:45.880Z",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
       "sku": "207"
     },
     {
@@ -35610,8 +35680,8 @@
           "id": "1564217907",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564217908",
@@ -35651,11 +35721,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-off-nude-bronze-sqtbl/",
-      "lastSyncedAt": "2026-09-08T18:18:41.864Z",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
       "sku": "962"
     },
     {
@@ -38138,8 +38208,8 @@
           "id": "1413203725",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1413203726",
@@ -38179,11 +38249,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/cloudeclipse-rose-off-1rp8b/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
       "sku": "506"
     },
     {
@@ -45992,7 +46062,7 @@
           "id": "1521343728",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -46006,8 +46076,8 @@
           "id": "1521343734",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1521343735",
@@ -46058,11 +46128,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-off-white-nf3r0/",
-      "lastSyncedAt": "2026-08-28T05:06:32.653Z",
+      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
       "sku": "743"
     },
     {
