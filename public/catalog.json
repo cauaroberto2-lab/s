@@ -1433,8 +1433,8 @@
           "id": "1583342864",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1583342865",
@@ -1467,11 +1467,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-marrom-cacau-fqrsc/",
-      "lastSyncedAt": "2026-09-04T18:06:04.190Z",
+      "lastSyncedAt": "2026-09-09T13:04:15.605Z",
       "sku": "1053"
     },
     {
@@ -17296,7 +17296,7 @@
           "id": "1581734918",
           "size": "40",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -17330,11 +17330,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-marrom-off-ahmrq/",
-      "lastSyncedAt": "2026-09-01T19:12:23.418Z",
+      "lastSyncedAt": "2026-09-09T13:04:15.605Z",
       "sku": "1054"
     },
     {
@@ -33179,15 +33179,15 @@
           "id": "1423090057",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1423090059",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1423090060",
@@ -33231,7 +33231,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-creme-branco-eqxrs/",
-      "lastSyncedAt": "2026-09-08T18:18:41.864Z",
+      "lastSyncedAt": "2026-09-09T13:04:15.605Z",
       "sku": "431"
     },
     {
@@ -45347,7 +45347,7 @@
           "id": "1540240070",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -45381,11 +45381,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ultraranger-3d-cinza-grafite-m3o6z/",
-      "lastSyncedAt": "2026-09-08T21:18:53.910Z",
+      "lastSyncedAt": "2026-09-09T13:04:15.605Z",
       "sku": "817"
     },
     {
