@@ -2060,7 +2060,7 @@
           "id": "1464323002",
           "size": "40",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -2087,11 +2087,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-preto-1ovpe/",
-      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "797"
     },
     {
@@ -2375,8 +2375,8 @@
           "id": "1576961877",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1576961878",
@@ -2395,11 +2395,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ad-sl-72-marrom-bordo-1mtud/",
-      "lastSyncedAt": "2026-09-10T17:47:08.418Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "1031"
     },
     {
@@ -3235,8 +3235,8 @@
           "id": "1396798299",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1396798303",
@@ -3269,11 +3269,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-preto-branco-60xu0/",
-      "lastSyncedAt": "2026-09-05T15:46:51.275Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "89"
     },
     {
@@ -3810,7 +3810,7 @@
           "id": "1529573485",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -3827,11 +3827,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-forum-low-velcro-branco-pto-verde-77krt/",
-      "lastSyncedAt": "2026-09-10T17:47:08.418Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "109"
     },
     {
@@ -4725,8 +4725,8 @@
           "id": "1560231747",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1560231748",
@@ -4752,11 +4752,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-supernova-preto-prata-off-12ulo/",
-      "lastSyncedAt": "2026-08-21T20:23:16.294Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "944"
     },
     {
@@ -5252,8 +5252,8 @@
           "id": "1494038807",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1494038808",
@@ -5286,11 +5286,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-azul-celeste-16jok/",
-      "lastSyncedAt": "2026-09-08T18:18:41.864Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "120"
     },
     {
@@ -5960,42 +5960,42 @@
           "id": "1594356233",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1594356234",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1594356235",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1594356236",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1594356237",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1594356238",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         }
       ],
@@ -6008,11 +6008,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-force-cinza-hrsyc/",
-      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "1085"
     },
     {
@@ -6212,7 +6212,7 @@
           "id": "1590577356",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -6239,11 +6239,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-axcee-branco-cinza-verde-hpiif/",
-      "lastSyncedAt": "2026-09-08T21:18:53.910Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "1080"
     },
     {
@@ -9252,6 +9252,150 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/bota-over-the-knee-cano-alto-montaria-oll89/",
       "lastSyncedAt": "2026-09-01T19:12:23.418Z",
       "sku": "877"
+    },
+    {
+      "id": "dx-366690363",
+      "sourceId": "366690363",
+      "slug": "bota-roma-marrom-366690363",
+      "name": "Bota Roma Marrom",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "BOTA",
+      "description": "Bota Roma Marrom – Elegância e Conforto em Couro PU Descubra a Bota Roma Marrom, um calçado que une estilo clássico, conforto excepcional e alta durabilidade, perfeito para quem busca um toque sofisticado no dia a dia. Por que escolher a Bota Roma Marrom? Visual Sofisticado e Atemporal Com acabamento em couro PU na cor marrom, esta bota oferece um visual elegante e versátil, ideal para compor looks casuais ou mais refinados. Seu design atemporal faz dela uma peça-chave para todas as estações. Conforto que Acompanha Seus Passos Produzida com materiais de alta qualidade, a Bota Roma possui palmilha acolchoada que garante maciez e suporte durante o uso prolongado. Seu formato ergonômico proporciona ajuste perfeito do tamanho 34 ao 39, para você caminhar com segurança e conforto. Durabilidade e Acabamento Premium Com atenção aos detalhes e acabamento impecável, a Bota Roma mantém seu charme e resistência mesmo após uso frequente. Sua sola robusta oferece estabilidade para diversas superfícies. Tamanhos Disponíveis (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade, envie um vídeo original da bota, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/chatgpt-image-10-de-set-de-2026-17_45_13-2f3f3adeb972cfc9da17890731876663-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/chatgpt-image-10-de-set-de-2026-17_56_47-ab68462a34ebf9938217890738197595-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1594460018",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594460020",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594460022",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594460023",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594460025",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594460026",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/bota-roma-marrom-18ygt/",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z"
+    },
+    {
+      "id": "dx-366682978",
+      "sourceId": "366682978",
+      "slug": "bota-roma-metalica-366682978",
+      "name": "Bota Roma Metálica",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "BOTA",
+      "description": "Bota Roma Metálica – Elegância e Estilo em Couro PU Brilhoso Descubra a Bota Roma Metálica, uma das nossas botas mais vendidas, perfeita para quem busca sofisticação com conforto. Confeccionada em couro PU de alta qualidade, seu acabamento brilhoso destaca o visual moderno com um toque metálico irresistível. O design de bico fino confere um ar elegante e versátil, ideal para diversas ocasiões, do casual ao social. Disponível nos tamanhos 34 ao 39, garante o ajuste perfeito para seus pés com estilo e segurança. Por que escolher a Bota Roma Metálica? - Couro PU com brilho exclusivo - Bico fino para um visual chique e contemporâneo - Tamanhos variados para seu conforto",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/chatgpt-image-10-de-set-de-2026-17_39_57-77940c32518fc13d1417890728080064-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/chatgpt-image-10-de-set-de-2026-17_43_04-8e635c9bf364aae90417890730015847-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1594442035",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594442036",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594442038",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594442039",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594442040",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594442045",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/bota-roma-metalica-m07k0/",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z"
     },
     {
       "id": "dx-356479521",
@@ -18613,7 +18757,7 @@
           "id": "1555141292",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -18637,11 +18781,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-sb-colab-parra-1r1yt/",
-      "lastSyncedAt": "2026-09-04T18:06:04.190Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "829"
     },
     {
@@ -23193,8 +23337,8 @@
           "id": "1532541071",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1532541072",
@@ -23241,11 +23385,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-marrom-1qon1/",
-      "lastSyncedAt": "2026-09-09T17:13:27.207Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "792"
     },
     {
@@ -24905,15 +25049,15 @@
           "id": "1450658303",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1450658304",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -24925,11 +25069,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-grafite-off-1hcnh/",
-      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "465"
     },
     {
@@ -25044,7 +25188,7 @@
           "id": "1505714309",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -25078,11 +25222,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-natural-off-8ru8x/",
-      "lastSyncedAt": "2026-09-02T19:41:48.678Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "464"
     },
     {
@@ -25440,8 +25584,8 @@
           "id": "1565067518",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1565067521",
@@ -25485,11 +25629,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-preto-musgo-1ylnz/",
-      "lastSyncedAt": "2026-09-04T14:47:15.398Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "921"
     },
     {
@@ -26339,8 +26483,8 @@
           "id": "1526725583",
           "size": "M",
           "color": "Bege",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1526725584",
@@ -26353,8 +26497,8 @@
           "id": "1526725585",
           "size": "G",
           "color": "Preto",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1526725586",
@@ -26396,11 +26540,11 @@
         "Preto",
         "Bege"
       ],
-      "totalStock": 5,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jaqueta-zara-lchqf/",
-      "lastSyncedAt": "2026-08-25T02:38:03.236Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "765"
     },
     {
@@ -30123,7 +30267,7 @@
           "id": "1409296767",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
@@ -30182,12 +30326,242 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 47,
+      "totalStock": 45,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/knu-skool-preto-branco-4p3cp/",
-      "lastSyncedAt": "2026-09-10T17:47:08.418Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "195"
+    },
+    {
+      "id": "dx-366670255",
+      "sourceId": "366670255",
+      "slug": "lacoste-all-black-366670255",
+      "name": "LACOSTE ALL BLACK",
+      "brand": "Lacoste",
+      "category": "Tênis",
+      "subCategory": "LACOSTE",
+      "description": "Tênis LACOSTE PRETO – Linha Luxo de Alta Qualidade Apresentamos o Tênis LACOSTE PRETO, um calçado elegante, confortável e durável, ideal para quem busca um produto premium da nossa exclusiva Linha Luxo. Perfeito para o dia a dia, ele une estilo e qualidade para acompanhar você em todas as ocasiões. Por que escolher o Tênis LACOSTE PRETO? Design Sofisticado e Estiloso Com sua cor preta clássica, o LACOSTE PRETO traz um visual moderno e versátil que combina facilmente com diferentes estilos. Seu acabamento refinado ressalta a elegância, tornando-o ideal para quem deseja estar sempre na moda com um toque discreto e luxuoso. Conforto para o Seu Dia a Dia Produzido com materiais de alta qualidade, este tênis oferece conforto superior graças à palmilha acolchoada e ao design ergonômico que garante suporte e maciez para seus pés durante todo o dia, seja no trabalho, lazer ou passeios. Alta Durabilidade e Acabamento Premium Com atenção aos detalhes e acabamento primoroso, o Tênis LACOSTE PRETO mantém sua forma e aparência mesmo após uso contínuo, refletindo a excelência da Linha Luxo. Tamanhos Disponíveis (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé cuidadosamente e consulte a tabela para garantir o ajuste perfeito e o máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, é necessário enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-48-06-3-9de1be5523cd42616a17890709071891-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-47-59-0f2e075e2f2469f70c17890709076122-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-48-06-2-4e67cbc8074b65965917890709072051-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-48-06-7203c74a103a0dec5f17890709070875-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-47-58-1-df6cac1357cd98a10117890709071159-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-48-06-1-e292ec00d4259e559e17890709072186-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1594406065",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594406068",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594406069",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594406070",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1594406071",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594406072",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/lacoste-preto-qg343/",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z"
+    },
+    {
+      "id": "dx-366679463",
+      "sourceId": "366679463",
+      "slug": "lacoste-bege-caramelo-366679463",
+      "name": "LACOSTE BEGE/CARAMELO",
+      "brand": "Lacoste",
+      "category": "Tênis",
+      "subCategory": "LACOSTE",
+      "description": "Tênis LACOSTE Bege/Caramelo – Linha Luxo de Alta Qualidade Apresentamos o Tênis LACOSTE Bege/Caramelo, um calçado que une design sofisticado, conforto excepcional e durabilidade, ideal para quem busca elegância e praticidade no dia a dia. Por que escolher o Tênis LACOSTE Bege/Caramelo? Visual Estiloso e Versátil Com uma combinação de tons bege e caramelo, este tênis traz um toque de sofisticação discreta que combina facilmente com diversos estilos, do casual ao urbano, tornando-o perfeito para qualquer ocasião. Conforto para o Seu Dia a Dia Produzido com materiais de alta qualidade, o tênis possui palmilha acolchoada que garante maciez e suporte, proporcionando conforto prolongado para seus pés em todas as atividades diárias. Durabilidade e Acabamento Premium Com atenção aos detalhes e acabamento refinado, o Tênis LACOSTE mantém sua forma e beleza mesmo após uso frequente, garantindo um produto resistente e elegante. Tamanhos Disponíveis e Medidas (BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o tamanho ideal e o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para assegurar a autenticidade e qualidade do produto, solicitamos o envio de um vídeo original do tênis, sem sinais de uso. Adquira já o seu Tênis LACOSTE Bege/Caramelo e experimente a perfeita combinação entre conforto, estilo e alta qualidade da nossa exclusiva Linha Luxo. Dê passos confiantes e elegantes todos os dias!",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-50-19-2c04813f3728beaca117890722508103-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-50-18-3-98da405ecd2aaa5ee617890722508121-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-50-19-1-be072c7e2fad96e51c17890722510690-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-50-18-1-7a0eb6145391cf287d17890722508201-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-50-18-5a9a63c8fa0fd1420d17890722508270-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-50-18-4-5a3d7bcff6783770cb17890722507920-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-50-18-2-2a02393e1239ebede217890722510893-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1594432596",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594432597",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594432598",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1594432599",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1594432600",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594432601",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/lacoste-bege-caramelo-hc6u4/",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z"
+    },
+    {
+      "id": "dx-366684603",
+      "sourceId": "366684603",
+      "slug": "lacoste-bege-cinza-366684603",
+      "name": "LACOSTE BEGE/CINZA",
+      "brand": "Lacoste",
+      "category": "Tênis",
+      "subCategory": "LACOSTE",
+      "description": "Tênis LACOSTE BEGE/CINZA – Linha Luxo de Alta Qualidade Apresentamos o Tênis LACOSTE BEGE/CINZA, um modelo que une design elegante, conforto superior e durabilidade, perfeito para o seu dia a dia com muito estilo. Integrante da nossa exclusiva Linha Luxo, este tênis é ideal para quem busca um calçado versátil e sofisticado. Por que escolher o Tênis LACOSTE BEGE/CINZA? Visual Sofisticado e Moderno Com uma combinação de cores neutras em bege e cinza, este tênis oferece um visual discreto e elegante, fácil de combinar com diferentes looks — do casual ao mais arrumado. Conforto para o Seu Dia a Dia Fabricado com materiais de alta qualidade e palmilha acolchoada, o LACOSTE BEGE/CINZA garante conforto excepcional e suporte para seus pés durante toda a rotina, seja para trabalhar, passear ou praticar atividades leves. Durabilidade e Acabamento Premium Este modelo possui acabamento refinado e resistência que acompanham seu ritmo sem perder a forma ou o estilo, mantendo a qualidade da Linha Luxo mesmo após uso contínuo. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça cuidadosamente o seu pé e consulte a tabela para garantir o tamanho ideal e o máximo conforto. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para assegurar a qualidade e a autenticidade do produto, é necessário enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-50-02-d1255d7f9937e120dc17890730822001-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-17-21-20-2-7820b90c433e58ffe817890728635532-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-17-21-19-1-47732217a6e3285c6317890728634992-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-17-21-19-a465d2c6e07477e37817890728636388-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-17-21-20-1-ad70feb92c4f2d676917890728635594-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-17-21-20-0dfd5f901c6d6cd1fb17890728635295-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-17-21-20-3-5abc4843ac71e8900017890728642258-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1594446542",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1594446543",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594446545",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1594446546",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1594446547",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594446548",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/lacoste-bege-cinza-b3u6y/",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z"
     },
     {
       "id": "dx-366665929",
@@ -30263,82 +30637,6 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/lacoste-branco-verde-14qfh/",
-      "lastSyncedAt": "2026-09-10T20:26:14.565Z"
-    },
-    {
-      "id": "dx-366670255",
-      "sourceId": "366670255",
-      "slug": "lacoste-preto-366670255",
-      "name": "LACOSTE PRETO",
-      "brand": "Lacoste",
-      "category": "Tênis",
-      "subCategory": "LACOSTE",
-      "description": "Tênis LACOSTE PRETO – Linha Luxo de Alta Qualidade Apresentamos o Tênis LACOSTE PRETO, um calçado elegante, confortável e durável, ideal para quem busca um produto premium da nossa exclusiva Linha Luxo. Perfeito para o dia a dia, ele une estilo e qualidade para acompanhar você em todas as ocasiões. Por que escolher o Tênis LACOSTE PRETO? Design Sofisticado e Estiloso Com sua cor preta clássica, o LACOSTE PRETO traz um visual moderno e versátil que combina facilmente com diferentes estilos. Seu acabamento refinado ressalta a elegância, tornando-o ideal para quem deseja estar sempre na moda com um toque discreto e luxuoso. Conforto para o Seu Dia a Dia Produzido com materiais de alta qualidade, este tênis oferece conforto superior graças à palmilha acolchoada e ao design ergonômico que garante suporte e maciez para seus pés durante todo o dia, seja no trabalho, lazer ou passeios. Alta Durabilidade e Acabamento Premium Com atenção aos detalhes e acabamento primoroso, o Tênis LACOSTE PRETO mantém sua forma e aparência mesmo após uso contínuo, refletindo a excelência da Linha Luxo. Tamanhos Disponíveis (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé cuidadosamente e consulte a tabela para garantir o ajuste perfeito e o máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, é necessário enviar um vídeo original do tênis, sem sinais de uso.",
-      "images": [
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-48-06-3-9de1be5523cd42616a17890709071891-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-47-59-0f2e075e2f2469f70c17890709076122-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-48-06-2-4e67cbc8074b65965917890709072051-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-48-06-7203c74a103a0dec5f17890709070875-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-47-58-1-df6cac1357cd98a10117890709071159-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-48-06-1-e292ec00d4259e559e17890709072186-1024-1024.webp"
-      ],
-      "variants": [
-        {
-          "id": "1594406065",
-          "size": "38",
-          "color": "Padrão",
-          "stock": 1,
-          "available": true
-        },
-        {
-          "id": "1594406068",
-          "size": "39",
-          "color": "Padrão",
-          "stock": 2,
-          "available": true
-        },
-        {
-          "id": "1594406069",
-          "size": "40",
-          "color": "Padrão",
-          "stock": 2,
-          "available": true
-        },
-        {
-          "id": "1594406070",
-          "size": "41",
-          "color": "Padrão",
-          "stock": 2,
-          "available": true
-        },
-        {
-          "id": "1594406071",
-          "size": "42",
-          "color": "Padrão",
-          "stock": 2,
-          "available": true
-        },
-        {
-          "id": "1594406072",
-          "size": "43",
-          "color": "Padrão",
-          "stock": 1,
-          "available": true
-        }
-      ],
-      "sizes": [
-        "38",
-        "39",
-        "40",
-        "41",
-        "42",
-        "43"
-      ],
-      "colors": [],
-      "totalStock": 10,
-      "available": true,
-      "archived": false,
-      "sourceUrl": "https://dxstoreimports.com.br/produtos/lacoste-preto-qg343/",
       "lastSyncedAt": "2026-09-10T20:26:14.565Z"
     },
     {
@@ -33356,7 +33654,7 @@
           "id": "1414801128",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -33429,11 +33727,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-cinza-1fzhs/",
-      "lastSyncedAt": "2026-09-04T18:06:04.190Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "266"
     },
     {
@@ -33697,6 +33995,84 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-grafitte-off-3ijvt/",
       "lastSyncedAt": "2026-09-02T17:00:35.892Z",
       "sku": "782"
+    },
+    {
+      "id": "dx-366704427",
+      "sourceId": "366704427",
+      "slug": "nb-9060-marrom-366704427",
+      "name": "NB 9060 MARROM",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "NEW BALACE",
+      "description": "NEW BALANCE 9060 MARROM – Tênis de Alta Qualidade da Linha Luxo Apresentamos o NEW BALANCE 9060 MARROM, um tênis que combina estilo sofisticado, conforto excepcional e durabilidade, perfeito para quem busca um calçado premium da nossa exclusiva Linha Luxo. Por que escolher o NEW BALANCE 9060 MARROM? Visual elegante e versátil Com sua cor marrom única e acabamento refinado, este modelo oferece um design moderno que se adapta facilmente a diferentes estilos, do casual ao urbano, garantindo um visual discreto e cheio de personalidade. Conforto e resistência para o seu dia a dia O NEW BALANCE 9060 MARROM possui sola emborrachada de alta qualidade, oferecendo ótima aderência e estabilidade em várias superfícies. Seu design ergonômico proporciona leveza e conforto para acompanhar você durante todo o dia. Qualidade premium da Linha Luxo Fabricado com materiais cuidadosamente selecionados e acabamento impecável, este tênis mantém a beleza e a performance mesmo após uso frequente. A Linha Luxo é sinônimo de produtos para consumidores exigentes que valorizam cada detalhe. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o melhor ajuste e conforto. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-48-47-83ee5ef23b130ce03217890763217396-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-48-54-d1939015b729a5abd417890763220379-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-48-50-fc0f42db2a789f191d17890763216252-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-48-53-06d1429aabe0bf0f8217890763217173-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-48-55-7b1f8ceee3aad6c97317890763217451-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-48-52-fc3b197fbce8b34b9417890763217636-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-48-56-3ac26eb7746fc8711017890763217535-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1594499757",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594499759",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594499760",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1594499761",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594499762",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594499763",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-marrom-2ahp6/",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
+      "sku": "1086"
     },
     {
       "id": "dx-345280889",
@@ -34227,7 +34603,7 @@
           "id": "1589361241",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -34261,11 +34637,11 @@
         "40"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-elite-off-white-rose-ocga0/",
-      "lastSyncedAt": "2026-09-02T19:41:48.678Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "1076"
     },
     {
@@ -35183,8 +35559,8 @@
           "id": "1407307710",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1407307717",
@@ -35235,11 +35611,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-09-09T22:19:26.012Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "205"
     },
     {
@@ -36888,6 +37264,161 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-ambush-branco-ckhaz/",
       "lastSyncedAt": "2026-08-24T19:56:18.653Z",
       "sku": "1038"
+    },
+    {
+      "id": "dx-366698058",
+      "sourceId": "366698058",
+      "slug": "nike-ambush-cinza-preto-366698058",
+      "name": "NIKE AMBUSH CINZA/PRETO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "NIKE",
+      "description": "NIKE AMBUSH CINZA/PRETO – Tênis de Alta Qualidade da Linha Luxo Apresentamos o NIKE AMBUSH CINZA/PRETO, um tênis que une estilo contemporâneo, conforto superior e durabilidade excepcional, perfeito para quem busca um calçado premium da nossa exclusiva Linha Luxo. Por que escolher o NIKE AMBUSH CINZA/PRETO? Design Moderno e Sofisticado Com uma combinação elegante de cinza e preto, o NIKE AMBUSH traz um visual versátil que se adapta facilmente a diferentes estilos e ocasiões, do casual ao urbano, garantindo personalidade e sofisticação aos seus passos. Conforto e Ajuste Ideal Produzido com materiais de alta qualidade e palmilha acolchoada, este tênis oferece maciez e suporte que acompanham seus pés durante todo o dia, proporcionando conforto mesmo nas atividades mais intensas. Durabilidade e Acabamento Premium A atenção aos mínimos detalhes e o acabamento refinado garantem que o NIKE AMBUSH mantenha sua forma, cor e beleza mesmo após uso frequente, assegurando um produto resistente e duradouro. Tamanhos Disponíveis e Medidas (Brasil - BR) Disponível do 34 ao 43, consulte a tabela para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-49-47-ca8aad008bf7b8203817890752745388-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-49-53-265fefd015452f25e217890752745103-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-49-48-13f4dbf62fba6363d917890752744973-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-49-54-c213b1fc8051012b8b17890752744783-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-49-51-e199e335ed77603c4517890752745225-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-49-50-909453e89a1547076617890752745390-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-49-56-84faf6e8d49b18f2a017890752745347-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1594479070",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594479071",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594479072",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1594479073",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1594479074",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594479075",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-ambush-cinza-preto-1hyic/",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z"
+    },
+    {
+      "id": "dx-366694378",
+      "sourceId": "366694378",
+      "slug": "nike-ambush-preto-cromado-366694378",
+      "name": "NIKE AMBUSH PRETO/CROMADO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "NIKE",
+      "description": "NIKE AMBUSH PRETO/CROMADO – Tênis de Alta Qualidade da Linha Luxo Apresentamos o NIKE AMBUSH PRETO/CROMADO, um tênis que une design arrojado, conforto superior e acabamento premium, ideal para quem busca exclusividade e alta performance em um calçado da Linha Luxo. Por que escolher o NIKE AMBUSH PRETO/CROMADO? Visual Sofisticado e Moderno Com acabamento em preto e detalhes cromados, o NIKE AMBUSH destaca-se pelo estilo contemporâneo e único, perfeito para quem deseja um look marcante e elegante em qualquer ocasião. Conforto e Ajuste Preciso Produzido com materiais de alta qualidade, o tênis oferece palmilha acolchoada e estrutura ergonômica que garantem conforto prolongado e suporte ideal para os seus pés durante o uso diário. Durabilidade e Acabamento Impecável A fabricação cuidadosa e os detalhes refinados asseguram que o NIKE AMBUSH mantenha sua forma e beleza mesmo após uso frequente, entregando resistência e qualidade típicas da linha luxo. Tamanhos Disponíveis (Brasil - BR) Disponível do tamanho 34 ao 43, confira a tabela para escolher o ajuste perfeito conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e utilize a tabela para garantir o tamanho ideal e máximo conforto. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para manter a qualidade e autenticidade do produto, é necessário enviar um vídeo original do tênis, sem sinais de uso. Garanta agora o seu NIKE AMBUSH PRETO/CROMADO e experimente a combinação perfeita de estilo, conforto e alta qualidade da nossa exclusiva Linha Luxo. Dê passos confiantes com um tênis que traduz personalidade e sofisticação!",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-51-19-e044212e40d5aaac0a17890742933803-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-51-30-d0aace08f24d47a34017890742933899-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-51-23-fede2c46dc82ad623b17890742934569-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-51-27-911fe0b86fa8b38f3117890742933038-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-51-20-87aa4bfe0e46deee0d17890742932732-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-51-32-bb05d5c6ac49d43a0617890742933781-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-51-25-5154a8fa328d5abb5617890742933608-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-10-51-28-945e40f22c9ee4f36d17890742933156-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1594469754",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594469755",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594469756",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1594469757",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1594469758",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594469759",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-ambush-preto-cromado-ijxmu/",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z"
     },
     {
       "id": "dx-332149108",
@@ -42140,7 +42671,7 @@
           "id": "1515759770",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -42160,11 +42691,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-marrom-latex-1vfdp/",
-      "lastSyncedAt": "2026-09-10T14:09:05.932Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "90"
     },
     {
@@ -46817,43 +47348,43 @@
           "id": "1410609050",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1410609051",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1410609052",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 5,
+          "available": true
         },
         {
           "id": "1410609053",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 5,
+          "available": true
         },
         {
           "id": "1410609054",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 4,
+          "available": true
         },
         {
           "id": "1410609055",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1410609057",
@@ -46897,11 +47428,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-preto-off-lr98c/",
-      "lastSyncedAt": "2026-09-09T17:13:27.207Z",
+      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
       "sku": "221"
     },
     {
