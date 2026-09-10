@@ -299,7 +299,7 @@
           "id": "1504176788",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -358,11 +358,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-09-09T22:19:26.012Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "715"
     },
     {
@@ -2053,8 +2053,8 @@
           "id": "1464323001",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1464323002",
@@ -2087,11 +2087,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-preto-1ovpe/",
-      "lastSyncedAt": "2026-09-10T17:47:08.418Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "797"
     },
     {
@@ -5938,6 +5938,84 @@
       "sku": "863"
     },
     {
+      "id": "dx-366655954",
+      "sourceId": "366655954",
+      "slug": "air-force-cinza-366655954",
+      "name": "AIR FORCE CINZA",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "AIR FORCE",
+      "description": "AIR FORCE CINZA – Tênis de Alta Qualidade da Linha Luxo Apresentamos o AIR FORCE CINZA, um tênis que une estilo clássico, conforto superior e durabilidade excepcional, perfeito para quem busca um produto premium da nossa exclusiva Linha Luxo. Por que escolher o AIR FORCE CINZA? Visual Elegante e Versátil O AIR FORCE CINZA apresenta um tom neutro e sofisticado, que combina com diversos estilos e ocasiões, do casual ao urbano. Seu design atemporal garante que você esteja sempre na moda com um calçado que valoriza seu visual. Conforto e Ajuste Ideal Produzido com materiais de alta qualidade, o AIR FORCE CINZA oferece uma palmilha acolchoada que proporciona maciez e suporte durante todo o dia. Seu formato foi cuidadosamente pensado para garantir um ajuste confortável, acompanhando seus passos com leveza e segurança. Durabilidade da Linha Luxo Com acabamento premium e atenção aos mínimos detalhes, este tênis mantém sua forma, cor e beleza mesmo após uso frequente. A Linha Luxo assegura um produto resistente, preparado para acompanhar seu ritmo sem perder o estilo. Tamanhos Disponíveis e Medidas (Brasil - BR) Disponível do tamanho 34 ao 43, confira a tabela para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e utilize a tabela para garantir o ajuste perfeito. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento. Para garantir a autenticidade e qualidade, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-11-54-30-1-41e33b90ae557b2ea117890676856274-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-11-54-30-2f567547842c1b82d017890676854887-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-11-54-28-d2eebb357db3ec48af17890676855600-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-11-54-29-97b3a970a6e0a2f96517890676856336-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-11-54-32-0166f86c757a1a5a3417890676855064-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-11-54-33-1-c22c7963a0d0ad8d9c17890676855181-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-11-54-33-2199baf335a1ed4aea17890676859787-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1594356233",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594356234",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594356235",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594356236",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1594356237",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594356238",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/air-force-cinza-hrsyc/",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
+      "sku": "1085"
+    },
+    {
       "id": "dx-350789638",
       "sourceId": "350789638",
       "slug": "air-force-cinza-azul-350789638",
@@ -7120,43 +7198,43 @@
           "id": "1589507922",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1589507923",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1589507924",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1589507925",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1589507926",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1589507927",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -7168,11 +7246,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/armani-ax-exchange-branco-preto-klgs7/",
-      "lastSyncedAt": "2026-09-09T19:56:34.490Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "1077"
     },
     {
@@ -7219,8 +7297,8 @@
           "id": "1590553633",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1590553634",
@@ -7246,11 +7324,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/armani-ax-exchange-preto-branco-iyagr/",
-      "lastSyncedAt": "2026-09-08T21:18:53.910Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "1079"
     },
     {
@@ -7304,7 +7382,7 @@
           "id": "1589502008",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -7324,11 +7402,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/armani-ax-exchange-branco-preto-i8msw/",
-      "lastSyncedAt": "2026-09-05T23:40:01.164Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "1078"
     },
     {
@@ -16165,7 +16243,7 @@
           "id": "1401232968",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -16217,11 +16295,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 25,
+      "totalStock": 24,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-09-10T17:47:08.418Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "166"
     },
     {
@@ -17433,8 +17511,8 @@
           "id": "1401101207",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1401101210",
@@ -17447,28 +17525,28 @@
           "id": "1401101215",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1401101220",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1401101224",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1401101227",
           "size": "39",
           "color": "Padrão",
-          "stock": 10,
+          "stock": 11,
           "available": true
         },
         {
@@ -17482,7 +17560,7 @@
           "id": "1401101232",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -17513,11 +17591,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 28,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-09-09T22:19:26.012Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "105"
     },
     {
@@ -19880,7 +19958,7 @@
           "id": "1510192748",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -19953,11 +20031,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-branco-preto-1yyd4/",
-      "lastSyncedAt": "2026-09-09T19:56:34.490Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "163"
     },
     {
@@ -20186,7 +20264,7 @@
           "id": "1564197151",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -20217,11 +20295,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-air-force-caramelo-4am9b/",
-      "lastSyncedAt": "2026-09-08T00:59:59.598Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "961"
     },
     {
@@ -21182,14 +21260,14 @@
           "id": "1405149508",
           "size": "38",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1405149516",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -21234,11 +21312,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 30,
+      "totalStock": 28,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-09-10T17:47:08.418Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "74"
     },
     {
@@ -22951,7 +23029,7 @@
           "id": "1555370869",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
@@ -23010,11 +23088,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-branco-preto-latex-kbbxr/",
-      "lastSyncedAt": "2026-09-10T17:47:08.418Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "893"
     },
     {
@@ -24556,8 +24634,8 @@
           "id": "1438069897",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1438069901",
@@ -24615,11 +24693,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-branco-off-oxovh/",
-      "lastSyncedAt": "2026-09-09T19:56:34.490Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "562"
     },
     {
@@ -24806,7 +24884,7 @@
           "id": "1450658300",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -24847,11 +24925,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-grafite-off-1hcnh/",
-      "lastSyncedAt": "2026-09-10T17:47:08.418Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "465"
     },
     {
@@ -27369,7 +27447,7 @@
           "id": "1588288292",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -27382,11 +27460,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 32,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-dunas-olive-preto-1tj9f/",
-      "lastSyncedAt": "2026-09-01T19:12:23.418Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "1074"
     },
     {
@@ -30112,6 +30190,158 @@
       "sku": "195"
     },
     {
+      "id": "dx-366665929",
+      "sourceId": "366665929",
+      "slug": "lacoste-branco-verde-366665929",
+      "name": "LACOSTE BRANCO VERDE",
+      "brand": "Lacoste",
+      "category": "Tênis",
+      "subCategory": "LACOSTE",
+      "description": "Tênis LACOSTE BRANCO VERDE – Linha Luxo de Alta Qualidade Apresentamos o Tênis LACOSTE BRANCO VERDE, um modelo que une elegância, conforto e durabilidade, perfeito para quem busca um calçado premium e estiloso para o dia a dia. Por que escolher o Tênis LACOSTE BRANCO VERDE? Design Moderno e Versátil Com uma combinação clássica de branco com detalhes em verde, este tênis traz um visual limpo e sofisticado, que se adapta facilmente a diferentes estilos e ocasiões. Seu design super estiloso é ideal para quem quer se destacar com discrição. Conforto Imbatível Produzido com materiais de alta qualidade e com uma palmilha acolchoada, o LACOSTE BRANCO VERDE oferece conforto superior para seus pés durante todo o dia, seja para passeios, trabalho ou lazer. Qualidade da Linha Luxo Este tênis possui acabamento premium e fabricação cuidadosa para garantir durabilidade e resistência, mantendo sua beleza mesmo após o uso frequente. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho ideal, garantindo um ajuste perfeito e conforto máximo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, solicitamos o envio de um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-47-58-102a7090230926261d17890700007843-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-47-48-2-45cb26adb1c6e9055017890700005456-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-47-48-1-4dd27c001e9f1a277517890700007902-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-47-47-4223bd052d98e20e1c17890700006792-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-47-49-c5a72d8dd2b8c67fd717890700005415-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-47-48-7d126c7f4dd3ab776117890700007707-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1594388378",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594388380",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594388381",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594388382",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1594388383",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594388385",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/lacoste-branco-verde-14qfh/",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z"
+    },
+    {
+      "id": "dx-366670255",
+      "sourceId": "366670255",
+      "slug": "lacoste-preto-366670255",
+      "name": "LACOSTE PRETO",
+      "brand": "Lacoste",
+      "category": "Tênis",
+      "subCategory": "LACOSTE",
+      "description": "Tênis LACOSTE PRETO – Linha Luxo de Alta Qualidade Apresentamos o Tênis LACOSTE PRETO, um calçado elegante, confortável e durável, ideal para quem busca um produto premium da nossa exclusiva Linha Luxo. Perfeito para o dia a dia, ele une estilo e qualidade para acompanhar você em todas as ocasiões. Por que escolher o Tênis LACOSTE PRETO? Design Sofisticado e Estiloso Com sua cor preta clássica, o LACOSTE PRETO traz um visual moderno e versátil que combina facilmente com diferentes estilos. Seu acabamento refinado ressalta a elegância, tornando-o ideal para quem deseja estar sempre na moda com um toque discreto e luxuoso. Conforto para o Seu Dia a Dia Produzido com materiais de alta qualidade, este tênis oferece conforto superior graças à palmilha acolchoada e ao design ergonômico que garante suporte e maciez para seus pés durante todo o dia, seja no trabalho, lazer ou passeios. Alta Durabilidade e Acabamento Premium Com atenção aos detalhes e acabamento primoroso, o Tênis LACOSTE PRETO mantém sua forma e aparência mesmo após uso contínuo, refletindo a excelência da Linha Luxo. Tamanhos Disponíveis (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé cuidadosamente e consulte a tabela para garantir o ajuste perfeito e o máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, é necessário enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-48-06-3-9de1be5523cd42616a17890709071891-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-47-59-0f2e075e2f2469f70c17890709076122-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-48-06-2-4e67cbc8074b65965917890709072051-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-48-06-7203c74a103a0dec5f17890709070875-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-47-58-1-df6cac1357cd98a10117890709071159-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-10-at-16-48-06-1-e292ec00d4259e559e17890709072186-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1594406065",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1594406068",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594406069",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594406070",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594406071",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1594406072",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/lacoste-preto-qg343/",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z"
+    },
+    {
       "id": "dx-325768805",
       "sourceId": "325768805",
       "slug": "lv-black-white-325768805",
@@ -30903,8 +31133,8 @@
           "id": "1527554196",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527554197",
@@ -30951,11 +31181,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/1000-all-black-ibeoq/",
-      "lastSyncedAt": "2026-09-04T14:47:15.398Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "773"
     },
     {
@@ -32794,7 +33024,7 @@
           "id": "1414822658",
           "size": "36",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -32808,7 +33038,7 @@
           "id": "1414822660",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -32828,11 +33058,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-1ib5e/",
-      "lastSyncedAt": "2026-09-10T17:47:08.418Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "421"
     },
     {
@@ -35735,8 +35965,8 @@
           "id": "1564217908",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564217909",
@@ -35769,11 +35999,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-off-nude-bronze-sqtbl/",
-      "lastSyncedAt": "2026-09-08T23:31:18.009Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "962"
     },
     {
@@ -35798,8 +36028,8 @@
           "id": "1564538292",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564538293",
@@ -35846,11 +36076,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-preto-creme-1k61k/",
-      "lastSyncedAt": "2026-09-02T17:00:35.892Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "975"
     },
     {
@@ -42323,7 +42553,7 @@
           "id": "1429382929",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -42375,11 +42605,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-sl-branco-preto-1t8ky/",
-      "lastSyncedAt": "2026-09-09T19:56:34.490Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "444"
     },
     {
@@ -44196,8 +44426,8 @@
           "id": "1577566974",
           "size": "37",
           "color": "Branco",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1577566975",
@@ -44257,11 +44487,11 @@
       "colors": [
         "Branco"
       ],
-      "totalStock": 11,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-superstar-branco-classic-h7gdy/",
-      "lastSyncedAt": "2026-09-10T14:09:05.932Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "1035"
     },
     {
@@ -44312,7 +44542,7 @@
           "id": "1576929015",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
@@ -44364,11 +44594,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/superstar-branco-preto-86an6/",
-      "lastSyncedAt": "2026-09-03T17:31:21.954Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "1030"
     },
     {
@@ -46457,7 +46687,7 @@
           "id": "1545331623",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -46484,11 +46714,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-vr3-all-black-e13y4/",
-      "lastSyncedAt": "2026-08-28T05:06:32.653Z",
+      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
       "sku": "852"
     },
     {
