@@ -327,8 +327,8 @@
           "id": "1504176800",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504176808",
@@ -358,11 +358,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-09-10T20:26:14.565Z",
+      "lastSyncedAt": "2026-09-11T05:37:14.867Z",
       "sku": "715"
     },
     {
@@ -24057,7 +24057,7 @@
           "id": "1430823389",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -24123,11 +24123,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-branco-18ixt/",
-      "lastSyncedAt": "2026-09-08T18:18:41.864Z",
+      "lastSyncedAt": "2026-09-11T05:37:14.867Z",
       "sku": "78"
     },
     {
@@ -26224,7 +26224,7 @@
           "id": "1557632294",
           "size": "M",
           "color": "Cinza",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -26303,11 +26303,11 @@
         "Cinza",
         "Preto"
       ],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jaqueta-puffer-columbia-premium-1avg5/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-09-11T05:37:14.867Z",
       "sku": "03"
     },
     {
@@ -34381,8 +34381,8 @@
           "id": "1404734502",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1404734504",
@@ -34405,11 +34405,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-branco-0qo43/",
-      "lastSyncedAt": "2026-09-11T00:49:41.103Z",
+      "lastSyncedAt": "2026-09-11T05:37:14.867Z",
       "sku": "67"
     },
     {
@@ -39143,7 +39143,7 @@
           "id": "1413213055",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -39167,11 +39167,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/cloudeclipse-off-white-1w2fu/",
-      "lastSyncedAt": "2026-09-09T17:13:27.207Z",
+      "lastSyncedAt": "2026-09-11T05:37:14.867Z",
       "sku": "508"
     },
     {
