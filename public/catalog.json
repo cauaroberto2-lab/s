@@ -320,8 +320,8 @@
           "id": "1504176798",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504176800",
@@ -358,11 +358,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-09-11T05:37:14.867Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "715"
     },
     {
@@ -796,7 +796,7 @@
           "id": "1544191175",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -848,11 +848,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-1qzac/",
-      "lastSyncedAt": "2026-09-12T01:24:49.313Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "840"
     },
     {
@@ -1984,7 +1984,7 @@
           "id": "1567454470",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -2011,11 +2011,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-grafite-5h8ny/",
-      "lastSyncedAt": "2026-09-11T21:08:02.107Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "992"
     },
     {
@@ -5196,8 +5196,8 @@
           "id": "1514660100",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -5209,11 +5209,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-branco-vermelho-off-ocubc/",
-      "lastSyncedAt": "2026-09-11T21:08:02.107Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "454"
     },
     {
@@ -8754,54 +8754,38 @@
       ],
       "variants": [
         {
-          "id": "1588633896",
-          "size": "33",
+          "id": "1595532033",
+          "size": "37",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
-          "id": "1588633897",
-          "size": "35/36",
+          "id": "1595532034",
+          "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
-          "id": "1588633898",
-          "size": "36/37",
+          "id": "1595532036",
+          "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
-        },
-        {
-          "id": "1588633899",
-          "size": "37/38",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1588633900",
-          "size": "38/39",
-          "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         }
       ],
       "sizes": [
-        "33",
-        "35/36",
-        "36/37",
-        "37/38",
-        "38/39"
+        "37",
+        "38",
+        "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/bota-cano-curto-com-strass-16j9a/",
-      "lastSyncedAt": "2026-09-11T23:27:35.370Z"
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z"
     },
     {
       "id": "dx-352469722",
@@ -8832,35 +8816,35 @@
           "id": "1549363855",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549363856",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549363857",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549363858",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549363861",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 1,
           "available": true
         }
       ],
@@ -8873,11 +8857,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/bota-capa-giorgia-bico-fino-5myae/",
-      "lastSyncedAt": "2026-09-11T00:49:41.103Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "876"
     },
     {
@@ -8924,7 +8908,7 @@
           "id": "1559885384",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -8938,7 +8922,7 @@
           "id": "1559885386",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         }
       ],
@@ -8951,11 +8935,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/bota-drapeada-bico-fino-marrom-elnf2/",
-      "lastSyncedAt": "2026-09-11T23:27:35.370Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "934"
     },
     {
@@ -9008,15 +8992,15 @@
           "id": "1559896487",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1559896489",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -9028,11 +9012,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/bota-drapeada-bico-fino-preto-r8221/",
-      "lastSyncedAt": "2026-09-01T19:12:23.418Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "935"
     },
     {
@@ -9054,8 +9038,8 @@
           "id": "1588319214",
           "size": "33",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1588319215",
@@ -9075,15 +9059,15 @@
           "id": "1588319217",
           "size": "37/38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1588319218",
           "size": "38/39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -9094,11 +9078,11 @@
         "38/39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/bota-milao-1s867/",
-      "lastSyncedAt": "2026-09-11T21:08:02.107Z"
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z"
     },
     {
       "id": "dx-352462113",
@@ -9135,8 +9119,8 @@
           "id": "1549344332",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549344335",
@@ -9156,7 +9140,7 @@
           "id": "1549344337",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -9169,11 +9153,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/bota-over-salto-14vaj/",
-      "lastSyncedAt": "2026-09-01T19:12:23.418Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "875"
     },
     {
@@ -9219,7 +9203,7 @@
           "id": "1549376856",
           "size": "37",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -9246,11 +9230,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/bota-over-the-knee-cano-alto-montaria-oll89/",
-      "lastSyncedAt": "2026-09-11T23:27:35.370Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "877"
     },
     {
@@ -16902,8 +16886,8 @@
           "id": "1590630841",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -16919,11 +16903,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-natural-mgsel/",
-      "lastSyncedAt": "2026-09-12T01:24:49.313Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "1082"
     },
     {
@@ -17746,7 +17730,7 @@
           "id": "1401101215",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -17812,11 +17796,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-09-11T23:27:35.370Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "105"
     },
     {
@@ -19214,8 +19198,8 @@
           "id": "1508801082",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -19231,11 +19215,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-twist-branco-1izfj/",
-      "lastSyncedAt": "2026-09-11T23:27:35.370Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "641"
     },
     {
@@ -21502,8 +21486,8 @@
           "id": "1405149523",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1405149527",
@@ -21533,11 +21517,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-09-11T21:08:02.107Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "74"
     },
     {
@@ -25176,7 +25160,7 @@
           "id": "1450658299",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -25224,11 +25208,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-grafite-off-1hcnh/",
-      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "465"
     },
     {
@@ -26386,8 +26370,8 @@
           "id": "1557632295",
           "size": "M",
           "color": "Preto",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1557632296",
@@ -26435,7 +26419,7 @@
           "id": "1557632302",
           "size": "GG",
           "color": "Cinza",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -26458,11 +26442,11 @@
         "Cinza",
         "Preto"
       ],
-      "totalStock": 15,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jaqueta-puffer-columbia-premium-1avg5/",
-      "lastSyncedAt": "2026-09-11T21:08:02.107Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "03"
     },
     {
@@ -30408,7 +30392,7 @@
           "id": "1409296765",
           "size": "35",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -30481,11 +30465,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 42,
+      "totalStock": 41,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/knu-skool-preto-branco-4p3cp/",
-      "lastSyncedAt": "2026-09-11T18:10:31.338Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "195"
     },
     {
@@ -30524,7 +30508,7 @@
           "id": "1594406069",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -30558,11 +30542,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/lacoste-preto-qg343/",
-      "lastSyncedAt": "2026-09-11T23:27:35.370Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "1092"
     },
     {
@@ -32333,8 +32317,8 @@
           "id": "1527849449",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527849450",
@@ -32360,11 +32344,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-branco-prata-6edpy/",
-      "lastSyncedAt": "2026-08-27T20:40:56.759Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "785"
     },
     {
@@ -40242,8 +40226,8 @@
           "id": "1408054896",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1408054901",
@@ -40287,11 +40271,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-preto-branco-7q01e/",
-      "lastSyncedAt": "2026-09-09T17:13:27.207Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "28"
     },
     {
@@ -47460,7 +47444,7 @@
           "id": "1410609054",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -47512,11 +47496,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-preto-off-lr98c/",
-      "lastSyncedAt": "2026-09-11T18:10:31.338Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "221"
     },
     {
@@ -47763,36 +47747,36 @@
           "id": "1571585525",
           "size": "35",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1571585526",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1571585527",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1571585529",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1571585530",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -47804,11 +47788,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/zoom-invincible-run-3-off-nude-qwusw/",
-      "lastSyncedAt": "2026-09-11T21:08:02.107Z",
+      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
       "sku": "1009"
     },
     {
