@@ -2370,7 +2370,7 @@
           "id": "1576961874",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -2397,11 +2397,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ad-sl-72-marrom-bordo-1mtud/",
-      "lastSyncedAt": "2026-09-13T17:01:19.832Z",
+      "lastSyncedAt": "2026-09-13T22:06:49.677Z",
       "sku": "1031"
     },
     {
@@ -5394,8 +5394,8 @@
           "id": "1559589161",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559589162",
@@ -5442,11 +5442,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-branco-rosa-limao-hy3nc/",
-      "lastSyncedAt": "2026-09-10T17:47:08.418Z",
+      "lastSyncedAt": "2026-09-13T22:06:49.677Z",
       "sku": "929"
     },
     {
@@ -23428,7 +23428,7 @@
           "id": "1532541079",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -23448,11 +23448,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-marrom-1qon1/",
-      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
+      "lastSyncedAt": "2026-09-13T22:06:49.677Z",
       "sku": "792"
     },
     {
@@ -24021,7 +24021,7 @@
           "id": "1517113814",
           "size": "41",
           "color": "Padrão",
-          "stock": 9,
+          "stock": 8,
           "available": true
         },
         {
@@ -24035,7 +24035,7 @@
           "id": "1517113816",
           "size": "43",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -24080,11 +24080,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 43,
+      "totalStock": 41,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-grafite-preto-velcro-lesib/",
-      "lastSyncedAt": "2026-09-13T19:38:34.271Z",
+      "lastSyncedAt": "2026-09-13T22:06:49.677Z",
       "sku": "739"
     },
     {
