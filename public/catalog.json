@@ -784,7 +784,7 @@
           "id": "1544191173",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -850,11 +850,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-1qzac/",
-      "lastSyncedAt": "2026-09-12T17:21:09.374Z",
+      "lastSyncedAt": "2026-09-13T03:13:59.036Z",
       "sku": "840"
     },
     {
@@ -1831,8 +1831,8 @@
           "id": "1567414045",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1567414046",
@@ -1858,11 +1858,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-marrom-1d9ct/",
-      "lastSyncedAt": "2026-09-12T21:56:16.795Z",
+      "lastSyncedAt": "2026-09-13T03:13:59.036Z",
       "sku": "991"
     },
     {
@@ -4189,8 +4189,8 @@
           "id": "1581690565",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1581690567",
@@ -4216,11 +4216,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-azul-off-white-qdr31/",
-      "lastSyncedAt": "2026-09-10T17:47:08.418Z",
+      "lastSyncedAt": "2026-09-13T03:13:59.036Z",
       "sku": "1045"
     },
     {
@@ -13946,8 +13946,8 @@
           "id": "1474678896",
           "size": "G",
           "color": "Preto",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1474678897",
@@ -13973,11 +13973,11 @@
         "Bege",
         "Preto"
       ],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/conjunto-hurley-moletom-ji6gh/",
-      "lastSyncedAt": "2026-07-27T21:06:00.994Z",
+      "lastSyncedAt": "2026-09-13T03:13:59.036Z",
       "sku": "673"
     },
     {
