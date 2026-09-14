@@ -1119,7 +1119,7 @@
           "id": "1589330971",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -1160,11 +1160,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-rosa-18pec/",
-      "lastSyncedAt": "2026-09-11T21:08:02.107Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "1075"
     },
     {
@@ -1275,8 +1275,8 @@
           "id": "1567125081",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1567125083",
@@ -1316,11 +1316,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-creme-off-prata-a0wib/",
-      "lastSyncedAt": "2026-09-12T19:33:05.501Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "990"
     },
     {
@@ -2062,7 +2062,7 @@
           "id": "1464323002",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -2089,11 +2089,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-preto-1ovpe/",
-      "lastSyncedAt": "2026-09-12T21:56:16.795Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "797"
     },
     {
@@ -13797,8 +13797,8 @@
           "id": "1557623920",
           "size": "M",
           "color": "Preto",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1557623921",
@@ -13854,11 +13854,11 @@
         "Marrom",
         "Preto"
       ],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jaqueta-bomer-tommy-h-premium-sxhm9/",
-      "lastSyncedAt": "2026-09-12T19:33:05.501Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "01"
     },
     {
@@ -13939,7 +13939,7 @@
           "id": "1474678895",
           "size": "G",
           "color": "Bege",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -13973,11 +13973,11 @@
         "Bege",
         "Preto"
       ],
-      "totalStock": 2,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/conjunto-hurley-moletom-ji6gh/",
-      "lastSyncedAt": "2026-09-13T03:13:59.036Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "673"
     },
     {
@@ -14222,8 +14222,8 @@
           "id": "1561911920",
           "size": "GG",
           "color": "Preto",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1561911921",
@@ -14243,8 +14243,8 @@
           "id": "1561911923",
           "size": "XG",
           "color": "Preto",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1561911924",
@@ -14273,11 +14273,11 @@
         "Cinza",
         "Azul"
       ],
-      "totalStock": 3,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/conjunto-nike-importado-1ac8y/",
-      "lastSyncedAt": "2026-08-23T11:45:26.026Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "919"
     },
     {
@@ -18486,8 +18486,8 @@
           "id": "1441120006",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1441120010",
@@ -18506,11 +18506,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-natural-ouro-x7g1e/",
-      "lastSyncedAt": "2026-09-09T19:56:34.490Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "400"
     },
     {
@@ -24240,7 +24240,7 @@
           "id": "1430823397",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -24264,11 +24264,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-branco-18ixt/",
-      "lastSyncedAt": "2026-09-12T19:33:05.501Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "78"
     },
     {
@@ -25162,7 +25162,7 @@
           "id": "1450658299",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -25176,7 +25176,7 @@
           "id": "1450658301",
           "size": "40",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
@@ -25210,11 +25210,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-grafite-off-1hcnh/",
-      "lastSyncedAt": "2026-09-12T14:17:04.989Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "465"
     },
     {
@@ -25580,8 +25580,8 @@
           "id": "1566916414",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1566916415",
@@ -25660,11 +25660,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-off-coffe-132z6/",
-      "lastSyncedAt": "2026-09-12T17:21:09.374Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "986"
     },
     {
@@ -25697,29 +25697,29 @@
           "id": "1565067509",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1565067512",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1565067514",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1565067516",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1565067518",
@@ -25746,8 +25746,8 @@
           "id": "1565067526",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1565067529",
@@ -25770,11 +25770,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-preto-musgo-1ylnz/",
-      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "921"
     },
     {
@@ -26471,7 +26471,7 @@
           "id": "1557630816",
           "size": "P",
           "color": "Azul",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -26499,14 +26499,14 @@
           "id": "1557630820",
           "size": "M",
           "color": "Cinza",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1557630821",
           "size": "M",
           "color": "Bege",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -26520,8 +26520,8 @@
           "id": "1557630823",
           "size": "G",
           "color": "Cinza",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1557630824",
@@ -26534,15 +26534,15 @@
           "id": "1557630825",
           "size": "GG",
           "color": "Azul",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1557630826",
           "size": "GG",
           "color": "Cinza",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1557630827",
@@ -26563,11 +26563,11 @@
         "Cinza",
         "Bege"
       ],
-      "totalStock": 10,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jaqueta-puffer-the-north-face-premium-shf2u/",
-      "lastSyncedAt": "2026-09-05T17:54:52.061Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "02"
     },
     {
@@ -26652,8 +26652,8 @@
           "id": "1526725588",
           "size": "GG",
           "color": "Azul",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1526725590",
@@ -26681,11 +26681,11 @@
         "Preto",
         "Bege"
       ],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jaqueta-zara-lchqf/",
-      "lastSyncedAt": "2026-09-10T22:43:09.195Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "765"
     },
     {
@@ -30666,7 +30666,7 @@
           "id": "1594446545",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -30700,11 +30700,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/lacoste-bege-cinza-b3u6y/",
-      "lastSyncedAt": "2026-09-12T17:21:09.374Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "1090"
     },
     {
@@ -34470,8 +34470,8 @@
           "id": "1404734482",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1404734485",
@@ -34550,11 +34550,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-branco-0qo43/",
-      "lastSyncedAt": "2026-09-12T19:33:05.501Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "67"
     },
     {
@@ -34671,7 +34671,7 @@
           "id": "1586436917",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -34705,11 +34705,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-elite-off-white-preto-1imf7/",
-      "lastSyncedAt": "2026-09-12T17:21:09.374Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "1067"
     },
     {
@@ -35673,11 +35673,13 @@
       "subCategory": "NEO",
       "description": "NEO PRETO BRANCO – Tênis de Alta Qualidade da Linha Luxo Descubra o NEO PRETO BRANCO, um tênis que une estilo sofisticado, conforto excepcional e durabilidade incomparável, tudo isso com a elegância e exclusividade da Linha Luxo. Ideal para quem valoriza um calçado versátil e refinado, perfeito para diversas ocasiões, do dia a dia a eventos especiais. Por que escolher o NEO PRETO BRANCO? Visual moderno e sofisticado Com acabamento em grafite preto, este modelo apresenta um design contemporâneo e discreto, que combina facilmente com diferentes estilos e looks, valorizando sua presença com um toque de exclusividade. Conforto e resistência para seus passos Equipado com sola emborrachada de alta qualidade, o NEO PRETO BRANCO oferece excelente aderência e estabilidade em múltiplas superfícies. Seu design ergonômico proporciona leveza e conforto para acompanhar você o dia todo. Qualidade premium da Linha Luxo Fabricado com materiais selecionados e acabamento impecável, este tênis mantém sua beleza e performance mesmo após uso contínuo. A Linha Luxo é sinônimo de produtos para consumidores exigentes que valorizam cada detalhe. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
       "images": [
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-10-at-17-34-52-2-e0e5bff3d3eb7ca65217680774648717-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-10-at-17-34-52-1-e7534c4ff947cdd85117680774663850-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-10-at-17-34-53-c151b8c62a3b83f04417680774618143-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-10-at-17-34-53-1-71affcb47eeb8ec1cc17680774607742-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-10-at-17-34-52-8f22e09257b5c5164e17680774679725-1024-1024.webp"
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-12-at-11-45-18-2-072ca8c233add7a63b17894173016541-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-12-at-11-45-18-1-9f13fab0ef1953c15617894173015541-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-12-at-11-44-23-6fc36c1e37df86ae0217894173019044-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-12-at-11-45-17-3e848977430928117317894173015894-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-12-at-11-44-51-99a00ace2b43c9c79317894173018606-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-12-at-11-45-18-380ee9c25afe7d9d9b17894173018829-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-12-at-11-45-17-1-2b29759e50050a155c17894173018521-1024-1024.webp"
       ],
       "variants": [
         {
@@ -35768,7 +35770,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-09-12T21:56:16.795Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "205"
     },
     {
@@ -37944,7 +37946,7 @@
           "id": "1587443609",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -37968,11 +37970,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 42,
+      "totalStock": 41,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-reverse-5og06/",
-      "lastSyncedAt": "2026-09-11T23:27:35.370Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "843"
     },
     {
@@ -40933,7 +40935,7 @@
           "id": "1564291680",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -40967,11 +40969,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-180-ice-cinza-amdzc/",
-      "lastSyncedAt": "2026-09-11T21:08:02.107Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "966"
     },
     {
@@ -46841,7 +46843,7 @@
           "id": "1523350411",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -46907,11 +46909,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-caramelo-off-vquyk/",
-      "lastSyncedAt": "2026-09-08T21:18:53.910Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "748"
     },
     {
@@ -47683,7 +47685,7 @@
           "id": "1410589492",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -47721,11 +47723,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-verde-off-jilr9/",
-      "lastSyncedAt": "2026-09-14T16:46:34.447Z",
+      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
       "sku": "217"
     },
     {
