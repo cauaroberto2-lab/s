@@ -7391,8 +7391,8 @@
           "id": "1589502009",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -7404,11 +7404,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/armani-ax-exchange-branco-preto-i8msw/",
-      "lastSyncedAt": "2026-09-12T17:21:09.374Z",
+      "lastSyncedAt": "2026-09-16T09:25:06.043Z",
       "sku": "1078"
     },
     {
