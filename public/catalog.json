@@ -1359,8 +1359,8 @@
           "id": "1567125083",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1567125087",
@@ -1393,11 +1393,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-creme-off-prata-a0wib/",
-      "lastSyncedAt": "2026-09-14T20:44:19.458Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "990"
     },
     {
@@ -1475,6 +1475,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-gelo-grafite-9k30g/",
       "lastSyncedAt": "2026-09-12T17:21:09.374Z",
       "sku": "956"
+    },
+    {
+      "id": "dx-367932687",
+      "sourceId": "367932687",
+      "slug": "9060-grafite-off-white-367932687",
+      "name": "9060 GRAFITE OFF WHITE",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "Tênis 9060 GRAFITE OFF WHITE – Linha Luxo de Alta Qualidade Apresentamos o Tênis 9060 GRAFITE OFF WHITE, um calçado que une design sofisticado, conforto superior e durabilidade excepcional, perfeito para quem busca exclusividade e estilo com a qualidade premium da nossa Linha Luxo. Por que escolher o Tênis 9060 GRAFITE OFF WHITE? Visual Moderno e Elegante Com uma combinação marcante de grafite e off white, este tênis oferece um visual versátil e contemporâneo, ideal para compor looks casuais e urbanos com muito estilo. Conforto e Ajuste Impecáveis Produzido com materiais de alta qualidade, o 9060 GRAFITE OFF WHITE conta com palmilha acolchoada que garante maciez e suporte, proporcionando conforto durante todo o dia, mesmo nas atividades mais intensas. Durabilidade e Acabamento Premium Cada detalhe foi cuidadosamente elaborado para assegurar resistência e manter o acabamento impecável, mesmo após uso frequente, oferecendo um produto de confiança para acompanhar seu ritmo. Tamanhos Disponíveis (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito e máximo conforto. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, é necessário enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-16-52-31-5eff87779fd65fde4517895898323719-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-16-52-32-8086a024dee4aa5ed617895898324147-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-16-52-32-1-c521d9612cc9eb214d17895898324078-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-16-52-31-1-83dca33131674e851f17895898324511-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-16-52-35-9cef395d43b174dae017895898323995-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-16-52-31-2-3ac4fb207de86bb94717895898324172-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1598593551",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1598593553",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1598593554",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1598593555",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1598593556",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1598593559",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 9,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-grafite-off-white-jsvc8/",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z"
     },
     {
       "id": "dx-362992391",
@@ -6117,8 +6193,8 @@
           "id": "1544120674",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1544120675",
@@ -6145,8 +6221,8 @@
           "id": "1544120678",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1544120679",
@@ -6165,11 +6241,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-force-cinza-azul-1kh6m/",
-      "lastSyncedAt": "2026-09-13T17:01:19.832Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "838"
     },
     {
@@ -6277,7 +6353,7 @@
           "id": "1590577354",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -6318,12 +6394,87 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-axcee-branco-cinza-verde-hpiif/",
-      "lastSyncedAt": "2026-09-14T16:46:34.447Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "1080"
+    },
+    {
+      "id": "dx-368148086",
+      "sourceId": "368148086",
+      "slug": "air-max-plus-titanium-368148086",
+      "name": "AIR MAX PLUS TITANIUM",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "AIR MAX TN",
+      "description": "AIR MAX PLUS TITANIUM – Tênis Linha Luxo de Alta Qualidade Apresentamos o AIR MAX PLUS TITANIUM, um tênis que une design icônico, conforto excepcional e resistência superior, ideal para quem busca o melhor da nossa exclusiva Linha Luxo. Por que escolher o AIR MAX PLUS TITANIUM? Visual Impactante e Moderno Com acabamento em tons titanium sofisticados, este modelo traz um estilo arrojado e versátil, perfeito para destacar sua presença em qualquer ambiente, seja casual ou urbano. Conforto e Ajuste Perfeito Produzido com materiais premium e palmilha acolchoada, o AIR MAX PLUS TITANIUM proporciona maciez e suporte durante todo o dia, garantindo passo firme e confortável mesmo em rotinas intensas. Durabilidade e Acabamento Premium Sua construção robusta com atenção aos mínimos detalhes assegura alta durabilidade e mantém o tênis com aparência impecável mesmo após uso prolongado. Tamanhos Disponíveis – Do 38 ao 43 (cm) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste ideal e máximo conforto. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-17-at-13-47-06-a487e20c4831d8db9b17896672114140-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-17-at-13-47-07-29e8721e06d990c21a17896672112532-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-17-at-13-47-06-1-4fcfb1f94b580823bc17896672114731-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-17-at-13-47-08-c7c329b0d0ddb1907517896672113693-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-17-at-13-47-09-68902f5d28a2c9847217896672112559-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1599361729",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1599361731",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1599361734",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1599361735",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1599361736",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1599361737",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-plus-titanium-1jclf/",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z"
     },
     {
       "id": "dx-354010579",
@@ -6564,84 +6715,6 @@
       "sku": "886"
     },
     {
-      "id": "dx-354013138",
-      "sourceId": "354013138",
-      "slug": "air-max-tn-plus-jaguar-354013138",
-      "name": "AIR MAX TN PLUS JAGUAR",
-      "brand": "Nike",
-      "category": "Tênis",
-      "subCategory": "AIR MAX TN",
-      "description": "AIR MAX TN PLUS JAGUAR – Tênis Importado de Alta Qualidade e Conforto Incomparável Descubra o AIR MAX TN PLUS JAGUAR, um tênis importado que une estilo exclusivo, conforto excepcional e durabilidade, perfeito para quem valoriza qualidade em cada passo. Este modelo traz design moderno e detalhes únicos que elevam seu visual em qualquer ocasião. Por que escolher o AIR MAX TN PLUS JAGUAR? Alta Qualidade: Fabricado com materiais premium, garantindo resistência e acabamento impecável. Conforto Superior: Palmilhas macias e tecnologia de amortecimento que proporcionam sensação de leveza durante todo o uso. Modelo Exclusivo e Estiloso: Design arrojado inspirado na estética Jaguar, ideal para quem busca um calçado diferenciado. Importado: Produto selecionado com rigor para oferecer o que há de melhor no mercado internacional. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22,5 | | 35 | 23,0 | | 36 | 24,0 | | 37 | 25,0 | | 38 | 25,5 | | 39 | 26,0 | | 40 | 27,0 | | 41 | 27,5 | | 42 | 28,5 | | 43 | 29,0 | Dica: Meça seu pé corretamente e consulte a tabela para escolher o tamanho ideal, garantindo o máximo conforto e ajuste perfeito. Política de Troca e Devolução Sua satisfação é prioridade! Você dispõe de até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para manter a qualidade e autenticidade do produto, pedimos o envio de um vídeo original do tênis, sem sinais de uso.",
-      "images": [
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-17-00-ac6d9c2b30f16d10d817831971324257-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-17-00-1-3bf0e40220717f400e17831971327228-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-17-03-64909143edd393d23017831971323361-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-16-59-e1eed51632e2e0ae2917831971328423-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-17-01-197b404cfbf1ddfadb17831971324148-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-17-04-f4a206e0ca1bb29f3917831971324192-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-17-04-1-97b745cc050028d52d17831971324458-1024-1024.webp"
-      ],
-      "variants": [
-        {
-          "id": "1554163131",
-          "size": "38",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1554163132",
-          "size": "39",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1554163133",
-          "size": "40",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1554163134",
-          "size": "41",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1554163136",
-          "size": "42",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1554163137",
-          "size": "43",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        }
-      ],
-      "sizes": [
-        "38",
-        "39",
-        "40",
-        "41",
-        "42",
-        "43"
-      ],
-      "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
-      "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-tn-plus-jaguar-meget/",
-      "lastSyncedAt": "2026-08-01T14:06:27.753Z",
-      "sku": "890"
-    },
-    {
       "id": "dx-354012178",
       "sourceId": "354012178",
       "slug": "air-max-tn-plus-snake-354012178",
@@ -6721,6 +6794,84 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-tn-plus-snake-12iik/",
       "lastSyncedAt": "2026-07-27T21:06:00.994Z",
       "sku": "889"
+    },
+    {
+      "id": "dx-354013138",
+      "sourceId": "354013138",
+      "slug": "air-max-tn-plus-venom-2-354013138",
+      "name": "AIR MAX TN PLUS VENOM 2",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "AIR MAX TN",
+      "description": "AIR MAX TN PLUS JAGUAR – Tênis Importado de Alta Qualidade e Conforto Incomparável Descubra o AIR MAX TN PLUS JAGUAR, um tênis importado que une estilo exclusivo, conforto excepcional e durabilidade, perfeito para quem valoriza qualidade em cada passo. Este modelo traz design moderno e detalhes únicos que elevam seu visual em qualquer ocasião. Por que escolher o AIR MAX TN PLUS JAGUAR? Alta Qualidade: Fabricado com materiais premium, garantindo resistência e acabamento impecável. Conforto Superior: Palmilhas macias e tecnologia de amortecimento que proporcionam sensação de leveza durante todo o uso. Modelo Exclusivo e Estiloso: Design arrojado inspirado na estética Jaguar, ideal para quem busca um calçado diferenciado. Importado: Produto selecionado com rigor para oferecer o que há de melhor no mercado internacional. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22,5 | | 35 | 23,0 | | 36 | 24,0 | | 37 | 25,0 | | 38 | 25,5 | | 39 | 26,0 | | 40 | 27,0 | | 41 | 27,5 | | 42 | 28,5 | | 43 | 29,0 | Dica: Meça seu pé corretamente e consulte a tabela para escolher o tamanho ideal, garantindo o máximo conforto e ajuste perfeito. Política de Troca e Devolução Sua satisfação é prioridade! Você dispõe de até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para manter a qualidade e autenticidade do produto, pedimos o envio de um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-17-00-ac6d9c2b30f16d10d817831971324257-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-17-00-1-3bf0e40220717f400e17831971327228-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-17-03-64909143edd393d23017831971323361-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-16-59-e1eed51632e2e0ae2917831971328423-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-17-01-197b404cfbf1ddfadb17831971324148-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-17-04-f4a206e0ca1bb29f3917831971324192-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-04-at-13-17-04-1-97b745cc050028d52d17831971324458-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1554163131",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1554163132",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1554163133",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1554163134",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1554163136",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1554163137",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-tn-plus-jaguar-meget/",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
+      "sku": "890"
     },
     {
       "id": "dx-339493258",
@@ -8591,6 +8742,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/axcee-branco-vermelho-16k43/",
       "lastSyncedAt": "2026-08-08T13:43:49.701Z",
       "sku": "395"
+    },
+    {
+      "id": "dx-332592763",
+      "sourceId": "332592763",
+      "slug": "axcee-preto-branco-332592763",
+      "name": "AXCEE PRETO BRANCO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "AIR MAX AXCEE",
+      "description": "AXCEE PTRTO BRANCO – Tênis de Alta Qualidade da Linha Luxo Descubra o AXCEE PRETO BRANCO, um tênis que une estilo sofisticado, conforto excepcional e durabilidade incomparável, tudo isso com a elegância e exclusividade da Linha Luxo. Ideal para quem valoriza um calçado versátil e refinado, perfeito para diversas ocasiões, do dia a dia a eventos especiais. Por que escolher o AXCEE PRETO BRANCO ? Visual moderno e sofisticado Com acabamento em grafite preto, este modelo apresenta um design contemporâneo e discreto, que combina facilmente com diferentes estilos e looks, valorizando sua presença com um toque de exclusividade. Conforto e resistência para seus passos Equipado com sola emborrachada de alta qualidade, o AXCEE PRETO BRANCO oferece excelente aderência e estabilidade em múltiplas superfícies. Seu design ergonômico proporciona leveza e conforto para acompanhar você o dia todo. Qualidade premium da Linha Luxo Fabricado com materiais selecionados e acabamento impecável, este tênis mantém sua beleza e performance mesmo após uso contínuo. A Linha Luxo é sinônimo de produtos para consumidores exigentes que valorizam cada detalhe. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-03-19-at-11-48-31-9708833c3fac76e09617739383151397-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-03-19-at-11-48-36-1e4e381778b25801ab17739383151102-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-03-19-at-11-48-37-b9ffd1898357c42e8617739383151080-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-03-19-at-11-48-34-8250577266ed22025f17739383151387-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-03-19-at-11-48-32-fc4cf183482bf05dfd17739383150967-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1479655783",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1479655784",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1479655785",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1479655787",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1479655789",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1479655790",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 14,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/axcee-preto-branco-185m9/",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
+      "sku": "270"
     },
     {
       "id": "dx-348011300",
@@ -15488,7 +15715,7 @@
           "id": "1577211595",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -15508,11 +15735,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-jumbo-cinza-branco-1f3aw/",
-      "lastSyncedAt": "2026-09-16T21:31:50.301Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "1033"
     },
     {
@@ -17711,7 +17938,7 @@
           "id": "1581734919",
           "size": "41",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -17738,11 +17965,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-marrom-off-ahmrq/",
-      "lastSyncedAt": "2026-09-16T18:18:41.445Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "1054"
     },
     {
@@ -21882,7 +22109,7 @@
           "id": "1405149508",
           "size": "38",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 3,
           "available": true
         },
         {
@@ -21934,11 +22161,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-09-17T15:10:19.628Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "74"
     },
     {
@@ -31093,7 +31320,7 @@
           "id": "1409296768",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -31145,11 +31372,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 34,
+      "totalStock": 33,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/knu-skool-preto-branco-4p3cp/",
-      "lastSyncedAt": "2026-09-16T21:31:50.301Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "195"
     },
     {
@@ -31435,8 +31662,8 @@
           "id": "1594388383",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1594388385",
@@ -31455,11 +31682,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/lacoste-branco-verde-14qfh/",
-      "lastSyncedAt": "2026-09-16T18:18:41.445Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "1091"
     },
     {
@@ -32107,7 +32334,7 @@
           "id": "1532634945",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -32127,11 +32354,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-wave-beta-cinza-branco-1kox4/",
-      "lastSyncedAt": "2026-09-05T19:56:45.880Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "794"
     },
     {
@@ -34177,7 +34404,7 @@
           "id": "1414822658",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 1,
           "available": true
         },
         {
@@ -34211,11 +34438,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-1ib5e/",
-      "lastSyncedAt": "2026-09-17T05:07:12.456Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "421"
     },
     {
@@ -35613,7 +35840,7 @@
           "id": "1585860153",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -35627,7 +35854,7 @@
           "id": "1585860155",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -35647,11 +35874,11 @@
         "40"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-cinza-branco-kojww/",
-      "lastSyncedAt": "2026-09-05T21:57:36.705Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "1057"
     },
     {
@@ -35848,7 +36075,7 @@
           "id": "1559908517",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -35889,11 +36116,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-preto-grafite-jne37/",
-      "lastSyncedAt": "2026-09-12T21:56:16.795Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "936"
     },
     {
@@ -42218,7 +42445,7 @@
           "id": "1397242252",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -42270,11 +42497,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/suede-xl-c5p43/",
-      "lastSyncedAt": "2026-09-16T18:18:41.445Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "45"
     },
     {
@@ -43976,8 +44203,8 @@
           "id": "1429382927",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1429382929",
@@ -44035,11 +44262,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-sl-branco-preto-1t8ky/",
-      "lastSyncedAt": "2026-09-15T18:22:23.724Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "444"
     },
     {
@@ -44300,22 +44527,22 @@
           "id": "1553737120",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1553737123",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1553737124",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1553737125",
@@ -44328,8 +44555,8 @@
           "id": "1553737126",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -44341,11 +44568,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 8,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sambae-branco-verde-ztpf6/",
-      "lastSyncedAt": "2026-09-17T05:07:12.456Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "883"
     },
     {
@@ -48275,7 +48502,7 @@
           "id": "1410609054",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -48327,11 +48554,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-preto-off-lr98c/",
-      "lastSyncedAt": "2026-09-12T17:21:09.374Z",
+      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
       "sku": "221"
     },
     {
