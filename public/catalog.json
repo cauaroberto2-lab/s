@@ -748,6 +748,83 @@
       "sku": "955"
     },
     {
+      "id": "dx-367960340",
+      "sourceId": "367960340",
+      "slug": "9060-branco-branco-vermelho-367960340",
+      "name": "9060 BRANCO BRANCO VERMELHO",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "Tênis 9060 Branco Branco Vermelho – Linha Luxo de Alta Qualidade Apresentamos o Tênis 9060 Branco Branco Vermelho, um calçado exclusivo da nossa Linha Luxo, que une design moderno, conforto excepcional e durabilidade incomparável. Perfeito para quem busca um tênis de alta qualidade, que acompanha seu estilo com sofisticação e resistência. Por que escolher o Tênis 9060 Branco Branco Vermelho? Visual marcante e elegante Combinando o clássico branco com detalhes em vermelho vibrante, este modelo traz um design contemporâneo e versátil, ideal para destacar seu visual em qualquer ocasião — do casual ao urbano. Conforto e ajuste perfeito Produzido com materiais premium e palmilha acolchoada, o 9060 oferece maciez e suporte para seus pés, garantindo conforto durante todo o dia, mesmo nas atividades mais intensas. Durabilidade e acabamento premium Fabricado com atenção aos detalhes e acabamento refinado, este tênis mantém sua forma e cor mesmo após uso frequente. A Linha Luxo assegura resistência e qualidade para acompanhar seu ritmo sem perder o estilo. Tamanhos disponíveis (BR) e medidas do pé em cm | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé cuidadosamente e consulte a tabela para garantir o ajuste ideal e máximo conforto. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-17-51-40-6a00162a7f9857e01017895948191986-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-17-51-40-1-7eb0f4a5e48e907b6617895948194106-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-17-51-41-70c79e9079fc90967717895948193544-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-17-51-42-30c44f4d9204286e7a17895948193090-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-17-51-43-d0c17bddfa00472fc717895948193536-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-17-51-39-fc56bc4626fb10765717895948196084-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-17-51-43-1-82b25e8a7ab94de03317895948193698-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1598712504",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1598712505",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1598712506",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1598712507",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1598712508",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1598712509",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-branco-vermelho-1voyo/",
+      "lastSyncedAt": "2026-09-17T00:05:46.866Z"
+    },
+    {
       "id": "dx-350824829",
       "sourceId": "350824829",
       "slug": "9060-branco-cinza-350824829",
@@ -805,8 +882,8 @@
           "id": "1544191176",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1544191177",
@@ -850,11 +927,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-1qzac/",
-      "lastSyncedAt": "2026-09-16T21:31:50.301Z",
+      "lastSyncedAt": "2026-09-17T00:05:46.866Z",
       "sku": "840"
     },
     {
@@ -2335,7 +2412,7 @@
       "name": "AD SL 72 MARROM BORDÔ",
       "brand": "Adidas",
       "category": "Tênis",
-      "subCategory": "ADIDAS",
+      "subCategory": "SL 72",
       "description": "Tênis AD SL 72 Marrom Bordô – Linha Premium de Alta Qualidade Apresentamos o Tênis AD SL 72 Marrom Bordô, um calçado que une estilo moderno, conforto excepcional e durabilidade, ideal para quem busca um produto de linha premium para o dia a dia. Por que escolher o AD SL 72 Marrom Bordô? Design Super Estiloso e Versátil O AD SL 72 combina a sofisticação do marrom com detalhes bordô, criando um visual elegante e contemporâneo. Perfeito para complementar seus looks casuais e também para o uso diário com muito estilo. Conforto Incomparável Produzido com materiais de alta qualidade e com atenção especial à palmilha acolchoada, este tênis oferece suporte e maciez para seus pés, garantindo conforto durante todas as suas atividades. Durabilidade e Acabamento Premium Com acabamento refinado e fabricação cuidadosa, o AD SL 72 mantém sua forma e beleza mesmo após uso frequente, representando um investimento seguro em qualidade e resistência. Tamanhos Disponíveis Confira a tabela abaixo para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22,5 | | 35 | 23,0 | | 36 | 24,0 | | 37 | 25,0 | | 38 | 25,0 | | 39 | 26,0 | | 40 | 27,0 | | 41 | 27,5 | | 42 | 29,0 | | 43 | 29,5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, assegurando a autenticidade e qualidade do produto.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-08-14-at-12-43-32-9e9c57d5d3cceef02217867251525509-1024-1024.webp",
@@ -2401,7 +2478,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ad-sl-72-marrom-bordo-1mtud/",
-      "lastSyncedAt": "2026-09-15T23:57:44.587Z",
+      "lastSyncedAt": "2026-09-17T00:05:46.866Z",
       "sku": "1031"
     },
     {
@@ -2711,8 +2788,8 @@
           "id": "1496804723",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1496804724",
@@ -2738,11 +2815,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-2000-all-black-tyfvz/",
-      "lastSyncedAt": "2026-09-15T18:22:23.724Z",
+      "lastSyncedAt": "2026-09-17T00:05:46.866Z",
       "sku": "456"
     },
     {
@@ -5323,7 +5400,7 @@
           "id": "1494015890",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -5364,11 +5441,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adzero-boston-11-branco-limao-1aklb/",
-      "lastSyncedAt": "2026-09-16T21:31:50.301Z",
+      "lastSyncedAt": "2026-09-17T00:05:46.866Z",
       "sku": "453"
     },
     {
@@ -5471,8 +5548,8 @@
           "id": "1549273840",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549273842",
@@ -5519,11 +5596,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-boston-11-preto-branco-1j5gp/",
-      "lastSyncedAt": "2026-09-10T17:47:08.418Z",
+      "lastSyncedAt": "2026-09-17T00:05:46.866Z",
       "sku": "870"
     },
     {
@@ -5549,8 +5626,8 @@
           "id": "1559647184",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559647185",
@@ -5584,7 +5661,7 @@
           "id": "1559647189",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -5597,11 +5674,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-preto-rosa-1muc3/",
-      "lastSyncedAt": "2026-09-10T17:47:08.418Z",
+      "lastSyncedAt": "2026-09-17T00:05:46.866Z",
       "sku": "932"
     },
     {
@@ -21080,6 +21157,114 @@
       "sku": "587"
     },
     {
+      "id": "dx-367958678",
+      "sourceId": "367958678",
+      "slug": "force-cromo-cinza-367958678",
+      "name": "FORCE CROMO CINZA",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "AIR FORCE",
+      "description": "Tênis FORCE CROMO CINZA – Linha Luxo de Alta Qualidade Apresentamos o Tênis FORCE CROMO CINZA, um calçado da nossa exclusiva Linha Luxo que une estilo moderno, conforto superior e alta durabilidade. Ideal para quem busca um produto premium, com acabamento impecável e design que se destaca em qualquer ocasião. Por que escolher o Tênis FORCE CROMO CINZA? Visual Sofisticado e Versátil Com seu tom cinza cromado, este tênis oferece um visual moderno e elegante que combina facilmente com diferentes estilos, do casual ao urbano. Seu design arrojado e acabamento de alta qualidade fazem dele uma peça essencial no seu guarda-roupa. Conforto e Ajuste Perfeito Produzido com materiais selecionados e palmilha acolchoada, o FORCE CROMO CINZA proporciona maciez e suporte ideais para seus pés durante todo o dia. Seu formato ergonômico garante um ajuste confortável e seguro, para que você caminhe com leveza e confiança. Durabilidade e Acabamento Premium Fabricado com atenção especial aos detalhes, este tênis mantém sua forma, cor e beleza mesmo após uso frequente. A Linha Luxo assegura um produto resistente, pensado para acompanhar seu ritmo sem perder o estilo. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-16-55-52-b62af1c922a9cd57b017895941481643-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-16-54-20-07f92389ff82c158e117895941250749-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-16-54-39-15336c6cfaf5ff2c4e17895941251267-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-16-55-16-8eb8f00822467abe4017895941250408-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-16-54-20-1-3ae1f26ca58a2cb42d17895941251348-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-16-at-16-55-51-e8551511e86e594f7f17895941250466-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1598704660",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1598704661",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1598704662",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1598704663",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1598704665",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1598704666",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1598704667",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1598704668",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1598704671",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1598704673",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 24,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/force-cromo-cinza-1tbtk/",
+      "lastSyncedAt": "2026-09-17T00:05:46.866Z"
+    },
+    {
       "id": "dx-357320171",
       "sourceId": "357320171",
       "slug": "force-natural-cinza-357320171",
@@ -26340,8 +26525,8 @@
           "id": "1559639517",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559639520",
@@ -26371,11 +26556,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-preto-grafite-1d8tg/",
-      "lastSyncedAt": "2026-09-08T21:18:53.910Z",
+      "lastSyncedAt": "2026-09-17T00:05:46.866Z",
       "sku": "664"
     },
     {
@@ -33072,8 +33257,8 @@
           "id": "1527843564",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -33089,11 +33274,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 36,
+      "totalStock": 35,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-09-15T23:57:44.587Z",
+      "lastSyncedAt": "2026-09-17T00:05:46.866Z",
       "sku": "787"
     },
     {
@@ -37053,7 +37238,7 @@
           "id": "1564217908",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -37087,11 +37272,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-off-nude-bronze-sqtbl/",
-      "lastSyncedAt": "2026-09-16T14:17:15.493Z",
+      "lastSyncedAt": "2026-09-17T00:05:46.866Z",
       "sku": "962"
     },
     {
