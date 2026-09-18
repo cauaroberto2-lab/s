@@ -7985,8 +7985,8 @@
           "id": "1548341670",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1548341671",
@@ -8019,11 +8019,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-gel-nyc-creme-off-marinho-1etls/",
-      "lastSyncedAt": "2026-08-08T14:30:01.552Z",
+      "lastSyncedAt": "2026-09-18T10:36:17.809Z",
       "sku": "860"
     },
     {
@@ -35136,7 +35136,7 @@
           "id": "1492877363",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -35149,11 +35149,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-creme-bordo-a58fz/",
-      "lastSyncedAt": "2026-09-17T22:20:17.081Z",
+      "lastSyncedAt": "2026-09-18T10:36:17.809Z",
       "sku": "705"
     },
     {
