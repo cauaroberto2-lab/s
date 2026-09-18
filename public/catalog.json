@@ -292,7 +292,7 @@
           "id": "1504176785",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -358,11 +358,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-09-17T05:07:12.456Z",
+      "lastSyncedAt": "2026-09-18T05:33:08.487Z",
       "sku": "715"
     },
     {
@@ -17679,7 +17679,7 @@
           "id": "1545028946",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -17693,8 +17693,8 @@
           "id": "1545028950",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1545028952",
@@ -17720,11 +17720,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-preto-cinza-11fvf/",
-      "lastSyncedAt": "2026-09-16T18:18:41.445Z",
+      "lastSyncedAt": "2026-09-18T05:33:08.487Z",
       "sku": "848"
     },
     {
@@ -43633,8 +43633,8 @@
           "id": "1464242899",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1464242900",
@@ -43667,11 +43667,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-azul-bb-9qmlj/",
-      "lastSyncedAt": "2026-09-17T22:20:17.081Z",
+      "lastSyncedAt": "2026-09-18T05:33:08.487Z",
       "sku": "338"
     },
     {
