@@ -13668,7 +13668,7 @@
           "id": "1401380611",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -13713,11 +13713,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-cinza-branco-h4x00/",
-      "lastSyncedAt": "2026-09-15T18:22:23.724Z",
+      "lastSyncedAt": "2026-09-18T00:37:01.090Z",
       "sku": "113"
     },
     {
@@ -44498,8 +44498,8 @@
           "id": "1429378734",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1429378735",
@@ -44525,11 +44525,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-sl-cinza-latex-46qhb/",
-      "lastSyncedAt": "2026-09-02T22:22:05.461Z",
+      "lastSyncedAt": "2026-09-18T00:37:01.090Z",
       "sku": "447"
     },
     {
@@ -47588,8 +47588,8 @@
           "id": "1484372223",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1484372224",
@@ -47612,11 +47612,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ultraranger-3d-preto-branco-uqeje/",
-      "lastSyncedAt": "2026-09-14T05:16:44.244Z",
+      "lastSyncedAt": "2026-09-18T00:37:01.090Z",
       "sku": "680"
     },
     {
