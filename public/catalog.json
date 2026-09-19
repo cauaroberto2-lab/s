@@ -33241,8 +33241,8 @@
           "id": "1548962931",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -33254,11 +33254,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-1080-vz-branco-pink-marinho-8t6s7/",
-      "lastSyncedAt": "2026-09-11T14:50:36.006Z",
+      "lastSyncedAt": "2026-09-19T11:23:16.705Z",
       "sku": "865"
     },
     {
