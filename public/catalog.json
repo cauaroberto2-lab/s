@@ -854,28 +854,28 @@
           "id": "1598712505",
           "size": "35",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1598712506",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1598712507",
           "size": "37",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1598712508",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
@@ -895,11 +895,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-branco-vermelho-1voyo/",
-      "lastSyncedAt": "2026-09-19T20:03:48.602Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "1098"
     },
     {
@@ -960,8 +960,8 @@
           "id": "1544191176",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1544191177",
@@ -1005,11 +1005,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-1qzac/",
-      "lastSyncedAt": "2026-09-19T20:03:48.602Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "840"
     },
     {
@@ -12337,6 +12337,183 @@
       "sku": "674"
     },
     {
+      "id": "dx-368574289",
+      "sourceId": "368574289",
+      "slug": "camiseta-polo-calvin-368574289",
+      "name": "CAMISETA POLO CALVIN",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "CAMISETAS",
+      "description": "CAMISETA POLO CALVIN – Linha Luxo de Alta Qualidade Apresentamos a Camiseta Polo Calvin, uma peça essencial para quem busca elegância, conforto e alta qualidade em um só produto. Integrante da nossa exclusiva Linha Luxo, esta camiseta é perfeita para quem valoriza estilo sofisticado aliado a um acabamento premium. Por que escolher a Camiseta Polo Calvin? Design Clássico e Sofisticado A Camiseta Polo Calvin traz um visual atemporal que combina com diversas ocasiões, do casual ao social. Seu corte impecável e detalhes refinados garantem um look moderno e elegante, perfeito para o dia a dia ou eventos especiais. Conforto e Qualidade Superior Confeccionada com materiais de alta qualidade, a camiseta oferece toque macio e excelente respirabilidade, proporcionando conforto durante todo o uso. Seu caimento é pensado para valorizar o corpo sem abrir mão da liberdade de movimentos. Durabilidade e Acabamento Premium Com atenção minuciosa aos detalhes, a Camiseta Polo Calvin mantém sua forma, cor e textura mesmo após várias lavagens. A Linha Luxo assegura um produto resistente, feito para durar e destacar seu estilo por muito tempo. Tamanhos Disponíveis (Brasil - BR) | Tamanho | Descrição | |---------|---------------| | P | Pequeno | | M | Médio | | G | Grande | | GG | Extra Grande | Dica: Consulte nossa tabela de tamanhos para escolher o ajuste ideal para você e garantir o máximo conforto. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para facilitar o processo, mantenha o produto sem sinais de uso e acompanhe as orientações da nossa política.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-19-at-14-29-10-3a5c36a746900b55ef17898417819842-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-19-at-14-29-10-1-26ca29458e5f41603417898417820679-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-19-at-14-29-11-2602f5ef5353d5e8dc17898417820896-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-19-at-14-29-11-1-67243886ccd700977b17898417819856-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1600648440",
+          "size": "P",
+          "color": "Bege",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600648441",
+          "size": "P",
+          "color": "Preto",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600648443",
+          "size": "P",
+          "color": "Branco",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600648444",
+          "size": "P",
+          "color": "Verde",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600648445",
+          "size": "M",
+          "color": "Bege",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600648446",
+          "size": "M",
+          "color": "Preto",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600648447",
+          "size": "M",
+          "color": "Branco",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600648448",
+          "size": "M",
+          "color": "Verde",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600648449",
+          "size": "G",
+          "color": "Bege",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600648450",
+          "size": "G",
+          "color": "Preto",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600648452",
+          "size": "G",
+          "color": "Branco",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600648453",
+          "size": "G",
+          "color": "Verde",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1600648454",
+          "size": "GG",
+          "color": "Bege",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600648455",
+          "size": "GG",
+          "color": "Preto",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600648456",
+          "size": "GG",
+          "color": "Branco",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600648457",
+          "size": "GG",
+          "color": "Verde",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600648459",
+          "size": "XG",
+          "color": "Bege",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600648460",
+          "size": "XG",
+          "color": "Preto",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600648461",
+          "size": "XG",
+          "color": "Branco",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600648462",
+          "size": "XG",
+          "color": "Verde",
+          "stock": 2,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [
+        "Bege",
+        "Preto",
+        "Branco",
+        "Verde"
+      ],
+      "totalStock": 35,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-polo-calvin-lurs9/",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
+      "sku": "1101"
+    },
+    {
       "id": "dx-327050432",
       "sourceId": "327050432",
       "slug": "camiseta-polo-r-327050432",
@@ -12438,6 +12615,257 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-polo-r-1g2od/",
       "lastSyncedAt": "2026-09-08T21:18:53.910Z",
       "sku": "608"
+    },
+    {
+      "id": "dx-368584013",
+      "sourceId": "368584013",
+      "slug": "camiseta-polo-ralph-lauren-368584013",
+      "name": "CAMISETA POLO RALPH LAUREN",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "CAMISETAS",
+      "description": "Camiseta Polo Ralph Lauren – Linha Luxo de Alta Qualidade Apresentamos a Camiseta Polo Ralph Lauren, uma peça essencial para quem busca estilo clássico aliado à qualidade superior. Integrante da nossa exclusiva Linha Luxo, esta camiseta é confeccionada com materiais premium que garantem conforto e durabilidade para o seu dia a dia. Por que escolher a Camiseta Polo Ralph Lauren? Estilo Sofisticado e Atemporal A Polo Ralph Lauren traz o design tradicional que nunca sai de moda, perfeito para compor looks casuais ou mais elegantes com facilidade. Seu corte impecável e o bordado do icônico logo conferem um toque de exclusividade e bom gosto. Conforto e Ajuste Ideal Produzida com tecidos de alta qualidade, a camiseta oferece maciez e respirabilidade, garantindo conforto mesmo nas temperaturas mais elevadas. Disponível em tamanhos que vão do P ao XGG, ela se adapta perfeitamente ao seu corpo. Durabilidade e Acabamento Premium Com acabamento refinado, costuras reforçadas e atenção aos detalhes, esta camiseta mantém sua forma e beleza mesmo após várias lavagens. A Linha Luxo assegura um produto resistente e sofisticado para o seu guarda-roupa. Tabela de Tamanhos (cm) | Tamanho | Medidas Aproximadas (cm) | |---------|--------------------------| | P | 68 (comprimento) x 50 (largura) | | M | 70 x 52 | | G | 72 x 54 | | GG | 74 x 56 | | XGG | 76 x 58 | Dica: Meça uma camiseta que você já possui e compare com a tabela para escolher o tamanho ideal! Política de Troca e Devolução Sua satisfação é muito importante para nós. Você tem até 7 dias corridos a partir do recebimento para solicitar troca ou devolução. Para garantir a autenticidade e a qualidade do produto, solicitamos o envio de um vídeo original da camiseta, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-19-at-17-08-06-c6f95a939fac222aae17898509395921-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-19-at-17-08-06-1-e791bb36dc0472fa7e17898509396648-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-19-at-17-08-06-3-6fc5fa4b5be099c7ec17898509396317-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-19-at-17-08-07-c8943e43c68363c9fe17898509397908-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-19-at-17-08-07-1-0eb2574f2f366229b517898509399530-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-19-at-17-08-07-2-bca648e929da135add17898509397092-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1600675350",
+          "size": "P",
+          "color": "Bege",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600675352",
+          "size": "M",
+          "color": "Bege",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1600675353",
+          "size": "G",
+          "color": "Bege",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1600675354",
+          "size": "GG",
+          "color": "Bege",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600675356",
+          "size": "XG",
+          "color": "Bege",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600675357",
+          "size": "P",
+          "color": "Branco",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600675358",
+          "size": "M",
+          "color": "Branco",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600675359",
+          "size": "G",
+          "color": "Branco",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1600675361",
+          "size": "GG",
+          "color": "Branco",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600675362",
+          "size": "XG",
+          "color": "Branco",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600675363",
+          "size": "P",
+          "color": "Cinza",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600675364",
+          "size": "M",
+          "color": "Cinza",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600675365",
+          "size": "G",
+          "color": "Cinza",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1600675366",
+          "size": "GG",
+          "color": "Cinza",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600675367",
+          "size": "XG",
+          "color": "Cinza",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1600675368",
+          "size": "P",
+          "color": "Marrom",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1600675370",
+          "size": "M",
+          "color": "Marrom",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1600675371",
+          "size": "G",
+          "color": "Marrom",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1600675372",
+          "size": "GG",
+          "color": "Marrom",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600675374",
+          "size": "XG",
+          "color": "Marrom",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600675375",
+          "size": "P",
+          "color": "Preto",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600675376",
+          "size": "M",
+          "color": "Preto",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1600675377",
+          "size": "G",
+          "color": "Preto",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600675378",
+          "size": "GG",
+          "color": "Preto",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600675379",
+          "size": "XG",
+          "color": "Preto",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1600675380",
+          "size": "P",
+          "color": "Verde",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1600675381",
+          "size": "M",
+          "color": "Verde",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1600675382",
+          "size": "G",
+          "color": "Verde",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1600675385",
+          "size": "GG",
+          "color": "Verde",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1600675386",
+          "size": "XG",
+          "color": "Verde",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [
+        "Bege",
+        "Branco",
+        "Cinza",
+        "Marrom",
+        "Preto",
+        "Verde"
+      ],
+      "totalStock": 27,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-polo-ralph-lauren-98cfi/",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
+      "sku": "1102"
     },
     {
       "id": "dx-326778676",
@@ -13201,8 +13629,8 @@
           "id": "1494922930",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1494922931",
@@ -13242,11 +13670,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-campus-all-black-11ydm/",
-      "lastSyncedAt": "2026-09-04T05:30:54.023Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "99"
     },
     {
@@ -16035,8 +16463,8 @@
           "id": "1553680833",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -16048,11 +16476,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-jumbo-verde-militar-1qay1/",
-      "lastSyncedAt": "2026-09-19T20:03:48.602Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "880"
     },
     {
@@ -16544,8 +16972,8 @@
           "id": "1403805172",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1403805183",
@@ -16610,11 +17038,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-088mg/",
-      "lastSyncedAt": "2026-09-19T20:03:48.602Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "175"
     },
     {
@@ -22359,7 +22787,7 @@
           "id": "1405149520",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -22397,11 +22825,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-09-19T17:46:47.229Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "74"
     },
     {
@@ -26318,8 +26746,8 @@
           "id": "1450658301",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1450658302",
@@ -26352,11 +26780,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-grafite-off-1hcnh/",
-      "lastSyncedAt": "2026-09-15T18:22:23.724Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "465"
     },
     {
@@ -33405,7 +33833,7 @@
           "id": "1599478971",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -33419,8 +33847,8 @@
           "id": "1599478973",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1599478975",
@@ -33443,11 +33871,12 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-bco-pta-pto-58yzc/",
-      "lastSyncedAt": "2026-09-19T20:03:48.602Z"
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
+      "sku": "1095"
     },
     {
       "id": "dx-345271370",
@@ -33555,7 +33984,7 @@
           "id": "1527849446",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
@@ -33597,14 +34026,14 @@
           "id": "1597894867",
           "size": "35",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1597894869",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -33628,11 +34057,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 34,
+      "totalStock": 29,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-branco-prata-6edpy/",
-      "lastSyncedAt": "2026-09-18T21:06:41.748Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "785"
     },
     {
@@ -33773,21 +34202,21 @@
           "id": "1527843555",
           "size": "35",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1527843557",
           "size": "36",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1527843558",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -33801,7 +34230,7 @@
           "id": "1527843560",
           "size": "39",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 3,
           "available": true
         },
         {
@@ -33822,8 +34251,8 @@
           "id": "1527843563",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527843564",
@@ -33846,11 +34275,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 32,
+      "totalStock": 25,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-09-19T20:03:48.602Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "787"
     },
     {
@@ -35034,8 +35463,8 @@
           "id": "1464625933",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -35047,11 +35476,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-rosa-bb-cpw15/",
-      "lastSyncedAt": "2026-09-16T21:31:50.301Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "451"
     },
     {
@@ -35081,7 +35510,7 @@
           "id": "1414801128",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -35154,11 +35583,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-cinza-1fzhs/",
-      "lastSyncedAt": "2026-09-19T20:03:48.602Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "266"
     },
     {
@@ -37810,7 +38239,7 @@
           "id": "1564217908",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 3,
           "available": true
         },
         {
@@ -37844,11 +38273,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-off-nude-bronze-sqtbl/",
-      "lastSyncedAt": "2026-09-19T20:03:48.602Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "962"
     },
     {
@@ -39743,14 +40172,14 @@
           "id": "1410669492",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410669493",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -39809,11 +40238,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/old-skool-preto-branco-xkzxj/",
-      "lastSyncedAt": "2026-09-15T23:57:44.587Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "279"
     },
     {
@@ -40523,7 +40952,7 @@
           "id": "1413213053",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -40561,11 +40990,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/cloudeclipse-off-white-1w2fu/",
-      "lastSyncedAt": "2026-09-19T17:46:47.229Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "508"
     },
     {
@@ -42252,7 +42681,7 @@
           "id": "1565191857",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -42279,11 +42708,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/prophecy-15-preto-prata-h9hdf/",
-      "lastSyncedAt": "2026-09-18T14:47:27.627Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "980"
     },
     {
@@ -44116,8 +44545,8 @@
           "id": "1401140108",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401140112",
@@ -44161,11 +44590,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-09-05T15:46:51.275Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "117"
     },
     {
@@ -44637,7 +45066,7 @@
           "id": "1429382930",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -44682,11 +45111,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-sl-branco-preto-1t8ky/",
-      "lastSyncedAt": "2026-09-18T18:04:39.325Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "444"
     },
     {
@@ -47772,8 +48201,8 @@
           "id": "1540240068",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1540240070",
@@ -47813,11 +48242,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ultraranger-3d-cinza-grafite-m3o6z/",
-      "lastSyncedAt": "2026-09-18T14:47:27.627Z",
+      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
       "sku": "817"
     },
     {
