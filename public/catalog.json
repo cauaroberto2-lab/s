@@ -2441,7 +2441,7 @@
           "id": "1583382783",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -2475,11 +2475,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-talp-bege-off-w0an9/",
-      "lastSyncedAt": "2026-09-16T18:18:41.445Z",
+      "lastSyncedAt": "2026-09-20T05:11:18.990Z",
       "sku": "1049"
     },
     {
@@ -4272,8 +4272,8 @@
           "id": "1548990652",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1548990653",
@@ -4292,11 +4292,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-creme-branco-1d0ii/",
-      "lastSyncedAt": "2026-09-18T14:47:27.627Z",
+      "lastSyncedAt": "2026-09-20T05:11:18.990Z",
       "sku": "869"
     },
     {
@@ -5098,8 +5098,8 @@
           "id": "1522494570",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1522494571",
@@ -5171,11 +5171,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-superstar-classic-1xaxr/",
-      "lastSyncedAt": "2026-09-19T20:03:48.602Z",
+      "lastSyncedAt": "2026-09-20T05:11:18.990Z",
       "sku": "377"
     },
     {
@@ -45391,8 +45391,8 @@
           "id": "1599852786",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1599852787",
@@ -45418,11 +45418,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sambae-branco-preto-19qf2/",
-      "lastSyncedAt": "2026-09-19T20:03:48.602Z"
+      "lastSyncedAt": "2026-09-20T05:11:18.990Z"
     },
     {
       "id": "dx-353866696",
