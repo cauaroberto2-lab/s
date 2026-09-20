@@ -37460,8 +37460,8 @@
           "id": "1407307738",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -37477,11 +37477,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 32,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-09-19T17:46:47.229Z",
+      "lastSyncedAt": "2026-09-20T14:01:53.698Z",
       "sku": "205"
     },
     {
@@ -45059,7 +45059,7 @@
           "id": "1429382929",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -45111,11 +45111,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-sl-branco-preto-1t8ky/",
-      "lastSyncedAt": "2026-09-19T22:23:26.730Z",
+      "lastSyncedAt": "2026-09-20T14:01:53.698Z",
       "sku": "444"
     },
     {
