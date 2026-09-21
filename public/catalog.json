@@ -14448,8 +14448,8 @@
           "id": "1525178764",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1525178768",
@@ -14482,11 +14482,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-off-black-1e0ea/",
-      "lastSyncedAt": "2026-09-01T23:47:49.035Z",
+      "lastSyncedAt": "2026-09-21T05:54:36.560Z",
       "sku": "763"
     },
     {
@@ -24174,7 +24174,7 @@
           "id": "1544136271",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -24187,11 +24187,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-rose-nobuk-yq67i/",
-      "lastSyncedAt": "2026-09-09T03:08:42.333Z",
+      "lastSyncedAt": "2026-09-21T05:54:36.560Z",
       "sku": "839"
     },
     {
@@ -44400,7 +44400,7 @@
           "id": "1464242907",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -44413,11 +44413,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-azul-bb-9qmlj/",
-      "lastSyncedAt": "2026-09-18T05:33:08.487Z",
+      "lastSyncedAt": "2026-09-21T05:54:36.560Z",
       "sku": "338"
     },
     {
@@ -48397,8 +48397,8 @@
           "id": "1484372220",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1484372222",
@@ -48435,11 +48435,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ultraranger-3d-preto-branco-uqeje/",
-      "lastSyncedAt": "2026-09-18T00:37:01.090Z",
+      "lastSyncedAt": "2026-09-21T05:54:36.560Z",
       "sku": "680"
     },
     {
@@ -48920,8 +48920,8 @@
           "id": "1523350414",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555328919",
@@ -48965,11 +48965,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-caramelo-off-vquyk/",
-      "lastSyncedAt": "2026-09-14T23:41:13.078Z",
+      "lastSyncedAt": "2026-09-21T05:54:36.560Z",
       "sku": "748"
     },
     {
