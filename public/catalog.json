@@ -2057,8 +2057,8 @@
           "id": "1567414044",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1567414045",
@@ -2091,11 +2091,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-marrom-1d9ct/",
-      "lastSyncedAt": "2026-09-19T17:46:47.229Z",
+      "lastSyncedAt": "2026-09-23T11:56:23.032Z",
       "sku": "991"
     },
     {
@@ -25930,7 +25930,7 @@
           "id": "1517113814",
           "size": "41",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -25989,11 +25989,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 39,
+      "totalStock": 38,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-grafite-preto-velcro-lesib/",
-      "lastSyncedAt": "2026-09-23T01:15:07.015Z",
+      "lastSyncedAt": "2026-09-23T11:56:23.032Z",
       "sku": "739"
     },
     {
