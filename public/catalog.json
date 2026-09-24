@@ -2457,7 +2457,7 @@
           "id": "1583382786",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -2477,11 +2477,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-talp-bege-off-w0an9/",
-      "lastSyncedAt": "2026-09-23T16:18:02.663Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "1049"
     },
     {
@@ -3159,7 +3159,7 @@
           "id": "1493963120",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -3200,11 +3200,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-2000-branco-gelo-129bx/",
-      "lastSyncedAt": "2026-09-24T20:39:42.990Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "706"
     },
     {
@@ -6817,8 +6817,8 @@
           "id": "1554152713",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1554152714",
@@ -6865,11 +6865,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-tn-plus-degrade-1l9bs/",
-      "lastSyncedAt": "2026-08-21T01:10:36.772Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "887"
     },
     {
@@ -7142,8 +7142,8 @@
           "id": "1554163132",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1554163133",
@@ -7183,11 +7183,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-tn-plus-jaguar-meget/",
-      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "890"
     },
     {
@@ -8146,8 +8146,8 @@
           "id": "1583401351",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1583401352",
@@ -8180,11 +8180,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-gel-ny-preto-grafite-113gu/",
-      "lastSyncedAt": "2026-09-24T17:26:33.287Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "1048"
     },
     {
@@ -8855,35 +8855,35 @@
           "id": "1605214777",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1605214778",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1605214779",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1605214780",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1605214782",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -8903,12 +8903,90 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ax-armani-off-white-preto-918us/",
-      "lastSyncedAt": "2026-09-24T20:39:42.990Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "1119"
+    },
+    {
+      "id": "dx-369775973",
+      "sourceId": "369775973",
+      "slug": "ax-exchange-preto-branco-369775973",
+      "name": "AX EXCHANGE PRETO BRANCO",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "ARMANI",
+      "description": "AX EXCHANGE PRETO BRANCO – Conforto e Estilo para o Seu Dia a Dia Descubra o AX EXCHANGE PRETO BRANCO , o calçado perfeito para quem busca aliar conforto, durabilidade e um design moderno com um toque clássico. Ideal para diversas ocasiões, do trabalho ao lazer, este tênis é a escolha certa para quem não abre mão de estilo e praticidade. Por que escolher o AX EXCHANGE PRETO BRANCO ? Design Versátil e Sofisticado Com uma combinação elegante entre preto e caramelo, este modelo agrega personalidade ao seu visual, combinando facilmente com diferentes looks do dia a dia. Design Versátil e Sofisticado Com uma combinação elegante entre preto e caramelo, este modelo agrega personalidade ao seu visual, combinando facilmente com diferentes looks do dia a dia. Conforto que Acompanha Seus Passos Equipado com palmilha macia e solado resistente, o AX EXCHANGE PRETO BRANCO proporciona conforto durante horas, garantindo uma experiência agradável a cada caminhada. Conforto que Acompanha Seus Passos Equipado com palmilha macia e solado resistente, o AX EXCHANGE PRETO BRANCO proporciona conforto durante horas, garantindo uma experiência agradável a cada caminhada. Qualidade e Durabilidade Confeccionado com materiais premium, o tênis oferece resistência e mantém sua beleza mesmo após uso contínuo. Qualidade e Durabilidade Confeccionado com materiais premium, o tênis oferece resistência e mantém sua beleza mesmo após uso contínuo. Solado Seguro e Estável A sola emborrachada garante aderência e estabilidade em diversas superfícies, para que você caminhe com segurança e confiança. Solado Seguro e Estável A sola emborrachada garante aderência e estabilidade em diversas superfícies, para que você caminhe com segurança e confiança. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-31-48-2058f1e9c14a3ddd5417902826686469-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-31-52-398741609674a232bf17902826689349-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-31-49-b4454ea7d5c3ad8bc417902826686975-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-31-50-75fd65c7ee9d2bfa4517902826687489-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-31-53-ba3545f66f8981ee0a17902826686654-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-31-51-a8b8d469ee3a50c76117902826686718-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-27-05-55311917723b7236a517902826687364-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1605244985",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1605244988",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1605244990",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1605244991",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1605244992",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1605244994",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 5,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/ax-exchange-preto-branco-1ieqt/",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
+      "sku": "1120"
     },
     {
       "id": "dx-332591830",
@@ -16423,6 +16501,84 @@
       "sku": "36"
     },
     {
+      "id": "dx-369784761",
+      "sourceId": "369784761",
+      "slug": "court-vision-creme-branco-369784761",
+      "name": "COURT VISION CREME BRANCO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "COURT VISION",
+      "description": "COURT VISION CREME BRANCO – Conforto e Estilo para o Seu Dia a Dia Descubra o COURT VISION CREME BRANCO , o calçado perfeito para quem busca aliar conforto, durabilidade e um design moderno com um toque clássico. Ideal para diversas ocasiões, do trabalho ao lazer, este tênis é a escolha certa para quem não abre mão de estilo e praticidade. Por que escolher o COURT VISION CREME BRANCO ? Design Versátil e Sofisticado Com uma combinação elegante entre preto e caramelo, este modelo agrega personalidade ao seu visual, combinando facilmente com diferentes looks do dia a dia. Design Versátil e Sofisticado Com uma combinação elegante entre preto e caramelo, este modelo agrega personalidade ao seu visual, combinando facilmente com diferentes looks do dia a dia. Conforto que Acompanha Seus Passos Equipado com palmilha macia e solado resistente, o COURT VISION CREME BRANCO proporciona conforto durante horas, garantindo uma experiência agradável a cada caminhada. Conforto que Acompanha Seus Passos Equipado com palmilha macia e solado resistente, o COURT VISION CREME BRANCO proporciona conforto durante horas, garantindo uma experiência agradável a cada caminhada. Qualidade e Durabilidade Confeccionado com materiais premium, o tênis oferece resistência e mantém sua beleza mesmo após uso contínuo. Qualidade e Durabilidade Confeccionado com materiais premium, o tênis oferece resistência e mantém sua beleza mesmo após uso contínuo. Solado Seguro e Estável A sola emborrachada garante aderência e estabilidade em diversas superfícies, para que você caminhe com segurança e confiança. Solado Seguro e Estável A sola emborrachada garante aderência e estabilidade em diversas superfícies, para que você caminhe com segurança e confiança. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-59-32-1ae70501fa70123cdd17902833487794-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-59-37-53852ecb7503b97b1217902833208564-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-59-33-4299f59418e48aadbb17902833208470-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-59-34-7035579bdcac86085a17902833208743-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-59-39-a4a57b0079faa41f6417902833208496-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-59-35-810e7d82dc5489b0cb17902833207893-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-16-59-40-4165bcd802fced5e7517902833208654-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1605282542",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1605282543",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1605282545",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1605282546",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1605282547",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1605282548",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/court-vision-creme-branco-wev9w/",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
+      "sku": "1121"
+    },
+    {
       "id": "dx-318942789",
       "sourceId": "318942789",
       "slug": "court-vision-natural-318942789",
@@ -19859,7 +20015,7 @@
           "id": "1510079873",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -19890,11 +20046,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 32,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-verde-musgo-m17pb/",
-      "lastSyncedAt": "2026-09-24T17:26:33.287Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "665"
     },
     {
@@ -21348,21 +21504,21 @@
           "id": "1413491492",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1413491494",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1413491495",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -21389,11 +21545,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/essencial-marinho-laranja-1lqd0/",
-      "lastSyncedAt": "2026-09-23T19:45:05.089Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "256"
     },
     {
@@ -24162,7 +24318,7 @@
           "id": "1451423757",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -24189,11 +24345,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-panda-3vcff/",
-      "lastSyncedAt": "2026-09-23T01:15:07.015Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "426"
     },
     {
@@ -25185,7 +25341,7 @@
           "id": "1566956714",
           "size": "40",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -25219,11 +25375,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-black-white-nobuk-1gz2a/",
-      "lastSyncedAt": "2026-09-24T20:39:42.990Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "987"
     },
     {
@@ -30090,7 +30246,7 @@
           "id": "1493114961",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -30170,11 +30326,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-cinza-preto-1ctg9/",
-      "lastSyncedAt": "2026-09-21T18:16:00.493Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "249"
     },
     {
@@ -31253,8 +31409,8 @@
           "id": "1422955089",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1422955091",
@@ -31319,11 +31475,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-preto-branco-hk4pe/",
-      "lastSyncedAt": "2026-09-12T17:21:09.374Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "234"
     },
     {
@@ -34951,7 +35107,7 @@
           "id": "1599478966",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -35017,11 +35173,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-bco-pta-pto-58yzc/",
-      "lastSyncedAt": "2026-09-23T19:45:05.089Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "1095"
     },
     {
@@ -35869,7 +36025,7 @@
           "id": "1505634918",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -35935,11 +36091,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-off-coffe-mosev/",
-      "lastSyncedAt": "2026-09-24T17:26:33.287Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "720"
     },
     {
@@ -37369,8 +37525,8 @@
           "id": "1404734495",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1404734498",
@@ -37407,11 +37563,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-branco-0qo43/",
-      "lastSyncedAt": "2026-09-19T17:46:47.229Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "67"
     },
     {
@@ -37936,7 +38092,7 @@
           "id": "1587737818",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -37964,11 +38120,11 @@
         "40"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-elite-off-white-preto-1imf71/",
-      "lastSyncedAt": "2026-09-24T20:39:42.990Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "1073"
     },
     {
@@ -39476,14 +39632,14 @@
           "id": "1564217909",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1564217911",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -39503,11 +39659,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-off-nude-bronze-sqtbl/",
-      "lastSyncedAt": "2026-09-24T20:39:42.990Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "962"
     },
     {
@@ -46169,7 +46325,7 @@
           "id": "1604280092",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -46203,11 +46359,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-off-white-bordo-8n30t/",
-      "lastSyncedAt": "2026-09-24T17:26:33.287Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "1113"
     },
     {
@@ -46845,7 +47001,7 @@
           "id": "1604981309",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -46859,7 +47015,7 @@
           "id": "1604981311",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -46879,11 +47035,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sambae-bordo-bco-latex-l339l/",
-      "lastSyncedAt": "2026-09-24T20:39:42.990Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "1116"
     },
     {
@@ -50133,6 +50289,82 @@
       "sku": "680"
     },
     {
+      "id": "dx-369789963",
+      "sourceId": "369789963",
+      "slug": "vans-authentic-classic-369789963",
+      "name": "VANS AUTHENTIC CLASSIC",
+      "brand": "Vans",
+      "category": "Tênis",
+      "subCategory": "VANS",
+      "description": "VANS AUTHENTIC CLASSIC – Conforto e Estilo para o Seu Dia a Dia Descubra o VANS AUTHENTIC CLASSIC, o calçado perfeito para quem busca aliar conforto, durabilidade e um design moderno com um toque clássico. Ideal para diversas ocasiões, do trabalho ao lazer, este tênis é a escolha certa para quem não abre mão de estilo e praticidade. Por que escolher o VANS AUTHENTIC CLASSIC ? Design Versátil e Sofisticado Com uma combinação elegante entre preto e caramelo, este modelo agrega personalidade ao seu visual, combinando facilmente com diferentes looks do dia a dia. Design Versátil e Sofisticado Com uma combinação elegante entre preto e caramelo, este modelo agrega personalidade ao seu visual, combinando facilmente com diferentes looks do dia a dia. Conforto que Acompanha Seus Passos Equipado com palmilha macia e solado resistente, o 2K Essencial proporciona conforto durante horas, garantindo uma experiência agradável a cada caminhada. Conforto que Acompanha Seus Passos Equipado com palmilha macia e solado resistente, o 2K Essencial proporciona conforto durante horas, garantindo uma experiência agradável a cada caminhada. Qualidade e Durabilidade Confeccionado com materiais premium, o tênis oferece resistência e mantém sua beleza mesmo após uso contínuo. Qualidade e Durabilidade Confeccionado com materiais premium, o tênis oferece resistência e mantém sua beleza mesmo após uso contínuo. Solado Seguro e Estável A sola emborrachada garante aderência e estabilidade em diversas superfícies, para que você caminhe com segurança e confiança. Solado Seguro e Estável A sola emborrachada garante aderência e estabilidade em diversas superfícies, para que você caminhe com segurança e confiança. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-17-23-20-011fd95898790879fe17902861720296-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-17-23-17-a754fa2602c297d10217902861718941-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-17-23-18-16e0125e8cfc4a439c17902861722747-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-17-23-16-7319ce94dfd32ee9bd17902861722713-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-24-at-17-23-19-02ca8ca80eb2424a5f17902861720358-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1605300272",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1605300273",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1605300274",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1605300275",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1605300276",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1605300277",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-authentic-classic-xpf2y/",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
+      "sku": "1122"
+    },
+    {
       "id": "dx-357311714",
       "sourceId": "357311714",
       "slug": "vans-hylane-caramelo-castor-357311714",
@@ -50466,8 +50698,8 @@
           "id": "1564373333",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564373335",
@@ -50546,11 +50778,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-cacau-off-white-hhrac/",
-      "lastSyncedAt": "2026-09-24T20:39:42.990Z",
+      "lastSyncedAt": "2026-09-24T23:45:38.716Z",
       "sku": "968"
     },
     {
