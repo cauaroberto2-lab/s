@@ -3055,6 +3055,83 @@
       "sku": "348"
     },
     {
+      "id": "dx-339940884",
+      "sourceId": "339940884",
+      "slug": "adi-2000-bege-creme-preto-339940884",
+      "name": "ADI 2000 BEGE/CREME/PRETO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "2000",
+      "description": "Tênis ADIDAS 2000 BEGE/CREME/PRETO– Estilo e Conforto para Todos os Momentos Descubra o Tênis 2000 BEGE, a combinação perfeita entre um visual moderno e conforto excepcional. Pensado para quem valoriza estilo e praticidade, este modelo traz o contraste elegante do preto com detalhes em branco, ideal para quem deseja um toque sofisticado em qualquer ocasião. Por que escolher o Tênis 2000 BEGE? Design Elegante e Versátil O contraste das cores preto e branco cria um visual clean e atual, que se adapta facilmente ao seu estilo, seja para o dia a dia ou para momentos especiais. Design Elegante e Versátil O contraste das cores preto e branco cria um visual clean e atual, que se adapta facilmente ao seu estilo, seja para o dia a dia ou para momentos especiais. Conforto que Acompanha Seu Ritmo Equipado com palmilha macia e entressola que absorve impactos, proporciona conforto duradouro para seus pés, mantendo você confortável em todas as atividades. Conforto que Acompanha Seu Ritmo Equipado com palmilha macia e entressola que absorve impactos, proporciona conforto duradouro para seus pés, mantendo você confortável em todas as atividades. Durabilidade e Resistência Fabricado com materiais de alta qualidade, oferece excelente resistência para acompanhar seu estilo de vida ativo sem perder o charme. Durabilidade e Resistência Fabricado com materiais de alta qualidade, oferece excelente resistência para acompanhar seu estilo de vida ativo sem perder o charme. Solado Antiderrapante Para maior segurança e estabilidade em diversas superfícies, garantindo passos firmes e confiantes. Solado Antiderrapante Para maior segurança e estabilidade em diversas superfícies, garantindo passos firmes e confiantes. Encontre seu Tamanho Ideal Confira nossa tabela de medidas e escolha o ajuste perfeito para você: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|-----------------------| | 38 | 24,5 | | 39 | 25,0 | | 40 | 25,5 | | 41 | 26,0 | | 42 | 26,5 | | 43 | 27,0 | Dica: Meça seu pé e compare com a tabela para garantir o melhor caimento. Política de Troca e Devolução Sua satisfação é muito importante para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Basta enviar um vídeo original do tênis sem sinais de uso para que possamos garantir a qualidade e autenticidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-21-at-15-05-14-1-525739d8c69a44169e17769616653143-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-21-at-15-05-22-1-676378ab84e3e9bea317769616650304-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-21-at-15-05-15-1-b0c4be7af6c808222117769616650335-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-21-at-15-05-17-1-559d1e670d419bb2f817769616652965-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-21-at-15-05-23-1-49f7a0d4494fe6097417769616652471-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-04-21-at-15-05-21-1-a22bd0321b6037cd3d17769616654491-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1510768608",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1510768609",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1510768611",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1510768612",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1510768613",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1510768614",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-bege-creme-preto-1tl15/",
+      "lastSyncedAt": "2026-09-24T01:05:02.661Z",
+      "sku": "728"
+    },
+    {
       "id": "dx-335901822",
       "sourceId": "335901822",
       "slug": "adi-2000-branco-gelo-335901822",
@@ -17325,35 +17402,35 @@
           "id": "1403805194",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1403805203",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1403805213",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1403805222",
           "size": "41",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 7,
           "available": true
         },
         {
           "id": "1403805232",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
@@ -17377,11 +17454,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-088mg/",
-      "lastSyncedAt": "2026-09-21T22:06:29.149Z",
+      "lastSyncedAt": "2026-09-24T01:05:02.661Z",
       "sku": "175"
     },
     {
@@ -17898,43 +17975,43 @@
           "id": "1420786982",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1420786983",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1420786986",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1420786988",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1420786989",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1420786993",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -17946,11 +18023,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-capuccino-dxo6s/",
-      "lastSyncedAt": "2026-09-03T17:31:21.954Z",
+      "lastSyncedAt": "2026-09-24T01:05:02.661Z",
       "sku": "181"
     },
     {
@@ -21010,6 +21087,85 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-vintage-navy-10s3k/",
       "lastSyncedAt": "2026-09-17T22:20:17.081Z",
       "sku": "904"
+    },
+    {
+      "id": "dx-369532221",
+      "sourceId": "369532221",
+      "slug": "eessencial-2k-pto-pto-bco-369532221",
+      "name": "EESSENCIAL 2K PTO/PTO/BCO",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "ESSENCIAL",
+      "description": "Tênis EESSENCIAL 2K PTO/PTO/BCO – Linha Luxo de Alta Qualidade Apresentamos o Tênis EESSENCIAL 2K PTO/PTO/BCO, um calçado que reúne design moderno, conforto excepcional e durabilidade superior, perfeito para quem busca um produto premium da nossa exclusiva Linha Luxo. Por que escolher o Tênis EESSENCIAL 2K PTO/PTO/BCO? Visual Clássico e Versátil Com a combinação elegante do preto e branco, o EESSENCIAL 2K traz um estilo atemporal que se adapta facilmente a diversos looks, do casual ao urbano. Seu design minimalista valoriza sua personalidade com sutileza e sofisticação. Conforto e Ajuste Perfeito Produzido com materiais selecionados de alta qualidade e palmilha acolchoada, este tênis proporciona maciez e suporte ideais para os seus pés durante todo o dia. Seu formato ergonômico garante um ajuste seguro e confortável, para você caminhar com leveza e confiança. Durabilidade e Acabamento Premium Com acabamento impecável e atenção aos detalhes, o EESSENCIAL 2K mantém sua forma e beleza mesmo após uso frequente. A Linha Luxo é sinônimo de resistência e qualidade, oferecendo um calçado feito para acompanhar seu ritmo sem perder o estilo. Tamanhos Disponíveis (Do 38 ao 43 cm) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé cuidadosamente e consulte a tabela para garantir o ajuste ideal. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para assegurar a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-21-33-45-59fc1cd0d5602d6b6517902111527759-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-21-33-44-4c6a89d56f57a3ba4c17902111529072-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-21-33-44-1-0aee3bf057f4e168b317902111531324-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-21-33-42-38584d83fbc8ccb11017902111526731-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-21-33-43-b258d4bfa347ed322917902111524826-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-21-33-42-1-d348eaec818508763217902111527308-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-21-33-44-2-9a42ada8d53bdb375617902111528832-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-21-33-44-3-970c55c7af86c7fa8d17902111526461-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1604294163",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1604294165",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1604294166",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1604294167",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1604294168",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1604294169",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/eessencial-2k-pto-pto-bco-elsg4/",
+      "lastSyncedAt": "2026-09-24T01:05:02.661Z",
+      "sku": "1114"
     },
     {
       "id": "dx-318932044",
@@ -25701,6 +25857,84 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-summer-camp-1c84k/",
       "lastSyncedAt": "2026-09-18T21:06:41.748Z",
       "sku": "713"
+    },
+    {
+      "id": "dx-369520215",
+      "sourceId": "369520215",
+      "slug": "forum-low-84-summer-green-low-369520215",
+      "name": "FORUM LOW 84 SUMMER GREEN LOW",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "FORÚM",
+      "description": "Tênis FORUM LOW 84 SUMMER GREEN LOW – Linha Luxo de Alta Qualidade Apresentamos o Tênis FORUM LOW 84 SUMMER GREEN LOW, um calçado que une estilo único, conforto superior e durabilidade excepcional, perfeito para quem busca um produto da nossa exclusiva Linha Luxo. Por que escolher o FORUM LOW 84 SUMMER GREEN LOW? Estilo Exclusivo e Moderno Com sua cor summer green vibrante e acabamento refinado, o FORUM LOW 84 traz um visual marcante que complementa qualquer look, seja casual ou urbano. Seu design atemporal garante versatilidade para todas as ocasiões. Conforto e Ajuste Perfeito Produzido com materiais premium e palmilha acolchoada, este tênis oferece suporte ideal e maciez para seus pés, mantendo o conforto durante todo o dia. Seu formato ergonômico se adapta com precisão, proporcionando segurança e leveza a cada passo. Durabilidade da Linha Luxo Com atenção especial aos detalhes e acabamento superior, o FORUM LOW 84 mantém sua forma, cor e estilo mesmo após uso frequente. A qualidade da Linha Luxo assegura um produto resistente, pensado para acompanhar seu ritmo com segurança. Tamanhos Disponíveis e Medidas (BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste ideal e máximo conforto. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-18-57-32-dbc8bc6c48e9840e5617902077949131-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-18-57-32-1-67f590cbbe90f9ee9817902077952105-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-18-57-33-17d9e1d284732b07c117902077948806-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-18-57-34-bc9a5fae718092589417902077948910-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-18-57-31-d355fcf0160018ce5417902077953053-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-18-57-35-bee9000f59685bfe4f17902077952128-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-18-57-36-928824652d62744d9817902077947745-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1604259388",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1604259392",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1604259395",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1604259396",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1604259399",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1604259402",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-summer-green-low-wqvfa/",
+      "lastSyncedAt": "2026-09-24T01:05:02.661Z",
+      "sku": "1111"
     },
     {
       "id": "dx-317180742",
@@ -38021,8 +38255,8 @@
           "id": "1407307727",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1407307734",
@@ -38052,11 +38286,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 29,
+      "totalStock": 28,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-09-23T19:45:05.089Z",
+      "lastSyncedAt": "2026-09-24T01:05:02.661Z",
       "sku": "205"
     },
     {
@@ -42425,6 +42659,82 @@
       "sku": "1013"
     },
     {
+      "id": "dx-228901062",
+      "sourceId": "228901062",
+      "slug": "pegasus-azul-turquesa-228901062",
+      "name": "PEGASUS AZUL TURQUESA",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "PEGASUS",
+      "description": "PEGASUS AZUL TURQUESA – Tênis de Alta Qualidade da Linha Luxo Descubra o PEGASUS AZUL TURQUESA, um tênis que une estilo sofisticado, conforto excepcional e durabilidade incomparável, tudo isso com a elegância e exclusividade da Linha Luxo. Ideal para quem valoriza um calçado versátil e refinado, perfeito para diversas ocasiões, do dia a dia a eventos especiais. Por que escolher o PEGASUS AZUL TURQUESA? Visual moderno e sofisticado Com acabamento em grafite preto, este modelo apresenta um design contemporâneo e discreto, que combina facilmente com diferentes estilos e looks, valorizando sua presença com um toque de exclusividade. Conforto e resistência para seus passos Equipado com sola emborrachada de alta qualidade, o PEGASUS AZUL TURQUESA oferece excelente aderência e estabilidade em múltiplas superfícies. Seu design ergonômico proporciona leveza e conforto para acompanhar você o dia todo. Qualidade premium da Linha Luxo Fabricado com materiais selecionados e acabamento impecável, este tênis mantém sua beleza e performance mesmo após uso contínuo. A Linha Luxo é sinônimo de produtos para consumidores exigentes que valorizam cada detalhe. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/img_6737-0178e2ce5a9654827a17254215504686-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/img_6738-fcfee8ad5f1b8c7f8017254215496717-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/img_6739-5eba9ba661b4cf211817254215504661-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/img_6740-b4b348551c4481bbd417254215500600-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/img_6741-58a2186ae92ae7174e17254215504476-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1009090407",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1009090408",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1009090409",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1009090410",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1009090411",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1009090412",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-azul-turquesa-2tmkh/",
+      "lastSyncedAt": "2026-09-24T01:05:02.661Z",
+      "sku": "22"
+    },
+    {
       "id": "dx-229079069",
       "sourceId": "229079069",
       "slug": "pegasus-branco-pink-229079069",
@@ -45402,6 +45712,84 @@
       "sku": "752"
     },
     {
+      "id": "dx-369527819",
+      "sourceId": "369527819",
+      "slug": "samba-off-white-bordo-369527819",
+      "name": "SAMBA OFF WHITE BORDO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "SAMBA",
+      "description": "Tênis SAMBA OFF WHITE BORDÔ – Linha Luxo de Alta Qualidade Apresentamos o Tênis SAMBA OFF WHITE BORDÔ, um calçado que une design elegante, conforto superior e durabilidade excepcional, perfeito para quem valoriza estilo e qualidade premium na exclusiva Linha Luxo. Por que escolher o Tênis SAMBA OFF WHITE BORDÔ? Visual Sofisticado e Versátil Com sua combinação exclusiva de off white e bordô, o SAMBA traz um visual moderno e marcante que combina facilmente com diversos estilos, do casual ao urbano, garantindo presença em qualquer ocasião. Conforto e Ajuste Impecáveis Produzido com materiais selecionados e palmilha acolchoada, este tênis oferece maciez e suporte para seus pés, proporcionando conforto durante todo o dia, mesmo em uso prolongado. Durabilidade e Acabamento Premium Fabricado com atenção aos mínimos detalhes, o SAMBA mantém sua forma, cor e beleza mesmo após uso frequente. A Linha Luxo assegura um produto resistente, pensado para acompanhar seu ritmo sem perder o estilo. Tamanhos Disponíveis do 34 ao 39 (Comprimento do Pé em cm) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho ideal e garantir um ajuste perfeito. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-18-46-36-2f3842df57f1d4202517902099536039-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-18-32-00-73450c12e218833cee17902099533150-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-18-43-24-446f1f062259e1cd5017902099533085-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-18-46-27-5de8282cae00adb9ee17902099535873-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-18-32-40-46dd15354a3de0a70317902099533289-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-18-43-37-f768c31bfd248cb62817902099532460-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-18-46-29-33b56690de490566b617902099533594-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1604280089",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1604280091",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1604280092",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1604280094",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1604280096",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1604280097",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-off-white-bordo-8n30t/",
+      "lastSyncedAt": "2026-09-24T01:05:02.661Z",
+      "sku": "1113"
+    },
+    {
       "id": "dx-322185192",
       "sourceId": "322185192",
       "slug": "samba-preto-latex-322185192",
@@ -47838,6 +48226,162 @@
       "sku": "1030"
     },
     {
+      "id": "dx-369526213",
+      "sourceId": "369526213",
+      "slug": "superstar-marrom-off-white-369526213",
+      "name": "SUPERSTAR MARROM OFF WHITE",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "CAMPUS",
+      "description": "Tênis SUPERSTAR Marrom Off White – Linha Luxo de Alta Qualidade Apresentamos o Tênis SUPERSTAR Marrom Off White, um calçado exclusivo da nossa Linha Luxo, que une design clássico, conforto excepcional e durabilidade superior. Ideal para quem busca um tênis sofisticado e versátil, perfeito para diversas ocasiões, do dia a dia às saídas casuais. Por que escolher o Tênis SUPERSTAR Marrom Off White? Visual Elegante e Atemporal Com sua combinação única de marrom com detalhes em off white, o SUPERSTAR traz um estilo refinado que combina facilmente com diferentes looks, valorizando sua presença com um toque de personalidade. Conforto e Ajuste Perfeito Fabricado com materiais premium e palmilha macia, este tênis oferece suporte e conforto durante todo o dia. Seu design ergonômico garante um calce perfeito, ideal para quem busca praticidade sem abrir mão do estilo. Durabilidade e Acabamento Impecável Produzido com atenção a cada detalhe, o SUPERSTAR mantém sua forma, cor e beleza mesmo após uso frequente, entregando resistência e qualidade que acompanham seu ritmo. Tamanhos Disponíveis (Brasil) Encontre o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça cuidadosamente seu pé e consulte a tabela para garantir o ajuste perfeito. Política de Troca e Devolução Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-16-56-43-7bcfba5bc5eeaf2b1b17902092488089-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-16-57-47-b5f748dee5fedaf49917902092487998-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-16-57-09-f683207b9328f0a74117902092487760-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-16-57-14-ed4159633427024c5e17902092485141-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-16-58-52-1cd3659efcd618476f17902092485045-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-16-57-37-db5278029ddb6435aa17902092487528-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-23-at-16-58-53-a0d83603d1ef94ae6917902092485249-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1604273630",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1604273631",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1604273632",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1604273633",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1604273634",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1604273636",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/superstar-marrom-off-white-76oo9/",
+      "lastSyncedAt": "2026-09-24T01:05:02.661Z",
+      "sku": "1102"
+    },
+    {
+      "id": "dx-369512994",
+      "sourceId": "369512994",
+      "slug": "superstar-marrom-preto-369512994",
+      "name": "SUPERSTAR MARROM PRETO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "CAMPUS",
+      "description": "Tênis SUPERSTAR Marrom Preto – Linha Luxo de Alta Qualidade Apresentamos o Tênis SUPERSTAR Marrom Preto, um calçado que une elegância, conforto e resistência, perfeito para quem busca um produto premium da nossa exclusiva Linha Luxo. Por que escolher o Tênis SUPERSTAR Marrom Preto? Visual Moderno e Sofisticado Com a combinação clássica das cores marrom e preto, o SUPERSTAR traz um design versátil e atemporal que valoriza qualquer estilo, seja para o dia a dia ou ocasiões especiais. Conforto e Ajuste Perfeito Produzido com materiais de alta qualidade e palmilha acolchoada, este tênis oferece maciez e suporte ideais para seus pés, garantindo conforto prolongado mesmo nas atividades mais intensas. Durabilidade e Acabamento Premium Com fabricação cuidadosa e atenção aos detalhes, o SUPERSTAR mantém sua forma e beleza após uso frequente, entregando resistência e estilo para acompanhar seu ritmo. Tamanhos Disponíveis (BR) e Medidas | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho ideal, garantindo o ajuste perfeito. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-19-17-27-b322a3102b9bffebaf17902059529121-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-19-17-28-f448c6a6d4feb8f0d717902059526225-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-19-17-29-991339ff07bef0d06b17902059526064-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-19-17-26-8e9a1fd3135d101d0e17902059526303-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-19-17-26-1-6dc5950a759215eaf117902059528908-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-19-17-25-0e0c48c16f911c2c9d17902059529643-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-22-at-19-17-24-8ebe830014ca4f8a4e17902059526531-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1604241577",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1604241578",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1604241579",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1604241580",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1604241581",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1604241582",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/superstar-marrom-preto-3fcgg/",
+      "lastSyncedAt": "2026-09-24T01:05:02.661Z",
+      "sku": "1110"
+    },
+    {
       "id": "dx-361466118",
       "sourceId": "361466118",
       "slug": "superstar-preto-branco-361466118",
@@ -50060,7 +50604,7 @@
           "id": "1410609051",
           "size": "35",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -50133,11 +50677,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 28,
+      "totalStock": 27,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-preto-off-lr98c/",
-      "lastSyncedAt": "2026-09-23T22:41:02.446Z",
+      "lastSyncedAt": "2026-09-24T01:05:02.661Z",
       "sku": "221"
     },
     {
@@ -50324,8 +50868,8 @@
           "id": "1410589497",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410589499",
@@ -50348,11 +50892,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-verde-off-jilr9/",
-      "lastSyncedAt": "2026-09-22T19:49:35.252Z",
+      "lastSyncedAt": "2026-09-24T01:05:02.661Z",
       "sku": "217"
     },
     {
