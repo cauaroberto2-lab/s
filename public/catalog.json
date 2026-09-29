@@ -3463,7 +3463,7 @@
           "id": "1532306710",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -3504,11 +3504,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-gelo-cinza-1hkax/",
-      "lastSyncedAt": "2026-09-26T15:48:04.037Z",
+      "lastSyncedAt": "2026-09-29T08:51:24.339Z",
       "sku": "841"
     },
     {
@@ -4142,7 +4142,7 @@
           "id": "1491770276",
           "size": "38",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -4215,11 +4215,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-forum-low-velcro-branco-pto-verde-77krt/",
-      "lastSyncedAt": "2026-09-27T17:08:15.729Z",
+      "lastSyncedAt": "2026-09-29T08:51:24.339Z",
       "sku": "109"
     },
     {
@@ -17878,8 +17878,8 @@
           "id": "1420765208",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1420765209",
@@ -17930,11 +17930,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-bordo-branco-1ndho/",
-      "lastSyncedAt": "2026-09-28T22:23:58.506Z",
+      "lastSyncedAt": "2026-09-29T08:51:24.339Z",
       "sku": "546"
     },
     {
@@ -18301,7 +18301,7 @@
           "id": "1586484461",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -18332,11 +18332,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-cinza-y43xu/",
-      "lastSyncedAt": "2026-09-25T19:07:36.731Z",
+      "lastSyncedAt": "2026-09-29T08:51:24.339Z",
       "sku": "1069"
     },
     {
@@ -18888,7 +18888,7 @@
           "id": "1590630838",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -18919,11 +18919,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-natural-mgsel/",
-      "lastSyncedAt": "2026-09-24T17:26:33.287Z",
+      "lastSyncedAt": "2026-09-29T08:51:24.339Z",
       "sku": "1082"
     },
     {
@@ -49168,7 +49168,7 @@
           "id": "1555665367",
           "size": "38/39",
           "color": "Preto",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -49232,11 +49232,11 @@
         "Preto",
         "Cinza"
       ],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/slide-mind-preto-d2p85/",
-      "lastSyncedAt": "2026-09-24T17:26:33.287Z",
+      "lastSyncedAt": "2026-09-29T08:51:24.339Z",
       "sku": "897"
     },
     {
