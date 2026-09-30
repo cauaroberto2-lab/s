@@ -3485,7 +3485,7 @@
           "id": "1532306715",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -3505,11 +3505,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-gelo-cinza-1hkax/",
-      "lastSyncedAt": "2026-09-29T23:52:16.270Z",
+      "lastSyncedAt": "2026-09-30T10:37:55.627Z",
       "sku": "841"
     },
     {
@@ -17538,7 +17538,7 @@
           "id": "1553680829",
           "size": "41",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -17565,11 +17565,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-jumbo-verde-militar-1qay1/",
-      "lastSyncedAt": "2026-09-29T20:06:59.414Z",
+      "lastSyncedAt": "2026-09-30T10:37:55.627Z",
       "sku": "880"
     },
     {
@@ -17987,8 +17987,8 @@
           "id": "1447541231",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1447541232",
@@ -18018,11 +18018,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-bordo-branco-1ndho/",
-      "lastSyncedAt": "2026-09-29T08:51:24.339Z",
+      "lastSyncedAt": "2026-09-30T10:37:55.627Z",
       "sku": "546"
     },
     {
@@ -19614,7 +19614,7 @@
           "id": "1605769609",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -19641,11 +19641,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-lobo-jeans-marrom-bkirg/",
-      "lastSyncedAt": "2026-09-29T23:52:16.270Z",
+      "lastSyncedAt": "2026-09-30T10:37:55.627Z",
       "sku": "1123"
     },
     {
@@ -20352,7 +20352,7 @@
           "id": "1478117476",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -20379,11 +20379,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-storm-off-latex-gb9j1/",
-      "lastSyncedAt": "2026-09-12T19:33:05.501Z",
+      "lastSyncedAt": "2026-09-30T10:37:55.627Z",
       "sku": "676"
     },
     {
@@ -20643,8 +20643,8 @@
           "id": "1510079873",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1510079874",
@@ -20674,11 +20674,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 29,
+      "totalStock": 28,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-verde-musgo-m17pb/",
-      "lastSyncedAt": "2026-09-28T08:13:36.577Z",
+      "lastSyncedAt": "2026-09-30T10:37:55.627Z",
       "sku": "665"
     },
     {
@@ -51074,7 +51074,7 @@
           "id": "1412399114",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -51101,11 +51101,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-cafe-off-u4bck/",
-      "lastSyncedAt": "2026-09-28T22:23:58.506Z",
+      "lastSyncedAt": "2026-09-30T10:37:55.627Z",
       "sku": "245"
     },
     {
