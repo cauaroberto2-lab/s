@@ -5973,8 +5973,8 @@
           "id": "1559647189",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -5986,11 +5986,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-preto-rosa-1muc3/",
-      "lastSyncedAt": "2026-09-25T22:38:50.916Z",
+      "lastSyncedAt": "2026-10-02T10:38:30.724Z",
       "sku": "932"
     },
     {
