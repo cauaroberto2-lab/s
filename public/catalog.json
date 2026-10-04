@@ -27923,8 +27923,8 @@
           "id": "1532236776",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1532236777",
@@ -27957,11 +27957,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-preto-camurca-preto-latex-5i709/",
-      "lastSyncedAt": "2026-09-30T21:11:54.733Z",
+      "lastSyncedAt": "2026-10-04T23:27:44.968Z",
       "sku": "1052"
     },
     {
@@ -39927,7 +39927,7 @@
           "id": "1418905555",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -39965,11 +39965,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-bege-cafe-wxs1u/",
-      "lastSyncedAt": "2026-10-03T00:09:28.877Z",
+      "lastSyncedAt": "2026-10-04T23:27:44.968Z",
       "sku": "207"
     },
     {
@@ -43758,8 +43758,8 @@
           "id": "1413213051",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1413213053",
@@ -43803,11 +43803,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/cloudeclipse-off-white-1w2fu/",
-      "lastSyncedAt": "2026-09-29T15:21:44.172Z",
+      "lastSyncedAt": "2026-10-04T23:27:44.968Z",
       "sku": "508"
     },
     {
@@ -44219,8 +44219,8 @@
           "id": "1515799325",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1515799327",
@@ -44260,11 +44260,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/essencial-preto-branco-2k-9hsik/",
-      "lastSyncedAt": "2026-08-17T10:59:07.666Z",
+      "lastSyncedAt": "2026-10-04T23:27:44.968Z",
       "sku": "434"
     },
     {
@@ -47798,7 +47798,7 @@
           "id": "1604280096",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -47818,11 +47818,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-off-white-bordo-8n30t/",
-      "lastSyncedAt": "2026-10-01T00:40:24.602Z",
+      "lastSyncedAt": "2026-10-04T23:27:44.968Z",
       "sku": "1113"
     },
     {
@@ -49289,7 +49289,7 @@
           "id": "1610127619",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -49362,11 +49362,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-72-preto-camurca-branco-1u5cq/",
-      "lastSyncedAt": "2026-10-04T20:20:10.654Z"
+      "lastSyncedAt": "2026-10-04T23:27:44.968Z"
     },
     {
       "id": "dx-354724379",
@@ -52704,7 +52704,7 @@
           "id": "1521343735",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -52749,11 +52749,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-off-white-nf3r0/",
-      "lastSyncedAt": "2026-10-04T20:20:10.654Z",
+      "lastSyncedAt": "2026-10-04T23:27:44.968Z",
       "sku": "743"
     },
     {
@@ -52934,7 +52934,7 @@
           "id": "1548978836",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -52982,11 +52982,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-ultraranger-3d-all-black-9g58q/",
-      "lastSyncedAt": "2026-09-30T16:39:18.254Z",
+      "lastSyncedAt": "2026-10-04T23:27:44.968Z",
       "sku": "867"
     },
     {
