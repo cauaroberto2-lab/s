@@ -3887,8 +3887,8 @@
           "id": "1564413978",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564413981",
@@ -3921,11 +3921,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-drop-step-preto-grafite-qd4ab/",
-      "lastSyncedAt": "2026-09-21T18:16:00.493Z",
+      "lastSyncedAt": "2026-10-04T00:28:01.309Z",
       "sku": "969"
     },
     {
@@ -4976,8 +4976,8 @@
           "id": "1523432822",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -4989,11 +4989,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-spezial-cacau-latex-zrqgb/",
-      "lastSyncedAt": "2026-08-21T01:10:36.772Z",
+      "lastSyncedAt": "2026-10-04T00:28:01.309Z",
       "sku": "757"
     },
     {
@@ -8458,7 +8458,7 @@
           "id": "1548667270",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -8492,11 +8492,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-gel-nyc-off-grafite-95zxt/",
-      "lastSyncedAt": "2026-09-30T16:39:18.254Z",
+      "lastSyncedAt": "2026-10-04T00:28:01.309Z",
       "sku": "862"
     },
     {
@@ -25123,8 +25123,8 @@
           "id": "1431688983",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1431688984",
@@ -25171,11 +25171,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-off-nobuck-azul-1n39r/",
-      "lastSyncedAt": "2026-10-01T06:49:46.189Z",
+      "lastSyncedAt": "2026-10-04T00:28:01.309Z",
       "sku": "503"
     },
     {
@@ -35946,7 +35946,7 @@
           "id": "1586182036",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -35973,11 +35973,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-1000-off-white-cinza-1jlf2/",
-      "lastSyncedAt": "2026-10-02T20:54:21.047Z",
+      "lastSyncedAt": "2026-10-04T00:28:01.309Z",
       "sku": "1062"
     },
     {
@@ -47508,8 +47508,8 @@
           "id": "1401140086",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401140090",
@@ -47543,8 +47543,8 @@
           "id": "1401140108",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401140112",
@@ -47588,11 +47588,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-10-03T18:46:22.543Z",
+      "lastSyncedAt": "2026-10-04T00:28:01.309Z",
       "sku": "117"
     },
     {
@@ -50232,7 +50232,7 @@
           "id": "1606176543",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -50266,11 +50266,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/suede-xl-branco-cinza-fvsis/",
-      "lastSyncedAt": "2026-10-03T18:46:22.543Z",
+      "lastSyncedAt": "2026-10-04T00:28:01.309Z",
       "sku": "1126"
     },
     {
@@ -50827,8 +50827,8 @@
           "id": "1604241579",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1604241580",
@@ -50861,11 +50861,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/superstar-marrom-preto-3fcgg/",
-      "lastSyncedAt": "2026-10-01T00:40:24.602Z",
+      "lastSyncedAt": "2026-10-04T00:28:01.309Z",
       "sku": "1110"
     },
     {
