@@ -5407,8 +5407,8 @@
           "id": "1572262036",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1572262037",
@@ -5446,11 +5446,11 @@
         "44"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-urban-two-pro-preto-branco-yhf2y/",
-      "lastSyncedAt": "2026-09-25T22:38:50.916Z",
+      "lastSyncedAt": "2026-10-04T17:17:36.883Z",
       "sku": "795"
     },
     {
@@ -38162,7 +38162,7 @@
           "id": "1414801132",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -38207,11 +38207,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-cinza-1fzhs/",
-      "lastSyncedAt": "2026-09-30T21:11:54.733Z",
+      "lastSyncedAt": "2026-10-04T17:17:36.883Z",
       "sku": "266"
     },
     {
@@ -41073,7 +41073,7 @@
           "id": "1564217914",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -41086,11 +41086,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-off-nude-bronze-sqtbl/",
-      "lastSyncedAt": "2026-10-03T21:58:47.252Z",
+      "lastSyncedAt": "2026-10-04T17:17:36.883Z",
       "sku": "962"
     },
     {
@@ -43839,8 +43839,8 @@
           "id": "1494025489",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1494025490",
@@ -43880,11 +43880,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/oncloudsurfer-cinza-off-1szpb/",
-      "lastSyncedAt": "2026-09-15T23:57:44.587Z",
+      "lastSyncedAt": "2026-10-04T17:17:36.883Z",
       "sku": "707"
     },
     {
@@ -50841,15 +50841,15 @@
           "id": "1604241581",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1604241582",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -50861,11 +50861,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/superstar-marrom-preto-3fcgg/",
-      "lastSyncedAt": "2026-10-04T00:28:01.309Z",
+      "lastSyncedAt": "2026-10-04T17:17:36.883Z",
       "sku": "1110"
     },
     {
