@@ -294,8 +294,8 @@
           "id": "1504176800",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504176808",
@@ -325,11 +325,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-10-07T22:43:29.963Z",
+      "lastSyncedAt": "2026-10-08T02:31:00.107Z",
       "sku": "715"
     },
     {
@@ -5719,7 +5719,7 @@
           "id": "1494015891",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -5753,11 +5753,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adzero-boston-11-branco-limao-1aklb/",
-      "lastSyncedAt": "2026-10-03T15:11:01.313Z",
+      "lastSyncedAt": "2026-10-08T02:31:00.107Z",
       "sku": "453"
     },
     {
@@ -18793,8 +18793,8 @@
           "id": "1401125535",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -18810,11 +18810,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 22,
+      "totalStock": 21,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-branco-beeo6/",
-      "lastSyncedAt": "2026-10-06T19:41:40.144Z",
+      "lastSyncedAt": "2026-10-08T02:31:00.107Z",
       "sku": "177"
     },
     {
@@ -19272,7 +19272,7 @@
           "id": "1537385100",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -19320,11 +19320,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-jumbo-panda-14fpt/",
-      "lastSyncedAt": "2026-10-03T21:58:47.252Z",
+      "lastSyncedAt": "2026-10-08T02:31:00.107Z",
       "sku": "842"
     },
     {
@@ -19632,8 +19632,8 @@
           "id": "1605769612",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -19645,11 +19645,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-lobo-jeans-marrom-bkirg/",
-      "lastSyncedAt": "2026-10-05T18:45:09.309Z",
+      "lastSyncedAt": "2026-10-08T02:31:00.107Z",
       "sku": "1123"
     },
     {
@@ -23534,8 +23534,8 @@
           "id": "1564197153",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564197154",
@@ -23558,11 +23558,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-air-force-caramelo-4am9b/",
-      "lastSyncedAt": "2026-10-05T18:45:09.309Z",
+      "lastSyncedAt": "2026-10-08T02:31:00.107Z",
       "sku": "961"
     },
     {
@@ -30425,8 +30425,8 @@
           "id": "1411138674",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -30438,11 +30438,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/zoom-x-nude-8a0fn/",
-      "lastSyncedAt": "2026-09-30T21:11:54.733Z",
+      "lastSyncedAt": "2026-10-08T02:31:00.107Z",
       "sku": "354"
     },
     {
@@ -31965,7 +31965,7 @@
           "id": "1542627168",
           "size": "42",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -31985,11 +31985,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-edition-boston-celtics-xb8wl/",
-      "lastSyncedAt": "2026-10-06T14:22:30.668Z",
+      "lastSyncedAt": "2026-10-08T02:31:00.107Z",
       "sku": "831"
     },
     {
@@ -36854,7 +36854,7 @@
           "id": "1527843560",
           "size": "39",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -36899,11 +36899,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-10-07T22:43:29.963Z",
+      "lastSyncedAt": "2026-10-08T02:31:00.107Z",
       "sku": "787"
     },
     {
@@ -48949,7 +48949,7 @@
           "id": "1567065590",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -48990,11 +48990,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sb-malor-coffe-black-fjefx/",
-      "lastSyncedAt": "2026-10-05T02:17:46.149Z",
+      "lastSyncedAt": "2026-10-08T02:31:00.107Z",
       "sku": "989"
     },
     {
@@ -53295,7 +53295,7 @@
           "id": "1410600708",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -53309,7 +53309,7 @@
           "id": "1410600713",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -53347,11 +53347,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-rato-vr6hq/",
-      "lastSyncedAt": "2026-10-06T19:41:40.144Z",
+      "lastSyncedAt": "2026-10-08T02:31:00.107Z",
       "sku": "219"
     },
     {
