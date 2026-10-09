@@ -1654,8 +1654,8 @@
           "id": "1598593551",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1598593553",
@@ -1702,11 +1702,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-grafite-off-white-jsvc8/",
-      "lastSyncedAt": "2026-09-25T19:07:36.731Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "1103"
     },
     {
@@ -2120,8 +2120,8 @@
           "id": "1567414042",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1567414043",
@@ -2168,11 +2168,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-marrom-1d9ct/",
-      "lastSyncedAt": "2026-09-23T11:56:23.032Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "991"
     },
     {
@@ -6365,7 +6365,7 @@
           "id": "1594356235",
           "size": "40",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -6399,11 +6399,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-force-cinza-hrsyc/",
-      "lastSyncedAt": "2026-10-01T19:40:28.288Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "1085"
     },
     {
@@ -9088,8 +9088,8 @@
           "id": "1479650732",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1479650739",
@@ -9136,11 +9136,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/axcee-all-black-1bv08/",
-      "lastSyncedAt": "2026-10-07T22:43:29.963Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "412"
     },
     {
@@ -14998,7 +14998,7 @@
           "id": "1401380611",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -15043,11 +15043,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-cinza-branco-h4x00/",
-      "lastSyncedAt": "2026-09-28T22:23:58.506Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "113"
     },
     {
@@ -17167,7 +17167,7 @@
           "id": "1413614721",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -17198,11 +17198,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/court-vision-preto-branco-19alo/",
-      "lastSyncedAt": "2026-09-30T04:02:11.802Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "37"
     },
     {
@@ -19926,7 +19926,7 @@
           "id": "1609252800",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -19953,11 +19953,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-noob-cinza-1tl8r/",
-      "lastSyncedAt": "2026-10-08T22:21:31.310Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "1130"
     },
     {
@@ -20004,7 +20004,7 @@
           "id": "1401101220",
           "size": "37",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -20063,11 +20063,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 53,
+      "totalStock": 52,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-0iy19/",
-      "lastSyncedAt": "2026-10-08T22:21:31.310Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "105"
     },
     {
@@ -22864,7 +22864,7 @@
           "id": "1610150747",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -22923,11 +22923,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-ambush-branco-preto-211f6/",
-      "lastSyncedAt": "2026-10-06T00:35:17.318Z"
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z"
     },
     {
       "id": "dx-354721415",
@@ -25064,7 +25064,7 @@
           "id": "1422246915",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -25095,11 +25095,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-nobuk-preto-nnzwh/",
-      "lastSyncedAt": "2026-10-07T22:43:29.963Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "21"
     },
     {
@@ -26052,7 +26052,7 @@
           "id": "1397234090",
           "size": "42",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -26076,11 +26076,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-preto-branco-vgo12/",
-      "lastSyncedAt": "2026-10-08T22:21:31.310Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "75"
     },
     {
@@ -27459,8 +27459,8 @@
           "id": "1604259399",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1604259402",
@@ -27511,11 +27511,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-summer-green-low-wqvfa/",
-      "lastSyncedAt": "2026-10-06T00:35:17.318Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "1111"
     },
     {
@@ -28227,8 +28227,8 @@
           "id": "1575569565",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1575569566",
@@ -28251,11 +28251,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-verde-summer-camp-a3yc8/",
-      "lastSyncedAt": "2026-09-15T18:22:23.724Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "97"
     },
     {
@@ -28450,7 +28450,7 @@
           "id": "1568277718",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -28516,11 +28516,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hocks-puff-preto-roxo-refletivo-1i17b/",
-      "lastSyncedAt": "2026-10-07T22:43:29.963Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "996"
     },
     {
@@ -32944,7 +32944,7 @@
           "id": "1555829668",
           "size": "39",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -32985,11 +32985,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-storm-branco-cc6vo/",
-      "lastSyncedAt": "2026-10-07T22:43:29.963Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "900"
     },
     {
@@ -34616,7 +34616,7 @@
           "id": "1409296770",
           "size": "39",
           "color": "Padrão",
-          "stock": 8,
+          "stock": 7,
           "available": true
         },
         {
@@ -34661,11 +34661,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/knu-skool-preto-branco-4p3cp/",
-      "lastSyncedAt": "2026-10-08T10:00:16.429Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "195"
     },
     {
@@ -36664,7 +36664,7 @@
           "id": "1597894870",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         }
       ],
@@ -36681,11 +36681,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-branco-prata-6edpy/",
-      "lastSyncedAt": "2026-10-08T17:29:07.466Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "785"
     },
     {
@@ -39640,7 +39640,7 @@
           "id": "1559908518",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -39674,11 +39674,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-sc-elite-preto-grafite-jne37/",
-      "lastSyncedAt": "2026-10-03T18:46:22.543Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "936"
     },
     {
@@ -39941,8 +39941,8 @@
           "id": "1418905559",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1418905560",
@@ -39965,11 +39965,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-bege-cafe-wxs1u/",
-      "lastSyncedAt": "2026-10-07T17:54:44.072Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "207"
     },
     {
@@ -42446,7 +42446,7 @@
           "id": "1544924014",
           "size": "40",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -42509,7 +42509,7 @@
           "id": "1587443611",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         }
       ],
@@ -42530,7 +42530,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-reverse-5og06/",
-      "lastSyncedAt": "2026-10-08T22:21:31.310Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "843"
     },
     {
@@ -44621,8 +44621,8 @@
           "id": "1572363140",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1572363143",
@@ -44655,11 +44655,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-all-black-c7hxv/",
-      "lastSyncedAt": "2026-10-03T00:09:28.877Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "1013"
     },
     {
@@ -45432,8 +45432,8 @@
           "id": "1413881425",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -45445,11 +45445,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pro-14-branco-grafite-2osvb/",
-      "lastSyncedAt": "2026-09-21T18:16:00.493Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "325"
     },
     {
@@ -47522,7 +47522,7 @@
           "id": "1401140094",
           "size": "36",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -47588,11 +47588,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-10-09T02:23:53.777Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "117"
     },
     {
@@ -47644,7 +47644,7 @@
           "id": "1515759770",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -47664,11 +47664,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-marrom-latex-1vfdp/",
-      "lastSyncedAt": "2026-09-24T20:39:42.990Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "90"
     },
     {
@@ -48128,14 +48128,14 @@
           "id": "1429382927",
           "size": "37",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1429382929",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
@@ -48187,11 +48187,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 43,
+      "totalStock": 40,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-sl-branco-preto-1t8ky/",
-      "lastSyncedAt": "2026-10-03T21:58:47.252Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "444"
     },
     {
@@ -48264,7 +48264,7 @@
           "id": "1607927635",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -48295,11 +48295,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-sl-cinza-latex-46qhb/",
-      "lastSyncedAt": "2026-10-02T20:54:21.047Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "447"
     },
     {
@@ -49310,7 +49310,7 @@
           "id": "1610127623",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -49362,11 +49362,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-72-preto-camurca-branco-1u5cq/",
-      "lastSyncedAt": "2026-10-06T14:22:30.668Z"
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z"
     },
     {
       "id": "dx-354724379",
@@ -52515,8 +52515,8 @@
           "id": "1583427636",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -52532,11 +52532,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-cacau-off-white-hhrac/",
-      "lastSyncedAt": "2026-09-25T19:07:36.731Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "968"
     },
     {
@@ -53209,7 +53209,7 @@
           "id": "1410609058",
           "size": "41",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -53240,11 +53240,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 27,
+      "totalStock": 26,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-preto-off-lr98c/",
-      "lastSyncedAt": "2026-10-07T22:43:29.963Z",
+      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
       "sku": "221"
     },
     {
