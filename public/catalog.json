@@ -27356,8 +27356,8 @@
           "id": "1504063858",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504063864",
@@ -27401,11 +27401,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-summer-camp-1c84k/",
-      "lastSyncedAt": "2026-10-06T14:22:30.668Z",
+      "lastSyncedAt": "2026-10-09T02:23:53.777Z",
       "sku": "713"
     },
     {
@@ -39321,7 +39321,7 @@
           "id": "1598671416",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -39356,11 +39356,11 @@
         "40"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-sc-elite-caramelo-12b2e/",
-      "lastSyncedAt": "2026-09-28T16:52:53.942Z"
+      "lastSyncedAt": "2026-10-09T02:23:53.777Z"
     },
     {
       "id": "dx-363805825",
@@ -45025,7 +45025,7 @@
           "id": "1009089417",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -45066,11 +45066,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-preto-pink-xe683/",
-      "lastSyncedAt": "2026-09-29T20:06:59.414Z",
+      "lastSyncedAt": "2026-10-09T02:23:53.777Z",
       "sku": "29"
     },
     {
@@ -47536,7 +47536,7 @@
           "id": "1401140103",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -47588,11 +47588,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-10-06T19:41:40.144Z",
+      "lastSyncedAt": "2026-10-09T02:23:53.777Z",
       "sku": "117"
     },
     {
