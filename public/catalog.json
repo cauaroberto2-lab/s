@@ -129,7 +129,7 @@
           "id": "1607389431",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -149,11 +149,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/180-pto-pto-bco-qfkr3/",
-      "lastSyncedAt": "2026-10-03T18:46:22.543Z",
+      "lastSyncedAt": "2026-10-10T01:05:31.024Z",
       "sku": "1131"
     },
     {
@@ -2456,8 +2456,8 @@
           "id": "1555750421",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555750422",
@@ -2476,11 +2476,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-pto-bco-pto-1lib1/",
-      "lastSyncedAt": "2026-10-06T00:35:17.318Z",
+      "lastSyncedAt": "2026-10-10T01:05:31.024Z",
       "sku": "899"
     },
     {
@@ -37389,7 +37389,7 @@
           "id": "1505634926",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -37413,11 +37413,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-off-coffe-mosev/",
-      "lastSyncedAt": "2026-10-09T21:07:39.776Z",
+      "lastSyncedAt": "2026-10-10T01:05:31.024Z",
       "sku": "720"
     },
     {
@@ -38066,8 +38066,8 @@
           "id": "1464625929",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1464625930",
@@ -38100,11 +38100,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-rosa-bb-cpw15/",
-      "lastSyncedAt": "2026-10-03T00:09:28.877Z",
+      "lastSyncedAt": "2026-10-10T01:05:31.024Z",
       "sku": "451"
     },
     {
@@ -39103,8 +39103,8 @@
           "id": "1586436922",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -39116,11 +39116,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-elite-off-white-preto-1imf7/",
-      "lastSyncedAt": "2026-09-30T16:39:18.254Z",
+      "lastSyncedAt": "2026-10-10T01:05:31.024Z",
       "sku": "1067"
     },
     {
@@ -39166,7 +39166,7 @@
           "id": "1589361242",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -39193,11 +39193,11 @@
         "40"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-elite-off-white-rose-ocga0/",
-      "lastSyncedAt": "2026-10-05T18:45:09.309Z",
+      "lastSyncedAt": "2026-10-10T01:05:31.024Z",
       "sku": "1076"
     },
     {
@@ -41066,7 +41066,7 @@
           "id": "1564217911",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -41086,11 +41086,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-off-nude-bronze-sqtbl/",
-      "lastSyncedAt": "2026-10-08T22:21:31.310Z",
+      "lastSyncedAt": "2026-10-10T01:05:31.024Z",
       "sku": "962"
     },
     {
@@ -47529,7 +47529,7 @@
           "id": "1401140099",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -47588,11 +47588,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
+      "lastSyncedAt": "2026-10-10T01:05:31.024Z",
       "sku": "117"
     },
     {
