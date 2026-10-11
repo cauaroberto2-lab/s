@@ -3534,8 +3534,8 @@
           "id": "1504862354",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504862355",
@@ -3582,11 +3582,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-grafite-latex-1ymnd/",
-      "lastSyncedAt": "2026-10-10T18:45:43.703Z",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
       "sku": "717"
     },
     {
@@ -4063,7 +4063,7 @@
           "id": "1590604181",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -4108,11 +4108,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-forum-low-84-cinza-1qell/",
-      "lastSyncedAt": "2026-10-05T18:45:09.309Z",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
       "sku": "1081"
     },
     {
@@ -5566,14 +5566,14 @@
           "id": "1514660097",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1514660098",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -5600,11 +5600,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-branco-vermelho-off-ocubc/",
-      "lastSyncedAt": "2026-10-08T22:21:31.310Z",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
       "sku": "454"
     },
     {
@@ -18451,8 +18451,8 @@
           "id": "1401232948",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1401232953",
@@ -18465,8 +18465,8 @@
           "id": "1401232957",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1401232962",
@@ -18479,8 +18479,8 @@
           "id": "1401232968",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1401232972",
@@ -18531,11 +18531,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-10-09T21:07:39.776Z",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
       "sku": "166"
     },
     {
@@ -20583,6 +20583,160 @@
       "sku": "1124"
     },
     {
+      "id": "dx-341690056",
+      "sourceId": "341690056",
+      "slug": "dunk-low-tweed-341690056",
+      "name": "DUNK LOW TWEED",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "DUNK LOW",
+      "description": "Tênis DUNK LOW TWEED – Linha Luxo Brasil (BR) de Alta Qualidade Apresentamos o Tênis DUNK LOW TWEED, um calçado que une design sofisticado, conforto excepcional e resistência, ideal para quem busca um produto premium da nossa exclusiva Linha Luxo. Por que escolher o Tênis DUNK LOW TWEED? Estilo e Sofisticação em Preto Total O DUNK LOW TWEED traz um visual clean e atemporal, totalmente em preto, que combina facilmente com qualquer look, seja para o dia a dia ou para ocasiões especiais. Seu design minimalista e elegante faz deste tênis uma peça essencial para quem valoriza estilo com discrição. Materiais Nobres para Durabilidade e Conforto Fabricado com material em couro sintético, este modelo oferece alta resistência e acabamento premium. A sola emborrachada garante aderência e segurança em cada passo, enquanto a palmilha acolchoada proporciona conforto prolongado para o seu dia a dia. Conforto e Ajuste Perfeito Desenvolvido para proporcionar um encaixe ideal, o DUNK LOW TWEED acompanha o formato natural dos seus pés, garantindo suporte e maciez mesmo após longas horas de uso. Tamanhos Disponíveis Confira a tabela para escolher o tamanho ideal conforme o comprimento do seu pé (em cm): | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com atenção e consulte a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade. Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e a qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-15-32-19-1c7cebd5d968ac81f417917349026327-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-15-32-6bd150246137e6d42f17917349024134-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-15-32-16-b7f9182734f6b8165e17917349023957-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-15-32-15-86809bd6f813d610cf17917349023064-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-15-32-17-3adc32c27ec187ac3a17917349021810-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-15-32-18-4bfe6ef35ea69955ec17917349022025-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1517151571",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1517151573",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1517151574",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1517151575",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1517151576",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1517151577",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-tweed-1urip/",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
+      "sku": "741"
+    },
+    {
+      "id": "dx-373601533",
+      "sourceId": "373601533",
+      "slug": "dunk-low-twist-all-black-373601533",
+      "name": "DUNK LOW TWIST ALL BLACK",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "DUNK LOW",
+      "description": "Tênis DUNK LOW TWIST ALL BLACK – Linha Luxo de Alta Qualidade Apresentamos o Tênis DUNK LOW TWIST ALL BLACK, a combinação perfeita entre estilo moderno, conforto excepcional e durabilidade. Parte da exclusiva Linha Luxo Brasil, este modelo é ideal para quem busca um calçado sofisticado, super confortável e estiloso para o dia a dia. Por que escolher o Tênis DUNK LOW TWIST ALL BLACK? Visual Sofisticado e Versátil O design totalmente preto do DUNK LOW TWIST ALL BLACK traz um visual elegante e discreto, que combina facilmente com qualquer look — do casual ao urbano. Seu acabamento refinado garante um produto que se destaca pela exclusividade e bom gosto. Conforto Imbatível para o Dia a Dia Produzido com materiais de alta qualidade, o tênis possui palmilha acolchoada que oferece conforto e suporte ideais para seus pés, mesmo durante longas jornadas. A modelagem garante ajuste perfeito e segurança a cada passo. Durabilidade e Acabamento Premium Com atenção aos detalhes e fabricação cuidadosa, o DUNK LOW TWIST ALL BLACK mantém sua forma e beleza mesmo após uso frequente, acompanhando seu ritmo sem perder o estilo. Tamanhos Disponíveis Confira a tabela abaixo para escolher o tamanho ideal com base no comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Envie um vídeo original do tênis, sem sinais de uso, para garantir a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-15-10-04-ac538e0f97cb8a1d5917917346988419-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-15-10-07-96d2156603c4363ab517917346988736-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-15-10-06-ba8b6dec795d9d846517917346985965-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-15-10-03-ad88be5c97af1b786917917346984433-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-15-10-05-ab84b3f4d4b47b8b8717917346989051-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-15-10-08-9267dd7ace56a8544017917346984826-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-15-10-10-f31174493e09f6012817917346989374-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1616878191",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616878192",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616878193",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616878194",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616878195",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616878196",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-twist-all-black-d49m4/",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z"
+    },
+    {
       "id": "dx-345283995",
       "sourceId": "345283995",
       "slug": "dunk-low-twist-branco-preto-edition-345283995",
@@ -21729,8 +21883,8 @@
           "id": "1508904183",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1508904184",
@@ -21809,11 +21963,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-twist-preto-nobuck-2cue3/",
-      "lastSyncedAt": "2026-10-08T22:21:31.310Z",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
       "sku": "536"
     },
     {
@@ -24014,6 +24168,83 @@
       "lastSyncedAt": "2026-09-17T00:05:46.866Z"
     },
     {
+      "id": "dx-373599971",
+      "sourceId": "373599971",
+      "slug": "force-grafite-preto-373599971",
+      "name": "FORCE GRAFITE PRETO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "AIR FORCE",
+      "description": "Tênis FORCE GRAFITE PRETO – Linha Luxo de Alta Qualidade Apresentamos o Tênis FORCE GRAFITE PRETO, um modelo da nossa exclusiva Linha Luxo que une design moderno, conforto superior e alta durabilidade. Ideal para quem busca um calçado estiloso e confortável para o dia a dia, com acabamento premium que garante resistência e sofisticação. Por que escolher o Tênis FORCE GRAFITE PRETO? Estilo Sofisticado e Versátil Com sua cor grafite preta, o FORCE traz um visual sóbrio e elegante, perfeito para combinar com diferentes looks, do casual ao urbano. Seu design contemporâneo destaca-se pela simplicidade e bom gosto, tornando-o uma escolha certeira para quem valoriza estilo. Conforto Extra para Uso Diário Produzido com materiais de alta qualidade e equipado com palmilha acolchoada, o tênis oferece excelente maciez e suporte para os pés, garantindo conforto o dia inteiro, seja para trabalho, lazer ou passeios. Durabilidade e Acabamento Premium Fabricado com atenção aos detalhes, o FORCE GRAFITE PRETO mantém sua forma e beleza mesmo após uso constante. A Linha Luxo assegura um produto resistente, pensado para acompanhar seu ritmo sem abrir mão da elegância. Tamanhos Disponíveis Confira a tabela para escolher o tamanho ideal de acordo com o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-19-22-44-499c28cd69d84acec217917340332631-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-19-22-48-fbb691bc5a2141809817917340329391-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-19-22-45-090f3ca62cae2f2c7d17917340333117-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-19-22-46-0ef1aa495c1aa754c417917340334053-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-19-22-49-0e2865850d290f20c417917340330192-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-19-22-51-d80c5a9a404fa7118417917340332818-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-19-22-52-ec8cf0d76b988eac7917917340335263-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1616874456",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616874457",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616874460",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616874461",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616874462",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616874463",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/force-grafite-preto-r4yoc/",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z"
+    },
+    {
       "id": "dx-357320171",
       "sourceId": "357320171",
       "slug": "force-natural-cinza-357320171",
@@ -25908,71 +26139,71 @@
       "subCategory": "AIR FORCE",
       "description": "Tênis FORCE Preto Uva Gold – Linha Luxo com a Melhor Qualidade do Mercado Apresentamos o Tênis FORCE Preto Uva Gold, um calçado que une estilo moderno e conforto excepcional, ideal para quem busca um produto da linha luxo com a melhor qualidade do mercado. Por que escolher o Tênis FORCE Preto Uva Gold? Estilo Sofisticado e Versátil Com seu design elegante em preto com detalhes em uva e dourado, o FORCE traz um visual único e moderno, perfeito para diversas ocasiões, do casual ao urbano. Um tênis que valoriza seu estilo com exclusividade e bom gosto. Conforto e Ajuste Perfeito Produzido com materiais selecionados, o FORCE possui palmilha macia e sola flexível, garantindo conforto durante todo o dia. Ideal para quem busca conforto sem abrir mão do estilo. Durabilidade e Acabamento Premium Fabricado para durar, o tênis mantém sua estrutura e beleza mesmo com uso frequente, oferecendo excelente custo-benefício para quem valoriza qualidade e resistência. Tamanhos Disponíveis (BR) Disponível do tamanho 34 ao 39, com medidas que vão de 22,5 cm a 26 cm, para garantir o ajuste perfeito ao seu pé. | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho ideal, garantindo conforto e segurança em cada passo. Política de Troca Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a qualidade e autenticidade do produto, solicitamos o envio de um vídeo original do tênis, sem sinais de uso.",
       "images": [
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-12-at-13-47-07-d0f07f0d3b1591501617786252333185-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-12-at-13-47-12-4f69d0db38f179489317786252337115-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-12-at-13-47-13-35b1908a445a2ec42517786252336902-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-12-at-13-47-10-ec6ac5f54a7941e73b17786252336586-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-12-at-13-47-08-9c4e1cc2f868f533a817786252332939-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-12-at-13-46-59-78e0a8e862003d2b3c17786252332970-1024-1024.webp"
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-19-09-36-279c08e5961eaccc8417917351173697-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-19-09-33-d68aff970c42aa650217917351172771-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-19-09-37-189e4cb6ab1d326f0017917351172526-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-19-09-32-bb95d9ebe2ecd34a8117917351171649-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-19-09-34-911b21ab4b7f792d2f17917351172409-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-10-at-19-09-35-65ade22035bea623fc17917351176577-1024-1024.webp"
       ],
       "variants": [
-        {
-          "id": "1523322729",
-          "size": "34",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1523322730",
-          "size": "35",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1523322731",
-          "size": "36",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1523322732",
-          "size": "37",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
         {
           "id": "1523322733",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1523322735",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616882567",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616882568",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616882569",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616882571",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
-        "34",
-        "35",
-        "36",
-        "37",
         "38",
-        "39"
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-preto-uva-gold-3jc0d/",
-      "lastSyncedAt": "2026-10-06T00:35:17.318Z",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
       "sku": "746"
     },
     {
@@ -36875,8 +37106,8 @@
           "id": "1527843563",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527843564",
@@ -36899,11 +37130,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-10-08T02:31:00.107Z",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
       "sku": "787"
     },
     {
@@ -38148,7 +38379,7 @@
           "id": "1414801130",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -38207,11 +38438,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-cinza-1fzhs/",
-      "lastSyncedAt": "2026-10-10T18:45:43.703Z",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
       "sku": "266"
     },
     {
@@ -38263,8 +38494,8 @@
           "id": "1423090065",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1423090066",
@@ -38283,11 +38514,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-creme-branco-eqxrs/",
-      "lastSyncedAt": "2026-10-07T22:43:29.963Z",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
       "sku": "431"
     },
     {
@@ -40209,7 +40440,7 @@
           "id": "1407307710",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -40261,11 +40492,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-10-06T00:35:17.318Z",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
       "sku": "205"
     },
     {
@@ -42891,7 +43122,7 @@
           "id": "1408385481",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -42943,11 +43174,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/old-skool-caramelo-dw8qx/",
-      "lastSyncedAt": "2026-08-27T00:27:18.724Z",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
       "sku": "225"
     },
     {
@@ -47543,8 +47774,8 @@
           "id": "1401140108",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1401140112",
@@ -47588,11 +47819,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-10-10T01:05:31.024Z",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
       "sku": "117"
     },
     {
@@ -52352,6 +52583,116 @@
       "sku": "972"
     },
     {
+      "id": "dx-373600554",
+      "sourceId": "373600554",
+      "slug": "vans-knu-skool-bordo-373600554",
+      "name": "VANS KNU SKOOL BORDO",
+      "brand": "Vans",
+      "category": "Tênis",
+      "subCategory": "KNU SKOOL",
+      "description": "Tênis VANS KNU SKOOL Bordô – Linha Luxo de Alta Qualidade Descubra o Tênis VANS KNU SKOOL Bordô, um modelo que une estilo marcante, conforto absoluto e qualidade premium, perfeito para transformar o seu dia a dia com elegância e praticidade. Por que escolher o VANS KNU SKOOL Bordô? Design Sofisticado e Moderno O tom bordô intenso traz um toque de personalidade e sofisticação ao seu visual, sendo ideal para quem busca um calçado que se destaque com estilo e versatilidade. Seu design exclusivo da Linha Luxo combina beleza e funcionalidade, garantindo um look impecável em qualquer ocasião. Conforto Superior para o Dia a Dia Produzido com materiais de alta qualidade e equipado com palmilha acolchoada, o VANS KNU SKOOL proporciona ajuste perfeito e conforto prolongado, acompanhando seus passos com leveza e segurança durante todas as atividades. Durabilidade e Acabamento Premium Com acabamento cuidadoso e atenção aos mínimos detalhes, este tênis mantém sua aparência e estrutura mesmo após uso contínuo, garantindo um investimento duradouro e sofisticado para o seu guarda-roupa. Tamanhos Disponíveis Escolha o tamanho ideal para você conferindo a tabela com o comprimento do pé em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste ideal e máximo conforto. Política de Troca e Devolução Sua satisfação é a nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-09-at-19-44-08-0db688f96452316ed217917343247377-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-09-at-19-44-04-a420fe5a3144fa9f3917917343242953-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-09-at-19-44-01-8a84130ccc269ac4fe17917343243636-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-09-at-19-44-06-a26089415033572db417917343243632-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-09-at-19-44-03-1e42013ab63a8a1eaa17917343245767-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-09-at-f00490eefaef10157017917343246469-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-09-at-19-44-05-27c5ae59d8adc472a217917343243862-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-09-at-19-44-07-377f2f2c42ae4a3a5617917343243102-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1616876034",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616876035",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616876036",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616876037",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616876038",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616876039",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616876040",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616876041",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616876042",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1616876043",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-knu-skool-bordo-15q3q/",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z"
+    },
+    {
       "id": "dx-352447550",
       "sourceId": "352447550",
       "slug": "vans-neo-branco-off-grafite-352447550",
@@ -53461,6 +53802,85 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-verde-off-jilr9/",
       "lastSyncedAt": "2026-10-02T20:54:21.047Z",
       "sku": "217"
+    },
+    {
+      "id": "dx-345101863",
+      "sourceId": "345101863",
+      "slug": "wayvee-1-0-black-red-345101863",
+      "name": "WAYVEE 1.0 BLACK RED",
+      "brand": "Vans",
+      "category": "Tênis",
+      "subCategory": "WAYVEE",
+      "description": "WAYVEE 1.0 BLACK RED – Tênis da Linha Luxo de Alta Qualidade Descubra o WAYVEE 1.0 BLACK RED, o tênis perfeito para quem busca unir estilo moderno, conforto e durabilidade em um único produto. Parte da nossa exclusiva Linha Luxo, este modelo atende dos pés tamanho 38 ao 43, oferecendo um ajuste perfeito para você. Por que escolher o WAYVEE 1.0 BLACK RED? Design Arrojado e Sofisticado Com uma combinação marcante de preto e vermelho, o WAYVEE 1.0 traz um visual contemporâneo e cheio de personalidade, ideal para quem deseja destacar o estilo em qualquer ocasião, seja no dia a dia ou em eventos casuais. Conforto e Suporte Impecáveis Produzido com materiais de alta qualidade, este tênis possui palmilha macia e solado flexível, garantindo conforto durante todo o uso e suporte ideal para os seus pés, mesmo em longas caminhadas ou atividades mais intensas. Durabilidade e Acabamento Premium O acabamento cuidadoso e os materiais resistentes asseguram que o WAYVEE 1.0 BLACK RED mantenha sua forma e beleza, mesmo após uso frequente, acompanhando seu ritmo sem perder qualidade. Tamanhos Disponíveis (BR) – Do 38 ao 43 | Tamanho (BR) | Comprimento Aproximado do Pé (cm) | |--------------|----------------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito e o máximo conforto. Política de Troca e Devolução Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a qualidade e autenticidade do produto, pedimos que envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-19-at-12-26-38-4600d1f836a2d5c8dd17792098887648-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-19-at-12-26-45-481009fcd5745285d817792098891345-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-19-at-12-26-47-111365341f066c801017792098890555-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-19-at-12-26-39-356ea00317839dfad117792098887801-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-19-at-12-26-46-3863e19805762381a817792098887656-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-19-at-12-26-40-b5b3812e54afaeb85d17792098888147-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-19-at-12-26-42-0767bcc2ff8c676e0d17792098887003-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-05-19-at-12-26-43-bcb7d0851c2bcf7ba717792098890627-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1527407608",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1527407610",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1527407612",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1527407613",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1527407614",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1527407616",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/wayvee-1-0-black-red-5q1jq/",
+      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
+      "sku": "771"
     },
     {
       "id": "dx-359471423",
