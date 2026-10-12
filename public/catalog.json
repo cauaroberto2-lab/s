@@ -17369,8 +17369,8 @@
           "id": "1449594466",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1548250874",
@@ -17414,11 +17414,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-branco-preto-latex-1tj1h/",
-      "lastSyncedAt": "2026-10-03T05:34:27.757Z",
+      "lastSyncedAt": "2026-10-12T02:33:51.035Z",
       "sku": "586"
     },
     {
@@ -18479,7 +18479,7 @@
           "id": "1401232968",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -18531,11 +18531,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
+      "lastSyncedAt": "2026-10-12T02:33:51.035Z",
       "sku": "166"
     },
     {
@@ -24401,7 +24401,7 @@
           "id": "1581265205",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -24425,11 +24425,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-nobuk-2-1pfpw/",
-      "lastSyncedAt": "2026-10-02T20:54:21.047Z",
+      "lastSyncedAt": "2026-10-12T02:33:51.035Z",
       "sku": "1039"
     },
     {
@@ -39714,7 +39714,7 @@
           "id": "1587737817",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -39749,11 +39749,11 @@
         "40"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-elite-off-white-preto-1imf71/",
-      "lastSyncedAt": "2026-10-07T17:54:44.072Z",
+      "lastSyncedAt": "2026-10-12T02:33:51.035Z",
       "sku": "1073"
     },
     {
@@ -45884,8 +45884,8 @@
           "id": "1565191858",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1565191859",
@@ -45904,11 +45904,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/prophecy-15-preto-prata-h9hdf/",
-      "lastSyncedAt": "2026-10-09T21:07:39.776Z",
+      "lastSyncedAt": "2026-10-12T02:33:51.035Z",
       "sku": "980"
     },
     {
@@ -45949,7 +45949,7 @@
           "id": "1564291680",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -45983,11 +45983,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-180-ice-cinza-amdzc/",
-      "lastSyncedAt": "2026-10-10T18:45:43.703Z",
+      "lastSyncedAt": "2026-10-12T02:33:51.035Z",
       "sku": "966"
     },
     {
