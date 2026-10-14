@@ -6505,8 +6505,8 @@
           "id": "1542358198",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1542358199",
@@ -6553,11 +6553,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-axcee-bege-off-12iog/",
-      "lastSyncedAt": "2026-08-17T03:48:25.845Z",
+      "lastSyncedAt": "2026-10-14T05:49:05.739Z",
       "sku": "830"
     },
     {
@@ -18715,8 +18715,8 @@
           "id": "1401232948",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401232953",
@@ -18795,11 +18795,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-10-13T21:43:14.067Z",
+      "lastSyncedAt": "2026-10-14T05:49:05.739Z",
       "sku": "166"
     },
     {
