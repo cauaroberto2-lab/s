@@ -129,8 +129,8 @@
           "id": "1607389431",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1607389432",
@@ -149,11 +149,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/180-pto-pto-bco-qfkr3/",
-      "lastSyncedAt": "2026-10-10T01:05:31.024Z",
+      "lastSyncedAt": "2026-10-14T00:51:30.276Z",
       "sku": "1131"
     },
     {
@@ -3104,7 +3104,7 @@
           "id": "1396546082",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -3124,11 +3124,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-bege-hxcij/",
-      "lastSyncedAt": "2026-10-13T16:47:10.228Z",
+      "lastSyncedAt": "2026-10-14T00:51:30.276Z",
       "sku": "348"
     },
     {
@@ -5573,7 +5573,7 @@
           "id": "1514660098",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -5600,11 +5600,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-branco-vermelho-off-ocubc/",
-      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
+      "lastSyncedAt": "2026-10-14T00:51:30.276Z",
       "sku": "454"
     },
     {
@@ -22153,8 +22153,8 @@
           "id": "1508801077",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1508801078",
@@ -22198,11 +22198,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-twist-branco-1izfj/",
-      "lastSyncedAt": "2026-10-13T01:49:58.893Z",
+      "lastSyncedAt": "2026-10-14T00:51:30.276Z",
       "sku": "641"
     },
     {
@@ -45772,7 +45772,7 @@
           "id": "1401090963",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -45792,11 +45792,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pro-13-branco-refletivo-z5q91/",
-      "lastSyncedAt": "2026-09-30T21:11:54.733Z",
+      "lastSyncedAt": "2026-10-14T00:51:30.276Z",
       "sku": "379"
     },
     {
@@ -45986,7 +45986,7 @@
           "id": "1413881417",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -46020,11 +46020,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pro-14-branco-grafite-2osvb/",
-      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
+      "lastSyncedAt": "2026-10-14T00:51:30.276Z",
       "sku": "325"
     },
     {
