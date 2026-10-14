@@ -1003,42 +1003,42 @@
           "id": "1544191171",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1544191172",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1544191173",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1544191174",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1544191175",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1544191176",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -1083,11 +1083,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-1qzac/",
-      "lastSyncedAt": "2026-10-03T21:58:47.252Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "840"
     },
     {
@@ -1281,29 +1281,29 @@
           "id": "1571524809",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1571524810",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1571524812",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1571524813",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -1315,11 +1315,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-gelo-off-qj3wq/",
-      "lastSyncedAt": "2026-10-13T21:43:14.067Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "1010"
     },
     {
@@ -3534,43 +3534,43 @@
           "id": "1504862354",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1504862355",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1504862356",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1504862357",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1504862358",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1504862359",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -3582,11 +3582,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-grafite-latex-1ymnd/",
-      "lastSyncedAt": "2026-10-11T19:20:15.813Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "717"
     },
     {
@@ -4803,7 +4803,7 @@
           "id": "1559636338",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -4837,11 +4837,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-sambae-plataforma-branco-rose-latex-xzzcn/",
-      "lastSyncedAt": "2026-10-04T20:20:10.654Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "931"
     },
     {
@@ -17835,35 +17835,35 @@
           "id": "1449594460",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1449594461",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1449594463",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1449594464",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1449594465",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -17883,11 +17883,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-branco-preto-latex-1tj1h/",
-      "lastSyncedAt": "2026-10-14T15:53:48.905Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "586"
     },
     {
@@ -17976,11 +17976,9 @@
       "description": "Tênis Dunk Jumbo Verde Militar – Qualidade Premium e Conforto Imbatível Apresentamos o Tênis Dunk Jumbo Verde Militar, um calçado de alta qualidade desenvolvido para quem valoriza estilo, conforto e resistência no dia a dia. Com seu design moderno e robusto, ele é perfeito para compor looks casuais e urbanos, garantindo praticidade e elegância em todas as ocasiões. Por que escolher o Tênis Dunk Jumbo Verde Militar? Linha Premium: Produzido com materiais selecionados que asseguram durabilidade e acabamento sofisticado. Super Confortável: Palmilha acolchoada e solado especialmente projetado para proporcionar conforto durante todo o uso. Estilo Único: A cor verde militar confere um visual moderno e versátil, ideal para quem quer estar sempre na moda sem abrir mão do conforto. Ótimo para o Dia a Dia: Leve e resistente, acompanha sua rotina com facilidade e segurança. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 24,5 | | 39 | 25,0 | | 40 | 25,5 | | 41 | 26,0 | | 42 | 26,5 | | 43 | 27,0 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho ideal. Assim, você garante o melhor ajuste e conforto. Política de Troca e Devolução Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para assegurar a qualidade e autenticidade do produto, solicitamos o envio de um vídeo original do tênis, sem sinais de uso.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-09-29-at-12-29-22-710f327bbe7a72fec817920074287871-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-03-at-13-40-58-1-328c98090f6e4f880817830996577193-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-36-10-5b850ed359d533622f17919853027250-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-36-11-3e5efb4769699c018617919853068933-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-07-03-at-13-40-58-1-328c98090f6e4f880817830996577193-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-36-12-12e3c53eb13ff4e67f17919853111058-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-36-12-a1cad19848df20a8e317919853149712-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-36-13-1dd7768a0026564d2e17919853194748-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-36-15-e67ba143403e5688ed17919853236066-1024-1024.webp"
       ],
@@ -18017,15 +18015,15 @@
           "id": "1553680830",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1553680833",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -18037,11 +18035,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-jumbo-verde-militar-1qay1/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "880"
     },
     {
@@ -18928,7 +18926,7 @@
           "id": "1401232953",
           "size": "35",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -18949,7 +18947,7 @@
           "id": "1401232968",
           "size": "38",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 6,
           "available": true
         },
         {
@@ -19005,7 +19003,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-10-14T15:53:48.905Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "166"
     },
     {
@@ -22395,7 +22393,7 @@
           "id": "1508801082",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -22412,11 +22410,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-twist-branco-1izfj/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "641"
     },
     {
@@ -22448,35 +22446,35 @@
           "id": "1508904184",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1508904186",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1508904189",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1508904191",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1508904192",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
@@ -22521,11 +22519,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-twist-preto-nobuck-2cue3/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "536"
     },
     {
@@ -25399,22 +25397,22 @@
           "id": "1405149492",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1405149495",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1405149500",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1405149508",
@@ -25472,11 +25470,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-10-13T21:43:14.067Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "74"
     },
     {
@@ -27693,15 +27691,15 @@
           "id": "1608986971",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1608986972",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1608986973",
@@ -27741,11 +27739,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-all-black-11lr7/",
-      "lastSyncedAt": "2026-10-07T17:54:44.072Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "1129"
     },
     {
@@ -40716,7 +40714,7 @@
           "id": "1418905555",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -40754,11 +40752,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-bege-cafe-wxs1u/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "207"
     },
     {
@@ -41495,6 +41493,74 @@
       "sku": "1036"
     },
     {
+      "id": "dx-374136447",
+      "sourceId": "374136447",
+      "slug": "new-balance-9060-bordo-sun-off-374136447",
+      "name": "NEW BALANCE 9060 BORDO SUN OFF",
+      "brand": "New Balance",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "NEW BALANCE 9060 BORDO SUN OFF: conforto com personalidade O NEW BALANCE 9060 BORDO SUN OFF combina conforto e estilo em um visual marcante. Ideal para acompanhar a rotina e compor looks casuais, é uma escolha para quem quer se sentir bem sem abrir mão da personalidade. Seu design contemporâneo dá destaque à produção e acrescenta um toque de estilo tanto às combinações mais básicas quanto aos looks mais elaborados. Use com jeans, calças de modelagem ampla ou peças descontraídas para criar diferentes propostas com o mesmo tênis. Para passear, encontrar amigos ou seguir com os compromissos do dia, este modelo oferece a combinação que você procura: um tênis confortável e estiloso, fácil de incorporar ao guarda-roupa. Escolha o NEW BALANCE 9060 BORDO SUN OFF para dar mais atitude aos seus passos.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-13-at-14-25-02-29c0470d089b17c2ee17919863331340-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-13-at-14-25-07-ced5807f3dcd5192dd17919984554959-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-13-at-14-25-04-7500b9c6720ea312fd17919863785328-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-13-at-14-25-03-4656cd052ca1b6964317919863397070-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-13-at-14-25-05-8aecaa51bfa32e810b17919863699923-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-13-at-14-25-07-6a217a234f23fa543d17919863840315-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1618816740",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1618816741",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1618816742",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1618816743",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1618816744",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "colors": [],
+      "totalStock": 5,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-bordo-sun-off-febbl/",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z"
+    },
+    {
       "id": "dx-374186540",
       "sourceId": "374186540",
       "slug": "new-balance-9060-bordo-sun-off-374186540",
@@ -41524,77 +41590,9 @@
       "colors": [],
       "totalStock": 0,
       "available": false,
-      "archived": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-bordo-sun-off-d4mrr/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z"
-    },
-    {
-      "id": "dx-374136447",
-      "sourceId": "374136447",
-      "slug": "new-balance-9060-bordo-sun-off-374136447",
-      "name": "NEW BALANCE 9060 BORDO SUN OFF",
-      "brand": "New Balance",
-      "category": "Tênis",
-      "subCategory": "9060",
-      "description": "NEW BALANCE 9060 BORDO SUN OFF: conforto com personalidade O NEW BALANCE 9060 BORDO SUN OFF combina conforto e estilo em um visual marcante. Ideal para acompanhar a rotina e compor looks casuais, é uma escolha para quem quer se sentir bem sem abrir mão da personalidade. Seu design contemporâneo dá destaque à produção e acrescenta um toque de estilo tanto às combinações mais básicas quanto aos looks mais elaborados. Use com jeans, calças de modelagem ampla ou peças descontraídas para criar diferentes propostas com o mesmo tênis. Para passear, encontrar amigos ou seguir com os compromissos do dia, este modelo oferece a combinação que você procura: um tênis confortável e estiloso, fácil de incorporar ao guarda-roupa. Escolha o NEW BALANCE 9060 BORDO SUN OFF para dar mais atitude aos seus passos.",
-      "images": [
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-13-at-14-25-02-29c0470d089b17c2ee17919863331340-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-13-at-14-25-07-ced5807f3dcd5192dd17919984554959-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-13-at-14-25-04-7500b9c6720ea312fd17919863785328-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-13-at-14-25-03-4656cd052ca1b6964317919863397070-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-13-at-14-25-05-8aecaa51bfa32e810b17919863699923-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-13-at-14-25-07-6a217a234f23fa543d17919863840315-1024-1024.webp"
-      ],
-      "variants": [
-        {
-          "id": "1618816740",
-          "size": "35",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1618816741",
-          "size": "34",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1618816742",
-          "size": "37",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1618816743",
-          "size": "36",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        },
-        {
-          "id": "1618816744",
-          "size": "38",
-          "color": "Padrão",
-          "stock": 0,
-          "available": false
-        }
-      ],
-      "sizes": [
-        "34",
-        "35",
-        "36",
-        "37",
-        "38"
-      ],
-      "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": false,
-      "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-bordo-sun-off-febbl/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z"
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z"
     },
     {
       "id": "dx-374201845",
@@ -41647,8 +41645,8 @@
           "id": "1618868565",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -41659,11 +41657,11 @@
         "38"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-branco-off-azul-bb-cpev7/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z"
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z"
     },
     {
       "id": "dx-357296939",
@@ -41688,8 +41686,8 @@
           "id": "1564446830",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1564446832",
@@ -41702,8 +41700,8 @@
           "id": "1564446833",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1564446835",
@@ -41716,12 +41714,33 @@
           "id": "1564446836",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1564446837",
           "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1618938333",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1618938334",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1618938335",
+          "size": "42",
           "color": "Padrão",
           "stock": 0,
           "available": false
@@ -41733,14 +41752,17 @@
         "36",
         "37",
         "38",
-        "39"
+        "39",
+        "40",
+        "41",
+        "42"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 8,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-branco-cinza-off-1iwxn/",
-      "lastSyncedAt": "2026-09-23T19:45:05.089Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "970"
     },
     {
@@ -47162,64 +47184,64 @@
           "id": "1545052048",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1545052049",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1545052050",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1545052051",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1545052052",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1545052054",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1545052056",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1545052058",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1545052059",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -47235,11 +47257,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 20,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-park-niquel-creme-off-kmign/",
-      "lastSyncedAt": "2026-08-24T18:52:48.452Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "849"
     },
     {
@@ -48536,7 +48558,7 @@
           "id": "1401140103",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -48588,11 +48610,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "117"
     },
     {
@@ -52816,8 +52838,8 @@
           "id": "1412411321",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1412411322",
@@ -52850,11 +52872,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/travis-scott-oliva-p8fah/",
-      "lastSyncedAt": "2026-10-13T21:43:14.067Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "228"
     },
     {
@@ -53389,21 +53411,21 @@
           "id": "1616876036",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1616876037",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1616876038",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 4,
           "available": true
         },
         {
@@ -53417,28 +53439,28 @@
           "id": "1616876040",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 6,
           "available": true
         },
         {
           "id": "1616876041",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1616876042",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1616876043",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         }
       ],
@@ -53455,11 +53477,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-knu-skool-bordo-15q3q/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z"
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z"
     },
     {
       "id": "dx-352447550",
@@ -53821,8 +53843,8 @@
           "id": "1521343737",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1521343738",
@@ -53859,11 +53881,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-off-white-nf3r0/",
-      "lastSyncedAt": "2026-10-04T23:27:44.968Z",
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
       "sku": "743"
     },
     {
@@ -54482,8 +54504,8 @@
       "description": "Tênis VANS WAYVEE Skate Preto Grafite – Linha Luxo de Alta Qualidade Apresentamos o Tênis VANS WAYVEE Skate Preto Grafite, um modelo que combina alto padrão de qualidade, conforto superior e estilo marcante, perfeito para quem busca um calçado premium para o dia a dia. Por que escolher o VANS WAYVEE Skate Preto Grafite? Design Estiloso e Versátil O visual em preto grafite oferece um acabamento moderno e discreto, ideal para compor looks urbanos e casuais com muito estilo. Seu design robusto e elegante é perfeito para quem quer um tênis funcional e cheio de personalidade. Conforto para o Seu Dia a Dia Produzido com materiais de alta qualidade e palmilha acolchoada, o VANS WAYVEE garante conforto excepcional durante horas, suportando suas atividades com leveza e proteção. É o tênis ideal para quem valoriza conforto sem abrir mão do estilo. Durabilidade e Acabamento Premium Com atenção aos detalhes e acabamento refinado da nossa Linha Luxo, este tênis mantém sua forma e beleza mesmo após uso constante, oferecendo resistência e qualidade superiores. Tamanhos Disponíveis Disponível do 38 ao 43, confira a tabela com as medidas exatas para garantir o ajuste perfeito: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com precisão e compare com a tabela para escolher o tamanho ideal. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-12-at-5e962d53805b22941d17918560910526-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-12-at-16-56-11-c121d948a1099b965417918560903700-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-12-at-16-56-10-cecfbc7a91b65f9a2c17918560910091-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-12-at-16-56-11-c121d948a1099b965417918560903700-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-12-at-16-56-09-064e72a70a9940731b17918560909988-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-12-at-16-56-08-e060abf99fc3a0c2e517918560910661-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-12-at-16-45-40-32be6a67ed19f9413b17918560904499-1024-1024.webp",
@@ -54548,7 +54570,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-wayvee-skate-preto-grafite-1conq/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z"
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z"
     },
     {
       "id": "dx-374234925",
@@ -54573,7 +54595,7 @@
           "id": "1618966426",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 5,
           "available": true
         },
         {
@@ -54587,21 +54609,28 @@
           "id": "1618966435",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1618966441",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1618966446",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1619043012",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 3,
           "available": true
         }
       ],
@@ -54610,14 +54639,15 @@
         "39",
         "40",
         "41",
+        "42",
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-wayvee-skate-preto-vermelho-d8uwb/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z"
+      "lastSyncedAt": "2026-10-14T23:05:47.621Z"
     },
     {
       "id": "dx-318378352",
