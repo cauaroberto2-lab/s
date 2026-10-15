@@ -1031,8 +1031,8 @@
           "id": "1544191175",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1544191176",
@@ -1083,11 +1083,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-1qzac/",
-      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
+      "lastSyncedAt": "2026-10-15T12:33:34.387Z",
       "sku": "840"
     },
     {
@@ -18559,7 +18559,7 @@
           "id": "1403805213",
           "size": "40",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -18580,7 +18580,7 @@
           "id": "1403805243",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         }
       ],
@@ -18601,7 +18601,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-088mg/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z",
+      "lastSyncedAt": "2026-10-15T12:33:34.387Z",
       "sku": "175"
     },
     {
@@ -19219,7 +19219,7 @@
           "id": "1401125509",
           "size": "37",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -19278,11 +19278,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 32,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-branco-beeo6/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z",
+      "lastSyncedAt": "2026-10-15T12:33:34.387Z",
       "sku": "177"
     },
     {
@@ -19413,7 +19413,7 @@
           "id": "1590630832",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -19479,11 +19479,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cinza-natural-mgsel/",
-      "lastSyncedAt": "2026-10-10T18:45:43.703Z",
+      "lastSyncedAt": "2026-10-15T12:33:34.387Z",
       "sku": "1082"
     },
     {
@@ -19685,7 +19685,7 @@
           "id": "1416307443",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -19712,11 +19712,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-grafite-latex-al9cq/",
-      "lastSyncedAt": "2026-10-13T16:47:10.228Z",
+      "lastSyncedAt": "2026-10-15T12:33:34.387Z",
       "sku": "168"
     },
     {
@@ -21250,7 +21250,7 @@
           "id": "1616878194",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -21285,11 +21285,11 @@
         "44"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-twist-all-black-d49m4/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z"
+      "lastSyncedAt": "2026-10-15T12:33:34.387Z"
     },
     {
       "id": "dx-345283995",
@@ -37627,8 +37627,8 @@
           "id": "1527843558",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527843559",
@@ -37686,11 +37686,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-10-13T01:49:58.893Z",
+      "lastSyncedAt": "2026-10-15T12:33:34.387Z",
       "sku": "787"
     },
     {
@@ -45733,8 +45733,8 @@
           "id": "1009090411",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1009090412",
@@ -45753,11 +45753,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-azul-turquesa-2tmkh/",
-      "lastSyncedAt": "2026-10-08T17:29:07.466Z",
+      "lastSyncedAt": "2026-10-15T12:33:34.387Z",
       "sku": "22"
     },
     {
@@ -45975,14 +45975,14 @@
           "id": "1408054901",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1408054906",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -46013,11 +46013,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-preto-branco-7q01e/",
-      "lastSyncedAt": "2026-10-14T15:53:48.905Z",
+      "lastSyncedAt": "2026-10-15T12:33:34.387Z",
       "sku": "28"
     },
     {
@@ -47198,7 +47198,7 @@
           "id": "1545052050",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -47257,11 +47257,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-park-niquel-creme-off-kmign/",
-      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
+      "lastSyncedAt": "2026-10-15T12:33:34.387Z",
       "sku": "849"
     },
     {
@@ -48014,8 +48014,8 @@
           "id": "1598661457",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1598661458",
@@ -48041,11 +48041,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-bege-preto-1eica/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z",
+      "lastSyncedAt": "2026-10-15T12:33:34.387Z",
       "sku": "1105"
     },
     {
@@ -53411,7 +53411,7 @@
           "id": "1616876036",
           "size": "36",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -53477,11 +53477,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 31,
+      "totalStock": 30,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-knu-skool-bordo-15q3q/",
-      "lastSyncedAt": "2026-10-14T23:05:47.621Z"
+      "lastSyncedAt": "2026-10-15T12:33:34.387Z"
     },
     {
       "id": "dx-352447550",
@@ -54518,42 +54518,42 @@
           "id": "1617632351",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1617632352",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1617632354",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 7,
           "available": true
         },
         {
           "id": "1617632355",
           "size": "41",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 8,
           "available": true
         },
         {
           "id": "1617632356",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 5,
           "available": true
         },
         {
           "id": "1617632357",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         }
       ],
@@ -54566,11 +54566,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 28,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-wayvee-skate-preto-grafite-1conq/",
-      "lastSyncedAt": "2026-10-14T23:05:47.621Z"
+      "lastSyncedAt": "2026-10-15T12:33:34.387Z"
     },
     {
       "id": "dx-374234925",
