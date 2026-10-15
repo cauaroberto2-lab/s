@@ -21056,8 +21056,8 @@
           "id": "1605819127",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1605819128",
@@ -21122,11 +21122,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-ted-caramelo-off-1eyqd/",
-      "lastSyncedAt": "2026-10-15T01:38:53.050Z",
+      "lastSyncedAt": "2026-10-15T06:58:05.607Z",
       "sku": "1124"
     },
     {
@@ -38141,8 +38141,8 @@
           "id": "1505634919",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1505634920",
@@ -38200,11 +38200,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-off-coffe-mosev/",
-      "lastSyncedAt": "2026-10-10T01:05:31.024Z",
+      "lastSyncedAt": "2026-10-15T06:58:05.607Z",
       "sku": "720"
     },
     {
@@ -41535,8 +41535,8 @@
           "id": "1618816743",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1618816744",
@@ -41554,11 +41554,11 @@
         "38"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-bordo-sun-off-febbl/",
-      "lastSyncedAt": "2026-10-14T23:05:47.621Z"
+      "lastSyncedAt": "2026-10-15T06:58:05.607Z"
     },
     {
       "id": "dx-374186540",
@@ -48329,8 +48329,8 @@
           "id": "1464242904",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1464242907",
@@ -48349,11 +48349,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-azul-bb-9qmlj/",
-      "lastSyncedAt": "2026-09-30T21:11:54.733Z",
+      "lastSyncedAt": "2026-10-15T06:58:05.607Z",
       "sku": "338"
     },
     {
@@ -48551,7 +48551,7 @@
           "id": "1401140099",
           "size": "37",
           "color": "Padrão",
-          "stock": 8,
+          "stock": 7,
           "available": true
         },
         {
@@ -48610,11 +48610,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
+      "lastSyncedAt": "2026-10-15T06:58:05.607Z",
       "sku": "117"
     },
     {
