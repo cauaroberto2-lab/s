@@ -6505,8 +6505,8 @@
           "id": "1542358198",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1542358199",
@@ -6519,8 +6519,8 @@
           "id": "1542358200",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1542358202",
@@ -6557,7 +6557,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-axcee-bege-off-12iog/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z",
+      "lastSyncedAt": "2026-10-16T03:11:27.836Z",
       "sku": "830"
     },
     {
@@ -21179,8 +21179,8 @@
           "id": "1517151576",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1517151577",
@@ -21199,11 +21199,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-tweed-1urip/",
-      "lastSyncedAt": "2026-10-15T20:56:38.791Z",
+      "lastSyncedAt": "2026-10-16T03:11:27.836Z",
       "sku": "741"
     },
     {
@@ -24753,15 +24753,15 @@
           "id": "1616874457",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1616874460",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1616874461",
@@ -24774,8 +24774,8 @@
           "id": "1616874462",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1616874463",
@@ -24794,11 +24794,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-grafite-preto-r4yoc/",
-      "lastSyncedAt": "2026-10-13T21:43:14.067Z"
+      "lastSyncedAt": "2026-10-16T03:11:27.836Z"
     },
     {
       "id": "dx-357320171",
@@ -31571,8 +31571,8 @@
           "id": "1557630822",
           "size": "G",
           "color": "Azul",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1557630823",
@@ -31621,11 +31621,11 @@
         "Cinza",
         "Bege"
       ],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jaqueta-puffer-the-north-face-premium-shf2u/",
-      "lastSyncedAt": "2026-09-19T17:46:47.229Z",
+      "lastSyncedAt": "2026-10-16T03:11:27.836Z",
       "sku": "02"
     },
     {
@@ -41438,8 +41438,8 @@
           "id": "1576904728",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1576904729",
@@ -41486,11 +41486,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-5c-elite-branco-preto-turquesa-zse1i/",
-      "lastSyncedAt": "2026-10-02T16:29:07.273Z",
+      "lastSyncedAt": "2026-10-16T03:11:27.836Z",
       "sku": "1028"
     },
     {
@@ -45803,7 +45803,7 @@
           "id": "1009090410",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -45830,11 +45830,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-azul-turquesa-2tmkh/",
-      "lastSyncedAt": "2026-10-15T12:33:34.387Z",
+      "lastSyncedAt": "2026-10-16T03:11:27.836Z",
       "sku": "22"
     },
     {
@@ -46550,6 +46550,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pro-14-branco-grafite-2osvb/",
       "lastSyncedAt": "2026-10-14T00:51:30.276Z",
       "sku": "325"
+    },
+    {
+      "id": "dx-316294531",
+      "sourceId": "316294531",
+      "slug": "pro-14-grafite-verde-agua-316294531",
+      "name": "PRO 14 GRAFITE/VERDE ÁGUA",
+      "brand": "Mizuno",
+      "category": "Tênis",
+      "subCategory": "MIZUNO",
+      "description": "Tênis PRO 14 Grafite/Verde Água – Linha Luxo Descubra o Tênis PRO 14 Grafite/Verde Água, um calçado que combina elegância, conforto e alta durabilidade, perfeito para quem valoriza estilo e qualidade em cada passo. Este modelo faz parte da exclusiva Linha Luxo Brasil (BR), trazendo um design moderno com cores sóbrias e um toque vibrante que se destacam em qualquer ocasião. Por que escolher o Tênis PRO 14 Grafite/Verde Água? Visual Sofisticado e Atual O tom grafite aliado ao verde água cria uma combinação única, trazendo um visual contemporâneo e versátil. Ideal para compor looks casuais ou urbanos, este tênis é a escolha certa para quem quer se destacar com estilo e personalidade. Conforto Imbatível Produzido com materiais de alta qualidade, o PRO 14 oferece uma palmilha acolchoada que proporciona maciez e suporte durante todo o dia. Seu design garante um ajuste confortável, acompanhando seus movimentos com leveza e segurança. Sola Emborrachada: Mais Segurança e Durabilidade A sola emborrachada confere excelente aderência, evitando escorregões e aumentando a resistência do calçado. Assim, você pode caminhar ou correr com mais confiança em diversas superfícies. Encontre seu tamanho ideal Confira nossa tabela de medidas para escolher o ajuste perfeito para você: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 24,5 | | 39 | 25,0 | | 40 | 25,5 | | 41 | 26,0 | | 42 | 26,5 | | 43 | 27,0 | Dica: Meça seu pé e compare com a tabela para garantir o melhor caimento. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-05-at-15-49-53-2-43f4cdae7f5e759d9817676443233481-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-05-at-15-49-53-1-579444b179418ccb5b17676443232549-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-05-at-15-49-53-dced3b7b3e6098c0c617676443232894-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-05-at-15-49-54-e9ec06a6105caf002517676443231211-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-01-05-at-15-49-54-1-9c1f84b726eeafec8917676443232237-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1401249627",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1401249634",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1401249645",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1401249649",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1401249657",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1401249667",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 5,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/pro-14-grafite-verde-agua-xmqzu/",
+      "lastSyncedAt": "2026-10-16T03:11:27.836Z",
+      "sku": "513"
     },
     {
       "id": "dx-316880674",
