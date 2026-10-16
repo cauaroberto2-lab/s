@@ -1141,8 +1141,8 @@
           "id": "1540896506",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1540896507",
@@ -1161,11 +1161,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-cinza-refletivo-vjgt2/",
-      "lastSyncedAt": "2026-10-13T21:43:14.067Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "820"
     },
     {
@@ -24760,15 +24760,15 @@
           "id": "1616874460",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1616874461",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1616874462",
@@ -24794,11 +24794,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-grafite-preto-r4yoc/",
-      "lastSyncedAt": "2026-10-16T03:11:27.836Z"
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z"
     },
     {
       "id": "dx-357320171",
@@ -29937,8 +29937,8 @@
           "id": "1605122488",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1605122489",
@@ -29957,11 +29957,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-flamingo-off-white-1o2gp/",
-      "lastSyncedAt": "2026-10-03T21:58:47.252Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "1117"
     },
     {
@@ -32038,14 +32038,14 @@
           "id": "1538179724",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1538179726",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -32066,11 +32066,19 @@
           "id": "1538179729",
           "size": "43",
           "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1620310471",
+          "size": "34",
+          "color": "Padrão",
           "stock": 1,
           "available": true
         }
       ],
       "sizes": [
+        "34",
         "38",
         "39",
         "40",
@@ -32079,11 +32087,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-azul-jeans-1or35/",
-      "lastSyncedAt": "2026-10-09T21:07:39.776Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "808"
     },
     {
@@ -32330,35 +32338,35 @@
           "id": "1571420071",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1571420072",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1571420075",
           "size": "37",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 7,
           "available": true
         },
         {
           "id": "1571420076",
           "size": "38",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1571420078",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 5,
           "available": true
         },
         {
@@ -32372,7 +32380,7 @@
           "id": "1588585015",
           "size": "41",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -32403,11 +32411,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 35,
+      "totalStock": 39,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-cinza-gelo-branco-mlljo/",
-      "lastSyncedAt": "2026-10-13T16:47:10.228Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "1005"
     },
     {
@@ -32453,14 +32461,14 @@
           "id": "1493114964",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1493114965",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -32512,11 +32520,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-cinza-preto-1ctg9/",
-      "lastSyncedAt": "2026-10-15T20:56:38.791Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "249"
     },
     {
@@ -32894,7 +32902,7 @@
           "id": "1536581660",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
@@ -32960,11 +32968,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-edition-chicago-bulls-1owvr/",
-      "lastSyncedAt": "2026-10-15T20:56:38.791Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "801"
     },
     {
@@ -33178,56 +33186,56 @@
           "id": "1581538627",
           "size": "34",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1581538628",
           "size": "35",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1581538629",
           "size": "36",
           "color": "Padrão",
-          "stock": 5,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1581538630",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1581538631",
           "size": "38",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1581538632",
           "size": "39",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1581538633",
           "size": "40",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1581538634",
           "size": "41",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 2,
           "available": true
         },
         {
@@ -33241,7 +33249,7 @@
           "id": "1581538636",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 9,
           "available": true
         }
       ],
@@ -33258,11 +33266,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 40,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-lakers-edition-16sk2/",
-      "lastSyncedAt": "2026-10-13T21:43:14.067Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "1044"
     },
     {
@@ -33588,15 +33596,15 @@
           "id": "1422955087",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1422955089",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1422955091",
@@ -33609,7 +33617,7 @@
           "id": "1422955093",
           "size": "38",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
@@ -33661,11 +33669,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-preto-branco-hk4pe/",
-      "lastSyncedAt": "2026-10-15T20:56:38.791Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "234"
     },
     {
@@ -34151,22 +34159,22 @@
           "id": "1556493830",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1556493832",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1556493834",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1556493835",
@@ -34200,8 +34208,8 @@
           "id": "1571399552",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1571399553",
@@ -34224,11 +34232,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 6,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-sesame-m3nmh/",
-      "lastSyncedAt": "2026-10-10T22:12:50.442Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "914"
     },
     {
@@ -38687,7 +38695,7 @@
           "id": "1414822661",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -38700,11 +38708,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-1ib5e/",
-      "lastSyncedAt": "2026-09-30T21:11:54.733Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "421"
     },
     {
@@ -48711,7 +48719,7 @@
           "id": "1401140103",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -48763,11 +48771,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-10-15T23:34:00.817Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "117"
     },
     {
@@ -52984,8 +52992,8 @@
           "id": "1412411320",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1412411321",
@@ -53025,11 +53033,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/travis-scott-oliva-p8fah/",
-      "lastSyncedAt": "2026-10-14T23:05:47.621Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "228"
     },
     {
@@ -54242,7 +54250,7 @@
           "id": "1618829560",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -54301,11 +54309,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-sk8-hi-azul-jeans-bkhwk/",
-      "lastSyncedAt": "2026-10-14T19:58:18.307Z"
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z"
     },
     {
       "id": "dx-373790154",
@@ -54762,7 +54770,7 @@
           "id": "1618966435",
           "size": "41",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -54796,11 +54804,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-wayvee-skate-preto-vermelho-d8uwb/",
-      "lastSyncedAt": "2026-10-14T23:05:47.621Z"
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z"
     },
     {
       "id": "dx-318378352",
@@ -54971,8 +54979,8 @@
           "id": "1410600713",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410600714",
@@ -55009,11 +55017,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-rato-vr6hq/",
-      "lastSyncedAt": "2026-10-15T23:34:00.817Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "219"
     },
     {
@@ -55148,8 +55156,8 @@
           "id": "1527407608",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527407610",
@@ -55162,8 +55170,8 @@
           "id": "1527407612",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527407613",
@@ -55176,8 +55184,8 @@
           "id": "1527407614",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527407616",
@@ -55196,11 +55204,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/wayvee-1-0-black-red-5q1jq/",
-      "lastSyncedAt": "2026-10-15T20:56:38.791Z",
+      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
       "sku": "771"
     },
     {
