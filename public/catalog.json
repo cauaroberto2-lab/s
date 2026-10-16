@@ -13475,7 +13475,7 @@
           "id": "1600648460",
           "size": "XG",
           "color": "Preto",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -13506,11 +13506,11 @@
         "Branco",
         "Verde"
       ],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-polo-calvin-lurs9/",
-      "lastSyncedAt": "2026-10-14T15:53:48.905Z",
+      "lastSyncedAt": "2026-10-16T23:14:43.816Z",
       "sku": "1101"
     },
     {
@@ -23553,8 +23553,8 @@
           "id": "1610150744",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1610150745",
@@ -23567,29 +23567,29 @@
           "id": "1610150746",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1610150747",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
           "id": "1610150748",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1610150749",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1610150750",
@@ -23602,22 +23602,22 @@
           "id": "1610150751",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1610150752",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1610150753",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -23633,11 +23633,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-ambush-branco-preto-211f6/",
-      "lastSyncedAt": "2026-10-16T17:35:46.943Z"
+      "lastSyncedAt": "2026-10-16T23:14:43.816Z"
     },
     {
       "id": "dx-354721415",
@@ -37726,7 +37726,7 @@
           "id": "1527843560",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -37771,11 +37771,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-10-15T20:56:38.791Z",
+      "lastSyncedAt": "2026-10-16T23:14:43.816Z",
       "sku": "787"
     },
     {
@@ -39712,7 +39712,7 @@
           "id": "1404734493",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -39757,11 +39757,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-branco-0qo43/",
-      "lastSyncedAt": "2026-10-15T20:56:38.791Z",
+      "lastSyncedAt": "2026-10-16T23:14:43.816Z",
       "sku": "67"
     },
     {
@@ -41971,7 +41971,7 @@
           "id": "1564177547",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -41998,11 +41998,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-marrom-off-white-21h27/",
-      "lastSyncedAt": "2026-10-03T00:09:28.877Z",
+      "lastSyncedAt": "2026-10-16T23:14:43.816Z",
       "sku": "960"
     },
     {
@@ -45804,7 +45804,7 @@
           "id": "1009090409",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -45838,11 +45838,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pegasus-azul-turquesa-2tmkh/",
-      "lastSyncedAt": "2026-10-16T03:11:27.836Z",
+      "lastSyncedAt": "2026-10-16T23:14:43.816Z",
       "sku": "22"
     },
     {
@@ -53780,7 +53780,7 @@
           "id": "1564373344",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -53825,11 +53825,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-cacau-off-white-hhrac/",
-      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
+      "lastSyncedAt": "2026-10-16T23:14:43.816Z",
       "sku": "968"
     },
     {
