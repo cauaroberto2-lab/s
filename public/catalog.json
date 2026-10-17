@@ -1458,7 +1458,7 @@
           "id": "1538349423",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -1471,11 +1471,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-cinza-off-zyb0q/",
-      "lastSyncedAt": "2026-10-16T17:35:46.943Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "810"
     },
     {
@@ -6358,21 +6358,21 @@
           "id": "1594356234",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1594356235",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1594356236",
           "size": "41",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -6386,7 +6386,7 @@
           "id": "1594356238",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         }
       ],
@@ -6399,11 +6399,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-force-cinza-hrsyc/",
-      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "1085"
     },
     {
@@ -9412,8 +9412,8 @@
           "id": "1536280590",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1536280592",
@@ -9439,11 +9439,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/beta-azul-marinho-branco-k83qd/",
-      "lastSyncedAt": "2026-10-10T18:45:43.703Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "798"
     },
     {
@@ -9542,15 +9542,15 @@
           "id": "1419118643",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1419118645",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1419118646",
@@ -9577,7 +9577,7 @@
           "id": "1419118650",
           "size": "43",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 1,
           "available": true
         }
       ],
@@ -9590,11 +9590,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/beta-creme-marinho-asc6x/",
-      "lastSyncedAt": "2026-09-03T17:31:21.954Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "337"
     },
     {
@@ -9639,7 +9639,7 @@
           "id": "1413839096",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -9653,8 +9653,8 @@
           "id": "1413839102",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -9666,11 +9666,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/beta-preto-branco-vxiza/",
-      "lastSyncedAt": "2026-10-15T20:56:38.791Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "335"
     },
     {
@@ -18559,7 +18559,7 @@
           "id": "1403805213",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
@@ -18597,11 +18597,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-branco-088mg/",
-      "lastSyncedAt": "2026-10-16T17:35:46.943Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "175"
     },
     {
@@ -19699,8 +19699,8 @@
           "id": "1416307445",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -19712,11 +19712,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-grafite-latex-al9cq/",
-      "lastSyncedAt": "2026-10-15T12:33:34.387Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "168"
     },
     {
@@ -25404,15 +25404,15 @@
           "id": "1405149495",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1405149500",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1405149508",
@@ -25425,22 +25425,22 @@
           "id": "1405149516",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1405149520",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1405149523",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1405149527",
@@ -25453,8 +25453,8 @@
           "id": "1405149531",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -25470,11 +25470,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-10-16T17:35:46.943Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "74"
     },
     {
@@ -28828,8 +28828,8 @@
           "id": "1430823397",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1430823398",
@@ -28852,11 +28852,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-branco-18ixt/",
-      "lastSyncedAt": "2026-10-16T17:35:46.943Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "78"
     },
     {
@@ -36034,8 +36034,8 @@
           "id": "1592890526",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1592890527",
@@ -36050,6 +36050,13 @@
           "color": "Padrão",
           "stock": 0,
           "available": false
+        },
+        {
+          "id": "1620992825",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -36057,14 +36064,15 @@
         "39",
         "40",
         "41",
-        "42"
+        "42",
+        "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-preto-vermelho-117h4/",
-      "lastSyncedAt": "2026-10-15T17:35:58.684Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "1084"
     },
     {
@@ -36088,22 +36096,22 @@
           "id": "1585840348",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1585840349",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1585840350",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1585840351",
@@ -36116,8 +36124,8 @@
           "id": "1585840352",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -36128,11 +36136,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-pro-12-cinza-laranja-1cu8f/",
-      "lastSyncedAt": "2026-10-02T16:29:07.273Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "1055"
     },
     {
@@ -36326,8 +36334,8 @@
           "id": "1564140767",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1564140768",
@@ -36360,11 +36368,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-pro-15-branco-verm-marinho-9pj63/",
-      "lastSyncedAt": "2026-10-07T22:43:29.963Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "958"
     },
     {
@@ -36404,8 +36412,8 @@
           "id": "1585851442",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1585851443",
@@ -36438,11 +36446,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-pro-15-preto-azul-amarelo-limao-nnywp/",
-      "lastSyncedAt": "2026-10-02T16:29:07.273Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "1056"
     },
     {
@@ -36481,7 +36489,7 @@
           "id": "1532634941",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -36515,11 +36523,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-wave-beta-cinza-branco-1kox4/",
-      "lastSyncedAt": "2026-09-17T19:10:23.174Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "794"
     },
     {
@@ -46276,7 +46284,7 @@
           "id": "1401090924",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -46290,14 +46298,14 @@
           "id": "1401090945",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1401090953",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -46311,7 +46319,7 @@
           "id": "1401090970",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         }
       ],
@@ -46328,7 +46336,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pro-13-branco-refletivo-z5q91/",
-      "lastSyncedAt": "2026-10-14T00:51:30.276Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "379"
     },
     {
@@ -46428,36 +46436,36 @@
           "id": "1417368085",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1417368086",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1417368087",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1417368088",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 4,
           "available": true
         },
         {
           "id": "1417368089",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1417368091",
@@ -46476,11 +46484,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pro-13-preto-camaleao-1os07/",
-      "lastSyncedAt": "2026-09-19T01:28:29.038Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "540"
     },
     {
@@ -46504,21 +46512,21 @@
           "id": "1413881409",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1413881415",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1413881417",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 3,
           "available": true
         },
         {
@@ -46552,11 +46560,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pro-14-branco-grafite-2osvb/",
-      "lastSyncedAt": "2026-10-14T00:51:30.276Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "325"
     },
     {
@@ -46601,7 +46609,7 @@
           "id": "1401249649",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -46628,11 +46636,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pro-14-grafite-verde-agua-xmqzu/",
-      "lastSyncedAt": "2026-10-16T17:35:46.943Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "513"
     },
     {
@@ -46655,8 +46663,8 @@
           "id": "1403981725",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1403981730",
@@ -46703,11 +46711,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-pro-14-preto-grafite-81n14/",
-      "lastSyncedAt": "2026-10-03T21:58:47.252Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "323"
     },
     {
@@ -46808,14 +46816,14 @@
           "id": "1565191854",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1565191855",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 3,
           "available": true
         },
         {
@@ -46843,8 +46851,8 @@
           "id": "1565191859",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -46856,11 +46864,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/prophecy-15-preto-prata-h9hdf/",
-      "lastSyncedAt": "2026-10-12T02:33:51.035Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "980"
     },
     {
@@ -53766,8 +53774,8 @@
           "id": "1564373341",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564373343",
@@ -53825,11 +53833,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-cacau-off-white-hhrac/",
-      "lastSyncedAt": "2026-10-16T23:14:43.816Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "968"
     },
     {
@@ -54714,7 +54722,7 @@
           "id": "1617632357",
           "size": "43",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         }
       ],
@@ -54727,11 +54735,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 26,
+      "totalStock": 25,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-wayvee-skate-preto-grafite-1conq/",
-      "lastSyncedAt": "2026-10-17T01:24:18.622Z"
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z"
     },
     {
       "id": "dx-374234925",
@@ -54879,7 +54887,7 @@
           "id": "1410609058",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -54910,11 +54918,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 21,
+      "totalStock": 20,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-preto-off-lr98c/",
-      "lastSyncedAt": "2026-10-16T20:31:02.478Z",
+      "lastSyncedAt": "2026-10-17T13:50:22.666Z",
       "sku": "221"
     },
     {
