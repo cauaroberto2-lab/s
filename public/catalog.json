@@ -2604,8 +2604,8 @@
           "id": "1586263772",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1586263773",
@@ -2631,11 +2631,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ad-2000-gelo-preto-1x7if/",
-      "lastSyncedAt": "2026-10-15T20:56:38.791Z",
+      "lastSyncedAt": "2026-10-17T01:24:18.622Z",
       "sku": "1064"
     },
     {
@@ -19155,8 +19155,8 @@
           "id": "1420786993",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -19168,11 +19168,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-capuccino-dxo6s/",
-      "lastSyncedAt": "2026-10-15T17:35:58.684Z",
+      "lastSyncedAt": "2026-10-17T01:24:18.622Z",
       "sku": "181"
     },
     {
@@ -32730,8 +32730,8 @@
           "id": "1536788263",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1536788265",
@@ -32778,11 +32778,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-dunas-grafite-1g5o0/",
-      "lastSyncedAt": "2026-09-21T22:06:29.149Z",
+      "lastSyncedAt": "2026-10-17T01:24:18.622Z",
       "sku": "802"
     },
     {
@@ -54693,7 +54693,7 @@
           "id": "1617632354",
           "size": "40",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -54727,11 +54727,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 27,
+      "totalStock": 26,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-wayvee-skate-preto-grafite-1conq/",
-      "lastSyncedAt": "2026-10-16T17:35:46.943Z"
+      "lastSyncedAt": "2026-10-17T01:24:18.622Z"
     },
     {
       "id": "dx-374234925",
@@ -54993,7 +54993,7 @@
           "id": "1410600715",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -55017,11 +55017,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-rato-vr6hq/",
-      "lastSyncedAt": "2026-10-16T17:35:46.943Z",
+      "lastSyncedAt": "2026-10-17T01:24:18.622Z",
       "sku": "219"
     },
     {
