@@ -32944,8 +32944,8 @@
           "id": "1581532110",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1581532111",
@@ -32968,11 +32968,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-edition-chicago-bulls-1owvr/",
-      "lastSyncedAt": "2026-10-16T13:25:08.188Z",
+      "lastSyncedAt": "2026-10-18T03:04:55.185Z",
       "sku": "801"
     },
     {
