@@ -1360,8 +1360,8 @@
           "id": "1589330971",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1589330972",
@@ -1401,11 +1401,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-rosa-18pec/",
-      "lastSyncedAt": "2026-09-25T19:07:36.731Z",
+      "lastSyncedAt": "2026-10-20T14:06:26.183Z",
       "sku": "1075"
     },
     {
@@ -3632,7 +3632,7 @@
           "id": "1396798299",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -3666,11 +3666,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-preto-branco-60xu0/",
-      "lastSyncedAt": "2026-10-15T20:56:38.791Z",
+      "lastSyncedAt": "2026-10-20T14:06:26.183Z",
       "sku": "89"
     },
     {
@@ -24754,8 +24754,8 @@
           "id": "1616874456",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1616874457",
@@ -24802,11 +24802,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-grafite-preto-r4yoc/",
-      "lastSyncedAt": "2026-10-17T19:01:17.019Z"
+      "lastSyncedAt": "2026-10-20T14:06:26.183Z"
     },
     {
       "id": "dx-357320171",
@@ -27197,10 +27197,10 @@
       "subCategory": "AIR FORCE",
       "description": "FORCE VERDE DUNAS – Estilo e Conforto que Fazem a Diferença Apresentamos o FORCE VERDE DUNAS, o tênis que combina um design moderno e ousado com o conforto essencial para o seu dia a dia. Ideal para quem busca um calçado versátil, que une estilo urbano com praticidade, o FORCE VERDE DUNAS é a escolha perfeita para acompanhar seus passos com segurança e personalidade. Por que escolher o FORCE VERDE DUNAS? Design Único e Atual: O padrão em tons de cinza traz um visual diferenciado, que combina facilmente com diversos looks, do casual ao esportivo. Conforto Prolongado: Com materiais de alta qualidade e palmilha acolchoada, garante suporte e maciez para seus pés durante todo o dia. Durabilidade Comprovada: Acabamento resistente e solado robusto proporcionam excelente aderência e longa vida útil, mesmo para os usos mais intensos. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com atenção e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto a cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento do produto para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do tênis, basta enviar um vídeo original do produto, sem sinais de uso.",
       "images": [
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-33-52-c19814ff766f44c7bb17919849026383-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-33-54-34dfab5e7f6b1a479717919849195566-1024-1024.webp",
-        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-33-49-52a34bcb823aef463c17919849625975-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-33-50-416b5d1620c921ddc817919849679291-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-33-54-34dfab5e7f6b1a479717919849195566-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-33-52-c19814ff766f44c7bb17919849026383-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-33-49-52a34bcb823aef463c17919849625975-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-33-51-cbe2d566d3ac31aac717919849730318-1024-1024.webp",
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-14-at-10-33-51-fde2ffc8ed7a3edb1117919853991818-1024-1024.webp"
       ],
@@ -27261,7 +27261,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-verde-dunas-na1wd/",
-      "lastSyncedAt": "2026-10-19T14:51:32.434Z",
+      "lastSyncedAt": "2026-10-20T14:06:26.183Z",
       "sku": "736"
     },
     {
@@ -27299,7 +27299,7 @@
           "id": "1566956714",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -27333,11 +27333,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-black-white-nobuk-1gz2a/",
-      "lastSyncedAt": "2026-10-15T20:56:38.791Z",
+      "lastSyncedAt": "2026-10-20T14:06:26.183Z",
       "sku": "987"
     },
     {
@@ -28275,8 +28275,8 @@
           "id": "1604643759",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1604643761",
@@ -28306,11 +28306,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-summer-green-low-wqvfa/",
-      "lastSyncedAt": "2026-10-20T08:48:58.407Z",
+      "lastSyncedAt": "2026-10-20T14:06:26.183Z",
       "sku": "1111"
     },
     {
@@ -36356,8 +36356,8 @@
           "id": "1564140769",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1564140770",
@@ -36376,11 +36376,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-pro-15-branco-verm-marinho-9pj63/",
-      "lastSyncedAt": "2026-10-19T20:21:41.199Z",
+      "lastSyncedAt": "2026-10-20T14:06:26.183Z",
       "sku": "958"
     },
     {
@@ -41408,7 +41408,7 @@
           "id": "1559916645",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -41435,11 +41435,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-530-off-cacau-1dit5/",
-      "lastSyncedAt": "2026-10-19T20:21:41.199Z",
+      "lastSyncedAt": "2026-10-20T14:06:26.183Z",
       "sku": "937"
     },
     {
@@ -43048,8 +43048,8 @@
           "id": "1578470127",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -43061,11 +43061,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-ambush-branco-ckhaz/",
-      "lastSyncedAt": "2026-10-19T20:21:41.199Z",
+      "lastSyncedAt": "2026-10-20T14:06:26.183Z",
       "sku": "1038"
     },
     {
@@ -47044,7 +47044,7 @@
           "id": "1606621160",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         }
       ],
@@ -47061,11 +47061,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-180-off-bege-4zi7k/",
-      "lastSyncedAt": "2026-10-17T19:01:17.019Z",
+      "lastSyncedAt": "2026-10-20T14:06:26.183Z",
       "sku": "725"
     },
     {
@@ -54854,7 +54854,7 @@
           "id": "1410609051",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -54882,7 +54882,7 @@
           "id": "1410609055",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -54927,11 +54927,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-preto-off-lr98c/",
-      "lastSyncedAt": "2026-10-19T14:51:32.434Z",
+      "lastSyncedAt": "2026-10-20T14:06:26.183Z",
       "sku": "221"
     },
     {
