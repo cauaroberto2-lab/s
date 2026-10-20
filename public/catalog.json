@@ -28261,8 +28261,8 @@
           "id": "1604259402",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1604643754",
@@ -28306,11 +28306,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-summer-green-low-wqvfa/",
-      "lastSyncedAt": "2026-10-16T17:35:46.943Z",
+      "lastSyncedAt": "2026-10-20T08:48:58.407Z",
       "sku": "1111"
     },
     {
