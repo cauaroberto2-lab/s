@@ -3729,8 +3729,8 @@
           "id": "1419896930",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -3742,11 +3742,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-preto-preto-branco-r9yrp/",
-      "lastSyncedAt": "2026-10-16T17:35:46.943Z",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z",
       "sku": "346"
     },
     {
@@ -4386,6 +4386,43 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-otelo-verde-militar-1s54d/",
       "lastSyncedAt": "2026-08-07T00:23:43.319Z",
       "sku": "71"
+    },
+    {
+      "id": "dx-375611446",
+      "sourceId": "375611446",
+      "slug": "adidas-samba-black-diamond-375611446",
+      "name": "ADIDAS SAMBA BLACK DIAMOND",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "SAMBA",
+      "description": "Tênis ADIDAS SAMBA BLACK DIAMOND – Linha Luxo de Alta Qualidade Apresentamos o Tênis ADIDAS SAMBA BLACK DIAMOND, um modelo que une estilo sofisticado, conforto superior e durabilidade incomparável. Ideal para o dia a dia, este calçado faz parte da exclusiva Linha Luxo, pensado para quem não abre mão de elegância e qualidade. Por que escolher o Tênis ADIDAS SAMBA BLACK DIAMOND? Design Moderno e Estiloso Com acabamento em preto clássico e detalhes exclusivos Black Diamond, este tênis oferece um visual versátil que combina com diversos looks, do casual ao urbano. Seu design é perfeito para quem deseja um calçado lindo e que chama atenção pela sua exclusividade. Conforto para o Seu Dia a Dia Produzido com materiais de alta qualidade e equipado com palmilha acolchoada, o ADIDAS SAMBA BLACK DIAMOND proporciona conforto excepcional e suporte ideal para seus pés durante toda a jornada, garantindo bem-estar mesmo nas atividades mais intensas. Durabilidade e Acabamento Premium Com fabricação cuidadosa e atenção aos mínimos detalhes, este tênis mantém sua forma, cor e beleza mesmo após uso frequente, oferecendo resistência para acompanhar seu ritmo sem perder o estilo. Tamanhos Disponíveis Para garantir o ajuste perfeito, confira a tabela com as medidas em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e compare com a tabela para escolher o tamanho ideal. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento do produto. Para garantir a autenticidade e qualidade, envie um vídeo original do tênis sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-202-10-20-at-23-13-40-0e0d3cf5db27b6e8e617925530845047-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-13-38-e4666f344cdef1a73a17925530845146-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-13-36-52d18b012419b60bab17925530841935-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-13-37-21d1ffb30694a2f9ed17925530842207-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-13-8-5d69382919e5ea51e717925530844524-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-13-39-0c6cc9f3776699b01e17925530845122-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-13-40-13dcb743b22ce0833017925530845225-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1623190981",
+          "size": "Único",
+          "color": "Padrão",
+          "stock": 12,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "Único"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-black-diamond-j5ncd/",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z"
     },
     {
       "id": "dx-352356994",
@@ -5616,6 +5653,81 @@
       "sku": "454"
     },
     {
+      "id": "dx-375611894",
+      "sourceId": "375611894",
+      "slug": "adizero-boston-11-aqua-preto-375611894",
+      "name": "ADIZERO BOSTON 11 AQUA PRETO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "SPORT",
+      "description": "Tênis ADIZERO BOSTON 11 AQUA PRETO – Linha Luxo de Alta Qualidade Apresentamos o Tênis ADIZERO BOSTON 11 AQUA PRETO, um modelo da nossa exclusiva Linha Luxo que une design moderno, conforto superior e alta durabilidade. Ideal para quem procura um calçado estiloso e confortável para o dia a dia, sem abrir mão da qualidade. Por que escolher o ADIZERO BOSTON 11 AQUA PRETO? Estilo e Modernidade Com seu visual sofisticado em tom preto com detalhes aqua, este tênis traz um design elegante e versátil, perfeito para combinar com diversos looks, do casual ao esportivo. Conforto Excepcional Produzido com materiais de alta qualidade e palmilha acolchoada, o ADIZERO BOSTON 11 garante conforto durante todo o dia, proporcionando suporte ideal para seus pés em todas as atividades diárias. Durabilidade e Acabamento Premium Com acabamento refinado da Linha Luxo, este tênis mantém sua forma, cor e conforto mesmo após uso constante. A qualidade superior assegura resistência e longa vida útil. Tamanhos Disponíveis Disponível do 38 ao 43, confira abaixo a tabela com as medidas em centímetros para escolher o tamanho ideal: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-t-23-14-18-2de2cd87906e4a230117925532697352-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-14-1-2f67ed4c504c29259117925532690778-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-14-17-f38c9a5d955cefe76a17925532690916-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-2314-17-9e61e96ba31d79530517925532695025-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-14-18-785f4db0b4a46d47a317925532696987-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1623192706",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1623192707",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1623192708",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1623192709",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1623192710",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1623192711",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-aqua-preto-eop8j/",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z"
+    },
+    {
       "id": "dx-335922191",
       "sourceId": "335922191",
       "slug": "adizero-boston-11-azul-celeste-335922191",
@@ -5741,7 +5853,7 @@
           "id": "1494015893",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -5761,11 +5873,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adzero-boston-11-branco-limao-1aklb/",
-      "lastSyncedAt": "2026-10-20T22:06:20.890Z",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z",
       "sku": "453"
     },
     {
@@ -5791,43 +5903,43 @@
           "id": "1559589161",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1559589162",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1559589164",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1559589165",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1559589166",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1559589167",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -5839,11 +5951,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-branco-rosa-limao-hy3nc/",
-      "lastSyncedAt": "2026-09-13T22:06:49.677Z",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z",
       "sku": "929"
     },
     {
@@ -5868,43 +5980,43 @@
           "id": "1549273840",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1549273842",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1549273844",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1549273847",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1549273848",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1549273849",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -5916,11 +6028,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-boston-11-preto-branco-1j5gp/",
-      "lastSyncedAt": "2026-09-17T00:05:46.866Z",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z",
       "sku": "870"
     },
     {
@@ -6803,6 +6915,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-dn-preto-branco-28wku/",
       "lastSyncedAt": "2026-10-15T20:56:38.791Z",
       "sku": "1107"
+    },
+    {
+      "id": "dx-375613624",
+      "sourceId": "375613624",
+      "slug": "air-max-grafite-branco-375613624",
+      "name": "AIR MAX GRAFITE BRANCO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "NIKE",
+      "description": "Tênis AIR MAX GRAFITE BRANCO – Linha Luxo de Alta Qualidade Apresentamos o Tênis AIR MAX GRAFITE BRANCO, um modelo que une design sofisticado, conforto excepcional e durabilidade, ideal para quem busca um calçado premium e estiloso para o dia a dia. Por que escolher o AIR MAX GRAFITE BRANCO? Visual Moderno e Estiloso Com sua combinação elegante de grafite e branco, o AIR MAX garante um visual moderno e versátil, perfeito para diversas ocasiões, do casual ao urbano. Conforto para o Dia a Dia Produzido com materiais de alta qualidade e palmilha acolchoada, o tênis oferece conforto superior e ajuste perfeito, permitindo que você caminhe com leveza e segurança o dia todo. Durabilidade e Acabamento Premium Com acabamento cuidadoso e atenção aos detalhes, o AIR MAX mantém sua forma e beleza mesmo após uso frequente, acompanhando seu ritmo sem perder o estilo. Tamanhos Disponíveis Escolha o tamanho ideal para você, disponível do 38 ao 43, conforme a tabela abaixo com medidas em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-a9780b7e5f2667a68017925538974616-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-18-18-52c2bb3d96404ad37717925538961910-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-a-307318a131f9dc0afc17925538963285-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-8-18-551da6cf254439404b17925538963666-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-18-17-3c0ec4c5f814a9a16217925538960987-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-18-22-ea08b29967091bdbf717925538963230-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1623195882",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1623195883",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1623195884",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1623195885",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1623195886",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1623195887",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-grafite-branco-7hay0/",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z"
     },
     {
       "id": "dx-368148086",
@@ -19784,8 +19972,8 @@
           "id": "1548226341",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -19797,11 +19985,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-jumbo-olive-pgfqf/",
-      "lastSyncedAt": "2026-10-20T22:06:20.890Z",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z",
       "sku": "857"
     },
     {
@@ -36823,6 +37011,83 @@
       "sku": "786"
     },
     {
+      "id": "dx-375615721",
+      "sourceId": "375615721",
+      "slug": "nb-1000-off-white-375615721",
+      "name": "NB 1000 OFF WHITE",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "NEW BALACE",
+      "description": "Tênis NB 1000 Off White – Linha Luxo de Alta Qualidade Apresentamos o Tênis NB 1000 Off White, um modelo da exclusiva Linha Luxo que une design elegante, conforto superior e durabilidade para o dia a dia. Ideal para quem busca um calçado que combine estilo e praticidade em todas as ocasiões. Por que escolher o Tênis NB 1000 Off White? Estilo Sofisticado e Versátil Com sua cor off white, o NB 1000 traz um visual moderno e clean que combina facilmente com diferentes looks, do casual ao urbano. Um modelo lindo que valoriza seu estilo sem abrir mão da discrição. Conforto para o Dia a Dia Fabricado com materiais de alta qualidade e equipado com palmilha acolchoada, garante um ajuste confortável e suporte ideal para seus pés, proporcionando maciez e segurança mesmo em longas caminhadas. Durabilidade e Acabamento Premium Detalhes cuidadosamente finalizados e acabamento de linha luxo asseguram que o tênis mantenha sua forma e beleza mesmo após uso frequente, acompanhando seu ritmo sem perder a elegância. Tamanhos Disponíveis e Medidas Confira a tabela para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é prioridade. Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-17-03-cdf4d508d2d8c686be17925543976698-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-e8d94f8a3d04f0dda017925543976056-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-17-01-21895e203188e9876b17925543976427-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-17-02-794fcfcad609554de617925543977047-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-17-00-04c1d9b96b3974967917925543976018-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-1-01-a1ea740356f3a5fbdf17925543976781-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-16-59-37e9e03018271e2ef717925543976144-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1623198512",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1623198513",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1623198514",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1623198515",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1623198516",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1623198517",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-1000-off-white-1507d/",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z"
+    },
+    {
       "id": "dx-363913416",
       "sourceId": "363913416",
       "slug": "nb-1000-off-white-cinza-363913416",
@@ -37059,7 +37324,7 @@
       "name": "NB 1080 PRETO/BRANCO",
       "brand": "Não informada",
       "category": "Tênis",
-      "subCategory": "NEW BALACE",
+      "subCategory": "1080",
       "description": "NB 1080 PRETO/BRANCO – Estilo e Conforto que Você Merece em Cada Passo Descubra o NB 1080 PRETO/BRANCO, um tênis que une design clássico com tecnologia de ponta para oferecer conforto excepcional e estilo versátil. Ideal para quem busca um calçado que acompanhe o ritmo do dia a dia com elegância e praticidade. Por que escolher o NB 1080 PRETO/BRANCO? Design Atemporal: A combinação do preto com branco traz um visual sóbrio e elegante, perfeito para diversas ocasiões, do casual ao esportivo. Conforto Duradouro: Desenvolvido com materiais de alta qualidade e palmilha macia, proporciona suporte e conforto para seus pés durante todo o dia. Durabilidade Garantida: Com acabamento resistente e solado emborrachado, o NB 1080 oferece ótima aderência e longa vida útil, mesmo com uso intenso. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2025-09-30-at-11-28-19-06316d44e68bd2582417670280591220-1024-1024.webp",
@@ -37073,71 +37338,71 @@
           "id": "1397248919",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1397248920",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1397248921",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1397248923",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1397248925",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1397248926",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1397248928",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1397248929",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1397248931",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1397248933",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -37153,12 +37418,166 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 23,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-1080-preto-branco-mfd6s/",
-      "lastSyncedAt": "2026-08-15T21:19:34.185Z",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z",
       "sku": "365"
+    },
+    {
+      "id": "dx-375610383",
+      "sourceId": "375610383",
+      "slug": "nb-1080-verde-aqua-375610383",
+      "name": "NB 1080 VERDE AQUA",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "1080",
+      "description": "Tênis NB 1080 Verde Aqua – Linha Luxo de Alta Qualidade Apresentamos o Tênis NB 1080 Verde Aqua, um calçado da exclusiva Linha Luxo que une design moderno, conforto superior e qualidade premium, perfeito para o dia a dia com estilo e praticidade. Por que escolher o Tênis NB 1080 Verde Aqua? Visual Lindo e Estiloso Com sua cor verde aqua vibrante, este tênis traz um toque de frescor e personalidade ao seu visual, combinando facilmente com diversas produções casuais e urbanas. Seu design sofisticado destaca-se por ser ao mesmo tempo elegante e despojado. Conforto Excepcional para o Dia a Dia Produzido com materiais de alta qualidade e palmilha acolchoada, o NB 1080 oferece conforto máximo e suporte ideal para os seus pés, garantindo que você possa caminhar e realizar suas atividades com leveza e segurança durante todo o dia. Durabilidade e Acabamento Premium Cada detalhe do NB 1080 é cuidadosamente elaborado para assegurar resistência e durabilidade, mantendo a forma e o acabamento impecáveis mesmo após uso frequente. Tamanhos Disponíveis e Medidas em Centímetros | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé cuidadosamente e confira a tabela para escolher o tamanho ideal e garantir um ajuste perfeito. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-17-57-8484c60a882ecb5a9f17925526328400-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-17-16-742b78f1482b4cc7d817925526328652-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-17-1-80060af38d2080820a17925526328031-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-17-17-e24c5157daa236487617925526328530-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-17-56-696e4995edfa55f86817925526325307-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-17-5-b1b0ad63f7a462a1d617925526328291-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-ed108494ce4c24ec9c17925526329732-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1623185911",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1623185912",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1623185913",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1623185914",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1623185915",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1623185916",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-1080-verde-aqua-1ct26/",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z"
+    },
+    {
+      "id": "dx-375614529",
+      "sourceId": "375614529",
+      "slug": "nb-1080-verde-limao-375614529",
+      "name": "NB 1080 VERDE LIMÃO",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "1080",
+      "description": "Tênis NB 1080 Verde Limão – Linha Luxo de Alta Qualidade Apresentamos o Tênis NB 1080 Verde Limão, um modelo lindo, super confortável e estiloso, ideal para quem busca um calçado de alta qualidade para o dia a dia. Parte da exclusiva Linha Luxo, este tênis combina design moderno com durabilidade e conforto excepcionais. Por que escolher o Tênis NB 1080 Verde Limão? Visual Vibrante e Moderno Com sua cor verde limão marcante, o NB 1080 é perfeito para quem deseja destacar o estilo com um toque de frescor e personalidade. Um modelo versátil que se adapta bem a looks casuais e urbanos. Conforto para o Seu Dia a Dia Produzido com materiais premium e equipado com palmilha acolchoada, o tênis proporciona suporte ideal e maciez para seus pés, garantindo conforto durante longas jornadas e atividades cotidianas. Durabilidade e Acabamento Impecável Fabricado com atenção aos detalhes, o NB 1080 mantém sua forma e beleza mesmo após uso intenso, oferecendo um produto resistente e de alta qualidade para acompanhar seu ritmo. Tamanhos Disponíveis Escolha o tamanho ideal para você, disponível do 38 ao 43, conforme a tabela abaixo com medidas em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito. Política de Troca e Devolução Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-15-03-12a4e26c7be45b1bec17925541436338-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-234-47-e6a52659e52a0f603617925541435651-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-at-23-14-59-0d9589ce22730f7f6b17925541437312-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-14-47-f621531616e476c71717925541428725-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-120-at-23-14-47-d1760cc12f1683495517925541431784-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-14-49-cc54ad2d4b70c4224517925541434007-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-14-50-c5e435fc1e62f94ce717925541436995-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1623196997",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1623196998",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1623196999",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1623197000",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1623197001",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1623197002",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-1080-verde-limao-3yri7/",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z"
     },
     {
       "id": "dx-352349826",
@@ -37243,7 +37662,7 @@
       "name": "NB 1080 VZ BRANCO/VERDE LIMÃO",
       "brand": "Não informada",
       "category": "Tênis",
-      "subCategory": "NEW BALACE",
+      "subCategory": "1080",
       "description": "NB 1080 VZ BRANCO/VERDE LIMÃO – Estilo e Conforto que Você Merece em Cada Passo Descubra o NB 1080 VZ BRANCO/VERDE LIMÃO, um tênis que une design clássico com tecnologia de ponta para oferecer conforto excepcional e estilo versátil. Ideal para quem busca um calçado que acompanhe o ritmo do dia a dia com elegância e praticidade. Por que escolher o NB 1080 VZ BRANCO/VERDE LIMÃO? Design Atemporal: A combinação do preto com branco traz um visual sóbrio e elegante, perfeito para diversas ocasiões, do casual ao esportivo. Conforto Duradouro: Desenvolvido com materiais de alta qualidade e palmilha macia, proporciona suporte e conforto para seus pés durante todo o dia. Durabilidade Garantida: Com acabamento resistente e solado emborrachado, o NB 1080 oferece ótima aderência e longa vida útil, mesmo com uso intenso. Tamanhos Disponíveis e Medidas (Brasil - BR) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho que melhor se adapta a você. Isso garante o ajuste ideal e máximo conforto em cada passo. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-06-24-at-17-59-08-ea36539bb96b5fa59117823360751024-1024-1024.webp",
@@ -37310,7 +37729,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-1080-vz-branco-verde-limao-mal6o/",
-      "lastSyncedAt": "2026-10-13T21:43:14.067Z",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z",
       "sku": "866"
     },
     {
@@ -39133,6 +39552,83 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-cinza-1fzhs/",
       "lastSyncedAt": "2026-10-20T22:06:20.890Z",
       "sku": "266"
+    },
+    {
+      "id": "dx-375610021",
+      "sourceId": "375610021",
+      "slug": "nb-9060-cinza-ice-375610021",
+      "name": "NB 9060 CINZA ICE",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "Tênis NB 9060 Cinza Ice – Linha Luxo de Alta Qualidade Apresentamos o Tênis NB 9060 Cinza Ice, um modelo que une design moderno, conforto excepcional e durabilidade, perfeito para o seu dia a dia com muito estilo e praticidade. Parte da exclusiva Linha Luxo, este tênis é ideal para quem busca um calçado sofisticado e super confortável. Por que escolher o Tênis NB 9060 Cinza Ice? Visual Estiloso e Versátil Com sua cor cinza ice, este tênis oferece um tom neutro e elegante, fácil de combinar com diferentes looks, do casual ao urbano. Seu design moderno e acabamento premium garantem um visual lindo e atual para todas as ocasiões. Conforto e Ajuste Perfeito Produzido com materiais de alta qualidade, o NB 9060 possui palmilha acolchoada que proporciona suporte e maciez, garantindo conforto durante todo o dia. Seu formato foi pensado para oferecer ajuste seguro, ideal para quem fica muito tempo em pé ou caminhando. Durabilidade da Linha Luxo Com acabamento cuidadoso e atenção aos detalhes, o NB 9060 mantém sua forma, cor e beleza mesmo após uso frequente. É um tênis resistente, pronto para acompanhar seu ritmo diário sem perder o estilo. Tamanhos Disponíveis Confira a tabela com os tamanhos do 34 ao 39 e o comprimento correspondente do pé para escolher seu tamanho ideal: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, enviamos orientações para o envio de um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-10-9f3528221cf3d22b5a17925524043326-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-13-10-38221a91fb581c146417925524044109-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-13-09-3ce65f230b563d3cab17925524043432-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-13-0-dab8292591a529304d17925524044161-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-13-802bd341f1edd0280a17925524045553-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-a-23-13-10-04c40a6ba548c4715c17925524043895-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-13-11-b51b8ecf9ec15ff5a717925524043831-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1623185110",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1623185111",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1623185112",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1623185113",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1623185114",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1623185115",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-cinza-ice-zt6d3/",
+      "lastSyncedAt": "2026-10-21T05:43:19.721Z"
     },
     {
       "id": "dx-321075316",
