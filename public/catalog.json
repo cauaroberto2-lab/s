@@ -3542,8 +3542,8 @@
           "id": "1504862354",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504862355",
@@ -3590,11 +3590,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-grafite-latex-1ymnd/",
-      "lastSyncedAt": "2026-10-21T20:17:16.355Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "717"
     },
     {
@@ -3694,8 +3694,8 @@
           "id": "1419896921",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1419896923",
@@ -3742,11 +3742,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-preto-preto-branco-r9yrp/",
-      "lastSyncedAt": "2026-10-21T16:02:14.706Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "346"
     },
     {
@@ -6265,6 +6265,160 @@
       "sku": "478"
     },
     {
+      "id": "dx-376076453",
+      "sourceId": "376076453",
+      "slug": "adizero-evo-pro-1-branco-aqua-376076453",
+      "name": "ADIZERO EVO PRO 1 BRANCO AQUA",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "SPORT",
+      "description": "Tênis ADIZERO EVO PRO 1 Branco Aqua – Linha Luxo de Alta Qualidade Apresentamos o Tênis ADIZERO EVO PRO 1 Branco Aqua, um modelo que une design moderno, conforto superior e qualidade premium, perfeito para quem busca um calçado estiloso e funcional para o dia a dia. Por que escolher o ADIZERO EVO PRO 1 Branco Aqua? Visual Sofisticado e Estiloso Com sua cor branco aqua, este tênis traz um visual elegante e contemporâneo que combina facilmente com diferentes estilos, seja para o uso casual ou para atividades diárias. Seu design exclusivo da Linha Luxo oferece um toque de modernidade e personalidade. Conforto e Ajuste Perfeito Produzido com materiais de alta qualidade e palmilha acolchoada, o ADIZERO EVO PRO 1 proporciona conforto excepcional durante todo o dia. Seu formato ergonômico garante um ajuste seguro, ideal para quem busca praticidade e bem-estar a cada passo. Durabilidade e Acabamento Premium Com acabamento refinado e atenção aos detalhes, este tênis mantém sua forma, cor e resistência mesmo após uso frequente. A Linha Luxo assegura um calçado durável, pensado para acompanhar seu ritmo sem perder o estilo. Tamanhos Disponíveis e Medidas Disponível do 38 ao 43, confira a tabela para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-15-18-56-4aed0ea3be87d72a4117927053004563-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-15-18-57-f19872e23c0ed2169817927053004408-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-15-19-02-d93d1453e80bf9673d17927053007216-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-15-19-00-3cd530e37f26e0a34117927053004460-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-15-18-59-3191848571a62b0cc717927053006796-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-15-18-58-80a70774cd310f954217927053004395-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1624600007",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1624600008",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1624600009",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1624600010",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1624600011",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1624600012",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 3,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-evo-pro-1-branco-aqua-gqev8/",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
+      "sku": "1141"
+    },
+    {
+      "id": "dx-376047509",
+      "sourceId": "376047509",
+      "slug": "adizero-evo-pro-1-preto-branco-376047509",
+      "name": "ADIZERO EVO PRO 1 PRETO BRANCO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "SPORT",
+      "description": "Tênis ADIZERO EVO PRO 1 Preto Branco – Linha Luxo de Alta Qualidade Apresentamos o Tênis ADIZERO EVO PRO 1 Preto Branco, um calçado que une design moderno, conforto excepcional e qualidade superior, perfeito para o seu dia a dia com estilo e praticidade. Por que escolher o ADIZERO EVO PRO 1 Preto Branco? Design Elegante e Versátil Com seu visual preto e branco, o ADIZERO EVO PRO 1 oferece um estilo sofisticado e contemporâneo, ideal para quem deseja um tênis que se adapte facilmente a diferentes ocasiões e looks. Conforto Superior para Uso Diário Produzido com materiais de alta qualidade e palmilha acolchoada, este modelo proporciona conforto e suporte que duram o dia todo. Seu design ergonômico garante ajuste perfeito e sensação de leveza para os seus pés. Durabilidade e Acabamento Premium Com acabamento cuidadoso e atenção aos detalhes, o ADIZERO EVO PRO 1 mantém sua forma, cor e beleza mesmo após uso frequente, acompanhando seu ritmo sem perder o estilo. Tamanhos Disponíveis Encontre o tamanho ideal para você, disponível do 38 ao 43, conforme a tabela abaixo com as medidas em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-13-51-02-e51704595eb822c62317926978134799-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-13-51-07-b7e02d9ec19bca477017926978134570-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-13-51-14-3f2b6bdc4bdf9622fe17926978134278-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-13-51-06-21b1c5e233a7f3bc4317926978137649-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-13-51-05-7534dbb97e6b863edf17926978134396-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-13-51-04-3106ab1969201445af17926978135007-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1624515228",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1624515229",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1624515230",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1624515231",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1624515232",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1624515233",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-evo-pro-1-preto-branco-113b7/",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
+      "sku": "1136"
+    },
+    {
       "id": "dx-344341387",
       "sourceId": "344341387",
       "slug": "adizero-evo-sl-branco-preto-344341387",
@@ -7067,6 +7221,84 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-plus-titanium-1jclf/",
       "lastSyncedAt": "2026-10-21T00:45:30.684Z",
       "sku": "1108"
+    },
+    {
+      "id": "dx-376032179",
+      "sourceId": "376032179",
+      "slug": "air-max-portal-cinza-gelo-376032179",
+      "name": "AIR MAX PORTAL CINZA GELO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "COURT VISION",
+      "description": "Tênis AIR MAX PORTAL Cinza Gelo – Linha Luxo de Alta Qualidade Apresentamos o Tênis AIR MAX PORTAL Cinza Gelo, um modelo que une design moderno, conforto excepcional e durabilidade superior. Parte da nossa exclusiva Linha Luxo, é o calçado ideal para quem busca estilo e praticidade para o dia a dia. Por que escolher o AIR MAX PORTAL Cinza Gelo? Design Estiloso e Versátil Com sua cor cinza gelo, o AIR MAX PORTAL oferece um visual sofisticado e discreto, que combina facilmente com diferentes looks, do casual ao urbano. Seu design contemporâneo valoriza o estilo sem abrir mão da elegância. Conforto Imbatível para o Dia a Dia Produzido com materiais de alta qualidade e palmilha acolchoada, este tênis proporciona maciez e suporte ideais para seus pés, garantindo conforto durante longas horas, seja para o trabalho, lazer ou caminhada. Durabilidade e Acabamento Premium Com acabamento refinado e atenção aos detalhes, o AIR MAX PORTAL mantém sua forma e beleza mesmo após uso frequente, acompanhando seu ritmo com resistência e estilo. Tamanhos Disponíveis e Medidas Disponível do tamanho 38 ao 43, consulte a tabela abaixo para escolher o tamanho ideal com base no comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-18-20-21-20801767692e1a9db917926976331070-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-18-20-19-ead2b1bb2f283296a917926976331200-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-18-20-16-67b45e34e3c760e4e417926976330623-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-18-20-15-3628ab1ab8dd0e00e017926976330731-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-18-20-18-fa7b02b106758ee2a717926976333520-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-18-20-20-497a7d12b8b0792d2717926976330487-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-18-20-2-d12398841ea5d774b617926976333758-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1624458469",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1624458470",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1624458471",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1624458472",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1624458473",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1624458474",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 7,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-portal-cinza-gelo-1376r/",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
+      "sku": "1133"
     },
     {
       "id": "dx-354010579",
@@ -10340,8 +10572,8 @@
           "id": "1549376857",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549376858",
@@ -10360,11 +10592,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/bota-over-the-knee-cano-alto-montaria-oll89/",
-      "lastSyncedAt": "2026-09-12T21:56:16.795Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "877"
     },
     {
@@ -15992,7 +16224,7 @@
           "id": "1429743069",
           "size": "37",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -16051,11 +16283,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 27,
+      "totalStock": 26,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-preto-branco-xmr7l/",
-      "lastSyncedAt": "2026-10-21T20:17:16.355Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "115"
     },
     {
@@ -20099,7 +20331,7 @@
           "id": "1545028946",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -20140,11 +20372,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-preto-cinza-11fvf/",
-      "lastSyncedAt": "2026-10-20T18:36:04.151Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "848"
     },
     {
@@ -21854,7 +22086,7 @@
           "id": "1441120002",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -21895,11 +22127,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-natural-ouro-x7g1e/",
-      "lastSyncedAt": "2026-10-21T16:02:14.706Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "400"
     },
     {
@@ -24419,7 +24651,7 @@
           "id": "1564197148",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -24464,11 +24696,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-air-force-caramelo-4am9b/",
-      "lastSyncedAt": "2026-10-21T23:31:02.847Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "961"
     },
     {
@@ -25614,7 +25846,7 @@
           "id": "1405149508",
           "size": "38",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -25635,7 +25867,7 @@
           "id": "1405149523",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -25666,11 +25898,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 25,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-10-21T20:17:16.355Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "74"
     },
     {
@@ -26040,7 +26272,7 @@
           "id": "1422246911",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -26078,11 +26310,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-nobuk-preto-nnzwh/",
-      "lastSyncedAt": "2026-10-22T18:42:04.184Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "21"
     },
     {
@@ -29161,7 +29393,7 @@
           "id": "1517145479",
           "size": "39",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -29234,11 +29466,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 37,
+      "totalStock": 36,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-velcro-preto-latex-mh4vn/",
-      "lastSyncedAt": "2026-10-20T22:06:20.890Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "740"
     },
     {
@@ -30734,8 +30966,8 @@
           "id": "1619513643",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1619513644",
@@ -30754,11 +30986,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-nude-caramelo-1db7y/",
-      "lastSyncedAt": "2026-10-21T16:02:14.706Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "1132"
     },
     {
@@ -32800,7 +33032,7 @@
           "id": "1585164890",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -32824,11 +33056,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-cinza-preto-1ctg9/",
-      "lastSyncedAt": "2026-10-21T16:02:14.706Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "249"
     },
     {
@@ -33793,8 +34025,8 @@
           "id": "1586520871",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1586520872",
@@ -33866,11 +34098,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 32,
+      "totalStock": 31,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-panda-18fk9/",
-      "lastSyncedAt": "2026-10-17T19:01:17.019Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "1070"
     },
     {
@@ -36155,6 +36387,83 @@
       "sku": "1091"
     },
     {
+      "id": "dx-376070461",
+      "sourceId": "376070461",
+      "slug": "lacoste-urban-court-bege-marinho-376070461",
+      "name": "LACOSTE URBAN COURT BEGE MARINHO",
+      "brand": "Lacoste",
+      "category": "Tênis",
+      "subCategory": "LACOSTE",
+      "description": "Tênis LACOSTE URBAN COURT Bege Marinho – Linha Luxo de Alta Qualidade Apresentamos o Tênis LACOSTE URBAN COURT Bege Marinho, um modelo que une design moderno, conforto superior e acabamento sofisticado, perfeito para quem busca um calçado estiloso e funcional para o dia a dia. Por que escolher o LACOSTE URBAN COURT Bege Marinho? Design Elegante e Versátil Com uma combinação harmoniosa de bege e marinho, este tênis apresenta um visual clean e contemporâneo que se adapta facilmente a diferentes estilos, desde o casual até o urbano. Seu charme discreto valoriza qualquer look, tornando-o ideal para o uso diário. Conforto Excepcional Produzido com materiais de alta qualidade e equipado com palmilha acolchoada, o LACOSTE URBAN COURT oferece um ajuste confortável e suporte eficaz para seus pés. Perfeito para longas jornadas, garante bem-estar e leveza a cada passo. Durabilidade e Qualidade Premium Este tênis pertence à nossa exclusiva Linha Luxo, que preza por acabamentos cuidadosos e resistência. Seu design robusto mantém a forma e o estilo mesmo após uso contínuo, acompanhando seu ritmo sem perder o charme. Tamanhos Disponíveis (38 ao 43) | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para assegurar a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-13-53-13-3fd700f603572d820817927008780091-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-13-53-1-2adf7819eeac37ce4017927008780245-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-13-53-17-2575300f68cc25a9aa17927008779806-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-13-53-16-5bcf8598590e73513617927008782766-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-13-53-15-193aaa3193a103159d17927008780783-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-13-53-14-6d7e2c4e1f2826161417927008780784-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1624587022",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1624587023",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1624587024",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1624587025",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1624587026",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1624587027",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/lacoste-urban-court-bege-marinho-12vx2/",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
+      "sku": "1147"
+    },
+    {
       "id": "dx-325768805",
       "sourceId": "325768805",
       "slug": "lv-black-white-325768805",
@@ -36331,8 +36640,8 @@
           "id": "1592890525",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1592890526",
@@ -36372,11 +36681,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/mizuno-preto-vermelho-117h4/",
-      "lastSyncedAt": "2026-10-21T23:31:02.847Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "1084"
     },
     {
@@ -37552,7 +37861,7 @@
           "id": "1623185915",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -37572,11 +37881,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-1080-verde-aqua-1ct26/",
-      "lastSyncedAt": "2026-10-21T05:43:19.721Z"
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z"
     },
     {
       "id": "dx-375614529",
@@ -37865,8 +38174,8 @@
           "id": "1599478969",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1599478971",
@@ -37910,11 +38219,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-bco-pta-pto-58yzc/",
-      "lastSyncedAt": "2026-10-21T20:17:16.355Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "1095"
     },
     {
@@ -38283,8 +38592,8 @@
           "id": "1527843562",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527843563",
@@ -38314,11 +38623,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-marinho-1iba2/",
-      "lastSyncedAt": "2026-10-22T18:42:04.184Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "787"
     },
     {
@@ -39559,8 +39868,8 @@
           "id": "1624347062",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1624347063",
@@ -39593,11 +39902,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-chocolate-marrom-ney3f/",
-      "lastSyncedAt": "2026-10-22T18:42:04.184Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "1140"
     },
     {
@@ -39936,6 +40245,84 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-creme-bordo-a58fz/",
       "lastSyncedAt": "2026-10-16T20:31:02.478Z",
       "sku": "705"
+    },
+    {
+      "id": "dx-376072382",
+      "sourceId": "376072382",
+      "slug": "nb-9060-grafite-prete-376072382",
+      "name": "NB 9060 GRAFITE PRETE",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "Tênis NB 9060 Grafite Preto – Linha Luxo de Alta Qualidade Apresentamos o Tênis NB 9060 Grafite Preto, um modelo da exclusiva Linha Luxo que une design moderno, conforto excepcional e durabilidade superior. Perfeito para o seu dia a dia, este tênis é a escolha ideal para quem busca estilo e qualidade em um só produto. Por que escolher o Tênis NB 9060 Grafite Preto? Visual Sofisticado e Estiloso Com uma combinação elegante de grafite e preto, o NB 9060 traz um visual sofisticado e versátil, que combina facilmente com diferentes looks e ocasiões — do casual ao urbano. Seu design moderno destaca sua personalidade em cada passo. Conforto para o Dia a Dia Produzido com materiais de alta qualidade, o tênis oferece uma palmilha macia que garante conforto e suporte durante longas jornadas. Seu ajuste perfeito proporciona estabilidade e segurança, tornando-o ideal para o uso diário. Durabilidade e Acabamento Premium Com acabamento refinado, o NB 9060 mantém sua forma e beleza mesmo após uso frequente. A qualidade da Linha Luxo assegura um calçado resistente, pronto para acompanhar seu ritmo com estilo e conforto. Tamanhos Disponíveis Disponível nos tamanhos do 38 ao 43, confira a tabela com o comprimento do pé em centímetros para escolher o tamanho ideal: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir um ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-imae-2026-10-21-at-bc54869516c57f210f17927049075953-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-af35b0835e40ec4e6a17927049073198-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-15-19-27-f3d6d10c689b82a6f517927049076367-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-15-19-26-49c26c8e203915aaa117927049073033-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-15-19-25-ee6550a8ac7e0a894017927049073368-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-15-19-24-430957fec5c231750d17927049075599-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-21-at-15-19-23-2db361ea44c15eb38217927049073110-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1624591046",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1624591047",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1624591048",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1624591049",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1624591050",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1624591051",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 4,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-grafite-prete-1tsau/",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
+      "sku": "1146"
     },
     {
       "id": "dx-345790019",
@@ -41498,8 +41885,8 @@
           "id": "1418905555",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1418905557",
@@ -41536,11 +41923,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-bege-cafe-wxs1u/",
-      "lastSyncedAt": "2026-10-21T16:02:14.706Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "207"
     },
     {
@@ -41787,8 +42174,8 @@
           "id": "1407307717",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1407307720",
@@ -41832,11 +42219,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 17,
+      "totalStock": 16,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-10-17T19:01:17.019Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "205"
     },
     {
@@ -47210,7 +47597,7 @@
           "id": "1413881415",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -47251,11 +47638,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pro-14-branco-grafite-2osvb/",
-      "lastSyncedAt": "2026-10-22T18:42:04.184Z",
+      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
       "sku": "325"
     },
     {
