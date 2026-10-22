@@ -2128,15 +2128,15 @@
           "id": "1567414042",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1567414043",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1567414044",
@@ -2149,15 +2149,15 @@
           "id": "1567414045",
           "size": "37",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1567414046",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1567414047",
@@ -2176,11 +2176,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 4,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-white-marrom-1d9ct/",
-      "lastSyncedAt": "2026-10-09T16:26:39.540Z",
+      "lastSyncedAt": "2026-10-22T08:49:48.089Z",
       "sku": "991"
     },
     {
@@ -3472,36 +3472,36 @@
           "id": "1532306710",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1532306711",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 3,
+          "available": true
         },
         {
           "id": "1532306713",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1532306715",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1532306717",
           "size": "43",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         }
       ],
       "sizes": [
@@ -3513,11 +3513,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 10,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-gelo-cinza-1hkax/",
-      "lastSyncedAt": "2026-10-15T17:35:58.684Z",
+      "lastSyncedAt": "2026-10-22T08:49:48.089Z",
       "sku": "841"
     },
     {
@@ -6001,7 +6001,7 @@
           "id": "1549273847",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -6028,11 +6028,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-boston-11-preto-branco-1j5gp/",
-      "lastSyncedAt": "2026-10-21T16:02:14.706Z",
+      "lastSyncedAt": "2026-10-22T08:49:48.089Z",
       "sku": "870"
     },
     {
@@ -6709,8 +6709,8 @@
           "id": "1590577354",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1590577355",
@@ -6750,11 +6750,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-axcee-branco-cinza-verde-hpiif/",
-      "lastSyncedAt": "2026-10-16T17:35:46.943Z",
+      "lastSyncedAt": "2026-10-22T08:49:48.089Z",
       "sku": "1080"
     },
     {
@@ -6803,8 +6803,8 @@
           "id": "1599550817",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1599550818",
@@ -6830,11 +6830,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-dn-all-night-lvgda/",
-      "lastSyncedAt": "2026-10-10T18:45:43.703Z",
+      "lastSyncedAt": "2026-10-22T08:49:48.089Z",
       "sku": "1106"
     },
     {
@@ -8041,8 +8041,8 @@
           "id": "1589507925",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1589507926",
@@ -8068,11 +8068,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/armani-ax-exchange-branco-preto-klgs7/",
-      "lastSyncedAt": "2026-09-29T20:06:59.414Z",
+      "lastSyncedAt": "2026-10-22T08:49:48.089Z",
       "sku": "1077"
     },
     {
@@ -15720,8 +15720,8 @@
           "id": "1589371705",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1589371706",
@@ -15758,11 +15758,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-ice-wdnkg/",
-      "lastSyncedAt": "2026-10-10T18:45:43.703Z",
+      "lastSyncedAt": "2026-10-22T08:49:48.089Z",
       "sku": "527"
     },
     {
@@ -31896,8 +31896,8 @@
           "id": "1526725581",
           "size": "M",
           "color": "Azul",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1526725582",
@@ -31967,11 +31967,11 @@
         "Preto",
         "Bege"
       ],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jaqueta-zara-lchqf/",
-      "lastSyncedAt": "2026-09-14T23:41:13.078Z",
+      "lastSyncedAt": "2026-10-22T08:49:48.089Z",
       "sku": "765"
     },
     {
@@ -37017,7 +37017,7 @@
       "name": "NB 1000 OFF WHITE",
       "brand": "Não informada",
       "category": "Tênis",
-      "subCategory": "NEW BALACE",
+      "subCategory": "1000",
       "description": "Tênis NB 1000 Off White – Linha Luxo de Alta Qualidade Apresentamos o Tênis NB 1000 Off White, um modelo da exclusiva Linha Luxo que une design elegante, conforto superior e durabilidade para o dia a dia. Ideal para quem busca um calçado que combine estilo e praticidade em todas as ocasiões. Por que escolher o Tênis NB 1000 Off White? Estilo Sofisticado e Versátil Com sua cor off white, o NB 1000 traz um visual moderno e clean que combina facilmente com diferentes looks, do casual ao urbano. Um modelo lindo que valoriza seu estilo sem abrir mão da discrição. Conforto para o Dia a Dia Fabricado com materiais de alta qualidade e equipado com palmilha acolchoada, garante um ajuste confortável e suporte ideal para seus pés, proporcionando maciez e segurança mesmo em longas caminhadas. Durabilidade e Acabamento Premium Detalhes cuidadosamente finalizados e acabamento de linha luxo asseguram que o tênis mantenha sua forma e beleza mesmo após uso frequente, acompanhando seu ritmo sem perder a elegância. Tamanhos Disponíveis e Medidas Confira a tabela para escolher o tamanho ideal conforme o comprimento do seu pé: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é prioridade. Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-20-at-23-17-03-cdf4d508d2d8c686be17925543976698-1024-1024.webp",
@@ -37085,7 +37085,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-1000-off-white-1507d/",
-      "lastSyncedAt": "2026-10-21T20:17:16.355Z"
+      "lastSyncedAt": "2026-10-22T08:49:48.089Z"
     },
     {
       "id": "dx-363913416",
@@ -41000,7 +41000,7 @@
           "id": "1586193318",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 1,
           "available": true
         }
       ],
@@ -41013,11 +41013,11 @@
         "40"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-sc-elite-off-white-pink-44lwe/",
-      "lastSyncedAt": "2026-09-30T16:39:18.254Z",
+      "lastSyncedAt": "2026-10-22T08:49:48.089Z",
       "sku": "1063"
     },
     {
@@ -54757,7 +54757,7 @@
       "name": "VANS SK8 HI NAVY",
       "brand": "Vans",
       "category": "Tênis",
-      "subCategory": "Produtos",
+      "subCategory": "SK8",
       "description": "Tênis VANS SK8 HI NAVY – Linha Luxo de Alta Qualidade Conheça o Tênis VANS SK8 HI NAVY, um ícone do estilo urbano que une design clássico, conforto superior e durabilidade excepcional. Perfeito para quem busca um calçado premium da nossa exclusiva Linha Luxo, este modelo é a escolha certa para destacar seu visual com autenticidade. Por que escolher o VANS SK8 HI NAVY? Design Clássico e Atemporal Com seu tom azul marinho elegante, o VANS SK8 HI traz um visual versátil que combina com diferentes estilos — do casual ao streetwear — garantindo personalidade e sofisticação em qualquer ocasião. Conforto e Ajuste Perfeito Produzido com materiais de alta qualidade e palmilha acolchoada, este tênis oferece maciez e suporte ideais, proporcionando conforto durante todo o dia, mesmo nas atividades mais intensas. Durabilidade e Acabamento Premium Fabricado com atenção aos mínimos detalhes, o VANS SK8 HI NAVY mantém sua forma e beleza mesmo após uso frequente, acompanhando seu ritmo sem perder o estilo. Tamanhos Disponíveis Escolha o tamanho ideal conforme o comprimento do seu pé, entre 34 e 43, garantindo o ajuste perfeito: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste ideal! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-13-at-11-55-14-ee82c46a5f112269d517919989433620-1024-1024.webp",
@@ -54858,7 +54858,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-sk8-hi-azul-jeans-bkhwk/",
-      "lastSyncedAt": "2026-10-17T16:50:43.378Z"
+      "lastSyncedAt": "2026-10-22T08:49:48.089Z"
     },
     {
       "id": "dx-373790154",
@@ -55285,7 +55285,7 @@
       "name": "VANS WAYVEE SKATE PRETO VERMELHO",
       "brand": "Vans",
       "category": "Tênis",
-      "subCategory": "VANS",
+      "subCategory": "WAYVEE",
       "description": "Tênis VANS WAYVEE SKATE Preto e Vermelho – Estilo Urbano e Alta Qualidade Apresentamos o Tênis VANS WAYVEE SKATE, uma peça que une o melhor do estilo urbano com a performance ideal para o skate. Seu design preto com detalhes em vermelho destaca-se, garantindo um visual moderno e marcante. Por que escolher o VANS WAYVEE SKATE? Estilo autêntico e urbano: perfeito para quem quer expressar atitude e personalidade. Alta qualidade: desenvolvido para acompanhar seu ritmo, seja nas ruas ou nas manobras. Versatilidade: combina com o dia a dia e o universo do skate, unindo conforto e estilo.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-12-at-16-14-33-0daacc49476227758417920046362990-1024-1024.webp",
@@ -55353,7 +55353,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-wayvee-skate-preto-vermelho-d8uwb/",
-      "lastSyncedAt": "2026-10-21T20:17:16.355Z"
+      "lastSyncedAt": "2026-10-22T08:49:48.089Z"
     },
     {
       "id": "dx-318378352",
