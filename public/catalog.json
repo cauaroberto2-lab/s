@@ -3500,8 +3500,8 @@
           "id": "1532306717",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -3513,11 +3513,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-gelo-cinza-1hkax/",
-      "lastSyncedAt": "2026-10-22T14:20:48.482Z",
+      "lastSyncedAt": "2026-10-23T11:01:46.137Z",
       "sku": "841"
     },
     {
@@ -7350,8 +7350,8 @@
           "id": "1624458473",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1624458474",
@@ -7370,11 +7370,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-portal-cinza-gelo-1376r/",
-      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
+      "lastSyncedAt": "2026-10-23T11:01:46.137Z",
       "sku": "1133"
     },
     {
@@ -37601,8 +37601,8 @@
           "id": "1623198516",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1623198517",
@@ -37621,11 +37621,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-1000-off-white-1507d/",
-      "lastSyncedAt": "2026-10-23T00:48:25.912Z"
+      "lastSyncedAt": "2026-10-23T11:01:46.137Z"
     },
     {
       "id": "dx-363913416",
@@ -42301,7 +42301,7 @@
           "id": "1407307692",
           "size": "35",
           "color": "Padrão",
-          "stock": 7,
+          "stock": 6,
           "available": true
         },
         {
@@ -42374,11 +42374,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/neo-preto-branco-9tatd/",
-      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
+      "lastSyncedAt": "2026-10-23T11:01:46.137Z",
       "sku": "205"
     },
     {
@@ -56075,7 +56075,7 @@
           "id": "1618966426",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -56123,11 +56123,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-wayvee-skate-preto-vermelho-d8uwb/",
-      "lastSyncedAt": "2026-10-22T08:49:48.089Z"
+      "lastSyncedAt": "2026-10-23T11:01:46.137Z"
     },
     {
       "id": "dx-318378352",
