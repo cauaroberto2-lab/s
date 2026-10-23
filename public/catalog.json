@@ -3098,7 +3098,7 @@
           "id": "1396546076",
           "size": "40",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -3132,11 +3132,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-bege-hxcij/",
-      "lastSyncedAt": "2026-10-19T20:21:41.199Z",
+      "lastSyncedAt": "2026-10-23T05:44:03.747Z",
       "sku": "348"
     },
     {
@@ -4122,6 +4122,83 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-forum-low-84-cinza-1qell/",
       "lastSyncedAt": "2026-10-20T18:36:04.151Z",
       "sku": "1081"
+    },
+    {
+      "id": "dx-376134556",
+      "sourceId": "376134556",
+      "slug": "adidas-forum-low-84-velcro-branco-preto-376134556",
+      "name": "ADIDAS FORUM LOW 84 VELCRO BRANCO PRETO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "FORÚM",
+      "description": "Tênis ADIDAS FORUM LOW 84 VELCRO Branco Preto – Linha Luxo de Alta Qualidade Apresentamos o Tênis ADIDAS FORUM LOW 84 VELCRO Branco Preto, um modelo que une design clássico, conforto superior e alta durabilidade, ideal para o seu dia a dia com muito estilo. Parte da nossa exclusiva Linha Luxo, este tênis é perfeito para quem busca qualidade e elegância em cada passo. Por que escolher o ADIDAS FORUM LOW 84 VELCRO? Design Lindo e Atemporal Com um visual em branco e preto, este tênis apresenta o icônico estilo Adidas com fechamento em velcro, que facilita o ajuste e traz um toque moderno e prático. Seu design versátil combina com diversas ocasiões, do casual ao despojado. Super Confortável para o Dia a Dia Fabricado com materiais de alta qualidade, o ADIDAS FORUM LOW 84 oferece palmilha acolchoada para garantir maciez e suporte durante todo o uso, proporcionando conforto mesmo em longas jornadas. Durabilidade e Acabamento Premium Com atenção aos detalhes e acabamento refinado da Linha Luxo, este tênis mantém sua forma, cor e beleza mesmo após uso frequente, acompanhando seu ritmo com resistência e estilo. Tamanhos Disponíveis Para garantir o ajuste perfeito, confira a tabela com os tamanhos disponíveis e o comprimento do pé em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé cuidadosamente e compare com a tabela para escolher o tamanho ideal. Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, solicitamos o envio de um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-22-at-23-07-44-3b93a6cd2fa96a993617927219679325-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-22-at-23-07-23-7f0b0c5c16a0a79ebf17927219678456-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-22-at-23-07-22-14e4fe89f4a487903317927219683043-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-22-at-369a16e8a8f6cf1aa017927219681612-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-22-a-f11a7ddaed934ddaae17927219682266-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-22-at-23-07-27-4702115963bf557c9417927219679398-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-22-at-23-07-33-e3315bbcf1283343ad17927219679001-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1624748592",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1624748593",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1624748594",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1624748595",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1624748596",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1624748597",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-forum-low-84-velcro-branco-preto-1ak0r/",
+      "lastSyncedAt": "2026-10-23T05:44:03.747Z"
     },
     {
       "id": "dx-335404933",
@@ -8893,8 +8970,8 @@
           "id": "1548667272",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1548667273",
@@ -8920,11 +8997,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-gel-nyc-off-grafite-95zxt/",
-      "lastSyncedAt": "2026-10-10T22:12:50.442Z",
+      "lastSyncedAt": "2026-10-23T05:44:03.747Z",
       "sku": "862"
     },
     {
@@ -35865,7 +35942,7 @@
           "id": "1408319696",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -35931,11 +36008,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/knu-preto-bege-yukmg/",
-      "lastSyncedAt": "2026-10-19T01:33:52.696Z",
+      "lastSyncedAt": "2026-10-23T05:44:03.747Z",
       "sku": "282"
     },
     {
@@ -39953,8 +40030,8 @@
           "id": "1624347063",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1624347064",
@@ -39980,11 +40057,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-chocolate-marrom-ney3f/",
-      "lastSyncedAt": "2026-10-22T22:05:57.282Z",
+      "lastSyncedAt": "2026-10-23T05:44:03.747Z",
       "sku": "1140"
     },
     {
@@ -49883,8 +49960,8 @@
           "id": "1401140103",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401140108",
@@ -49935,11 +50012,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-10-21T20:17:16.355Z",
+      "lastSyncedAt": "2026-10-23T05:44:03.747Z",
       "sku": "117"
     },
     {
@@ -50604,8 +50681,8 @@
           "id": "1607927634",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1607927635",
@@ -50642,11 +50719,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-sl-cinza-latex-46qhb/",
-      "lastSyncedAt": "2026-10-21T00:45:30.684Z",
+      "lastSyncedAt": "2026-10-23T05:44:03.747Z",
       "sku": "447"
     },
     {
