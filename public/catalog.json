@@ -2450,8 +2450,8 @@
           "id": "1555750419",
           "size": "36",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1555750420",
@@ -2484,11 +2484,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-pto-bco-pto-1lib1/",
-      "lastSyncedAt": "2026-10-23T00:48:25.912Z",
+      "lastSyncedAt": "2026-10-24T22:37:52.084Z",
       "sku": "899"
     },
     {
@@ -4085,7 +4085,7 @@
           "id": "1590604183",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -4116,11 +4116,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-forum-low-84-cinza-1qell/",
-      "lastSyncedAt": "2026-10-20T18:36:04.151Z",
+      "lastSyncedAt": "2026-10-24T22:37:52.084Z",
       "sku": "1081"
     },
     {
@@ -8737,8 +8737,8 @@
           "id": "1583401352",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1583401353",
@@ -8764,11 +8764,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-gel-ny-preto-grafite-113gu/",
-      "lastSyncedAt": "2026-10-24T20:14:37.696Z",
+      "lastSyncedAt": "2026-10-24T22:37:52.084Z",
       "sku": "1048"
     },
     {
@@ -8956,8 +8956,8 @@
           "id": "1548667269",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1548667270",
@@ -8997,11 +8997,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-gel-nyc-off-grafite-95zxt/",
-      "lastSyncedAt": "2026-10-23T19:46:41.293Z",
+      "lastSyncedAt": "2026-10-24T22:37:52.084Z",
       "sku": "862"
     },
     {
@@ -9126,7 +9126,7 @@
           "id": "1559536048",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -9153,11 +9153,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-preto-off-1215t/",
-      "lastSyncedAt": "2026-10-22T14:20:48.482Z",
+      "lastSyncedAt": "2026-10-24T22:37:52.084Z",
       "sku": "923"
     },
     {
@@ -13784,8 +13784,8 @@
           "id": "1602562582",
           "size": "GG",
           "color": "Bege",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1602562583",
@@ -13854,7 +13854,7 @@
           "id": "1602562593",
           "size": "GG",
           "color": "Preto",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -13913,11 +13913,11 @@
         "Preto",
         "Grafite"
       ],
-      "totalStock": 12,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-new-era-1f8wm/",
-      "lastSyncedAt": "2026-10-19T20:21:41.199Z"
+      "lastSyncedAt": "2026-10-24T22:37:52.084Z"
     },
     {
       "id": "dx-368574289",
@@ -33262,8 +33262,8 @@
           "id": "1493114965",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1493114967",
@@ -33314,11 +33314,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-cinza-preto-1ctg9/",
-      "lastSyncedAt": "2026-10-23T19:46:41.293Z",
+      "lastSyncedAt": "2026-10-24T22:37:52.084Z",
       "sku": "249"
     },
     {
@@ -47525,6 +47525,147 @@
       "sku": "29"
     },
     {
+      "id": "dx-376538276",
+      "sourceId": "376538276",
+      "slug": "polo-tricot-italiano-lacoste-376538276",
+      "name": "POLO TRICOT ITALIANO LACOSTE",
+      "brand": "Lacoste",
+      "category": "Tênis",
+      "subCategory": "VESTUÁRIO",
+      "description": "POLO TRICOT ITALIANO LACOSTE – Sofisticação e Conforto em Viscose Premium Apresentamos a Polo Tricot Italiano Lacoste, uma peça que une elegância, conforto e qualidade superior, ideal para homens que valorizam estilo em todas as ocasiões. Por que escolher a Polo Tricot Italiano Lacoste? Toque Macio e Caimento Perfeito Confeccionada em viscose premium, esta polo oferece um toque extremamente suave e um caimento confortável que se adapta ao corpo, proporcionando liberdade de movimento e sensação agradável o dia todo. Design Moderno e Sofisticado Seu modelo traz gola V sem botões, com mangas e barra caneladas que valorizam o visual, entregando uma estética contemporânea e refinada. Uma escolha certeira para quem busca um look casual com um toque de requinte. Versatilidade para Diversas Ocasiões Perfeita para compor desde looks casuais até produções mais elegantes, a Polo Tricot Italiano Lacoste se destaca pela facilidade de combinação, sendo indispensável no guarda-roupa masculino. Detalhes que fazem a diferença: Material: Viscose Premium Acabamento: Canelado na gola, mangas e barra Modelo: Gola V sem botões Cor: Disponível em cores clássicas e versáteis Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a qualidade e autenticidade do produto, envie um vídeo original mostrando o item sem sinais de uso. Invista em uma peça premium que destaca seu estilo com conforto e elegância excepcionais!",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/homem-em-loja-de-tanis-aquietos-6b7ab20b5e652b3d2f17928755695520-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/31cf3687-bf8f-4b0b-bf26-c57553d4d5dd-0e1b846c8f85fdff4917928755693016-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-em-loja-de-tanis-modernos-1-d507515581cc33fcb317928755699223-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-elegante-em-loja-de-tanis-62592ccd79cd0d354617928755699495-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-de-polo-azul-marinho-em-loja-f2cfde9b5d4da35aa917928755694471-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1625884137",
+          "size": "P",
+          "color": "Cinza",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1625884138",
+          "size": "P",
+          "color": "Preto",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1625884139",
+          "size": "P",
+          "color": "Azul",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1625884140",
+          "size": "M",
+          "color": "Cinza",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1625884141",
+          "size": "M",
+          "color": "Preto",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1625884142",
+          "size": "M",
+          "color": "Azul",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1625884143",
+          "size": "G",
+          "color": "Cinza",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1625884144",
+          "size": "G",
+          "color": "Preto",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1625884145",
+          "size": "G",
+          "color": "Azul",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1625884146",
+          "size": "GG",
+          "color": "Cinza",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1625884147",
+          "size": "GG",
+          "color": "Preto",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1625884148",
+          "size": "GG",
+          "color": "Azul",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1625884149",
+          "size": "XG",
+          "color": "Cinza",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1625884150",
+          "size": "XG",
+          "color": "Preto",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1625884151",
+          "size": "XG",
+          "color": "Azul",
+          "stock": 2,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [
+        "Cinza",
+        "Preto",
+        "Azul"
+      ],
+      "totalStock": 17,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/polo-tricot-italiano-lacoste-1rtla/",
+      "lastSyncedAt": "2026-10-24T22:37:52.084Z"
+    },
+    {
       "id": "dx-368319493",
       "sourceId": "368319493",
       "slug": "pro-12-preto-camaleao-368319493",
@@ -50056,7 +50197,7 @@
           "id": "1401140099",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -50115,11 +50256,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-10-24T17:49:53.919Z",
+      "lastSyncedAt": "2026-10-24T22:37:52.084Z",
       "sku": "117"
     },
     {
@@ -50456,7 +50597,7 @@
           "id": "1401115563",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -50529,11 +50670,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-preto-branco-w3nsz/",
-      "lastSyncedAt": "2026-10-17T21:35:22.510Z",
+      "lastSyncedAt": "2026-10-24T22:37:52.084Z",
       "sku": "264"
     },
     {
