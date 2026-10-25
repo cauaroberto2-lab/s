@@ -5681,8 +5681,8 @@
           "id": "1514660096",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1514660097",
@@ -5722,11 +5722,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-branco-vermelho-off-ocubc/",
-      "lastSyncedAt": "2026-10-24T01:22:07.087Z",
+      "lastSyncedAt": "2026-10-25T05:41:20.533Z",
       "sku": "454"
     },
     {
@@ -26523,7 +26523,7 @@
           "id": "1405138910",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -26568,11 +26568,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-nobuk-preto-nnzwh/",
-      "lastSyncedAt": "2026-10-23T19:46:41.293Z",
+      "lastSyncedAt": "2026-10-25T05:41:20.533Z",
       "sku": "21"
     },
     {
