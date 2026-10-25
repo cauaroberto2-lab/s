@@ -6001,7 +6001,7 @@
           "id": "1559589165",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -6028,11 +6028,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-branco-rosa-limao-hy3nc/",
-      "lastSyncedAt": "2026-10-21T05:43:19.721Z",
+      "lastSyncedAt": "2026-10-25T00:49:47.859Z",
       "sku": "929"
     },
     {
@@ -6468,8 +6468,8 @@
           "id": "1624515232",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1624515233",
@@ -6488,11 +6488,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-evo-pro-1-preto-branco-113b7/",
-      "lastSyncedAt": "2026-10-24T20:14:37.696Z",
+      "lastSyncedAt": "2026-10-25T00:49:47.859Z",
       "sku": "1136"
     },
     {
