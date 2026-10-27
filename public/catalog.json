@@ -47790,8 +47790,8 @@
           "id": "1401090963",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401090970",
@@ -47810,11 +47810,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/pro-13-branco-refletivo-z5q91/",
-      "lastSyncedAt": "2026-10-24T17:49:53.919Z",
+      "lastSyncedAt": "2026-10-27T03:45:47.281Z",
       "sku": "379"
     },
     {
@@ -50467,8 +50467,8 @@
           "id": "1604280096",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1604280097",
@@ -50487,11 +50487,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-off-white-bordo-8n30t/",
-      "lastSyncedAt": "2026-10-10T18:45:43.703Z",
+      "lastSyncedAt": "2026-10-27T03:45:47.281Z",
       "sku": "1113"
     },
     {
@@ -50797,7 +50797,7 @@
           "id": "1429382927",
           "size": "37",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -50856,11 +50856,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 26,
+      "totalStock": 25,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-sl-branco-preto-1t8ky/",
-      "lastSyncedAt": "2026-10-24T20:14:37.696Z",
+      "lastSyncedAt": "2026-10-27T03:45:47.281Z",
       "sku": "444"
     },
     {
