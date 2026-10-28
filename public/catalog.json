@@ -4265,8 +4265,8 @@
           "id": "1529573479",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1529573482",
@@ -4303,11 +4303,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 41,
+      "totalStock": 40,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-forum-low-velcro-branco-pto-verde-77krt/",
-      "lastSyncedAt": "2026-10-27T23:54:48.515Z",
+      "lastSyncedAt": "2026-10-28T10:43:42.553Z",
       "sku": "109"
     },
     {
@@ -51909,8 +51909,8 @@
           "id": "1610116267",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -51922,11 +51922,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-72-coffe-off-x5iof/",
-      "lastSyncedAt": "2026-10-23T15:49:15.631Z"
+      "lastSyncedAt": "2026-10-28T10:43:42.553Z"
     },
     {
       "id": "dx-371330974",
