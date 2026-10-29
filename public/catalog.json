@@ -6072,8 +6072,8 @@
           "id": "1549273844",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549273847",
@@ -6106,11 +6106,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-boston-11-preto-branco-1j5gp/",
-      "lastSyncedAt": "2026-10-28T16:59:16.628Z",
+      "lastSyncedAt": "2026-10-29T08:02:01.443Z",
       "sku": "870"
     },
     {
