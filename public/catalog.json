@@ -1381,8 +1381,8 @@
           "id": "1589330976",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1589353525",
@@ -1401,11 +1401,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-rosa-18pec/",
-      "lastSyncedAt": "2026-10-23T19:46:41.293Z",
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z",
       "sku": "1075"
     },
     {
@@ -1895,8 +1895,8 @@
           "id": "1555846243",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1555846245",
@@ -1943,11 +1943,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-off-snow-18m9e/",
-      "lastSyncedAt": "2026-10-19T14:51:32.434Z",
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z",
       "sku": "901"
     },
     {
@@ -8462,6 +8462,83 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/armani-ax-exchange-preto-branco-iyagr/",
       "lastSyncedAt": "2026-10-28T21:36:12.199Z",
       "sku": "1079"
+    },
+    {
+      "id": "dx-377530843",
+      "sourceId": "377530843",
+      "slug": "armani-ax-exchange-preto-grafite-377530843",
+      "name": "ARMANI AX EXCHANGE PRETO GRAFITE",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "ARMANI",
+      "description": "Tênis ARMANI AX EXCHANGE Preto Grafite – Linha Premium de Alta Qualidade Apresentamos o Tênis ARMANI AX EXCHANGE Preto Grafite, um modelo que une elegância, estilo e qualidade superior, perfeito para quem busca um calçado da Linha Premium que se destaque em qualquer ocasião. Por que escolher o Tênis ARMANI AX EXCHANGE Preto Grafite? Design Elegante e Estiloso O acabamento em preto grafite confere um visual sofisticado e moderno, ideal para compor looks urbanos e casuais com muito estilo. Seu design minimalista e atemporal faz deste tênis uma peça versátil no seu guarda-roupa. Conforto e Ajuste Perfeito Fabricado com materiais de alta qualidade, o ARMANI AX EXCHANGE proporciona conforto excepcional graças à sua palmilha acolchoada e formato pensado para oferecer suporte e bem-estar durante todo o uso. Durabilidade e Acabamento Premium Com atenção especial aos detalhes, este tênis mantém sua forma, cor e beleza mesmo após uso frequente, garantindo um produto resistente e duradouro, que acompanha seu ritmo sem perder a elegância. Tamanhos Disponíveis Disponível nos tamanhos do 38 ao 43, com medidas exatas para facilitar sua escolha: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e confira a tabela para garantir o ajuste ideal e máximo conforto. Política de Troca Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-20-16-55-e0e8c4c1f0e51a194017932309197231-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-20-17-08-88a02333031289b33317932309196912-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-20-16-56-bcf109feffdaab2bef17932309197299-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-20-16-57-8fd97a7328237099d917932309201292-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-20-16-57-1-c1b96270743b35482417932309200690-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-20-16-58-7726d1ab875f88d1fe17932309197159-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-20-16-59-55071749db3a0e8b6017932309201426-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1628770627",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1628770628",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1628770629",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1628770630",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1628770631",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1628770632",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/armani-ax-exchange-preto-grafite-ffeeh/",
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z"
     },
     {
       "id": "dx-365062661",
@@ -18426,8 +18503,8 @@
           "id": "1449594461",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1449594463",
@@ -18467,11 +18544,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-branco-preto-latex-1tj1h/",
-      "lastSyncedAt": "2026-10-27T23:54:48.515Z",
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z",
       "sku": "586"
     },
     {
@@ -20250,7 +20327,7 @@
           "id": "1416307439",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -20291,11 +20368,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-grafite-latex-al9cq/",
-      "lastSyncedAt": "2026-10-23T22:53:31.017Z",
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z",
       "sku": "168"
     },
     {
@@ -24641,8 +24718,8 @@
           "id": "1623597366",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -24658,11 +24735,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-branco-gelo-g5drs/",
-      "lastSyncedAt": "2026-10-28T21:36:12.199Z",
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z",
       "sku": "711"
     },
     {
@@ -27978,7 +28055,7 @@
           "id": "1515361726",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -28012,11 +28089,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-verde-dunas-na1wd/",
-      "lastSyncedAt": "2026-10-28T16:59:16.628Z",
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z",
       "sku": "736"
     },
     {
@@ -31088,36 +31165,36 @@
           "id": "1505714305",
           "size": "38",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1505714307",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1505714309",
           "size": "40",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1505714311",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1505714312",
           "size": "42",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1505714313",
@@ -31136,11 +31213,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 8,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-natural-off-8ru8x/",
-      "lastSyncedAt": "2026-09-14T23:41:13.078Z",
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z",
       "sku": "464"
     },
     {
@@ -38702,8 +38779,8 @@
           "id": "1597894866",
           "size": "34",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1597894867",
@@ -38740,11 +38817,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-530-branco-prata-6edpy/",
-      "lastSyncedAt": "2026-10-28T21:36:12.199Z",
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z",
       "sku": "785"
     },
     {
@@ -39825,6 +39902,115 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-bege-cinza-off-vo7q6/",
       "lastSyncedAt": "2026-10-05T18:45:09.309Z",
       "sku": "490"
+    },
+    {
+      "id": "dx-377515252",
+      "sourceId": "377515252",
+      "slug": "nb-9060-bege-off-white-377515252",
+      "name": "NB 9060 BEGE OFF WHITE",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "Tênis NB 9060 Bege Off White – Linha Luxo de Alta Qualidade Apresentamos o Tênis NB 9060 Bege Off White, um calçado importado que une design sofisticado e conforto excepcional para diversas ocasiões. Produzido com material em couro legítimo, este modelo é a escolha ideal para quem busca durabilidade, estilo e conforto em um só produto. Por que escolher o Tênis NB 9060 Bege Off White? Couro Legítimo de Alta Qualidade Confeccionado com couro genuíno, o NB 9060 oferece resistência e um acabamento refinado que garante um visual elegante e duradouro. Conforto Superior O modelo foi desenvolvido para proporcionar um ajuste confortável e seguro, ideal para o uso diário e para momentos que exigem estilo e praticidade. Versatilidade para Várias Ocasiões Seu tom bege off white neutro permite combinações fáceis com diferentes looks, tornando-o perfeito tanto para o dia a dia quanto para eventos casuais. Tamanhos Disponíveis Disponível do tamanho 34 ao 43, com medidas específicas para garantir o ajuste perfeito: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e consulte a tabela para escolher o tamanho ideal. Política de Troca e Devolução Garantimos sua satisfação! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução, desde que o produto não apresente marcas de uso. Para garantir a qualidade e autenticidade, é necessário enviar um vídeo original do tênis.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-22-44-b76b13941150cb2ac917932267252934-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-22-49-eb87f9cb8c787d920117932267252098-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-22-46-549317e645c7f1e49417932267250843-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-22-45-0fd419b0f657165e7e17932267255890-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-22-48-6360344d5bcdd2697317932267253230-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-22-50-b99a92a29be77b71c417932267251753-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-22-51-865381d4907ba7db2217932267255663-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1628704959",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1628704960",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1628704961",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1628704962",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1628704963",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1628704964",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1628704965",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1628704966",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1628704967",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1628704968",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 23,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-bege-off-white-1ur64/",
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z"
     },
     {
       "id": "dx-319164689",
@@ -47694,7 +47880,7 @@
           "id": "1625884146",
           "size": "GG",
           "color": "Cinza",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -47745,11 +47931,11 @@
         "Preto",
         "Azul"
       ],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/polo-tricot-italiano-lacoste-1rtla/",
-      "lastSyncedAt": "2026-10-28T21:36:12.199Z",
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z",
       "sku": "1140"
     },
     {
@@ -48886,6 +49072,83 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-180preto-branco-street-11v19/",
       "lastSyncedAt": "2026-10-17T21:35:22.510Z",
       "sku": "965"
+    },
+    {
+      "id": "dx-377520660",
+      "sourceId": "377520660",
+      "slug": "puma-182-suit-aqua-377520660",
+      "name": "PUMA 182 SUIT AQUA",
+      "brand": "Puma",
+      "category": "Tênis",
+      "subCategory": "180",
+      "description": "Tênis PUMA 182 SUIT AQUA – Resistência e Conforto para o Seu Dia a Dia Apresentamos o Tênis PUMA 182 SUIT AQUA, um calçado que une alta qualidade, durabilidade e conforto para acompanhar seu ritmo com estilo e segurança. Ideal para quem busca um tênis resistente e confortável, pronto para qualquer ocasião. Por que escolher o Tênis PUMA 182 SUIT AQUA? Alta Qualidade e Durabilidade Confeccionado com materiais premium, o PUMA 182 SUIT AQUA garante resistência ao desgaste, mantendo a beleza e a funcionalidade mesmo após uso frequente. Seu design robusto é perfeito para quem precisa de um tênis que dure. Conforto Incomparável Com palmilha acolchoada e ajuste ergonômico, este modelo proporciona suporte ideal aos seus pés, assegurando conforto o dia todo, seja no trabalho, na caminhada ou em momentos de lazer. Tamanhos Disponíveis Disponível do 38 ao 43, o tênis atende diferentes necessidades com precisão. Confira a tabela abaixo para escolher o tamanho ideal, considerando o comprimento do seu pé em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a qualidade e autenticidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-59-47-133bd1a63c1d30259917932284039104-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-52-51-3551ce6d105d22c2a617932282001654-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-52-48-7c823e38faf37f4df917932282001610-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-52-49-e99f1d3b5012f3c6fa17932282000136-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-52-50-2b2f75a9d6fa22844f17932282002305-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-52-52-8c19476daed3d9b4a017932282002000-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-10-28-at-19-52-52-1-10438e1b4feef5809817932282001150-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1628728822",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1628728823",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1628728824",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1628728825",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1628728826",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1628728827",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-182-suit-aqua-1fv8f/",
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z"
     },
     {
       "id": "dx-351107637",
@@ -52044,8 +52307,8 @@
           "id": "1610127619",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1610127620",
@@ -52117,11 +52380,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sl-72-preto-camurca-branco-1u5cq/",
-      "lastSyncedAt": "2026-10-27T20:25:51.596Z"
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z"
     },
     {
       "id": "dx-354724379",
@@ -56482,8 +56745,8 @@
           "id": "1410609050",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410609051",
@@ -56562,11 +56825,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-preto-off-lr98c/",
-      "lastSyncedAt": "2026-10-28T21:36:12.199Z",
+      "lastSyncedAt": "2026-10-29T01:33:03.452Z",
       "sku": "221"
     },
     {
