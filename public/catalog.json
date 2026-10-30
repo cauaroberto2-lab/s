@@ -5695,8 +5695,8 @@
           "id": "1514660098",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1514660099",
@@ -5722,11 +5722,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-branco-vermelho-off-ocubc/",
-      "lastSyncedAt": "2026-10-29T15:23:54.723Z",
+      "lastSyncedAt": "2026-10-30T00:06:51.290Z",
       "sku": "454"
     },
     {
@@ -6079,8 +6079,8 @@
           "id": "1549273847",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549273848",
@@ -6106,11 +6106,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-boston-11-preto-branco-1j5gp/",
-      "lastSyncedAt": "2026-10-29T08:02:01.443Z",
+      "lastSyncedAt": "2026-10-30T00:06:51.290Z",
       "sku": "870"
     },
     {
@@ -8360,7 +8360,7 @@
           "id": "1629223845",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -8380,11 +8380,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/armani-ax-branco-prata-1brlq/",
-      "lastSyncedAt": "2026-10-29T15:23:54.723Z"
+      "lastSyncedAt": "2026-10-30T00:06:51.290Z"
     },
     {
       "id": "dx-365066296",
@@ -20664,8 +20664,8 @@
           "id": "1545028954",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -20677,11 +20677,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 10,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-preto-cinza-11fvf/",
-      "lastSyncedAt": "2026-10-28T16:59:16.628Z",
+      "lastSyncedAt": "2026-10-30T00:06:51.290Z",
       "sku": "848"
     },
     {
@@ -41409,7 +41409,7 @@
           "id": "1404734498",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -41440,11 +41440,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-branco-0qo43/",
-      "lastSyncedAt": "2026-10-29T20:25:55.106Z",
+      "lastSyncedAt": "2026-10-30T00:06:51.290Z",
       "sku": "67"
     },
     {
@@ -43393,8 +43393,8 @@
           "id": "1618864776",
           "size": "35",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1618864777",
@@ -43434,11 +43434,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-branco-off-azul-bb-cpev7/",
-      "lastSyncedAt": "2026-10-29T20:25:55.106Z",
+      "lastSyncedAt": "2026-10-30T00:06:51.290Z",
       "sku": "1156"
     },
     {
@@ -49173,8 +49173,8 @@
           "id": "1628728822",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1628728823",
@@ -49221,11 +49221,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-182-suit-aqua-1fv8f/",
-      "lastSyncedAt": "2026-10-29T20:25:55.106Z"
+      "lastSyncedAt": "2026-10-30T00:06:51.290Z"
     },
     {
       "id": "dx-351107637",
@@ -51580,8 +51580,8 @@
           "id": "1604981308",
           "size": "35",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1604981309",
@@ -51621,11 +51621,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sambae-bordo-bco-latex-l339l/",
-      "lastSyncedAt": "2026-10-28T16:59:16.628Z",
+      "lastSyncedAt": "2026-10-30T00:06:51.290Z",
       "sku": "1149"
     },
     {
@@ -51665,7 +51665,7 @@
           "id": "1604723343",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -51699,11 +51699,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sambae-branco-bordo-gl8pm/",
-      "lastSyncedAt": "2026-10-27T20:25:51.596Z",
+      "lastSyncedAt": "2026-10-30T00:06:51.290Z",
       "sku": "1114"
     },
     {
@@ -56282,8 +56282,8 @@
           "id": "1618922328",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -56299,11 +56299,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-sk8-hi-azul-jeans-bkhwk/",
-      "lastSyncedAt": "2026-10-23T22:53:31.017Z",
+      "lastSyncedAt": "2026-10-30T00:06:51.290Z",
       "sku": "1153"
     },
     {
@@ -56380,8 +56380,8 @@
           "id": "1617610480",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1617610481",
@@ -56411,11 +56411,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-sk8-hi-preto-branco-1payc/",
-      "lastSyncedAt": "2026-10-23T19:46:41.293Z",
+      "lastSyncedAt": "2026-10-30T00:06:51.290Z",
       "sku": "1152"
     },
     {
