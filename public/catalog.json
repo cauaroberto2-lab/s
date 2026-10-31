@@ -280,8 +280,8 @@
           "id": "1504176795",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1504176798",
@@ -325,11 +325,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/",
-      "lastSyncedAt": "2026-10-30T18:43:21.685Z",
+      "lastSyncedAt": "2026-10-31T08:39:40.673Z",
       "sku": "715"
     },
     {
@@ -21723,7 +21723,7 @@
           "id": "1581764550",
           "size": "40",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -21771,11 +21771,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 19,
+      "totalStock": 18,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-sb-bird-preto-red-21r5q/",
-      "lastSyncedAt": "2026-10-24T20:14:37.696Z",
+      "lastSyncedAt": "2026-10-31T08:39:40.673Z",
       "sku": "1042"
     },
     {
@@ -37993,8 +37993,8 @@
           "id": "1527554203",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1527554204",
@@ -38013,11 +38013,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/1000-all-black-ibeoq/",
-      "lastSyncedAt": "2026-10-30T18:43:21.685Z",
+      "lastSyncedAt": "2026-10-31T08:39:40.673Z",
       "sku": "773"
     },
     {
@@ -51883,7 +51883,7 @@
           "id": "1604723340",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -51924,11 +51924,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/sambae-branco-bordo-gl8pm/",
-      "lastSyncedAt": "2026-10-30T18:43:21.685Z",
+      "lastSyncedAt": "2026-10-31T08:39:40.673Z",
       "sku": "1114"
     },
     {
