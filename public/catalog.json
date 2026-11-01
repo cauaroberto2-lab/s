@@ -5917,7 +5917,7 @@
           "id": "1494015891",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -5951,11 +5951,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adzero-boston-11-branco-limao-1aklb/",
-      "lastSyncedAt": "2026-10-27T20:25:51.596Z",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
       "sku": "453"
     },
     {
@@ -11585,6 +11585,63 @@
       "sku": "1120"
     },
     {
+      "id": "dx-378171236",
+      "sourceId": "378171236",
+      "slug": "camisa-dry-fit-adidas-classic-preto-branco-378171236",
+      "name": "CAMISA DRY-FIT ADIDAS CLASSIC PRETO BRANCO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "ADIDAS",
+      "description": "Camisa Adidas Dryfit Preto Branco Classic – Conforto e Qualidade Premium Apresentamos a Camisa Adidas Dryfit Preto Branco Classic, confeccionada com tecido Dry-Fit, reconhecido pela sua leveza, respirabilidade e conforto. Um produto de qualidade premium que garante frescor, liberdade de movimento e estilo para o seu dia a dia. Por que escolher a Camisa Adidas Dryfit Preto Branco Classic? Qualidade Premium com Tecido Dry-Fit Produzida com tecido Dry-Fit, a camiseta oferece uma textura leve, excelente respirabilidade e secagem rápida, auxiliando na evaporação do suor e proporcionando conforto mesmo durante atividades físicas. Sua alta resistência ao desgaste mantém a peça bonita e confortável mesmo após várias lavagens. Design Clássico e Versátil A cor preta, combinada com as listras brancas nos ombros e o logo branco da Adidas no peito, traz sofisticação e um visual esportivo moderno, oferecendo facilidade para combinar com qualquer look, seja casual ou esportivo. Um básico indispensável no guarda-roupa, com caimento perfeito do P ao GG. Conforto e Ajuste Ideal Disponível nos tamanhos P ao GG, a camiseta foi pensada para se adaptar a diferentes tipos de corpo, garantindo liberdade de movimento, leveza e conforto durante todo o uso. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-esportivo-com-tatuagens-24e2236226e271400f17934678633358-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/camiseta-adidas-preta-em-destaque-f8d4e2a26b5ffeeb9c17934678633311-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630688337",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630688338",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630688339",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630688340",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-dry-fit-adidas-classic-preto-branco-1f677/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1188"
+    },
+    {
       "id": "dx-378175769",
       "sourceId": "378175769",
       "slug": "camisa-dry-fit-nike-cinza-basic-378175769",
@@ -11640,6 +11697,369 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-dry-fit-nike-cinza-basic-fjwfu/",
       "lastSyncedAt": "2026-10-31T19:26:21.037Z",
       "sku": "1190"
+    },
+    {
+      "id": "dx-378174024",
+      "sourceId": "378174024",
+      "slug": "camisa-dry-fit-nike-grafite-basic-378174024",
+      "name": "CAMISA DRY-FIT NIKE GRAFITE BASIC",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "Produtos",
+      "description": "Camisa Dry-Fit Nike Grafite Basic – Conforto e Qualidade Premium Apresentamos a Camisa Dry-Fit Nike Grafite Basic, confeccionada com tecido Dry-Fit, reconhecido pela sua leveza, respirabilidade e conforto. Um produto de qualidade premium que garante frescor, liberdade de movimento e estilo para o seu dia a dia. Por que escolher a Camisa Dry-Fit Nike Grafite Basic? Qualidade Premium com Tecido Dry-Fit Produzida com tecido Dry-Fit, a camiseta oferece uma textura leve, excelente respirabilidade e secagem rápida, auxiliando na evaporação do suor e proporcionando conforto mesmo durante atividades físicas. Sua alta resistência ao desgaste mantém a peça bonita e confortável mesmo após várias lavagens. Design Clássico e Versátil A cor grafite, combinada com o logo preto da Nike no peito, traz sofisticação e um visual esportivo moderno e minimalista, oferecendo facilidade para combinar com qualquer look, seja casual ou esportivo. Um básico indispensável no guarda-roupa, com caimento perfeito do P ao GG. Conforto e Ajuste Ideal Disponível nos tamanhos P ao GG, a camiseta foi pensada para se adaptar a diferentes tipos de corpo, garantindo liberdade de movimento, leveza e conforto durante todo o uso. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-atlatico-com-tatuagens-de-leao-e-floresta-15702df303252de66017934689141628-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/camiseta-nike-cinza-texturizada-em-close-up-c79a0837e7adad77b217934689143016-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630697778",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630697779",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630697780",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630697781",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-dry-fit-nike-grafite-basic-roeph/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1189"
+    },
+    {
+      "id": "dx-378177466",
+      "sourceId": "378177466",
+      "slug": "camisa-dry-fit-nike-preto-branco-378177466",
+      "name": "CAMISA DRY-FIT NIKE PRETO BRANCO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "Produtos",
+      "description": "Camisa Nike Dry-Fit Nike Preto Branco – Conforto e Qualidade Premium Apresentamos a Camisa Nike Dry-Fit Nike Preto Branco, confeccionada com tecido Dry-Fit, reconhecido pela sua leveza, respirabilidade e conforto. Um produto de qualidade premium que garante frescor, liberdade de movimento e estilo para o seu dia a dia. Por que escolher a Camisa Nike Dry-Fit Nike Preto Branco? Qualidade Premium com Tecido Dry-Fit Produzida com tecido Dry-Fit, a camiseta oferece uma textura leve, excelente respirabilidade e secagem rápida, auxiliando na evaporação do suor e proporcionando conforto mesmo durante atividades físicas. Sua alta resistência ao desgaste mantém a peça bonita e confortável mesmo após várias lavagens. Design Esportivo e Versátil A combinação das cores preto e branco traz sofisticação e um visual esportivo moderno. Com detalhes em branco nos ombros e nas laterais, além da logo Nike no peito, a camiseta oferece um estilo diferenciado e facilidade para combinar com qualquer look, seja casual ou esportivo. Uma peça indispensável no guarda-roupa, com caimento perfeito do P ao GG. Conforto e Ajuste Ideal Disponível nos tamanhos P ao GG, a camiseta foi pensada para se adaptar a diferentes tipos de corpo, garantindo liberdade de movimento, leveza e conforto durante todo o uso. Seu tecido respirável proporciona maior ventilação, sendo ideal tanto para o dia a dia quanto para atividades físicas. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-atlatico-com-tatuagens-e-malha-preta-b2ce6369f1f1910f3a17934703862359-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/close-do-camiseta-esportiva-nike-f78763aaaa9a6a137217934703863205-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630706642",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630706643",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630706644",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630706645",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-dry-fit-nike-preto-branco-3mf9d/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1191"
+    },
+    {
+      "id": "dx-378183604",
+      "sourceId": "378183604",
+      "slug": "camisa-regata-basquete-brooklyn-neets-378183604",
+      "name": "CAMISA REGATA BASQUETE BROOKLYN NEETS",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "Produtos",
+      "description": "Regata Brooklyn Basquete – Estilo Esportivo e Qualidade Premium Apresentamos a Regata Brooklyn Basquete, confeccionada com tecido Dry-Fit, reconhecido pela sua leveza, respirabilidade e conforto. Um produto de qualidade premium que garante frescor, liberdade de movimento e estilo para o seu dia a dia. Por que escolher a Regata Brooklyn Basquete? Qualidade Premium com Tecido Dry-Fit Produzida com tecido Dry-Fit, a regata oferece uma textura leve, excelente respirabilidade e secagem rápida, auxiliando na evaporação do suor e proporcionando conforto mesmo durante atividades físicas. Sua resistência ao desgaste ajuda a manter a peça bonita e confortável mesmo após várias lavagens. Design Esportivo e Versátil A cor preta, combinada com o símbolo do Brooklyn Nets em destaque no peito e o logo da Nike, proporciona um visual esportivo moderno e cheio de personalidade. Uma peça ideal para treinos, academia, passeios e composições streetwear. Conforto e Ajuste Ideal Disponível nos tamanhos P ao GG, a regata foi pensada para se adaptar a diferentes tipos de corpo. Seu modelo sem mangas proporciona maior liberdade de movimento, ventilação e conforto durante todo o uso. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-atlatico-com-regata-dos-brooklyn-nets-e64739f1d17947249417934727562648-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/detalhe-do-uniforme-brooklyn-nets-fe528748d45be7357f17934727560529-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630725105",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630725106",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630725107",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-regata-basquete-brooklyn-neets-1n3yh/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1193"
+    },
+    {
+      "id": "dx-378197642",
+      "sourceId": "378197642",
+      "slug": "camisa-regata-jordan-preto-grafite-378197642",
+      "name": "CAMISA REGATA JORDAN PRETO GRAFITE",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "JORDAN",
+      "description": "Regata Jordan Preto Cinza – Estilo Esportivo e Qualidade Premium Apresentamos a Regata Jordan Preto Cinza, confeccionada com tecido Dry-Fit, reconhecido pela sua leveza, respirabilidade e conforto. Um produto de qualidade premium que garante frescor, liberdade de movimento e estilo para o seu dia a dia. Por que escolher a Regata Jordan Preto Cinza? Qualidade Premium com Tecido Dry-Fit Produzida com tecido Dry-Fit, a regata oferece uma textura leve, excelente respirabilidade e secagem rápida, auxiliando na evaporação do suor e proporcionando conforto mesmo durante atividades físicas. Sua resistência ao desgaste ajuda a manter a peça bonita e confortável mesmo após várias lavagens. Design Esportivo e Versátil A combinação das cores preto e cinza traz sofisticação e modernidade, enquanto o icônico símbolo Jumpman da Jordan em destaque no peito proporciona um visual esportivo e cheio de personalidade. O design conta com detalhes laterais em cinza, acabamento diferenciado e etiqueta personalizada Jordan 23 na parte inferior, valorizando ainda mais o estilo da peça. Ideal para treinos, academia, passeios e composições streetwear. Conforto e Ajuste Ideal Disponível nos tamanhos P ao GG, a regata foi pensada para se adaptar a diferentes tipos de corpo. Seu modelo sem mangas proporciona maior liberdade de movimento, ventilação e conforto durante todo o uso. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-atlatico-com-regata-jordan-11091fb531fff245e017934779307481-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630768470",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630768471",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630768472",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-regata-jordan-preto-grafite-ewm9w/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1195"
+    },
+    {
+      "id": "dx-378219028",
+      "sourceId": "378219028",
+      "slug": "camisa-regata-nike-miami-heat-378219028",
+      "name": "CAMISA REGATA NIKE MIAMI HEAT",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "NIKE",
+      "description": "Regata Nike Miami Heat – Estilo Esportivo e Qualidade Premium Apresentamos a Regata Nike Miami Heat, confeccionada com tecido Dry-Fit, reconhecido pela sua leveza, respirabilidade e conforto. Um produto de qualidade premium que garante frescor, liberdade de movimento e estilo para o seu dia a dia. Por que escolher a Regata Nike Miami Heat? Qualidade Premium com Tecido Dry-Fit Produzida com tecido Dry-Fit, a regata oferece uma textura leve, excelente respirabilidade e secagem rápida, auxiliando na evaporação do suor e proporcionando conforto mesmo durante atividades físicas. Sua resistência ao desgaste ajuda a manter a peça bonita e confortável mesmo após várias lavagens. Design Esportivo e Versátil A cor preta traz sofisticação e modernidade, enquanto o icônico símbolo do Miami Heat em destaque no peito proporciona um visual esportivo e cheio de personalidade. O design conta com o símbolo da Nike na parte superior, estampa centralizada do Miami Heat nas cores vermelho, branco e amarelo, acabamento diferenciado e etiqueta personalizada na parte inferior, valorizando ainda mais o estilo da peça. Ideal para treinos, academia, basquete, passeios e composições streetwear. Conforto e Ajuste Ideal Disponível nos tamanhos P ao GG, a regata foi pensada para se adaptar a diferentes tipos de corpo. Seu modelo sem mangas proporciona maior liberdade de movimento, ventilação e conforto durante todo o uso. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-atlatico-com-tatuagens-e-uniforme-esportivo-0dd3048af99d6aa3d817934860311015-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/detalhe-de-regata-esportiva-do-miami-heat-0eada1948a92fa830b17934860310087-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630862325",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630862326",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630862327",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-regata-nike-miami-heat-16g5y/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1197"
+    },
+    {
+      "id": "dx-378223115",
+      "sourceId": "378223115",
+      "slug": "camisa-tommy-hilfiger-preta-padrao-378223115",
+      "name": "CAMISA TOMMY HILFIGER PRETA PADRAO",
+      "brand": "Tommy Hilfiger",
+      "category": "Tênis",
+      "subCategory": "Produtos",
+      "description": "Camisa Tommy Hilfiger Preta Padrão – Malha Pima de Extremo Luxo Apresentamos a Camisa Tommy Hilfiger Preta Padrão, confeccionada com a exclusiva malha Pima, reconhecida mundialmente pela sua suavidade, durabilidade e toque extremamente macio. Um produto de extremo luxo que garante conforto, sofisticação e estilo para o seu dia a dia. Por que escolher a Camisa Tommy Hilfiger Preta Padrão? Qualidade Premium com Malha Pima Produzida com algodão Pima, a camiseta oferece uma textura incomparável, excelente respirabilidade e alta resistência ao desgaste, mantendo a peça bonita e confortável mesmo após várias lavagens. Seu tecido de qualidade superior proporciona um toque extremamente suave na pele, garantindo conforto durante todo o uso. Design Clássico e Versátil A cor preta traz sofisticação, elegância e facilidade para combinar com qualquer look, seja casual ou mais arrumado. O design apresenta o clássico símbolo Tommy Hilfiger centralizado no peito, com as tradicionais cores da marca, proporcionando um visual moderno, discreto e sofisticado. Um básico indispensável no guarda-roupa masculino, com caimento perfeito do P ao G1. Conforto e Ajuste Ideal Disponível nos tamanhos P ao G1, a camiseta foi pensada para se adaptar a diferentes tipos de corpo, garantindo liberdade de movimento e conforto durante todo o uso. Sua malha Pima proporciona leveza, maciez e excelente caimento, tornando a peça ideal para quem busca qualidade superior e elegância em todas as ocasiões. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-masculino-com-tatuagens-e-camiseta-preta-de4e8839352b1c7d3717934869514562-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/camiseta-branca-tommy-hilfiger-em-destaque-3a71d695bb9cb7c6cc17934877719049-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630879813",
+          "size": "P",
+          "color": "Branco",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630879814",
+          "size": "P",
+          "color": "Preto",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630879815",
+          "size": "M",
+          "color": "Branco",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1630879816",
+          "size": "M",
+          "color": "Preto",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630879817",
+          "size": "G",
+          "color": "Branco",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630879818",
+          "size": "G",
+          "color": "Preto",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1630879819",
+          "size": "GG",
+          "color": "Branco",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630879820",
+          "size": "GG",
+          "color": "Preto",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630879821",
+          "size": "XG",
+          "color": "Branco",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630879822",
+          "size": "XG",
+          "color": "Preto",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [
+        "Branco",
+        "Preto"
+      ],
+      "totalStock": 7,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-tommy-hilfiger-preta-padrao-tiq1m/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1198"
     },
     {
       "id": "dx-329377044",
@@ -13120,6 +13540,71 @@
       "sku": "651"
     },
     {
+      "id": "dx-377758291",
+      "sourceId": "377758291",
+      "slug": "camiseta-calvin-klein-cinza-preto-377758291",
+      "name": "CAMISETA CALVIN KLEIN CINZA PRETO",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "CAMISETAS",
+      "description": "Camiseta Calvin Klein Cinza Preto – Malha Pima de Extremo Luxo do P ao G1 Apresentamos a Camiseta Calvin Klein Cinza Preto, confeccionada em malha Pima de extremo luxo, a escolha perfeita para quem valoriza conforto, elegância e qualidade superior em cada detalhe. Por que escolher a Camiseta Calvin Klein Cinza Preto? Malha Pima Premium Produzida com a famosa malha Pima, conhecida por sua suavidade, resistência e toque aveludado, essa camiseta oferece uma experiência única de conforto e durabilidade. Ideal para o uso diário, mantendo seu aspecto e maciez mesmo após várias lavagens. Design Sofisticado e Versátil Com seu tom cinza preto clássico, essa camiseta combina facilmente com diferentes estilos e ocasiões, do casual ao mais sofisticado. Seu corte impecável valoriza o caimento e garante um visual moderno e elegante. Tamanhos Disponíveis Disponível do P ao G1, atendendo a diversas necessidades e garantindo o ajuste perfeito para o seu corpo. | Tamanho | Indicação | |---------|---------------| | P | Pequeno | | M | Médio | | G | Grande | | G1 | Extra Grande | Dica: Confira suas medidas para escolher o tamanho ideal e aproveite o máximo conforto! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, pedimos que envie um vídeo original da camiseta, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-editorial-com-camiseta-calvin-klein-fa5dc48939eea35ef917933058923894-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/camiseta-calvin-klein-em-close-up-4afd7ef306740eee6c17933058923925-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1629483672",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629483673",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1629483674",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629483675",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629483676",
+          "size": "XG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-calvin-klein-cinza-preto-1yqcc/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1168"
+    },
+    {
       "id": "dx-328105423",
       "sourceId": "328105423",
       "slug": "camiseta-ck-jeans-328105423",
@@ -13362,6 +13847,198 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-ck-usa-1soar/",
       "lastSyncedAt": "2026-09-05T21:57:36.705Z",
       "sku": "616"
+    },
+    {
+      "id": "dx-377767286",
+      "sourceId": "377767286",
+      "slug": "camiseta-diesel-azul-marinho-d-basic-vermelho-377767286",
+      "name": "CAMISETA DIESEL AZUL MARINHO D BASIC VERMELHO",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "CAMISETAS",
+      "description": "Camiseta Diesel Azul Marinho D Basic Vermelho – Malha Pima de Extremo Luxo Apresentamos a Camiseta Diesel Azul Marinho D Basic Vermelho, confeccionada em malha Pima de extremo luxo, reconhecida por sua suavidade, resistência e toque incomparável. Uma peça essencial para quem valoriza conforto aliado a um estilo sofisticado e versátil. Por que escolher a Camiseta Diesel Azul Marinho D Basic Vermelho? Material Premium – Malha Pima A malha Pima é considerada uma das melhores do mundo, garantindo uma camiseta macia, durável e com excelente caimento, perfeita para o uso diário com um toque de exclusividade. Design Elegante e Atemporal Com seu tom azul marinho profundo e detalhes em vermelho, esta camiseta traz um visual moderno que combina com diversas ocasiões, do casual ao social. Variedade de Tamanhos Disponível do P ao G1, para que você encontre o ajuste ideal com conforto e estilo. | Tamanho | Medidas Aproximadas (cm) | |---------|--------------------------| | P | 48 (Largura) x 68 (Comprimento) | | M | 50 x 70 | | G | 52 x 72 | | G1 | 54 x 74 | Política de Troca e Devolução Sua satisfação é prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. É importante que a peça esteja em perfeito estado, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-masculino-com-tatuagens-em-estadio-f320cf571cd0637e0117933081614694-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1629514122",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629514123",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1629514124",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629514125",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629514126",
+          "size": "XG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-diesel-azul-marinho-d-basic-vermelho-1jvg9/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1171"
+    },
+    {
+      "id": "dx-377740732",
+      "sourceId": "377740732",
+      "slug": "camiseta-diesel-basic-d-branco-377740732",
+      "name": "CAMISETA DIESEL BASIC D BRANCO",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "CAMISETAS",
+      "description": "Camiseta Diesel Basic D Branco – Malha Pima de Extremo Luxo Apresentamos a Camiseta Diesel Basic D Branco, confeccionada em malha Pima de extremo luxo, a escolha perfeita para quem busca conforto, sofisticação e durabilidade em uma peça essencial do guarda-roupa. Por que escolher a Camiseta Diesel Basic D Branco? Malha Pima Premium Produzida com algodão Pima de altíssima qualidade, esta camiseta oferece toque macio e resistência superiores, garantindo uma sensação de conforto incomparável durante todo o dia. Design Clássico e Versátil Seu tom branco puro e modelagem básica fazem desta camiseta uma peça-chave, fácil de combinar com diferentes estilos, do casual ao mais sofisticado, do P ao G1. Acabamento de Extremo Luxo Com costuras reforçadas e acabamento impecável, essa camiseta mantém a forma e a cor mesmo após várias lavagens, elevando o padrão de qualidade da sua coleção. Tamanhos Disponíveis Para garantir o caimento perfeito, escolha seu tamanho entre P, M, G, até G1, e aproveite o máximo conforto e estilo. | Tamanho | Indicação | |---------|-----------| | P | Pequeno | | M | Médio | | G | Grande | | G1 | Extra Grande | Política de Troca e Devolução Sua satisfação é prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. A peça deve estar nas condições originais, sem sinais de uso, para garantir a autenticidade e a qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-comercial-de-modelo-tatuado-4eb33495752ae8734817933023399347-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1629432512",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629432513",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1629432514",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629432515",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629432516",
+          "size": "XG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-diesel-basic-d-branco-llo40/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1164"
+    },
+    {
+      "id": "dx-377731477",
+      "sourceId": "377731477",
+      "slug": "camiseta-diesel-basic-d-preto-377731477",
+      "name": "CAMISETA DIESEL BASIC D PRETO",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "CAMISETAS",
+      "description": "Camisa Malha Pima de Extremo Luxo – Conforto e Elegância do P ao G1 Apresentamos a Camisa Malha Pima, uma peça exclusiva feita com o fio de algodão Pima, reconhecido mundialmente pela sua maciez, resistência e toque aveludado. Ideal para quem valoriza qualidade premium e estilo sofisticado em todas as ocasiões. Por que escolher a Camisa Malha Pima? Material Nobre e Conforto Incomparável Confeccionada com malha Pima de extremo luxo, esta camisa oferece um toque suave e respirável, perfeito para o clima brasileiro. Seu caimento impecável proporciona conforto durante todo o dia, garantindo liberdade de movimento sem perder a elegância. Estilo Versátil em Tamanhos do P ao G1 Disponível em tamanhos que vão do P ao G1, esta camisa é ideal para você que busca peças clássicas e que se adaptam perfeitamente ao seu corpo, valorizando sua silhueta com discrição e bom gosto. Acabamento Premium e Durabilidade Com atenção especial aos detalhes, a Camisa Malha Pima mantém sua forma e cor mesmo após diversas lavagens, assegurando durabilidade e aparência sempre renovada. Política de Troca e Devolução Sua satisfação é essencial para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a qualidade e autenticidade do produto, pedimos que envie um vídeo original da camisa, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/modelo-tatuado-com-camiseta-preta-minimalista-0ddc8d0142dd121dbc17933002536143-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1629404390",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629404391",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629404392",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1629404393",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629404394",
+          "size": "XG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-diesel-basic-d-preto-1av5b/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1162"
     },
     {
       "id": "dx-327089635",
@@ -13711,6 +14388,70 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-emporio-a-ax-1nu43/",
       "lastSyncedAt": "2026-10-27T20:25:51.596Z",
       "sku": "730"
+    },
+    {
+      "id": "dx-377772038",
+      "sourceId": "377772038",
+      "slug": "camiseta-emporio-armani-azul-marinho-377772038",
+      "name": "CAMISETA EMPORIO ARMANI AZUL MARINHO",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "CAMISETAS",
+      "description": "CAMISETA EMPORIO ARMANI AZUL MARINHO – Malha Pima de Extremo Luxo do P ao G1 Descubra a elegância e o conforto incomparável da nossa Camiseta Emporio Armani Azul Marinho, confeccionada em malha Pima, reconhecida mundialmente pela sua maciez e durabilidade. Esta peça exclusiva, disponível nos tamanhos do P ao G1, é o toque de luxo que faltava no seu guarda-roupa. Por que escolher a Camiseta Emporio Armani Azul Marinho? Malha Pima de Extremo Luxo Produzida com algodão Pima de alta qualidade, essa camiseta oferece uma textura suave ao toque, maior resistência e um caimento perfeito, para você se sentir confortável e elegante o dia todo. Design Sofisticado e Atemporal A cor azul marinho traz um visual clássico e versátil, ideal para diversas ocasiões, desde um look casual até eventos mais formais. A modelagem impecável valoriza o corpo com discrição e estilo. Do P ao G1 – Tamanhos para Todos Disponível em uma ampla grade de tamanhos para garantir o ajuste ideal, atendendo com exclusividade às suas necessidades. Política de Troca Sua satisfação é prioridade! Caso precise trocar seu produto, nossa política de troca é simples e segura. Você tem até 7 dias corridos após o recebimento para solicitar a troca, garantindo a autenticidade e a qualidade da peça. Palavras-chave: camiseta malha pima, camiseta luxo, camisetas do P ao G1, política de troca, Emporio Armani, azul marinho.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/close-up-de-camiseta-ea7-azul-marinho-b5de63d4d192c8657417933090940899-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1629527485",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629527486",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1629527487",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629527488",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629527489",
+          "size": "XG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-emporio-armani-azul-marinho-11t38/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1172"
     },
     {
       "id": "dx-326461353",
@@ -15400,6 +16141,70 @@
       "sku": "605"
     },
     {
+      "id": "dx-377749927",
+      "sourceId": "377749927",
+      "slug": "camiseta-ralph-lauren-preta-377749927",
+      "name": "CAMISETA RALPH LAUREN PRETA",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "CAMISETAS",
+      "description": "Camiseta Ralph Lauren Preta – Malha Pima de Extremo Luxo Apresentamos a Camiseta Ralph Lauren Preta, feita com a exclusiva malha Pima, reconhecida mundialmente por sua maciez, durabilidade e toque sofisticado. Este é o item perfeito para quem busca conforto absoluto aliado a um visual elegante e versátil. Por que escolher a Camiseta Ralph Lauren Preta? Malha Pima Premium Produzida com algodão Pima de qualidade superior, essa camiseta oferece uma textura extremamente suave e resistência incomparável. Ideal para quem valoriza peças duráveis e com acabamento impecável. Design Clássico e Elegante Na cor preta, esta camiseta traz um visual atemporal que combina facilmente com qualquer estilo, do casual ao mais refinado. Seu corte perfeito valoriza o corpo e garante conforto durante todo o dia. Tamanhos Disponíveis Disponível do P ao G1, para que você encontre o ajuste ideal e se sinta seguro em qualquer ocasião. | Tamanho | |---------| | P | | M | | G | | G1 | Política de Troca Sua satisfação é nossa prioridade! Caso precise trocar, oferecemos um processo simples e ágil para garantir que você tenha sempre a peça ideal.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/modelo-com-camiseta-polo-preta-10e31719352532fa0417933044099094-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1629461220",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629461221",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1629461222",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629461223",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629461224",
+          "size": "XG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-ralph-lauren-preta-9pbpd/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1166"
+    },
+    {
       "id": "dx-327783556",
       "sourceId": "327783556",
       "slug": "camiseta-reserv-327783556",
@@ -15502,6 +16307,70 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-reserv-1lrcf/",
       "lastSyncedAt": "2026-10-03T00:09:28.877Z",
       "sku": "619"
+    },
+    {
+      "id": "dx-377747388",
+      "sourceId": "377747388",
+      "slug": "camiseta-reserva-branco-vermelho-377747388",
+      "name": "CAMISETA RESERVA BRANCO/VERMELHO",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "CAMISETAS",
+      "description": "Camiseta Reserva Branco/Vermelho – Malha Algodão de Altíssima Qualidade Apresentamos a Camiseta Reserva Branco/Vermelho, confeccionada em malha de algodão de altíssima qualidade, que une conforto, durabilidade e estilo para o seu dia a dia. Disponível nos tamanhos do P ao G1, é a escolha ideal para quem valoriza uma peça resistente e com acabamento impecável. Por que escolher a Camiseta Reserva Branco/Vermelho? Conforto e Qualidade Premium Produzida com algodão superior, essa camiseta proporciona toque suave e respirabilidade, garantindo conforto durante todo o uso, mesmo em dias mais quentes. Design Versátil O contraste elegante entre o branco e o vermelho oferece um visual moderno e clean, que combina facilmente com diversas ocasiões – do casual ao social. Durabilidade e Acabamento Impecável Com costuras reforçadas e acabamento de alta qualidade, a Camiseta Reserva mantém sua forma e cores vibrantes mesmo após várias lavagens. Tamanhos Disponíveis Escolha o tamanho ideal para você: - P - M - G - GG - G1 Política de Troca Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a qualidade e autenticidade do produto, pedimos que envie um vídeo original da camiseta, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/modelo-tatuado-em-estadio-com-camiseta-branca-2be9a6eed210373f8417933039083442-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1629453970",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629453971",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1629453972",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629453973",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629453974",
+          "size": "XG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-reserva-branco-vermelho-92kiz/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1166"
     },
     {
       "id": "dx-329218302",
@@ -15607,6 +16476,70 @@
       "lastSyncedAt": "2026-08-13T01:49:31.390Z"
     },
     {
+      "id": "dx-377761735",
+      "sourceId": "377761735",
+      "slug": "camiseta-tommy-hilfiger-azul-marinho-377761735",
+      "name": "CAMISETA TOMMY HILFIGER AZUL MARINHO",
+      "brand": "Tommy Hilfiger",
+      "category": "Vestuário",
+      "subCategory": "CAMISETAS",
+      "description": "Camiseta Tommy Hilfiger Azul Marinho – Malha Pima Extremo Luxo Apresentamos a Camiseta Tommy Hilfiger Azul Marinho, confeccionada em malha Pima extremo luxo, que une conforto, durabilidade e estilo sofisticado para o seu dia a dia. Por que escolher a Camiseta Tommy Hilfiger Azul Marinho? Qualidade Premium em Malha Pima Produzida com a melhor malha Pima, considerada uma das fibras mais nobres do mundo, esta camiseta oferece um toque ultra macio e resistência incomparável. Ideal para quem busca uma peça que une luxo e conforto em cada detalhe. Design Clássico e Versátil Com a cor azul marinho, a camiseta apresenta um estilo clássico e elegante, que combina facilmente com diferentes looks — do casual ao social. Um verdadeiro item essencial para qualquer guarda-roupa. Tamanhos do P ao G1 Disponível em uma ampla variedade de tamanhos, do P ao G1, garantindo o ajuste perfeito para você. Política de Troca Sua satisfação é prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução, garantindo uma compra segura e tranquila.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/modelo-de-camiseta-azul-marinho-com-tatuagens-1-9116bcb01141e7df3217933067388928-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1629495268",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629495269",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1629495270",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629495271",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629495272",
+          "size": "XG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-tommy-hilfiger-azul-marinho-1kutu/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1169"
+    },
+    {
       "id": "dx-377933779",
       "sourceId": "377933779",
       "slug": "camiseta-tommy-hilfiger-vermelha-377933779",
@@ -15672,6 +16605,264 @@
       "sku": "1174"
     },
     {
+      "id": "dx-378030282",
+      "sourceId": "378030282",
+      "slug": "camiseta-tommy-hulfiger-cinza-378030282",
+      "name": "CAMISETA TOMMY HULFIGER CINZA",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "Produtos",
+      "description": "Camiseta Tommy Hilfiger Cinza – Malha Pima de Extremo Luxo do P ao G1 Apresentamos a Camiseta Tommy Hilfiger Cinza, confeccionada em malha Pima, reconhecida mundialmente pela sua maciez e durabilidade excepcionais. Esta peça é ideal para quem valoriza conforto aliado a um toque sofisticado, perfeita para compor looks casuais com um toque de elegância. Por que escolher a Camiseta Tommy Hilfiger Cinza? Malha Pima de Qualidade Premium Produzida com algodão Pima, a camiseta oferece uma textura suave ao toque e alta resistência, garantindo um caimento impecável e duradouro. Design Clássico e Versátil O tom cinza neutro permite combinações fáceis, do dia a dia ao estilo mais refinado, tornando esta peça essencial no guarda-roupa masculino. Disponível do P ao G1 Atendemos diversas medidas para proporcionar o ajuste perfeito para você, com tamanhos que valorizam o conforto sem abrir mão do estilo. Política de Troca e Devolução Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a qualidade e autenticidade do produto, pedimos o envio de um vídeo original da peça, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-masculino-com-tatuagens-em-estadio-2-fd684bf2363e71801317933996128824-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630295762",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630295763",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630295764",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630295765",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630295766",
+          "size": "XG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-tommy-hulfiger-cinza-17pq3/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1181"
+    },
+    {
+      "id": "dx-377776300",
+      "sourceId": "377776300",
+      "slug": "camiseta-tommy-jeans-branca-377776300",
+      "name": "CAMISETA TOMMY JEANS BRANCA",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "CAMISETAS",
+      "description": "Camiseta Tommy Jeans Branca – Malha Pima de Extremo Luxo do P ao G1 Descubra a Camiseta Tommy Jeans Branca, confeccionada em malha Pima de altíssima qualidade, reconhecida por sua maciez incomparável e resistência superior. Uma peça essencial para quem valoriza conforto e estilo com toque de luxo no dia a dia. Por que escolher a Camiseta Tommy Jeans Branca? Malha Pima Premium Produzida com algodão Pima, esta camiseta oferece uma textura suave e durável, garantindo toque confortável e acabamento refinado. Ideal para quem busca uma peça que une elegância e resistência. Design Clássico e Versátil Com modelagem que vai do P ao G1, ela se adapta perfeitamente ao seu corpo, proporcionando caimento impecável. A cor branca traz um visual clean e sofisticado, fácil de combinar em qualquer ocasião. Política de Troca e Devolução Sua satisfação é nossa prioridade! Caso precise trocar ou devolver, oferecemos um processo simples e confiável. Consulte nossa política para garantir uma experiência de compra segura e transparente. Tamanhos Disponíveis | Tamanho | |---------| | P | | M | | G | | G1 | Dica: Para melhor ajuste, confira as medidas disponíveis e escolha o tamanho ideal para você.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-de-modelo-com-tatuagens-e-camiseta-branca-ad890db5c976d36ead17933106478184-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/camiseta-branca-tommy-jeans-em-close-010ba5f28e8368e83517933106478734-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1629540088",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629540089",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1629540090",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629540091",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629540092",
+          "size": "XG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-tommy-jeans-branca-6u841/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1173"
+    },
+    {
+      "id": "dx-378226889",
+      "sourceId": "378226889",
+      "slug": "camiseta-tommy-jeans-branca-basic-378226889",
+      "name": "CAMISETA TOMMY JEANS BRANCA BASIC",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "Produtos",
+      "description": "Camisa Tommy Jeans Branca Basic – Malha Pima de Extremo Luxo Apresentamos a Camisa Tommy Jeans Branca Basic, confeccionada com a exclusiva malha Pima, reconhecida mundialmente pela sua suavidade, durabilidade e toque extremamente macio. Um produto de extremo luxo que garante conforto, sofisticação e estilo para o seu dia a dia. Por que escolher a Camisa Tommy Jeans Branca Basic? Qualidade Premium com Malha Pima Produzida com algodão Pima, a camiseta oferece uma textura incomparável, excelente respirabilidade e alta resistência ao desgaste, mantendo a peça bonita e confortável mesmo após várias lavagens. Seu tecido de qualidade superior proporciona um toque extremamente suave na pele, garantindo conforto durante todo o uso. Design Clássico e Versátil A cor branca traz sofisticação, elegância e facilidade para combinar com qualquer look, seja casual ou mais arrumado. O design apresenta a discreta assinatura Tommy Jeans no peito, proporcionando um visual moderno, minimalista e sofisticado. Um básico indispensável no guarda-roupa masculino, com caimento perfeito do P ao G1. Conforto e Ajuste Ideal Disponível nos tamanhos P ao G1, a camiseta foi pensada para se adaptar a diferentes tipos de corpo, garantindo liberdade de movimento e conforto durante todo o uso. Sua malha Pima proporciona leveza, maciez e excelente caimento, tornando a peça ideal para quem busca qualidade superior e elegância em todas as ocasiões. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-masculino-com-tatuagens-e-estilo-moderno-94ad3955d9e9b4b65817934892670841-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-de-camiseta-tommy-jeans-1-f79d3f875c7f9aeea217934892671143-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630902241",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630902242",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1630902243",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630902244",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630902245",
+          "size": "XG",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [],
+      "totalStock": 5,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-tommy-jeans-branca-basic-1uhwn/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1199"
+    },
+    {
+      "id": "dx-377989753",
+      "sourceId": "377989753",
+      "slug": "camiseta-tommy-jeans-branca-basic-377989753",
+      "name": "CAMISETA TOMMY JEANS BRANCA BASIC",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "Produtos",
+      "description": "Camiseta Tommy Jeans Branca Basic – Malha Pima de Extremo Luxo Apresentamos a Camiseta Tommy Jeans Branca Basic, uma peça essencial para quem valoriza estilo, conforto e qualidade superior. Confeccionada em malha Pima, considerada uma das fibras de algodão mais nobres do mundo, esta camiseta oferece uma experiência de uso única, com toque macio e durabilidade incomparável. Por que escolher a Camiseta Tommy Jeans Branca Basic? Malha Pima de Extremo Luxo A malha Pima presente nesta camiseta garante um tecido suave, resistente e com acabamento premium. Ideal para quem busca uma peça sofisticada que mantém a beleza mesmo após várias lavagens. Design Básico e Atemporal Com corte clássico e cor branca, essa camiseta combina facilmente com qualquer look, seja casual ou mais arrumado. Versatilidade e elegância para o seu dia a dia. Conforto e Ajuste Perfeito Disponível dos tamanhos P ao G1, a camiseta oferece um caimento impecável para diferentes tipos de corpo, valorizando seu estilo com conforto durante todo o dia. Política de Troca e Devolução Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, pedimos o envio de um vídeo original da camiseta, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-masculino-com-tatuagens-em-estadio-1-c36716873ede9b304a17933908015052-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630190010",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630190011",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630190012",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630190013",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630190014",
+          "size": "XG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-tommy-jeans-branca-basic-t4yzs/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1176"
+    },
+    {
       "id": "dx-377727725",
       "sourceId": "377727725",
       "slug": "camiseta-tommy-jeans-cinza-377727725",
@@ -15735,6 +16926,128 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-tommy-jeans-cinza-1j59m/",
       "lastSyncedAt": "2026-10-31T22:42:06.820Z",
       "sku": "1161"
+    },
+    {
+      "id": "dx-377718681",
+      "sourceId": "377718681",
+      "slug": "camiseta-tommy-jeans-marinho-377718681",
+      "name": "CAMISETA TOMMY JEANS MARINHO",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "CAMISETAS",
+      "description": "Camiseta Tommy Jeans Marinho – Malha Pima de Extremo Luxo Apresentamos a Camiseta Tommy Jeans Marinho, confeccionada com a exclusiva malha Pima, reconhecida mundialmente pela sua suavidade, durabilidade e toque extremamente macio. Um produto de extremo luxo que garante conforto e estilo para o seu dia a dia. Por que escolher a Camiseta Tommy Jeans Marinho? Qualidade Premium com Malha Pima Produzida com algodão Pima, a camiseta oferece uma textura incomparável e alta resistência ao desgaste, mantendo a peça bonita e confortável mesmo após várias lavagens. Design Clássico e Versátil A cor marinho traz sofisticação e facilidade para combinar com qualquer look, seja casual ou mais arrumado. Um básico indispensável no guarda-roupa, com caimento perfeito do P ao G1. Conforto e Ajuste Ideal Disponível do tamanho P ao G1, a camiseta foi pensada para se adaptar a diferentes tipos de corpo, garantindo liberdade de movimento e conforto durante todo o uso. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-masculino-com-tatuagens-e-estilo-casual-3cce22dec6011d736817932974304207-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-detalhado-com-camiseta-tommy-jeans-b42a363f3bf8458eb317932974304954-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1629364358",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1629364359",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629364360",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1629364361",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-tommy-jeans-marinho-167y8/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1160"
+    },
+    {
+      "id": "dx-378027263",
+      "sourceId": "378027263",
+      "slug": "camiseta-tommy-jeans-preta-378027263",
+      "name": "CAMISETA TOMMY JEANS PRETA",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "Produtos",
+      "description": "Camiseta Tommy Jeans Preta – Malha Pima de Extremo Luxo Apresentamos a Camiseta Tommy Jeans Preta, feita com malha Pima de extremo luxo, oferecendo uma experiência única em conforto e estilo. Uma peça essencial para seu guarda-roupa, que alia qualidade superior e design clássico. Por que escolher a Camiseta Tommy Jeans Preta? Malha Pima Premium Produzida com algodão Pima, reconhecido mundialmente pela sua maciez incomparável e resistência, essa camiseta proporciona toque suave na pele e durabilidade prolongada — para você vestir e sentir o luxo todos os dias. Design Versátil e Atemporal O preto clássico combina com qualquer look, do casual ao urbano, garantindo estilo elegante e discreto. Corte impecável que valoriza o corpo, disponível dos tamanhos do P ao G1, para melhor ajuste. Política de Troca e Devolução Sua satisfação é prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade, basta enviar um vídeo original da peça, sem sinais de uso. Tamanhos Disponíveis | Tamanho | |---------| | P | | M | | G | | G1 | Dica: Meça suas medidas e escolha o tamanho ideal para um ajuste perfeito!",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-masculino-com-tatuagens-e-estilo-casual-2-9b39ca640ace397c4b17933982765575-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-de-camiseta-tommy-jeans-e-tatuagem-a9757a8c2ba463299f17933982764814-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630288234",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630288235",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630288236",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630288237",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630288238",
+          "size": "XG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P",
+        "XG"
+      ],
+      "colors": [],
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camiseta-tommy-jeans-preta-1axn0/",
+      "lastSyncedAt": "2026-11-01T01:50:54.753Z",
+      "sku": "1180"
     },
     {
       "id": "dx-377745526",
