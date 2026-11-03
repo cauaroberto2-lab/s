@@ -3570,7 +3570,7 @@
           "id": "1504862358",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -3590,11 +3590,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-grafite-latex-1ymnd/",
-      "lastSyncedAt": "2026-10-27T23:54:48.515Z",
+      "lastSyncedAt": "2026-11-03T11:37:42.959Z",
       "sku": "717"
     },
     {
@@ -22858,8 +22858,8 @@
           "id": "1544997033",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1544997034",
@@ -22878,11 +22878,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 23,
+      "totalStock": 22,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-verde-preto-off-b2trw/",
-      "lastSyncedAt": "2026-10-31T19:26:21.037Z",
+      "lastSyncedAt": "2026-11-03T11:37:42.959Z",
       "sku": "846"
     },
     {
@@ -47325,7 +47325,7 @@
           "id": "1548955609",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -47352,11 +47352,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-branco-latex-1qfyy/",
-      "lastSyncedAt": "2026-10-09T21:07:39.776Z",
+      "lastSyncedAt": "2026-11-03T11:37:42.959Z",
       "sku": "864"
     },
     {
@@ -51368,7 +51368,7 @@
           "id": "1628728826",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -51388,11 +51388,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-182-suit-aqua-1fv8f/",
-      "lastSyncedAt": "2026-10-31T15:01:57.068Z"
+      "lastSyncedAt": "2026-11-03T11:37:42.959Z"
     },
     {
       "id": "dx-351107637",
