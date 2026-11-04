@@ -6703,8 +6703,8 @@
           "id": "1594356233",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1594356234",
@@ -6751,11 +6751,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-force-cinza-hrsyc/",
-      "lastSyncedAt": "2026-11-04T00:04:05.646Z",
+      "lastSyncedAt": "2026-11-04T15:05:37.146Z",
       "sku": "1085"
     },
     {
@@ -19236,8 +19236,8 @@
           "id": "1632488141",
           "size": "GG",
           "color": "Preto",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -19249,11 +19249,11 @@
         "Branco",
         "Preto"
       ],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/conjunto-adidas-f1-audi-1hx6q/",
-      "lastSyncedAt": "2026-11-04T00:04:05.646Z",
+      "lastSyncedAt": "2026-11-04T15:05:37.146Z",
       "sku": "1204"
     },
     {
@@ -22383,7 +22383,7 @@
           "id": "1401232975",
           "size": "40",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -22421,11 +22421,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-cacau-luzhl/",
-      "lastSyncedAt": "2026-11-03T19:04:02.808Z",
+      "lastSyncedAt": "2026-11-04T15:05:37.146Z",
       "sku": "166"
     },
     {
@@ -28391,8 +28391,8 @@
           "id": "1616874457",
           "size": "39",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1616874460",
@@ -28432,11 +28432,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-grafite-preto-r4yoc/",
-      "lastSyncedAt": "2026-10-31T19:26:21.037Z"
+      "lastSyncedAt": "2026-11-04T15:05:37.146Z"
     },
     {
       "id": "dx-357320171",
@@ -29077,15 +29077,15 @@
           "id": "1405149523",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
           "id": "1405149527",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1405149531",
@@ -29112,7 +29112,7 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/",
-      "lastSyncedAt": "2026-11-03T19:04:02.808Z",
+      "lastSyncedAt": "2026-11-04T15:05:37.146Z",
       "sku": "74"
     },
     {
@@ -36497,8 +36497,8 @@
           "id": "1536788269",
           "size": "41",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1536788271",
@@ -36524,11 +36524,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 0,
-      "available": false,
-      "archived": true,
+      "totalStock": 1,
+      "available": true,
+      "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-dunas-grafite-1g5o0/",
-      "lastSyncedAt": "2026-10-17T01:24:18.622Z",
+      "lastSyncedAt": "2026-11-04T15:05:37.146Z",
       "sku": "802"
     },
     {
@@ -39485,7 +39485,7 @@
           "id": "1594446546",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -39512,11 +39512,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/lacoste-bege-cinza-b3u6y/",
-      "lastSyncedAt": "2026-10-21T16:02:14.706Z",
+      "lastSyncedAt": "2026-11-04T15:05:37.146Z",
       "sku": "1090"
     },
     {
@@ -42679,7 +42679,7 @@
           "id": "1632204955",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         },
         {
@@ -42699,11 +42699,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-areia-off-white-4cua5/",
-      "lastSyncedAt": "2026-11-03T19:04:02.808Z"
+      "lastSyncedAt": "2026-11-04T15:05:37.146Z"
     },
     {
       "id": "dx-319132195",
@@ -52897,7 +52897,7 @@
           "id": "1598661457",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -52924,11 +52924,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-bege-preto-1eica/",
-      "lastSyncedAt": "2026-10-28T21:36:12.199Z",
+      "lastSyncedAt": "2026-11-04T15:05:37.146Z",
       "sku": "1105"
     },
     {
