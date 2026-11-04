@@ -8640,8 +8640,8 @@
           "id": "1589502004",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1589502005",
@@ -8688,11 +8688,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/armani-ax-exchange-branco-preto-i8msw/",
-      "lastSyncedAt": "2026-11-03T19:04:02.808Z",
+      "lastSyncedAt": "2026-11-04T06:50:32.584Z",
       "sku": "1078"
     },
     {
@@ -9679,7 +9679,7 @@
           "id": "1605214778",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -9720,11 +9720,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ax-armani-off-white-preto-918us/",
-      "lastSyncedAt": "2026-10-28T16:59:16.628Z",
+      "lastSyncedAt": "2026-11-04T06:50:32.584Z",
       "sku": "1154"
     },
     {
@@ -24527,8 +24527,8 @@
           "id": "1605819135",
           "size": "43",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -24544,11 +24544,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-ted-caramelo-off-1eyqd/",
-      "lastSyncedAt": "2026-10-27T15:43:35.405Z",
+      "lastSyncedAt": "2026-11-04T06:50:32.584Z",
       "sku": "1124"
     },
     {
@@ -53427,7 +53427,7 @@
           "id": "1401140094",
           "size": "36",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -53493,11 +53493,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/",
-      "lastSyncedAt": "2026-11-03T19:04:02.808Z",
+      "lastSyncedAt": "2026-11-04T06:50:32.584Z",
       "sku": "117"
     },
     {
