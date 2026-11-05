@@ -672,6 +672,83 @@
       "sku": "1104"
     },
     {
+      "id": "dx-379030081",
+      "sourceId": "379030081",
+      "slug": "9060-azul-bebe-379030081",
+      "name": "9060 AZUL BEBÊ",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "Tênis 9060 Azul Bebê – Linha Luxo de Alta Qualidade Apresentamos o Tênis 9060 Azul Bebê, um calçado desenvolvido especialmente para quem busca conforto e estilo para o dia a dia, para o corre e para as atividades na academia. Parte da nossa exclusiva Linha Luxo, este tênis une alta qualidade, design moderno e praticidade para acompanhar seu ritmo. Por que escolher o Tênis 9060 Azul Bebê? Design Moderno e Versátil O tom azul bebê confere um visual leve e sofisticado, perfeito para combinar com diferentes looks, seja para o uso cotidiano ou para os treinos na academia. Seu estilo clean e elegante torna-o uma escolha ideal para quem valoriza um calçado que une beleza e funcionalidade. Conforto e Ajuste Perfeito Fabricado com materiais de alta qualidade, o 9060 Azul Bebê possui palmilha acolchoada que oferece maciez e suporte para os pés durante horas de uso. Seu formato ergonômico garante um ajuste confortável, facilitando seus movimentos tanto nas ruas quanto nos exercícios. Durabilidade e Acabamento Premium Com atenção aos detalhes e acabamento refinado, este tênis mantém sua forma e cor mesmo após uso frequente. A Linha Luxo assegura um produto resistente, que acompanha seu ritmo sem perder o estilo. Tamanhos Disponíveis Escolha o tamanho ideal para você consultando a tabela abaixo, com os tamanhos disponíveis do 34 ao 39 e o comprimento correspondente em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca Sua satisfação é essencial para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e a qualidade do produto, solicitamos o envio de um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-07-96dfb30554d9380c9717938426550227-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-06-1-0691701127010cad7e17938426550332-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-05-80ece398559bf9f31117938426549699-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-06-01c0bda41421fbf81217938426549860-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-06-2-f6fa0fadf7804941bc17938426549813-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-06-3-1eb197b958403cac5a17938426550562-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-06-4-7da3c4e6dbb9b297ce17938426550614-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1633286379",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1633286380",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1633286381",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1633286382",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1633286383",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1633286384",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-azul-bebe-ah2u3/",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z"
+    },
+    {
       "id": "dx-351213202",
       "sourceId": "351213202",
       "slug": "9060-azul-off-white-351213202",
@@ -2645,6 +2722,83 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-talp-bege-off-w0an9/",
       "lastSyncedAt": "2026-11-04T21:23:55.235Z",
       "sku": "1049"
+    },
+    {
+      "id": "dx-379035997",
+      "sourceId": "379035997",
+      "slug": "9060-taupe-areia-379035997",
+      "name": "9060 TAUPE AREIA",
+      "brand": "Não informada",
+      "category": "Tênis",
+      "subCategory": "9060",
+      "description": "Tênis 9060 Taupe Areia – Linha Luxo de Alta Qualidade Apresentamos o Tênis 9060 Taupe Areia, um calçado que reúne conforto excepcional, versatilidade e acabamento premium, ideal para quem busca um produto de alta qualidade da nossa exclusiva Linha Luxo. Por que escolher o Tênis 9060 Taupe Areia? Design Versátil e Sofisticado O tom Taupe Areia traz uma nuance neutra e elegante, perfeita para combinar com diversos estilos e ocasiões, desde o casual até o mais urbano. Seu visual moderno e discreto faz dele uma peça-chave no seu guarda-roupa. Conforto e Ajuste Impecáveis Fabricado com materiais selecionados, o 9060 oferece palmilha acolchoada que proporciona maciez e suporte ao longo do dia, garantindo conforto mesmo nas jornadas mais longas. Durabilidade e Acabamento de Linha Luxo Com atenção especial aos detalhes, este tênis mantém sua forma e beleza mesmo após uso frequente, acompanhando seu ritmo sem perder a qualidade e o estilo. Tamanhos Disponíveis Encontre o tamanho ideal para você, disponível do 34 ao 39, com os respectivos comprimentos em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, solicitamos o envio de um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-48-1-a51e284b44b87aa03c17938447096187-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-47-2-d567d2f9738b21493c17938447095719-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-47-3-da079e3de14639678c17938447096816-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-47-4-a2a587657d6f509eab17938447096698-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-48-f42bcf8c7d656bcbc817938447096641-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-47-9bfe4a011788b8676f17938447214366-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-47-1-d25c263d7ce7cd754517938447210085-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1633298406",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1633298407",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1633298408",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1633298409",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1633298410",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1633298411",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-taupe-areia-1sb14/",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z"
     },
     {
       "id": "dx-363953658",
@@ -6009,8 +6163,8 @@
           "id": "1623192710",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1623192711",
@@ -6029,11 +6183,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adizero-boston-11-aqua-preto-eop8j/",
-      "lastSyncedAt": "2026-11-05T01:38:08.667Z",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z",
       "sku": "1142"
     },
     {
@@ -7186,8 +7340,8 @@
           "id": "1590577356",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1590577358",
@@ -7213,11 +7367,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-axcee-branco-cinza-verde-hpiif/",
-      "lastSyncedAt": "2026-10-23T00:48:25.912Z",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z",
       "sku": "1080"
     },
     {
@@ -7685,6 +7839,82 @@
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-portal-grafite-branco-q66fg/",
       "lastSyncedAt": "2026-11-05T01:38:08.667Z",
       "sku": "1135"
+    },
+    {
+      "id": "dx-379034008",
+      "sourceId": "379034008",
+      "slug": "air-max-portal-preto-branco-379034008",
+      "name": "AIR MAX PORTAL PRETO BRANCO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "AIR MAX AXCEE",
+      "description": "AIR MAX PORTAL PRETO BRANCO – Linha Luxo de Alta Qualidade Conheça o Tênis AIR MAX PORTAL Preto Branco, um calçado exclusivo da nossa Linha Luxo, que une design diferenciado, conforto excepcional e alta durabilidade para quem busca um produto único e de alta qualidade. Por que escolher o AIR MAX PORTAL Preto Branco? Design Diferenciado e Único Combinando o clássico preto e branco, o AIR MAX PORTAL traz um visual moderno e versátil, que se destaca em qualquer ocasião — do passeio casual ao look urbano mais sofisticado. Conforto e Ajuste Perfeito Desenvolvido com materiais premium e palmilha acolchoada, este tênis oferece excelente suporte e maciez para os seus pés, garantindo conforto durante todo o dia. Durabilidade e Acabamento Premium Produzido com atenção especial aos detalhes, o AIR MAX PORTAL mantém sua forma e beleza mesmo após uso frequente, acompanhando seu ritmo sem perder o estilo. Tamanhos Disponíveis Escolha o tamanho ideal conferindo a tabela abaixo, com as medidas em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé cuidadosamente e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-34-2-bb08973aea19f2066f17938441370778-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-33-1-a6510a181c7d61984e17938441370471-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-33-2-b34d8c8ce9cc7ca2b217938441370848-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-33-f21676aebbd048117717938441370047-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-34-fe1be1baa7d7f94fee17938441371591-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-34-1-12e8b44c046bd4db2517938441366097-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1633294906",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1633294907",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1633294908",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1633294909",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1633294910",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1633294911",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 11,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/air-max-portal-preto-branco-25o0w/",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z"
     },
     {
       "id": "dx-354010579",
@@ -23408,7 +23638,7 @@
           "id": "1416307440",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -23442,11 +23672,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-grafite-latex-al9cq/",
-      "lastSyncedAt": "2026-11-04T21:23:55.235Z",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z",
       "sku": "168"
     },
     {
@@ -24539,7 +24769,7 @@
           "id": "1581764550",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -24587,11 +24817,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 18,
+      "totalStock": 17,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/dunk-low-sb-bird-preto-red-21r5q/",
-      "lastSyncedAt": "2026-11-05T01:38:08.667Z",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z",
       "sku": "1042"
     },
     {
@@ -29053,8 +29283,8 @@
           "id": "1523422003",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1523422004",
@@ -29080,11 +29310,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-nobuk-marinho-preto-1gar1/",
-      "lastSyncedAt": "2026-09-11T18:10:31.338Z",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z",
       "sku": "755"
     },
     {
@@ -36149,6 +36379,84 @@
       "sku": "808"
     },
     {
+      "id": "dx-379037189",
+      "sourceId": "379037189",
+      "slug": "jordan-low-caramelo-preto-379037189",
+      "name": "JORDAN LOW CARAMELO PRETO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "JORDAN",
+      "description": "Tênis JORDAN LOW Caramelo Preto – Linha Luxo de Alta Qualidade Apresentamos o Tênis JORDAN LOW Caramelo Preto, um modelo exclusivo da nossa Linha Luxo, pensado para quem deseja se destacar com um calçado sofisticado, confortável e durável. Por que escolher o JORDAN LOW Caramelo Preto? Design Exclusivo e Sofisticado Combinando o tom quente do caramelo com detalhes em preto, este tênis oferece um visual único, perfeito para quem quer marcar presença com estilo e personalidade em qualquer ocasião. Conforto e Ajuste Perfeito Fabricado com materiais de alta qualidade e equipado com palmilha acolchoada, o JORDAN LOW proporciona maciez e suporte ideais para seus pés. Seu design ergonômico garante conforto durante todo o dia, mesmo nas atividades mais intensas. Durabilidade e Acabamento Premium Com acabamento refinado e atenção especial aos detalhes, este tênis mantém sua forma, cor e beleza mesmo após uso frequente, acompanhando seu ritmo sem perder o estilo. Tamanhos Disponíveis Escolha o tamanho ideal para você consultando a tabela abaixo com os comprimentos em centímetros: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 38 | 25.0 | | 39 | 26.0 | | 40 | 27.0 | | 41 | 27.5 | | 42 | 29.0 | | 43 | 29.5 | Dica: Meça seu pé com cuidado e compare com a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para isso, envie um vídeo original do tênis, sem sinais de uso, garantindo a autenticidade e qualidade do produto.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-49-05-1-2db84727d0436b1d9e17938450064018-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-49-04-479bd2777494d393d717938450064173-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-49-03-21394852513b1e98d117938450063706-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-49-03-1-c3e7374d94ba88c82417938450063957-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-49-03-2-5284cf5f3d37b7f61a17938450063840-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-49-04-1-dd043e337d9fbd54fc17938450064042-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-49-04-2-e2d7dbd120daddea7f17938450064477-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-49-05-0fc23b4969598c19e617938450064119-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1633300355",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1633300356",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1633300357",
+          "size": "40",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1633300358",
+          "size": "41",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1633300359",
+          "size": "42",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1633300360",
+          "size": "43",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-caramelo-preto-w9usj/",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z"
+    },
+    {
       "id": "dx-318643392",
       "sourceId": "318643392",
       "slug": "jordan-low-chicago-318643392",
@@ -36884,7 +37192,7 @@
           "id": "1542627167",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -36911,11 +37219,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-low-edition-boston-celtics-xb8wl/",
-      "lastSyncedAt": "2026-10-23T19:46:41.293Z",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z",
       "sku": "831"
     },
     {
@@ -43161,8 +43469,8 @@
           "id": "1628704966",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1628704967",
@@ -43192,11 +43500,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 13,
+      "totalStock": 12,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-bege-off-white-1ur64/",
-      "lastSyncedAt": "2026-11-04T21:23:55.235Z",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z",
       "sku": "1175"
     },
     {
@@ -43906,15 +44214,15 @@
           "id": "1492877357",
           "size": "35",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
           "id": "1492877360",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1492877361",
@@ -43947,11 +44255,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-creme-bordo-a58fz/",
-      "lastSyncedAt": "2026-11-04T00:04:05.646Z",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z",
       "sku": "705"
     },
     {
@@ -44005,7 +44313,7 @@
           "id": "1624591050",
           "size": "42",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -44025,11 +44333,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-9060-grafite-prete-1tsau/",
-      "lastSyncedAt": "2026-11-05T01:38:08.667Z",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z",
       "sku": "1146"
     },
     {
@@ -48199,8 +48507,8 @@
           "id": "1560273611",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1560273613",
@@ -48226,11 +48534,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-coast-1kwtn/",
-      "lastSyncedAt": "2026-10-17T16:50:43.378Z",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z",
       "sku": "945"
     },
     {
@@ -58112,7 +58420,7 @@
           "id": "1412399114",
           "size": "41",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -58139,11 +58447,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 15,
+      "totalStock": 14,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/jordan-cafe-off-u4bck/",
-      "lastSyncedAt": "2026-10-29T20:25:55.106Z",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z",
       "sku": "245"
     },
     {
@@ -58825,6 +59133,83 @@
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-knu-skool-bordo-15q3q/",
       "lastSyncedAt": "2026-10-20T22:06:20.890Z"
+    },
+    {
+      "id": "dx-379032148",
+      "sourceId": "379032148",
+      "slug": "vans-neo-bege-379032148",
+      "name": "VANS NEO BEGE",
+      "brand": "Vans",
+      "category": "Tênis",
+      "subCategory": "NEO",
+      "description": "Tênis VANS NEO BEGE – Linha Luxo de Alta Qualidade Apresentamos o Tênis VANS NEO BEGE, um calçado que une conforto, versatilidade e alta qualidade, perfeito para quem busca estilo e desempenho em um único produto da nossa exclusiva Linha Luxo. Por que escolher o Tênis VANS NEO BEGE? Design Sofisticado e Versátil Com um tom bege neutro e elegante, o VANS NEO BEGE se adapta facilmente a diversos looks, do casual ao urbano, oferecendo uma aparência clean e moderna que combina com qualquer ocasião. Conforto e Ajuste Ideal Produzido com materiais de primeira linha e palmilha acolchoada, este tênis proporciona conforto excepcional durante todo o dia, garantindo suporte e maciez para seus pés, seja em passeios, no trabalho ou em momentos de lazer. Durabilidade e Acabamento Premium O VANS NEO BEGE é fabricado com atenção aos detalhes e acabamento refinado, mantendo sua forma e beleza mesmo após uso frequente. A Linha Luxo garante um produto resistente, pensado para acompanhar seu ritmo com qualidade superior. Tamanhos Disponíveis Confira a tabela com os tamanhos e o comprimento do pé em centímetros para escolher o seu: | Tamanho (BR) | Comprimento do Pé (cm) | |--------------|------------------------| | 34 | 22.5 | | 35 | 23.0 | | 36 | 24.0 | | 37 | 25.0 | | 38 | 25.0 | | 39 | 26.0 | Dica: Meça seu pé com cuidado e consulte a tabela para garantir o ajuste perfeito! Política de Troca e Devolução Sua satisfação é nossa prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, basta enviar um vídeo original do tênis, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-22-2-07f76b1f8546826f7617938429840314-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-21-1-86d3715298e5fd07e417938429839713-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-20-8462c91d6dbaa493a717938429838674-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-21-bcaabfd8ca751b45d117938429836279-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-21-2-555b6ada791ca6afe617938429837081-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-22-a2c7b9a45d23fa89bd17938429837966-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/whatsapp-image-2026-11-04-at-21-48-22-1-efa6d2c7a7e6d7a0dd17938429837130-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1633292332",
+          "size": "34",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1633292333",
+          "size": "35",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1633292334",
+          "size": "36",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1633292335",
+          "size": "37",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1633292336",
+          "size": "38",
+          "color": "Padrão",
+          "stock": 3,
+          "available": true
+        },
+        {
+          "id": "1633292337",
+          "size": "39",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "colors": [],
+      "totalStock": 12,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-neo-bege-bw0le/",
+      "lastSyncedAt": "2026-11-05T08:57:32.879Z"
     },
     {
       "id": "dx-352447550",
