@@ -2420,8 +2420,8 @@
           "id": "1633280099",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -2433,11 +2433,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-preto-castanha-tn947/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z"
+      "lastSyncedAt": "2026-11-08T22:39:21.223Z"
     },
     {
       "id": "dx-358255129",
@@ -3506,7 +3506,7 @@
           "id": "1493963121",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -3540,11 +3540,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-2000-branco-gelo-129bx/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-08T22:39:21.223Z",
       "sku": "706"
     },
     {
@@ -6488,8 +6488,8 @@
           "id": "1549273847",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1549273848",
@@ -6515,11 +6515,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-adizero-boston-11-preto-branco-1j5gp/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-08T22:39:21.223Z",
       "sku": "870"
     },
     {
@@ -18880,8 +18880,8 @@
           "id": "1548195022",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1548195024",
@@ -18904,11 +18904,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/campus-branco-preto-latex-1kxk7/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-08T22:39:21.223Z",
       "sku": "727"
     },
     {
@@ -24258,7 +24258,7 @@
           "id": "1544997032",
           "size": "41",
           "color": "Padrão",
-          "stock": 5,
+          "stock": 4,
           "available": true
         },
         {
@@ -24285,11 +24285,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 16,
+      "totalStock": 15,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-verde-preto-off-b2trw/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-08T22:39:21.223Z",
       "sku": "846"
     },
     {
@@ -32606,8 +32606,8 @@
           "id": "1532566191",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1532566192",
@@ -32633,11 +32633,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/forum-low-84-cinza-branco-1pcgj/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-08T22:39:21.223Z",
       "sku": "908"
     },
     {
@@ -48863,8 +48863,8 @@
           "id": "1548955609",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1548955611",
@@ -48890,11 +48890,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nike-dunk-low-jumbo-branco-latex-1qfyy/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-08T22:39:21.223Z",
       "sku": "864"
     },
     {
@@ -60644,7 +60644,7 @@
           "id": "1617632352",
           "size": "39",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -60685,11 +60685,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-wayvee-skate-preto-grafite-1conq/?entry_path=category",
-      "lastSyncedAt": "2026-11-08T00:11:16.243Z"
+      "lastSyncedAt": "2026-11-08T22:39:21.223Z"
     },
     {
       "id": "dx-374234925",
@@ -60830,8 +60830,8 @@
           "id": "1410609057",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410609058",
@@ -60868,11 +60868,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-preto-off-lr98c/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-08T22:39:21.223Z",
       "sku": "221"
     },
     {
