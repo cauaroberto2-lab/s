@@ -369,8 +369,8 @@
           "id": "1540260033",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1540260035",
@@ -435,11 +435,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-bordo-884q8/?entry_path=category",
-      "lastSyncedAt": "2026-11-07T20:39:37.427Z",
+      "lastSyncedAt": "2026-11-08T13:47:03.399Z",
       "sku": "818"
     },
     {
@@ -6333,7 +6333,7 @@
           "id": "1494015892",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -6360,11 +6360,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adzero-boston-11-branco-limao-1aklb/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-08T13:47:03.399Z",
       "sku": "453"
     },
     {
@@ -9822,8 +9822,8 @@
           "id": "1559536045",
           "size": "38",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1559536046",
@@ -9870,11 +9870,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/asics-preto-off-1215t/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-08T13:47:03.399Z",
       "sku": "923"
     },
     {
@@ -47782,7 +47782,7 @@
           "id": "1545082934",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -47816,11 +47816,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 12,
+      "totalStock": 11,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/new-balance-9060-stunt-15lp1/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-08T13:47:03.399Z",
       "sku": "850"
     },
     {
@@ -54902,7 +54902,7 @@
           "id": "1401115572",
           "size": "38",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -54954,11 +54954,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-preto-branco-w3nsz/?entry_path=category",
-      "lastSyncedAt": "2026-11-07T20:39:37.427Z",
+      "lastSyncedAt": "2026-11-08T13:47:03.399Z",
       "sku": "264"
     },
     {
