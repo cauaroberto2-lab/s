@@ -4718,8 +4718,8 @@
           "id": "1633277480",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1633277481",
@@ -4745,11 +4745,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-gazelle-marinho-coffe-1o1re/?entry_path=category",
-      "lastSyncedAt": "2026-11-11T21:43:57.237Z"
+      "lastSyncedAt": "2026-11-12T10:39:15.436Z"
     },
     {
       "id": "dx-345524279",
@@ -5232,8 +5232,8 @@
           "id": "1556326758",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -5245,11 +5245,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adidas-samba-plataforma-marrom-latex-bnq1t/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-12T10:39:15.436Z",
       "sku": "912"
     },
     {
@@ -49651,8 +49651,8 @@
           "id": "1410669493",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410669494",
@@ -49710,11 +49710,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/old-skool-preto-branco-xkzxj/?entry_path=category",
-      "lastSyncedAt": "2026-11-12T02:41:27.356Z",
+      "lastSyncedAt": "2026-11-12T10:39:15.436Z",
       "sku": "279"
     },
     {
@@ -53315,8 +53315,8 @@
           "id": "1633282387",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1633282388",
@@ -53342,11 +53342,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-nikel-all-black-x1azp/?entry_path=category",
-      "lastSyncedAt": "2026-11-10T19:19:09.988Z"
+      "lastSyncedAt": "2026-11-12T10:39:15.436Z"
     },
     {
       "id": "dx-351107637",
@@ -53385,8 +53385,8 @@
           "id": "1545052049",
           "size": "36",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1545052050",
@@ -53451,11 +53451,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 9,
+      "totalStock": 8,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-park-niquel-creme-off-kmign/?entry_path=category",
-      "lastSyncedAt": "2026-11-11T21:43:57.237Z",
+      "lastSyncedAt": "2026-11-12T10:39:15.436Z",
       "sku": "849"
     },
     {
@@ -60456,8 +60456,8 @@
           "id": "1618829558",
           "size": "40",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1618829559",
@@ -60529,11 +60529,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-sk8-hi-azul-jeans-bkhwk/?entry_path=category",
-      "lastSyncedAt": "2026-11-09T20:56:05.581Z",
+      "lastSyncedAt": "2026-11-12T10:39:15.436Z",
       "sku": "1153"
     },
     {
