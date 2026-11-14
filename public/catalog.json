@@ -287,7 +287,7 @@
           "id": "1504176798",
           "size": "40",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -325,11 +325,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 35,
+      "totalStock": 34,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/530-branco-prata-preto-1u4up/?entry_path=category",
-      "lastSyncedAt": "2026-11-13T20:47:21.176Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "715"
     },
     {
@@ -1055,7 +1055,7 @@
           "id": "1598712507",
           "size": "37",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -1082,11 +1082,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-branco-branco-vermelho-1voyo/?entry_path=category",
-      "lastSyncedAt": "2026-11-08T00:11:16.243Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "1098"
     },
     {
@@ -2837,8 +2837,8 @@
           "id": "1633298411",
           "size": "39",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         }
       ],
       "sizes": [
@@ -2850,11 +2850,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-taupe-areia-1sb14/?entry_path=category",
-      "lastSyncedAt": "2026-11-13T20:47:21.176Z"
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z"
     },
     {
       "id": "dx-363953658",
@@ -2975,7 +2975,7 @@
           "id": "1576961874",
           "size": "37",
           "color": "Padrão",
-          "stock": 4,
+          "stock": 3,
           "available": true
         },
         {
@@ -3002,11 +3002,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 14,
+      "totalStock": 13,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/ad-sl-72-marrom-bordo-1mtud/?entry_path=category",
-      "lastSyncedAt": "2026-11-13T20:47:21.176Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "1031"
     },
     {
@@ -3392,7 +3392,7 @@
           "id": "1396546080",
           "size": "41",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -3419,11 +3419,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 6,
+      "totalStock": 5,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/2000-bege-hxcij/?entry_path=category",
-      "lastSyncedAt": "2026-11-09T20:56:05.581Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "348"
     },
     {
@@ -3773,8 +3773,8 @@
           "id": "1532306713",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1532306715",
@@ -3800,11 +3800,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/adi-2000-gelo-cinza-1hkax/?entry_path=category",
-      "lastSyncedAt": "2026-11-12T23:57:31.485Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "841"
     },
     {
@@ -7209,8 +7209,8 @@
           "id": "1548688749",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1548688750",
@@ -7268,11 +7268,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/air-force-all-black-carbono-1hsud/?entry_path=category",
-      "lastSyncedAt": "2026-11-06T23:23:14.106Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "863"
     },
     {
@@ -12381,6 +12381,111 @@
       "lastSyncedAt": "2026-11-06T23:23:14.106Z"
     },
     {
+      "id": "dx-378143977",
+      "sourceId": "378143977",
+      "slug": "camisa-dry-fit-adidas-azul-marinho-378143977",
+      "name": "CAMISA DRY-FIT ADIDAS AZUL MARINHO",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "ADIDAS",
+      "description": "Camisa Adidas Dry-Fit Azul Marinho – Conforto e Qualidade Premium Apresentamos a Camisa Adidas Dry-Fit Azul Marinho, confeccionada com tecido Dry-Fit, reconhecido pela sua leveza, respirabilidade e conforto. Um produto de qualidade premium que garante frescor, liberdade de movimento e estilo para o seu dia a dia. Por que escolher a Camisa Adidas Dry-Fit Azul Marinho? Qualidade Premium com Tecido Dry-Fit Produzida com tecido Dry-Fit, a camiseta oferece uma textura leve, excelente respirabilidade e secagem rápida, auxiliando na evaporação do suor e proporcionando conforto mesmo durante atividades físicas. Sua alta resistência ao desgaste mantém a peça bonita e confortável mesmo após várias lavagens. Design Clássico e Versátil A cor azul marinho, combinada com os detalhes em branco, traz sofisticação e um visual esportivo moderno, oferecendo facilidade para combinar com qualquer look, seja casual ou esportivo. Um básico indispensável no guarda-roupa, com caimento perfeito do P ao GG. Conforto e Ajuste Ideal Disponível nos tamanhos P ao GG, a camiseta foi pensada para se adaptar a diferentes tipos de corpo, garantindo liberdade de movimento, leveza e conforto durante todo o uso. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-atlatico-com-tatuagens-e-adidas-2-4a4a7b323fb9136dae17934569533327-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-esportivo-com-camiseta-adidas-azul-marinho-3-211128ed2e06c1d58417934569532242-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630584007",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630584008",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630584009",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1630584010",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P"
+      ],
+      "colors": [],
+      "totalStock": 3,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-dry-fit-adidas-azul-marinho-1mywr/?entry_path=category",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
+      "sku": "1175"
+    },
+    {
+      "id": "dx-381075527",
+      "sourceId": "381075527",
+      "slug": "camisa-dry-fit-adidas-branco-preto-adds-381075527",
+      "name": "CAMISA DRY-FIT ADIDAS BRANCO PRETO ADDS",
+      "brand": "Adidas",
+      "category": "Tênis",
+      "subCategory": "ADIDAS",
+      "description": "Camisa Dry-Fit Adidas Branco Preto ADDS – Conforto e Resistência em Alta Qualidade Apresentamos a Camisa Dry-Fit Adidas Branco Preto ADDS, a escolha perfeita para quem busca uma camisa com tecido Dry-Fit de alta qualidade, resistência e conforto incomparável para o dia a dia ou atividades físicas. Por que escolher a Camisa Dry-Fit Adidas ADDS? Tecido Dry-Fit de Alta Performance Confeccionada com tecnologia Dry-Fit, esta camisa oferece excelente respirabilidade, mantendo você sempre seco e confortável, mesmo nas situações mais intensas. Ideal para quem valoriza desempenho sem abrir mão do estilo. Alta Qualidade e Resistência Produzida com materiais premium, a camisa garante durabilidade e resistência ao uso contínuo, mantendo sua aparência e textura após várias lavagens. Design Moderno e Versátil Com as cores branco e preto, a Camisa Dry-Fit Adidas ADDS possui um visual elegante e clean que combina com qualquer look, seja para treinos, passeios ou momentos casuais. Tamanhos Disponíveis Disponível do tamanho M ao GG, para que você encontre o ajuste perfeito para o seu corpo. | Tamanho | |---------| | M | | G | | GG | Dica: Meça suas medidas e escolha o tamanho que melhor se adapta a você para garantir conforto e mobilidade. Política de Troca e Devolução Sua satisfação é prioridade para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Para garantir a autenticidade e qualidade do produto, envie um vídeo original da camisa, sem sinais de uso.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-esportivo-em-estadio-branco-32d5d0b0e13d2805ff17946163238683-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1639135109",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1639135110",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1639135111",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M"
+      ],
+      "colors": [],
+      "totalStock": 2,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-dry-fit-adidas-branco-preto-adds-vxzv0/?entry_path=category",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
+      "sku": "1173"
+    },
+    {
       "id": "dx-378171236",
       "sourceId": "378171236",
       "slug": "camisa-dry-fit-adidas-classic-preto-branco-378171236",
@@ -12438,6 +12543,217 @@
       "sku": "1188"
     },
     {
+      "id": "dx-381070547",
+      "sourceId": "381070547",
+      "slug": "camisa-dry-fit-cinza-logo-bco-basic-381070547",
+      "name": "CAMISA DRY-FIT CINZA LOGO BCO BASIC",
+      "brand": "Não informada",
+      "category": "Vestuário",
+      "subCategory": "DRY FIT",
+      "description": "Camisa Dry-Fit Cinza Logo Branco Basic – Leveza e Desempenho para o Seu Dia a Dia Apresentamos a Camisa Dry-Fit Cinza Logo Branco Basic, confeccionada em tecido Dry-Fit de alta qualidade, que oferece leveza, respirabilidade e resistência ideais para quem busca conforto e durabilidade em qualquer atividade. Por que escolher a Camisa Dry-Fit Cinza Logo Branco Basic? Tecido Dry-Fit Leve e Respirável Produzida com tecnologia avançada, a camisa promove excelente ventilação, mantendo a pele seca e confortável mesmo durante exercícios ou dias quentes. Alta Qualidade e Resistência O material premium garante longa durabilidade, resistente ao desgaste do uso diário, perfeito para quem precisa de uma peça versátil e confiável. Disponível dos Tamanhos M ao GG Atende diferentes perfis com um caimento moderno e confortável, ideal para compor seu guarda-roupa básico com estilo e praticidade. Política de Troca e Devolução Sua satisfação é prioridade! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Certifique-se de enviar a peça nas condições originais, sem uso e com etiqueta para garantir o processo ágil e seguro.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-comercial-com-camiseta-nike-b8187cb93e5b7046b617946137533575-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/textura-esportiva-em-destaque-61cb7dd112d7538bfb17946137542480-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1639119647",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1639119648",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1639119649",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M"
+      ],
+      "colors": [],
+      "totalStock": 2,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-dry-fit-cinza-logo-bco-basic-1ivo9/?entry_path=category",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
+      "sku": "1168"
+    },
+    {
+      "id": "dx-381072312",
+      "sourceId": "381072312",
+      "slug": "camisa-dry-fit-nike-azul-basic-381072312",
+      "name": "CAMISA DRY-FIT NIKE AZUL BASIC",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "NIKE",
+      "description": "Camisa Dry-Fit Nike Azul Basic – Tecidos de Alta Qualidade e Conforto Incomparável Apresentamos a Camisa Dry-Fit Nike Azul Basic, feita com tecido Dry-Fit FR, que oferece alta qualidade e leveza para o seu dia a dia. Perfeita para quem busca conforto, resistência e estilo em uma peça versátil, disponível do tamanho M ao GG. Por que escolher a Camisa Dry-Fit Nike Azul Basic? Tecido Dry-Fit FR de Alta Qualidade Confeccionada com material tecnológico que proporciona excelente respirabilidade e rápida secagem, a camisa mantém você seco e confortável em qualquer situação, seja para treinos, trabalho ou lazer. Leveza e Durabilidade O tecido leve não pesa no corpo, garantindo liberdade de movimentos, enquanto a alta resistência do material assegura durabilidade mesmo após várias lavagens. Modelagem Versátil do M ao GG Disponível em uma ampla gama de tamanhos, a camisa se adapta perfeitamente ao seu corpo, proporcionando ajuste confortável e estilo moderno. Política de Troca e Devolução Sua satisfação é fundamental para nós! Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução. Garanta que a peça esteja em perfeito estado, sem sinais de uso, para um atendimento ágil e eficiente.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-de-modelo-com-camiseta-nike-azul-8c28d05dfd3e1fb93c17946147071059-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-esportivo-com-camiseta-nike-azul-7f8b5d7e8342fac8e917946147067980-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1639125300",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1639125301",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1639125302",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M"
+      ],
+      "colors": [],
+      "totalStock": 2,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-dry-fit-nike-azul-basic-1hxn0/?entry_path=category",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
+      "sku": "1169"
+    },
+    {
+      "id": "dx-378146810",
+      "sourceId": "378146810",
+      "slug": "camisa-dry-fit-nike-azul-marinho-logo-verde-378146810",
+      "name": "CAMISA DRY-FIT NIKE AZUL MARINHO LOGO VERDE",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "NIKE",
+      "description": "Camisa Nike Dry-Fit Azul Marinho – Conforto e Qualidade Premium Apresentamos a Camisa Nike Dry-Fit Azul Marinho, confeccionada com tecido Dry-Fit, reconhecido pela sua leveza, respirabilidade e conforto. Um produto de qualidade premium que garante frescor, liberdade de movimento e estilo para o seu dia a dia. Por que escolher a Camisa Nike Dry-Fit Azul Marinho? Qualidade Premium com Tecido Dry-Fit Produzida com tecido Dry-Fit, a camiseta oferece uma textura leve, excelente respirabilidade e secagem rápida, auxiliando na evaporação do suor e proporcionando conforto mesmo durante atividades físicas. Sua alta resistência ao desgaste mantém a peça bonita e confortável mesmo após várias lavagens. Design Clássico e Versátil A cor azul marinho, combinada com os detalhes em verde e branco, traz sofisticação e um visual esportivo moderno, oferecendo facilidade para combinar com qualquer look, seja casual ou esportivo. Um básico indispensável no guarda-roupa, com caimento perfeito do P ao GG. Conforto e Ajuste Ideal Disponível nos tamanhos P ao GG, a camiseta foi pensada para se adaptar a diferentes tipos de corpo, garantindo liberdade de movimento, leveza e conforto durante todo o uso. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-esportivo-com-camiseta-nike-5a55053c8c699c41c217934584758116-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630595537",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630595538",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630595539",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        },
+        {
+          "id": "1630595540",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P"
+      ],
+      "colors": [],
+      "totalStock": 2,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-dry-fit-nike-azul-marinho-logo-verde-1gz9b/?entry_path=category",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
+      "sku": "1169"
+    },
+    {
+      "id": "dx-378134758",
+      "sourceId": "378134758",
+      "slug": "camisa-dry-fit-nike-branco-preto-378134758",
+      "name": "CAMISA DRY-FIT NIKE BRANCO PRETO",
+      "brand": "Nike",
+      "category": "Tênis",
+      "subCategory": "NIKE",
+      "description": "Camisa Nike Dry-Fit Branco Preto – Conforto e Qualidade Premium Apresentamos a Camisa Nike Dry-Fit Branco Preto, confeccionada com tecido Dry-Fit, reconhecido pela sua leveza, respirabilidade e conforto. Um produto de qualidade premium que garante frescor, liberdade de movimento e estilo para o seu dia a dia. Por que escolher a Camisa Nike Dry-Fit Branco Preto? Qualidade Premium com Tecido Dry-Fit Produzida com tecido Dry-Fit, a camiseta oferece uma textura leve, excelente respirabilidade e secagem rápida, auxiliando na evaporação do suor e proporcionando conforto mesmo durante atividades físicas. Sua alta resistência ao desgaste mantém a peça bonita e confortável mesmo após várias lavagens. Design Clássico e Versátil A combinação das cores branco e preto traz sofisticação e um visual esportivo moderno, oferecendo facilidade para combinar com qualquer look, seja casual ou esportivo. Um básico indispensável no guarda-roupa, com caimento perfeito do P ao GG. Conforto e Ajuste Ideal Disponível nos tamanhos P ao GG, a camiseta foi pensada para se adaptar a diferentes tipos de corpo, garantindo liberdade de movimento, leveza e conforto durante todo o uso. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
+      "images": [
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-esportivo-com-camisa-nike-branca-3473b434077f0d5e9a17934540459373-1024-1024.webp",
+        "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-esportivo-em-camisa-nike-branca-93e1dd09010a69575317934540459942-1024-1024.webp"
+      ],
+      "variants": [
+        {
+          "id": "1630550226",
+          "size": "P",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630550227",
+          "size": "M",
+          "color": "Padrão",
+          "stock": 0,
+          "available": false
+        },
+        {
+          "id": "1630550228",
+          "size": "G",
+          "color": "Padrão",
+          "stock": 2,
+          "available": true
+        },
+        {
+          "id": "1630550229",
+          "size": "GG",
+          "color": "Padrão",
+          "stock": 1,
+          "available": true
+        }
+      ],
+      "sizes": [
+        "G",
+        "GG",
+        "M",
+        "P"
+      ],
+      "colors": [],
+      "totalStock": 3,
+      "available": true,
+      "archived": false,
+      "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-dry-fit-nike-branco-preto-wzt8u/?entry_path=category",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
+      "sku": "1167"
+    },
+    {
       "id": "dx-378175769",
       "sourceId": "378175769",
       "slug": "camisa-dry-fit-nike-cinza-basic-378175769",
@@ -12462,15 +12778,15 @@
           "id": "1630702408",
           "size": "M",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1630702409",
           "size": "G",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1630702410",
@@ -12487,12 +12803,12 @@
         "P"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-dry-fit-nike-cinza-basic-fjwfu/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
-      "sku": "1190"
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
+      "sku": "1166"
     },
     {
       "id": "dx-378174024",
@@ -12501,7 +12817,7 @@
       "name": "CAMISA DRY-FIT NIKE GRAFITE BASIC",
       "brand": "Nike",
       "category": "Tênis",
-      "subCategory": "Produtos",
+      "subCategory": "SPORT",
       "description": "Camisa Dry-Fit Nike Grafite Basic – Conforto e Qualidade Premium Apresentamos a Camisa Dry-Fit Nike Grafite Basic, confeccionada com tecido Dry-Fit, reconhecido pela sua leveza, respirabilidade e conforto. Um produto de qualidade premium que garante frescor, liberdade de movimento e estilo para o seu dia a dia. Por que escolher a Camisa Dry-Fit Nike Grafite Basic? Qualidade Premium com Tecido Dry-Fit Produzida com tecido Dry-Fit, a camiseta oferece uma textura leve, excelente respirabilidade e secagem rápida, auxiliando na evaporação do suor e proporcionando conforto mesmo durante atividades físicas. Sua alta resistência ao desgaste mantém a peça bonita e confortável mesmo após várias lavagens. Design Clássico e Versátil A cor grafite, combinada com o logo preto da Nike no peito, traz sofisticação e um visual esportivo moderno e minimalista, oferecendo facilidade para combinar com qualquer look, seja casual ou esportivo. Um básico indispensável no guarda-roupa, com caimento perfeito do P ao GG. Conforto e Ajuste Ideal Disponível nos tamanhos P ao GG, a camiseta foi pensada para se adaptar a diferentes tipos de corpo, garantindo liberdade de movimento, leveza e conforto durante todo o uso. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-atlatico-com-tatuagens-de-leao-e-floresta-15702df303252de66017934689141628-1024-1024.webp",
@@ -12519,15 +12835,15 @@
           "id": "1630697779",
           "size": "M",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 2,
+          "available": true
         },
         {
           "id": "1630697780",
           "size": "G",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1630697781",
@@ -12544,12 +12860,12 @@
         "P"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-dry-fit-nike-grafite-basic-roeph/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
-      "sku": "1189"
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
+      "sku": "1174"
     },
     {
       "id": "dx-378177466",
@@ -12558,7 +12874,7 @@
       "name": "CAMISA DRY-FIT NIKE PRETO BRANCO",
       "brand": "Nike",
       "category": "Tênis",
-      "subCategory": "Produtos",
+      "subCategory": "SPORT",
       "description": "Camisa Nike Dry-Fit Nike Preto Branco – Conforto e Qualidade Premium Apresentamos a Camisa Nike Dry-Fit Nike Preto Branco, confeccionada com tecido Dry-Fit, reconhecido pela sua leveza, respirabilidade e conforto. Um produto de qualidade premium que garante frescor, liberdade de movimento e estilo para o seu dia a dia. Por que escolher a Camisa Nike Dry-Fit Nike Preto Branco? Qualidade Premium com Tecido Dry-Fit Produzida com tecido Dry-Fit, a camiseta oferece uma textura leve, excelente respirabilidade e secagem rápida, auxiliando na evaporação do suor e proporcionando conforto mesmo durante atividades físicas. Sua alta resistência ao desgaste mantém a peça bonita e confortável mesmo após várias lavagens. Design Esportivo e Versátil A combinação das cores preto e branco traz sofisticação e um visual esportivo moderno. Com detalhes em branco nos ombros e nas laterais, além da logo Nike no peito, a camiseta oferece um estilo diferenciado e facilidade para combinar com qualquer look, seja casual ou esportivo. Uma peça indispensável no guarda-roupa, com caimento perfeito do P ao GG. Conforto e Ajuste Ideal Disponível nos tamanhos P ao GG, a camiseta foi pensada para se adaptar a diferentes tipos de corpo, garantindo liberdade de movimento, leveza e conforto durante todo o uso. Seu tecido respirável proporciona maior ventilação, sendo ideal tanto para o dia a dia quanto para atividades físicas. Política de Troca e Devolução Sua satisfação é prioridade! Você pode solicitar troca ou devolução em até 7 dias corridos após o recebimento, desde que o produto esteja sem sinais de uso. Garantimos uma experiência de compra segura e confiável.",
       "images": [
         "https://acdn-us.mitiendanube.com/stores/003/198/191/products/retrato-atlatico-com-tatuagens-e-malha-preta-b2ce6369f1f1910f3a17934703862359-1024-1024.webp",
@@ -12605,14 +12921,14 @@
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-dry-fit-nike-preto-branco-3mf9d/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "1191"
     },
     {
       "id": "dx-378183604",
       "sourceId": "378183604",
-      "slug": "camisa-regata-basquete-brooklyn-neets-378183604",
-      "name": "CAMISA REGATA BASQUETE BROOKLYN NEETS",
+      "slug": "camisa-regata-basquete-brooklyn-nets-378183604",
+      "name": "CAMISA REGATA BASQUETE BROOKLYN NETS",
       "brand": "Não informada",
       "category": "Tênis",
       "subCategory": "Produtos",
@@ -12633,8 +12949,8 @@
           "id": "1630725106",
           "size": "G",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1630725107",
@@ -12650,11 +12966,11 @@
         "M"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-regata-basquete-brooklyn-neets-1n3yh/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "1193"
     },
     {
@@ -12730,14 +13046,14 @@
           "id": "1630862326",
           "size": "G",
           "color": "Padrão",
-          "stock": 0,
-          "available": false
+          "stock": 1,
+          "available": true
         },
         {
           "id": "1630862327",
           "size": "GG",
           "color": "Padrão",
-          "stock": 1,
+          "stock": 2,
           "available": true
         }
       ],
@@ -12747,12 +13063,12 @@
         "M"
       ],
       "colors": [],
-      "totalStock": 1,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/camisa-regata-nike-miami-heat-16g5y/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
-      "sku": "1197"
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
+      "sku": "1170"
     },
     {
       "id": "dx-378223115",
@@ -30056,8 +30372,8 @@
           "id": "1405149483",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1405149492",
@@ -30136,11 +30452,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 1,
-      "available": true,
-      "archived": false,
+      "totalStock": 0,
+      "available": false,
+      "archived": true,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/force-one-branco-7d1v6/?entry_path=category",
-      "lastSyncedAt": "2026-11-13T13:56:35.437Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "74"
     },
     {
@@ -35642,7 +35958,7 @@
           "id": "1472774728",
           "size": "40",
           "color": "Padrão",
-          "stock": 6,
+          "stock": 5,
           "available": true
         },
         {
@@ -35708,11 +36024,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 20,
+      "totalStock": 19,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/hylane-preto-grafite-1d8tg/?entry_path=category",
-      "lastSyncedAt": "2026-11-08T00:11:16.243Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "664"
     },
     {
@@ -42465,7 +42781,7 @@
           "id": "1548969528",
           "size": "39",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -42506,11 +42822,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/nb-1080-vz-branco-verde-limao-mal6o/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "866"
     },
     {
@@ -53413,7 +53729,7 @@
           "id": "1545052054",
           "size": "40",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -53451,11 +53767,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 8,
+      "totalStock": 7,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-park-niquel-creme-off-kmign/?entry_path=category",
-      "lastSyncedAt": "2026-11-12T10:39:15.436Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "849"
     },
     {
@@ -54738,7 +55054,7 @@
           "id": "1401140094",
           "size": "36",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -54804,11 +55120,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 3,
+      "totalStock": 2,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/samba-branco-preto-2i1a0/?entry_path=category",
-      "lastSyncedAt": "2026-11-13T20:47:21.176Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "117"
     },
     {
@@ -61284,8 +61600,8 @@
           "id": "1410609050",
           "size": "34",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1410609051",
@@ -61364,11 +61680,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 24,
+      "totalStock": 23,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vr3-preto-off-lr98c/?entry_path=category",
-      "lastSyncedAt": "2026-11-12T18:40:56.267Z",
+      "lastSyncedAt": "2026-11-14T01:17:34.111Z",
       "sku": "221"
     },
     {
