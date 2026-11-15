@@ -41139,7 +41139,7 @@
           "id": "1624587025",
           "size": "41",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -41166,11 +41166,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/lacoste-urban-court-bege-marinho-12vx2/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T22:45:24.633Z",
+      "lastSyncedAt": "2026-11-15T12:29:14.644Z",
       "sku": "1147"
     },
     {
@@ -58526,8 +58526,8 @@
           "id": "1401244721",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1401244729",
@@ -58546,11 +58546,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 4,
+      "totalStock": 3,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/t-clip-branco-verde/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-15T12:29:14.644Z",
       "sku": "55"
     },
     {
@@ -61457,7 +61457,7 @@
           "id": "1617632352",
           "size": "39",
           "color": "Padrão",
-          "stock": 3,
+          "stock": 2,
           "available": true
         },
         {
@@ -61471,8 +61471,8 @@
           "id": "1617632355",
           "size": "41",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1617632356",
@@ -61498,11 +61498,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 11,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-wayvee-skate-preto-grafite-1conq/?entry_path=category",
-      "lastSyncedAt": "2026-11-11T14:54:42.672Z"
+      "lastSyncedAt": "2026-11-15T12:29:14.644Z"
     },
     {
       "id": "dx-374234925",
