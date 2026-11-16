@@ -708,7 +708,7 @@
           "id": "1633286381",
           "size": "36",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -742,11 +742,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 5,
+      "totalStock": 4,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/9060-azul-bebe-ah2u3/?entry_path=category",
-      "lastSyncedAt": "2026-11-14T14:45:30.939Z"
+      "lastSyncedAt": "2026-11-16T02:57:29.294Z"
     },
     {
       "id": "dx-351213202",
@@ -61315,8 +61315,8 @@
           "id": "1545331623",
           "size": "37",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1545331624",
@@ -61342,11 +61342,11 @@
         "39"
       ],
       "colors": [],
-      "totalStock": 2,
+      "totalStock": 1,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/vans-vr3-all-black-e13y4/?entry_path=category",
-      "lastSyncedAt": "2026-11-05T17:13:01.598Z",
+      "lastSyncedAt": "2026-11-16T02:57:29.294Z",
       "sku": "852"
     },
     {
