@@ -53020,7 +53020,7 @@
           "id": "1633281348",
           "size": "40",
           "color": "Padrão",
-          "stock": 2,
+          "stock": 1,
           "available": true
         },
         {
@@ -53054,11 +53054,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 10,
+      "totalStock": 9,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/puma-180-cinza-bege-emqr1/?entry_path=category",
-      "lastSyncedAt": "2026-11-14T14:45:30.939Z"
+      "lastSyncedAt": "2026-11-16T10:49:18.707Z"
     },
     {
       "id": "dx-357243956",
@@ -53852,8 +53852,8 @@
           "id": "1418802386",
           "size": "42",
           "color": "Padrão",
-          "stock": 1,
-          "available": true
+          "stock": 0,
+          "available": false
         },
         {
           "id": "1418802387",
@@ -53876,11 +53876,11 @@
         "43"
       ],
       "colors": [],
-      "totalStock": 7,
+      "totalStock": 6,
       "available": true,
       "archived": false,
       "sourceUrl": "https://dxstoreimports.com.br/produtos/suede-xl-c5p43/?entry_path=category",
-      "lastSyncedAt": "2026-11-09T20:56:05.581Z",
+      "lastSyncedAt": "2026-11-16T10:49:18.707Z",
       "sku": "45"
     },
     {
